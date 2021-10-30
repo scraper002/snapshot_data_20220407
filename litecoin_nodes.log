@@ -23,6 +23,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.248.242.71|9333|/bcoin:v1.0.0-beta.15/|14061|104.248.240.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 106.52.158.97|9321|/Satoshi:0.10.4.2/|45090|106.52.144.0/20|CN|apnic|2011-04-06|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 106.55.160.153|9321|/Satoshi:0.10.4.2/|45090|106.55.128.0/18|CN|apnic|2011-04-06|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+107.11.115.68|9333|/LitecoinCore:0.18.1/|10796|107.11.0.0/16|US|arin|2010-09-23|TWC-10796-MIDWEST, US
 107.190.47.97|9933|/LitecoinCore:0.18.1/|5645|107.190.32.0/20|CA|arin|2014-04-25|TEKSAVVY, CA
 107.191.119.170|1337|/DefcoinCore:1.0.0/|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
 108.168.45.137|9333|/LitecoinCore:0.18.1/|40788|108.168.0.0/17|CA|arin|2011-12-29|START-, CA
@@ -196,6 +197,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.161.128.62|9333|/Satoshi:0.13.2/|6772|157.161.0.0/16|CH|ripencc|2004-04-07|IMPNET-AS, CH
 157.230.89.219|9333|/LitecoinCore:0.16.3/|14061|157.230.80.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 157.245.181.18|9333|/LitecoinCore:0.18.1/|14061|157.245.176.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+157.90.106.242|9333|/LitecoinCore:0.17.1/|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 157.90.180.43|9333|/LitecoinCore:0.17.1/|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 157.90.181.171|1551|/LitecoinCore:0.18.1/|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 157.90.223.151|9086|/DefcoinCore:1.0.0/|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
@@ -439,6 +441,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.68.199.19|9333|/LitecoinCore:0.18.1/|1426|199.68.196.0/22|US|arin|2011-01-10|LIGHTWAVENET, US
 20.67.163.179|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 20.67.163.201|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
+2001:0:c38c:c38c:1cd3:73b7:43d7:dcf0|9333|/LitecoinCore:0.16.3/|6939|2001::/32||other||HURRICANE, US
 2001:19f0:5001:3900:5400:3ff:fe50:27a9|9321|/Satoshi:0.10.4.1/|20473|2001:19f0:5000::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:5001:77d:5400:3ff:fe77:c634|9333|/LitecoinCore:0.18.1/|20473|2001:19f0:5000::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:1ad0:1005:2::230|9334|/PLNcoin:0.10.2.2/|24953|2001:1ad0::/32|AT|ripencc|2004-04-01|ASN-NETPLANET AS MACRO: AS-24953 customers, AT
@@ -493,7 +496,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8b0:13cf:e990:1035:bff:fe0c:b019|9333|/LitecoinCore:0.18.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
 2001:8b0:13cf:e991:6a5b:35ff:febb:e101|9333|/LitecoinCore:0.18.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
 2001:b011:300e:dad:6d4:c4ff:fe53:23fd|9333|/LitecoinCore:0.18.1/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
-2001:b030:2422::2475|9333|/LitecoinCore:0.18.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:5d2b:d187:3583:a807:a44b:a5ce|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:1224:a933:9d18:93f5:be0|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
@@ -741,7 +743,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:1bde::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:c4a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -776,7 +777,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:13b8:f001::27|9333|/LitecoinCore:0.18.1/|15614|2a02:13b8::/29|CZ|ripencc|2010-05-20|DRAGON Dragon Internet a.s., CZ
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:2168:a11:2635::2|9333|/LitecoinCore:0.18.1/|42610|2a02:2168::/32|RU|ripencc|2010-07-15|NCNET-AS, RU
-2a02:2f0e:560f:9300:2473:35b:c282:15a2|9333|/LitecoinCore:0.18.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:6380:0:dada::5|9333|/LitecoinCore:0.18.1/|56349|2a02:6380::/32|SK|ripencc|2011-07-19|IP-NET, SK
 2a02:7b40:5928:ed0::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:7b40:b905:376b::1|9333|/LitecoinCore:0.18.1/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
@@ -1172,6 +1172,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.166.102.123|56969|/DigitaleuroCore:0.16.3/|29695|81.166.0.0/15|NO|ripencc|2005-01-04|ALTIBOX_AS Norway, NO
 81.169.136.59|9333|/LitecoinCore:0.18.1/|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 81.177.160.24|9333|/LitecoinCore:0.16.3/|8342|81.177.160.0/20|RU|ripencc|2003-01-15|RTCOMM-AS, RU
+81.240.239.252|9333|/Satoshi:0.8.6.1/|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.25.48.80|9333|/LitecoinCore:0.18.1/|8905|81.25.48.0/20|RU|ripencc|2006-02-27|DIGIT1-AS Digit One Moscow Network, RU
 81.71.126.25|9333|/LitecoinCore:0.18.1/|45090|81.71.64.0/18|CN|apnic|2002-01-11|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 82.157.101.151|9321|/Satoshi:0.10.4.2/|45090|82.157.64.0/18|CN|apnic|2003-11-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
