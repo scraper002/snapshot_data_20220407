@@ -32,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.108.149|/eXperience Points Core:5.2.0.3/|70922|51167|144.91.108.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.118.246|/eXperience Points Core:5.2.0.3/|70922|51167|144.91.118.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.122.235|/eXperience Points Core:5.2.0.3/|70922|51167|144.91.122.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.123.92|/eXperience Points Core:5.2.0.3/|70922|51167|144.91.122.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.192.138.65|/eXperience Points Core:5.2.0.2/|70922|2527|147.192.0.0/16|JP|apnic|1991-07-08|SO-NET Sony Network Communications Inc., JP
 147.251.16.170|/eXperience Points Core:5.2.0.3/|70922|2852|147.251.0.0/16|CZ|ripencc|1991-08-02|CESNET2, CZ
 150.66.16.85|/eXperience Points Core:5.2.0.2/|70922|17511|150.66.0.0/16|JP|apnic|1992-02-10|OPTAGE OPTAGE Inc., JP
@@ -39,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 153.162.195.25|/eXperience Points Core:5.2.0.3/|70922|4713|153.160.0.0/12|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 153.175.157.76|/eXperience Points Core:5.2.0.3/|70922|4713|153.160.0.0/12|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 153.246.137.56|/eXperience Points Core:5.2.0.2/|70922|4713|153.240.0.0/13|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
-159.28.194.82|/eXperience Points Core:5.2.0.2/|70922|2527|159.28.128.0/17|JP|apnic|1992-03-02|SO-NET Sony Network Communications Inc., JP
 159.65.239.15|/eXperience Points Core:5.2.0.2/|70922|14061|159.65.224.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 160.16.94.56|/XP2-Core-CVMU:5.2.0.2/|70922|9370|160.16.0.0/17|JP|apnic|1992-06-10|SAKURA-B SAKURA Internet Inc., JP
 161.97.127.56|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.126.0/23|DE|ripencc|1992-06-23|CONTABO, DE
@@ -90,6 +90,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.239.165.114|/eXperience Points Core:5.2.0.3/|70922|25369|178.239.165.0/24|GB|ripencc|2010-09-02|BANDWIDTH-AS, GB
 180.27.221.36|/eXperience Points Core:5.2.0.2/|70922|4713|180.0.0.0/10|JP|apnic|2009-07-06|OCN NTT Communications Corporation, JP
 182.165.194.169|/eXperience Points Core:5.2.0.2/|70922|17511|182.164.0.0/14|JP|apnic|2010-04-01|OPTAGE OPTAGE Inc., JP
+182.166.67.109|/eXperience Points Core:5.2.0.3/|70922|17511|182.164.0.0/14|JP|apnic|2010-04-01|OPTAGE OPTAGE Inc., JP
 182.236.25.247|/eXperience Points Core:5.2.0.2/|70922|10013|182.236.16.0/20|JP|apnic|2010-04-23|FBDC FreeBit Co.,Ltd., JP
 185.141.61.178|???|0|44901|185.141.61.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.206.146.68|???|0|44901|185.206.146.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
@@ -136,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.98.80.244|/eXperience Points Core:5.2.0.2/|70922|9605|49.98.80.0/22|JP|apnic|2010-11-19|DOCOMO NTT DOCOMO, INC., JP
 49.98.92.123|/eXperience Points Core:5.2.0.2/|70922|9605|49.98.92.0/22|JP|apnic|2010-11-19|DOCOMO NTT DOCOMO, INC., JP
 5.224.176.7|/eXperience Points Core:5.2.0.2/|70922|12430|5.224.0.0/15|ES|ripencc|2012-09-06|VODAFONE_ES, ES
-5.29.192.91|/eXperience Points Core:5.2.0.3/|70922|12849|5.29.192.0/20|IL|ripencc|2012-05-08|HOTNET-IL AMS-IX Admin LAN, IL
 51.210.216.41|/eXperience Points Core:5.2.0.2/|70922|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.222.80.12|/eXperience Points Core:5.2.0.2/|70922|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
 51.79.96.26|/eXperience Points Core:5.2.0.2/|70922|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
@@ -151,12 +151,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.158.199|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.158.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.178.22|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.178.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.186.243|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
+62.37.126.55|/eXperience Points Core:5.2.0.2/|70922|12479|62.37.124.0/22|ES|ripencc|2000-01-03|UNI2-AS, ES
 62.42.59.40|/eXperience Points Core:5.2.0.2/|70922|6739|62.42.0.0/16|ES|ripencc|2000-05-03|ONO-AS Cableuropa - ONO, ES
 64.66.194.26|/eXperience Points Core:5.2.0.2/|70922|53913|64.66.192.0/19|CA|arin|2018-04-30|CITY-WIDE-COMMUNICATIONS, CA
 75.119.129.151|/eXperience Points Core:5.2.0.3/|70922|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 75.119.129.70|/eXperience Points Core:5.2.0.2/|70922|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 77.35.213.62|/eXperience Points Core:5.2.0.2/|70922|12389|77.35.192.0/19|RU|ripencc|2007-01-24|ROSTELECOM-AS, RU
 78.49.117.205|/eXperience Points Core:5.2.0.2/|70922|6805|78.48.0.0/13|DE|ripencc|2007-02-28|TDDE-ASN1, DE
+79.107.72.31|/eXperience Points Core:5.2.0.2/|70922|25472|79.107.64.0/19|GR|ripencc|2008-05-29|WIND-AS, GR
 81.136.83.36|/eXperience Points Core:5.2.0.3/|70922|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 83.52.150.25|/eXperience Points Core:5.2.0.2/|70922|3352|83.52.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 85.0.91.22|/eXperience Points Core:5.2.0.3/|70922|3303|85.0.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom Switzerland Ltd, CH
