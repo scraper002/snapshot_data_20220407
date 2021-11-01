@@ -3,7 +3,6 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.145.216.171|/digiwallet:1.0.0/|70017|1221|1.128.0.0/11|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
 1.39.30.13|/digiwallet:1.0.0/|70017|38266|1.39.30.0/24|IN|apnic|2010-05-26|VODAFONE-IN Vodafone India Ltd., IN
-101.87.109.46|/DigiByte:7.17.3/|70017|4812|101.80.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 103.120.202.234|/DigiByte:7.17.2/|70017|63526|103.120.202.0/24|BD|apnic|2018-08-08|SSDTL-BD Systems Solutions & development Technologies Limited, BD
 103.16.129.95|/open-nodes:0.1/|70019|133159|103.16.128.0/22|AU|apnic|2013-02-06|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 104.231.36.6|/digiwallet:1.0.0/|70017|10796|104.231.0.0/18|US|arin|2014-10-07|TWC-10796-MIDWEST, US
@@ -17,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.186.67.118|/digiwallet:1.0.0/|70017|1680|109.186.0.0/16|IL|ripencc|2009-10-08|NV-ASN CELLCOM ltd., IL
 109.201.130.25|/DigiByte:7.17.2/|70017|43350|109.201.128.0/19|NL|ripencc|2010-02-12|NFORCE, NL
 110.141.129.137|/DigiByte:7.17.2/|70017|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
+114.4.216.119|/digiwallet:1.0.0/|70017|4761|114.4.216.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.84.192.230|/DigiByte:7.17.2/|70017|4812|114.84.0.0/16|CN|apnic|2008-05-14|CHINANET-SH-AP China Telecom Group, CN
 114.85.246.185|/digiwallet:1.0.0/|70017|4812|114.85.0.0/16|CN|apnic|2008-05-14|CHINANET-SH-AP China Telecom Group, CN
 115.84.237.105|/DigiByte:7.17.3/|70017|9658|115.84.224.0/19|PH|apnic|2008-07-28|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
@@ -69,6 +69,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.0.202.156|/digiwallet:1.0.0/|70017|23693|182.0.192.0/18|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 184.64.24.242|/DigiByte:7.17.2/|70017|6327|184.64.24.0/22|CA|arin|2010-01-15|SHAW, CA
 185.113.128.13|/DigiByte:7.17.2/|70017|42831|185.113.128.0/23|GB|ripencc|2015-08-14|UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location, GB
+185.169.60.250|/DigiByte:7.17.3/|70017|1836|185.169.60.0/22|CH|ripencc|2016-09-22|GREEN green.ch AG Autonomous System, CH
 185.44.147.34|/DigiByte:7.17.3/|70017|6799|185.44.144.0/22|GR|ripencc|2014-01-08|OTENET-GR Athens - Greece, GR
 185.50.24.15|/DigiByte:7.17.2/|70017|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
 186.209.20.221|/digiwallet:1.0.0/|70017|28343|186.209.20.0/22|BR|lacnic|2012-04-17|Unifique Telecomunicacoes SA, BR
@@ -81,7 +82,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.101.206.215|/digiwallet:1.0.0/|70017|22047|190.101.192.0/19|CL|lacnic|2011-04-26|VTR BANDA ANCHA S.A., CL
 20.49.50.16|/DigiByte:7.17.2/|70017|8075|20.48.0.0/12|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 203.198.146.232|/DigiByte:7.17.3/|70017|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
-203.59.172.132|/DigiByte:7.17.2/|70017|7545|203.59.172.0/22|AU|apnic|1993-01-01|TPG-INTERNET-AP TPG Telecom Limited, AU
 207.134.216.235|/DigiByte:7.17.3/|70017|852|207.134.0.0/16|CA|arin|1996-05-09|TELUS Communications, CA
 209.145.49.226|/DigiByte:7.17.2/|70017|40021|209.145.48.0/20|US|arin|2021-08-26|CONTABO, US
 209.182.239.169|/DigiByte:7.17.2/|70017|29802|209.182.239.0/24|US|arin|2017-04-25|HVC-AS, US
@@ -170,10 +170,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.20.255.154|/digiwallet:1.0.0/|70017|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.239.57.159|/DigiByte:7.17.2/|70017|15600|77.239.32.0/19|CH|ripencc|2007-03-01|QUICKLINE Quickline AG, CH
 77.68.155.15|/DigiByte:7.17.2/|70017|43557|77.68.128.0/17|DK|ripencc|2007-02-07|ASEMNET, DK
-79.232.54.8|/digiwallet:1.0.0/|70017|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 8.135.100.61|/DigiByte:7.17.2/|70017|37963|8.135.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 80.95.8.143|/DigiByte:7.17.2/|70017|328471|80.95.8.0/21|ZA|afrinic|2015-12-11|Hero-Telecoms, ZA
 81.214.165.255|/digiwallet:1.0.0/|70017|9121|81.214.160.0/21|TR|ripencc|2002-10-15|TTNET, TR
+82.132.212.37|/digiwallet:1.0.0/|70017|35228|82.132.212.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
 82.181.25.104|/DigiByte:7.17.3/|70017|16086|82.181.0.0/16|FI|ripencc|2003-10-10|DNA, FI
 82.197.215.185|/DigiByte:7.17.2/|70017|25596|82.197.192.0/19|NL|ripencc|2003-11-11|CAMBRIUM-AS, NL
 82.21.79.143|/DigiByte:7.17.3/|70017|5089|82.20.0.0/14|GB|ripencc|2003-02-28|NTL, GB
@@ -193,7 +193,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.23.209.135|/digiwallet:1.0.0/|70017|13285|92.22.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 93.138.7.105|/DigiByte:7.17.3/|70017|5391|93.138.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
 94.212.220.150|/digiwallet:1.0.0/|70017|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
-94.23.2.215|/DigiByte:7.17.2/|70017|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 95.216.149.253|/DigiByte:7.17.2/|70017|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.97.96|/DigiByte:7.17.2/|70017|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.111.35|/DigiByte:7.17.2/|70017|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
