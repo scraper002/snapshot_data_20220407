@@ -2,7 +2,7 @@
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.87.109.46|/DigiByte:7.17.3/|70017||||||
-103.107.198.214|/DigiByte:7.17.2/|70017||||||
+103.107.198.214|/DigiByte:7.17.2/|70017|137409|103.107.198.0/24|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.120.202.234|/DigiByte:7.17.2/|70017||||||
 103.16.129.95|/open-nodes:0.1/|70019||||||
 103.53.1.81|/DigiByte:7.17.3/|70017||||||
@@ -10,12 +10,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.191.63.126|/DigiByte:7.17.2/|70017||||||
 108.214.47.52|/DigiByte:7.17.2/|70017||||||
 109.169.37.58|/DigiByte:7.17.2/|70017||||||
-109.68.113.211|/DigiByte:7.17.2/|70017||||||
+109.68.113.211|/DigiByte:7.17.2/|70017|44895|109.68.112.0/23|RU|ripencc|2009-09-14|ANTENNA-GARANT-AS, RU
 110.141.129.137|/DigiByte:7.17.2/|70017||||||
 114.125.219.177|/digiwallet:1.0.0/|70017||||||
 114.5.108.120|/digiwallet:1.0.0/|70017||||||
-114.84.192.230|/DigiByte:7.17.2/|70017|4812|114.84.0.0/16|CN|apnic|2008-05-14|CHINANET-SH-AP China Telecom Group, CN
-116.206.229.100|/DigiByte:7.17.2/|70017|133480|116.206.229.0/24|AU|apnic|2017-04-03|INTERGRID-AS-AP Intergrid Group Pty Ltd, AU
+114.84.192.230|/DigiByte:7.17.2/|70017||||||
+116.206.229.100|/DigiByte:7.17.2/|70017||||||
 117.236.189.14|/DigiByte:7.17.2/|70017||||||
 119.224.17.204|/DigiByte:7.17.3/|70017||||||
 12.188.7.94|/DigiByte:7.17.3/|70017||||||
@@ -44,6 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.187.71.44|/DigiByte:7.17.2/|70017||||||
 173.71.213.82|/DigiByte:7.17.2/|70017||||||
 174.124.139.14|/DigiByte:7.17.3/|70017||||||
+174.21.10.190|/DigiByte:7.17.2/|70017||||||
 174.210.164.157|/digiwallet:1.0.0/|70017||||||
 174.29.183.138|/DigiByte:7.17.2/|70017||||||
 174.29.189.186|/DigiByte:7.17.2/|70017||||||
@@ -65,7 +66,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.64.112.86|/DigiByte:7.17.2/|70017||||||
 197.210.29.77|/DigiByte:7.17.2/|70017||||||
 198.100.145.152|/DigiByte:7.17.3/|70017||||||
-2.247.240.179|/digiwallet:1.0.0/|70017|6805|2.240.0.0/13|DE|ripencc|2010-12-13|TDDE-ASN1, DE
+2.247.240.179|/digiwallet:1.0.0/|70017||||||
 2.247.254.253|/digiwallet:1.0.0/|70017||||||
 20.49.50.16|/DigiByte:7.17.2/|70017||||||
 202.185.55.162|/digiwallet:1.0.0/|70017||||||
@@ -135,7 +136,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.198.143.105|/digiwallet:1.0.0/|70017||||||
 62.202.182.9|/DigiByte:7.17.2/|70017||||||
 65.108.9.158|/DigiByte:7.17.3/|70017||||||
-65.129.101.46|/DigiByte:7.17.2/|70017||||||
 65.21.88.183|/DigiByte:7.17.2/|70017||||||
 66.110.134.166|/DigiByte:7.17.3/|70017||||||
 66.151.242.154|/DigiByte:7.17.2/|70017||||||
@@ -148,7 +148,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.52.89.118|/DigiByte:7.17.2/|70017||||||
 70.68.186.44|/DigiByte:7.17.2/|70017||||||
 70.83.107.15|/DigiByte:7.17.3/|70017||||||
-71.207.208.163|/digiwallet:1.0.0/|70017||||||
+72.137.55.120|/digiwallet:1.0.0/|70017||||||
 72.178.199.235|/DigiByte:7.17.2/|70017||||||
 72.202.241.152|/digiwallet:1.0.0/|70017||||||
 73.28.98.74|/DigiByte:7.17.2/|70017||||||
@@ -161,15 +161,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.68.155.15|/DigiByte:7.17.2/|70017||||||
 79.137.67.138|/DigiByte:7.17.2/|70017||||||
 8.135.100.61|/DigiByte:7.17.2/|70017||||||
-80.187.80.139|/digiwallet:1.0.0/|70017||||||
-80.83.239.61|/digiwallet:1.0.0/|70017||||||
+80.187.80.139|/digiwallet:1.0.0/|70017|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
+80.83.239.61|/digiwallet:1.0.0/|70017|8359|80.83.239.0/24|RU|ripencc|2001-08-06|MTS, RU
 81.5.230.166|/DigiByte:7.17.2/|70017||||||
 83.135.186.236|/DigiByte:7.17.2/|70017||||||
 83.99.245.20|/DigiByte:7.17.2/|70017||||||
 84.156.183.125|/DigiByte:7.17.3/|70017||||||
 84.192.66.230|/DigiByte:7.17.3/|70017||||||
 85.10.202.167|/DigibyteHost:0.1/|70017||||||
-85.76.105.120|/digiwallet:1.0.0/|70017||||||
+85.76.105.120|/digiwallet:1.0.0/|70017|719|85.76.0.0/14|FI|ripencc|2004-10-08|ELISA-AS Helsinki, Finland, FI
 88.99.174.79|/DigiByte:7.17.2/|70017||||||
 89.143.105.159|/DigiByte:7.17.3/|70017||||||
 89.205.128.181|/digiwallet:1.0.0/|70017|31615|89.205.128.0/17|NL|ripencc|2006-05-08|TMO-NL-AS, NL
