@@ -24,13 +24,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.55.1.26|/LitecoinCore:0.18.1/|75000||||||
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
-120.79.245.43|/LitecoinCore:0.18.1/|70015||||||
-120.79.245.43|/LitecoinCore:0.18.1/|75000||||||
+120.79.245.43|/LitecoinCore:0.18.1/|70015|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+120.79.245.43|/LitecoinCore:0.18.1/|75000|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 124.148.21.35|/LitecoinCore:0.17.1/|70015||||||
 125.120.47.79|/loaf:2.1/|70015||||||
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-128.199.69.208|/LitecoinCore:0.18.1/|70015||||||
-128.199.69.208|/LitecoinCore:0.18.1/|75000||||||
+128.199.69.208|/LitecoinCore:0.18.1/|70015|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+128.199.69.208|/LitecoinCore:0.18.1/|75000|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 13.213.241.80|/LitecoinCore:0.18.1/|70015||||||
 13.213.241.80|/LitecoinCore:0.18.1/|75000||||||
@@ -54,6 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.172.159.160|/BitcoinKit:0.1.0/|70015||||||
 149.210.234.234|/Node:0.8.7.2/|70002||||||
 151.37.15.217|/BitcoinKit:0.1.0/|70015||||||
+152.89.162.24|/BitcoinKit:0.1.0/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 157.38.77.137|/BitcoinKit:0.1.0/|70015||||||
 157.38.85.175|/BitcoinKit:0.1.0/|70015||||||
@@ -61,7 +62,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 159.89.135.198|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 161.35.195.97|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
+161.35.53.66|/B2CCoinCore:0.16.3/|70015||||||
 161.97.142.60|/LitecoinCore:0.18.1/|70015||||||
 161.97.142.60|/LitecoinCore:0.18.1/|75000||||||
 162.142.28.93|/loaf-android:175/|70015||||||
@@ -74,16 +75,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.99.179.226|/LitecoinCore:0.18.1/|70015||||||
 167.99.179.226|/LitecoinCore:0.18.1/|75000||||||
 170.106.36.158|/btc-seeder:0.0001/|70013||||||
-170.247.36.74|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
-170.84.55.121|/B2CCoinCore:0.16.3/|70015|263009|170.84.52.0/22|BR|lacnic|2016-05-23|FORTE TELECOM LTDA., BR
+170.247.36.74|/B2CCoinCore:0.16.3/|70015||||||
+170.84.55.121|/B2CCoinCore:0.16.3/|70015||||||
 172.58.159.254|/loaf-android:175/|70015||||||
 172.58.83.7|/BitcoinKit:0.1.0/|70015||||||
 172.81.181.171|/LitecoinCore:0.17.1/|70015||||||
 173.238.31.90|/LitecoinCore:0.18.1/|70015||||||
 173.238.31.90|/LitecoinCore:0.18.1/|75000||||||
 174.241.157.9|/loaf:2.1/|70015||||||
-174.6.112.59|/LitecoinCore:0.18.1/|70015||||||
-174.6.112.59|/LitecoinCore:0.18.1/|75000||||||
 174.89.202.230|/BitcoinKit:0.1.0/|70015||||||
 176.201.183.54|/BitcoinKit:0.1.0/|70015||||||
 176.67.82.3|/loaf-android:175/|70015||||||
@@ -261,7 +260,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.0.191.31|/LitecoinCore:0.16.3/|70015||||||
 92.185.231.118|/WalletKit:0.1.0/|70015||||||
 92.40.172.123|/BitcoinKit:0.1.0/|70015||||||
-93.159.183.9|/Satoshi:0.8.5.1/|70002||||||
 93.41.120.79|/NBitcoin:5.0.49/|70012||||||
 94.181.152.233|/LitecoinCore:0.18.1/|70015||||||
 94.181.152.233|/LitecoinCore:0.18.1/|75000||||||
@@ -276,4 +274,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.90.219.75|/LitecoinCore:0.18.1/|75000||||||
 99.236.100.209|/Satoshi:0.10.2.2/|70003||||||
 99.236.100.209|/Satoshi:0.10.2.2/|70004||||||
-99.79.70.96|/litecoinj:0.15.2-SNAPSHOT/|70002|16509|99.79.0.0/16|US|arin|2018-01-10|AMAZON-02, US
+99.79.70.96|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
