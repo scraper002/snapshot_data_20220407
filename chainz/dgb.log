@@ -23,7 +23,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.128.29.189|/DigiByte:7.17.2/|70017||||||
 115.84.237.105|/DigiByte:7.17.3/|70017||||||
 116.206.229.100|/DigiByte:7.17.2/|70017||||||
-117.20.115.254|/digiwallet:1.0.0/|70017||||||
 120.229.37.149|/DigiByte:7.17.2/|70017||||||
 122.183.54.250|/digiwallet:1.0.0/|70017||||||
 125.237.209.76|/DigiByte:7.17.2/|70017||||||
@@ -49,7 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.136.106|/digiwallet:1.0.0/|70017||||||
 172.58.143.45|/digiwallet:1.0.0/|70017||||||
 172.58.155.29|/digiwallet:1.0.0/|70017||||||
-172.58.17.90|/digiwallet:1.0.0/|70017|21928|172.58.16.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.17.90|/digiwallet:1.0.0/|70017||||||
 172.58.187.163|/DigiByte:7.17.2/|70017||||||
 172.58.196.19|/digiwallet:1.0.0/|70017||||||
 172.58.31.51|/digiwallet:1.0.0/|70017||||||
@@ -60,6 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.90.152.201|/DigiByte:7.17.2/|70017||||||
 174.204.68.218|/digiwallet:1.0.0/|70017||||||
 174.97.228.129|/DigiByte:7.17.2/|70017||||||
+175.138.139.224|/digiwallet:1.0.0/|70017||||||
 176.170.159.191|/digiwallet:1.0.0/|70017||||||
 176.188.102.79|/DigiByte:7.17.2/|70017||||||
 176.59.147.77|/digiwallet:1.0.0/|70017||||||
@@ -68,7 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.138.197.28|/DigiByte:7.17.2/|70017||||||
 184.167.93.180|/DigiByte:7.17.2/|70017||||||
 185.113.128.13|/DigiByte:7.17.2/|70017||||||
-185.220.176.21|/DigiByte:7.17.2/|70017|198651|185.220.176.0/24|LT|ripencc|2019-01-07|HOSTLINE, LT
+185.220.176.21|/DigiByte:7.17.2/|70017||||||
 185.48.128.217|/DigiByte:7.17.2/|70017||||||
 185.50.24.15|/DigiByte:7.17.2/|70017||||||
 186.167.242.229|/digiwallet:1.0.0/|70017||||||
@@ -101,13 +101,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.100.21.99|/DigiByte:7.17.2/|70017||||||
 217.128.22.94|/DigiByte:7.17.2/|70017||||||
 217.138.200.116|/DigiByte:7.17.3/|70017||||||
-217.240.221.201|/DigiByte:7.17.2/|70017||||||
-217.69.15.197|/DigiByte:7.17.2/|70017||||||
-222.211.214.248|/DigiByte:7.17.2/|70017||||||
-23.97.222.172|/DigiByte:7.17.2/|70017||||||
+217.240.221.201|/DigiByte:7.17.2/|70017|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
+217.69.15.197|/DigiByte:7.17.2/|70017|20473|217.69.0.0/20|US|ripencc|2000-11-16|AS-CHOOPA, US
+222.211.214.248|/DigiByte:7.17.2/|70017|4134|222.208.0.0/13|CN|apnic|2004-03-17|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+23.97.222.172|/DigiByte:7.17.2/|70017|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 24.129.17.201|/digiwallet:1.0.0/|70017||||||
 24.253.243.194|/DigiByte:7.17.3/|70017||||||
-3.219.224.73|/DigiByte:7.17.2/|70017||||||
+3.219.224.73|/DigiByte:7.17.2/|70017|14618|3.208.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 34.195.124.95|/DigiByte:7.17.2/|70017||||||
 34.225.224.198|/DigiByte:7.17.2/|70017||||||
 34.231.68.33|/DigiByte:7.17.2/|70017||||||
@@ -121,6 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.106.186.10|/DigiByte:7.17.2/|70017||||||
 39.33.167.172|/digiwallet:1.0.0/|70017||||||
 4.59.90.219|/DigiByte:7.17.2/|70017||||||
+41.246.25.90|/digiwallet:1.0.0/|70017||||||
 45.221.39.6|/DigiByte:7.17.2/|70017||||||
 45.32.158.162|/DigiByte:7.17.2/|70017||||||
 46.114.32.219|/digiwallet:1.0.0/|70017||||||
@@ -167,8 +168,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.200.9.119|/DigiByte:7.17.2/|70017||||||
 71.220.42.93|/DigiByte:7.17.3/|70017||||||
 72.42.136.79|/DigiByte:7.17.3/|70017||||||
-72.49.232.44|/DigiByte:7.17.3/|70017|6181|72.49.128.0/17|US|arin|2005-06-06|FUSE-NET, US
-72.49.69.143|/DigiByte:7.17.3/|70017|6181|72.49.0.0/17|US|arin|2005-06-06|FUSE-NET, US
+72.49.232.44|/DigiByte:7.17.3/|70017||||||
+72.49.69.143|/DigiByte:7.17.3/|70017||||||
 73.19.84.252|/digiwallet:1.0.0/|70017||||||
 75.132.0.134|/DigiByte:7.17.2/|70017||||||
 75.166.3.186|/DigiByte:7.17.2/|70017||||||
@@ -210,7 +211,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.88.160.227|/digiwallet:1.0.0/|70017||||||
 88.99.174.79|/DigiByte:7.17.2/|70017||||||
 91.202.26.23|/DigiByte:7.17.2/|70017||||||
-91.214.241.63|/DigiByte:7.17.3/|70017||||||
 92.10.141.182|/DigiByte:7.17.2/|70017||||||
 93.13.5.174|/digiwallet:1.0.0/|70017||||||
 94.64.169.196|/DigiByte:7.17.3/|70017||||||
