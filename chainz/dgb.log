@@ -5,8 +5,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.111.143.29|/digiwallet:1.0.0/|70017||||||
 103.120.202.234|/DigiByte:7.17.2/|70017||||||
 103.136.124.227|/DigiByte:7.17.2/|70017||||||
-103.230.106.22|/digiwallet:1.0.0/|70017|45925|103.230.106.0/24|BD|apnic|2014-04-30|TELETALK-BD ASN For Teletalk Bangladesh Ltd., BD
-104.34.36.121|/digiwallet:1.0.0/|70017|20001|104.32.0.0/14|US|arin|2014-03-28|TWC-20001-PACWEST, US
+103.230.106.22|/digiwallet:1.0.0/|70017||||||
+104.34.36.121|/digiwallet:1.0.0/|70017||||||
 105.112.40.254|/digiwallet:1.0.0/|70017||||||
 107.191.63.126|/DigiByte:7.17.2/|70017||||||
 108.238.29.192|/DigiByte:7.17.2/|70017||||||
@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.161.252.95|/DigiByte:7.17.2/|70017||||||
 145.53.52.246|/DigiByte:7.17.2/|70017||||||
 149.248.15.85|/digibyte-seeder:0.01/|70017||||||
+156.146.50.177|/DigiByte:7.17.3/|70017||||||
 156.146.76.246|/DigiByte:7.17.3/|70017||||||
 157.39.101.128|/digiwallet:1.0.0/|70017||||||
 159.138.87.18|/DigiByte:7.17.2/|70017||||||
@@ -38,6 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.154.207.38|/DigiByte:7.17.2/|70017||||||
 162.156.10.31|/DigiByte:7.17.2/|70017||||||
 166.171.57.77|/digiwallet:1.0.0/|70017||||||
+167.86.87.60|/DigiByte:7.17.3/|70017||||||
 172.105.36.91|/DigiByte:7.17.3/|70017||||||
 172.113.55.10|/DigiByte:7.17.3/|70017||||||
 172.58.136.106|/digiwallet:1.0.0/|70017||||||
@@ -49,7 +51,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.96.80|/digiwallet:1.0.0/|70017||||||
 172.93.207.121|/DigiByte:7.17.2/|70017||||||
 173.187.71.44|/DigiByte:7.17.2/|70017||||||
-173.71.213.82|/DigiByte:7.17.2/|70017||||||
 173.90.152.201|/DigiByte:7.17.2/|70017||||||
 174.246.50.229|/digiwallet:1.0.0/|70017||||||
 174.97.228.129|/DigiByte:7.17.2/|70017||||||
@@ -67,8 +68,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.48.128.217|/DigiByte:7.17.2/|70017||||||
 185.50.24.15|/DigiByte:7.17.2/|70017||||||
 186.88.125.101|/DigiByte:7.17.2/|70017||||||
-188.116.36.56|/DigiByte:7.17.2/|70017||||||
-188.162.250.100|/DigiByte:7.17.2/|70017||||||
+188.116.36.56|/DigiByte:7.17.2/|70017|60117|188.116.36.0/24|AE|ripencc|2009-05-29|HS, AE
+188.162.250.100|/DigiByte:7.17.2/|70017|31133|188.162.248.0/22|RU|ripencc|2009-05-20|MF-MGSM-AS PJSC MegaFon, RU
 188.25.97.236|/DigiByte:7.17.3/|70017||||||
 192.241.141.154|/DigiByte:7.17.2/|70017||||||
 192.64.112.86|/DigiByte:7.17.2/|70017||||||
@@ -174,7 +175,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.102.187.36|/digiwallet:1.0.0/|70017||||||
 76.176.106.7|/DigiByte:7.17.2/|70017||||||
 76.71.200.23|/DigiByte:7.17.2/|70017||||||
-77.101.110.8|/DigiByte:7.17.2/|70017||||||
 77.239.57.159|/DigiByte:7.17.2/|70017||||||
 77.46.104.150|/DigiByte:7.17.3/|70017||||||
 77.68.155.15|/DigiByte:7.17.2/|70017||||||
@@ -200,7 +200,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.99.245.20|/DigiByte:7.17.2/|70017||||||
 84.190.68.156|/DigiByte:7.17.2/|70017||||||
 84.192.66.230|/DigiByte:7.17.3/|70017||||||
-84.241.194.117|/digiwallet:1.0.0/|70017||||||
 85.10.202.167|/DigibyteHost:0.1/|70017||||||
 85.184.191.57|/DigiByte:7.17.3/|70017||||||
 85.26.164.205|/DigiByte:7.17.2/|70017||||||
@@ -213,6 +212,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.10.141.182|/DigiByte:7.17.2/|70017||||||
 92.22.155.47|/digiwallet:1.0.0/|70017||||||
 93.13.5.174|/digiwallet:1.0.0/|70017||||||
+94.210.34.134|/digiwallet:1.0.0/|70017||||||
 94.224.251.143|/digiwallet:1.0.0/|70017||||||
 94.64.169.196|/DigiByte:7.17.3/|70017||||||
 94.64.85.32|/DigiByte:7.17.2/|70017||||||
