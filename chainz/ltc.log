@@ -28,11 +28,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.175.52.189|/btc-seeder:0.0001/|70013||||||
 134.209.244.8|/LitecoinCore:0.18.1/|70015|14061|134.209.240.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 134.209.244.8|/LitecoinCore:0.18.1/|75000|14061|134.209.240.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
-136.243.37.89|/LitecoinCore:0.18.1/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
-136.243.37.89|/LitecoinCore:0.18.1/|75000|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
+136.243.37.89|/LitecoinCore:0.18.1/|70015||||||
+136.243.37.89|/LitecoinCore:0.18.1/|75000||||||
 138.68.180.131|???|0||||||
 139.47.116.125|/BitcoinKit:0.1.0/|70015||||||
-139.47.91.94|/WalletKit:0.1.0/|70015||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -41,15 +40,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.227.115|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
-144.91.68.191|/LitecoinCore:0.18.1/|70015|51167|144.91.68.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-144.91.68.191|/LitecoinCore:0.18.1/|75000|51167|144.91.68.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.68.191|/LitecoinCore:0.18.1/|70015||||||
+144.91.68.191|/LitecoinCore:0.18.1/|75000||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
 148.255.15.7|/WalletKit:0.1.0/|70015||||||
-149.210.234.234|/Node:0.8.7.2/|70002||||||
-149.28.75.229|/LitecoinCore:0.18.1/|70015|20473|149.28.64.0/19|US|arin|2018-05-04|AS-CHOOPA, US
-149.28.75.229|/LitecoinCore:0.18.1/|75000|20473|149.28.64.0/19|US|arin|2018-05-04|AS-CHOOPA, US
+149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
+149.28.75.229|/LitecoinCore:0.18.1/|70015||||||
+149.28.75.229|/LitecoinCore:0.18.1/|75000||||||
 153.231.65.83|/Satoshi:0.8.7.2/|70002||||||
 154.6.17.156|/loaf-android:175/|70015||||||
+157.161.128.61|/Satoshi:0.8.6.2/|70004||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 157.90.180.43|/LitecoinCore:0.17.1/|70015||||||
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -149,7 +149,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 221.231.170.145|/LitecoinCore:0.17.1/|70015||||||
 223.206.44.125|/LitecoinCore:0.18.1/|70015||||||
 223.206.44.125|/LitecoinCore:0.18.1/|75000||||||
-23.92.25.116|/Node:0.8.7.2/|70002||||||
+23.92.25.116|/Node:0.8.7.2/|70002|63949|23.92.25.0/24|US|arin|2013-08-13|LINODE-AP Linode, LLC, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.125.117.74|/LitecoinCore:0.18.1/|70015||||||
@@ -169,8 +169,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.120.218.150|/LitecoinCore:0.18.1/|75000||||||
 45.126.209.106|/LitecoinCore:0.18.1/|70015||||||
 45.126.209.106|/LitecoinCore:0.18.1/|75000||||||
-45.132.227.113|/LitecoinCore:0.18.1/|70015||||||
-45.132.227.113|/LitecoinCore:0.18.1/|75000||||||
 45.56.69.105|/Block.io:0.1.0/|70002||||||
 46.101.135.79|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 46.125.249.101|/WalletKit:0.1.0/|70015||||||
@@ -208,6 +206,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.53.154.151|/LitecoinCore:0.18.1/|75000||||||
 66.115.189.241|/BitcoinKit:0.1.0/|70015||||||
 67.202.51.157|/btcwire:0.5.0/ltcd:0.20.1/|70013||||||
+67.205.134.213|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 69.234.245.225|/LitecoinCore:0.18.1/|70015||||||
 69.234.245.225|/LitecoinCore:0.18.1/|75000||||||
 70.140.131.2|/BitcoinKit:0.1.0/|70015||||||
@@ -240,7 +239,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.214.35.11|/LitecoinCore:0.18.1/|70015||||||
 88.214.35.11|/LitecoinCore:0.18.1/|75000||||||
 88.6.32.122|/BitcoinKit:0.1.0/|70015||||||
-88.80.187.187|/Node:0.8.7.2/|70002||||||
+88.80.187.187|/Node:0.8.7.2/|70002|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
 89.212.5.80|/LitecoinCore:0.16.3/|70015||||||
 91.193.181.3|/LitecoinCore:0.16.3/|70015||||||
 91.239.130.62|/LitecoinCore:0.18.1/|70015||||||
