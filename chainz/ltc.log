@@ -27,8 +27,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.250.127.216|/LitecoinCore:0.17.1/|70015||||||
 134.175.52.189|/btc-seeder:0.0001/|70013||||||
 134.209.192.211|/CounosXCore:0.17.2/|70015||||||
-136.243.37.89|/LitecoinCore:0.18.1/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
-136.243.37.89|/LitecoinCore:0.18.1/|75000|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
+136.243.37.89|/LitecoinCore:0.18.1/|70015||||||
+136.243.37.89|/LitecoinCore:0.18.1/|75000||||||
 137.184.183.51|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 138.68.180.131|???|0||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -66,14 +66,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.221.214.80|/LitecoinCore:0.17.1/|70015||||||
 172.56.42.174|/BitcoinKit:0.1.0/|70015||||||
 172.56.44.84|/BitcoinKit:0.1.0/|70015||||||
-172.81.181.171|/LitecoinCore:0.17.1/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
+172.81.181.171|/LitecoinCore:0.17.1/|70015||||||
 173.56.235.225|/LitecoinCore:0.18.1/|70015||||||
 173.56.235.225|/LitecoinCore:0.18.1/|75000||||||
 173.90.229.77|/NBitcoin:5.0.49/|70012||||||
 176.193.117.7|/LitecoinCore:0.18.1/|70015||||||
 176.193.117.7|/LitecoinCore:0.18.1/|75000||||||
 178.115.45.98|/BitcoinKit:0.1.0/|70015||||||
-178.128.101.15|/LitecoinCore:0.17.1/|70015|14061|178.128.96.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
+178.128.101.15|/LitecoinCore:0.17.1/|70015||||||
 178.176.219.212|???|0||||||
 178.191.181.38|/WalletKit:0.1.0/|70015||||||
 178.217.196.217|/loaf-android:175/|70015||||||
@@ -115,12 +115,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.26.195.182|/WalletKit:0.1.0/|70015||||||
 188.86.27.102|/BitcoinKit:0.1.0/|70015||||||
 189.112.48.129|/B2CCoinCore:0.16.3/|70015||||||
-189.5.178.251|/B2CCoinCore:0.16.3/|70015||||||
+189.5.178.251|/B2CCoinCore:0.16.3/|70015|28573|189.5.128.0/18|BR|lacnic|2006-09-06|CLARO S.A., BR
 189.55.145.191|/NBitcoin:5.0.49/|70012||||||
 190.111.237.2|/loaf-android:175/|70015||||||
 190.130.91.17|/BitcoinKit:0.1.0/|70015||||||
 190.96.1.19|/FlashcoinCore:0.13.3.1/|70015||||||
-191.181.173.9|/B2CCoinCore:0.16.3/|70015||||||
+191.181.173.9|/B2CCoinCore:0.16.3/|70015|28573|191.181.160.0/19|BR|lacnic|2013-11-14|CLARO S.A., BR
 193.148.16.211|/BitcoinKit:0.1.0/|70015||||||
 195.139.158.248|/NBitcoin:5.0.49/|70012||||||
 2.198.179.110|/WalletKit:0.1.0/|70015||||||
@@ -128,8 +128,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 201.13.153.123|/NBitcoin:5.0.49/|70012||||||
 201.17.124.81|/NBitcoin:5.0.49/|70012||||||
 201.175.159.151|/BitcoinKit:0.1.0/|70015||||||
-202.73.14.205|/LitecoinCore:0.17.1/|70015|55720|202.73.14.0/24|MY|apnic|2004-12-03|GIGABIT-MY Gigabit Hosting Sdn Bhd, MY
-203.63.201.23|/LitecoinCore:0.17.1/|70015||||||
+202.73.14.205|/LitecoinCore:0.17.1/|70015||||||
 203.83.23.64|/loaf-android:175/|70015||||||
 206.189.127.70|/LitecoinCore:0.17.1/|70015||||||
 209.145.62.193|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
@@ -185,6 +184,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.148.161.158|/loaf:2.1/|70015||||||
 47.36.110.183|/LitecoinCore:0.18.1/|70015||||||
 47.36.110.183|/LitecoinCore:0.18.1/|75000||||||
+47.54.208.141|/BitcoinKit:0.1.0/|70015||||||
 47.89.189.197|/LitecoinCore:0.17.1/|70015||||||
 47.90.245.73|/LitecoinCore:0.17.1/|70015||||||
 47.91.74.132|/LitecoinCore:0.17.1/|70015||||||
@@ -215,7 +215,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.249.129.3|/LitecoinCore:0.18.1/|70015||||||
 62.249.129.3|/LitecoinCore:0.18.1/|75000||||||
 63.32.122.188|/LitecoinCore:0.17.1/|70015||||||
-64.225.4.210|/B2CCoinCore:0.16.3/|70015|14061|64.225.0.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
+64.225.4.210|/B2CCoinCore:0.16.3/|70015||||||
 64.53.154.151|/LitecoinCore:0.18.1/|70015||||||
 64.53.154.151|/LitecoinCore:0.18.1/|75000||||||
 66.115.189.241|/BitcoinKit:0.1.0/|70015||||||
@@ -236,6 +236,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.73.65.145|/LitecoinCore:0.18.1/|70015||||||
 75.73.65.145|/LitecoinCore:0.18.1/|75000||||||
 76.126.14.121|/BitcoinKit:0.1.0/|70015||||||
+76.65.66.4|/LitecoinCore:0.18.1/|70015||||||
+76.65.66.4|/LitecoinCore:0.18.1/|75000||||||
+76.84.119.240|/BitcoinKit:0.1.0/|70015||||||
 77.247.178.185|/LitecoinCore:0.18.1/|70015||||||
 77.247.178.185|/LitecoinCore:0.18.1/|75000||||||
 78.98.88.94|/LitecoinCore:0.18.1/|70015||||||
