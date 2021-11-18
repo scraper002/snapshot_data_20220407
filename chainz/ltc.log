@@ -4,10 +4,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.78.171.3|/LitecoinCore:0.14.2/|70015||||||
 101.93.35.221|/LitecoinCore:0.18.1/|70015|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 101.93.35.221|/LitecoinCore:0.18.1/|75000|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
-102.38.61.197|/LitecoinCore:0.18.1/|70015||||||
-102.38.61.197|/LitecoinCore:0.18.1/|75000||||||
-103.143.24.30|/LitecoinCore:0.18.1/|70015||||||
-103.143.24.30|/LitecoinCore:0.18.1/|75000||||||
+102.38.61.197|/LitecoinCore:0.18.1/|70015|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
+102.38.61.197|/LitecoinCore:0.18.1/|75000|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
+103.143.24.30|/LitecoinCore:0.18.1/|70015|56242|103.143.24.0/23|ID|apnic|2019-09-12|SKI-AS-ID PT SUMBER KONEKSI INDOTELEMATIKA, ID
+103.143.24.30|/LitecoinCore:0.18.1/|75000|56242|103.143.24.0/23|ID|apnic|2019-09-12|SKI-AS-ID PT SUMBER KONEKSI INDOTELEMATIKA, ID
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 104.236.57.24|/Node:0.8.7.2/|70002||||||
 104.238.220.119|/LitecoinCore:0.18.1/|70015||||||
@@ -44,6 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.250.127.216|/LitecoinCore:0.17.1/|70015||||||
 131.196.133.153|???|0||||||
 134.175.52.189|/btc-seeder:0.0001/|70013||||||
+134.209.192.211|/CounosXCore:0.17.2/|70015||||||
 135.181.165.109|/LitecoinCore:0.18.1/|70015||||||
 135.181.165.109|/LitecoinCore:0.18.1/|75000||||||
 136.243.37.89|/LitecoinCore:0.18.1/|70015||||||
@@ -104,14 +105,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.119.167.66|/LitecoinCore:0.18.1/|70015||||||
 178.119.167.66|/LitecoinCore:0.18.1/|75000||||||
 178.128.101.15|/LitecoinCore:0.17.1/|70015||||||
-178.155.4.135|/BitcoinKit:0.1.0/|70015||||||
+178.155.4.135|/BitcoinKit:0.1.0/|70015|29497|178.155.4.0/24|RU|ripencc|2010-05-19|KUBANGSM, RU
 178.158.0.242|/WalletKit:0.1.0/|70015||||||
 178.196.201.219|/LitecoinCore:0.18.1/|70015||||||
 178.196.201.219|/LitecoinCore:0.18.1/|75000||||||
 178.63.123.92|/CounosCashCore:0.15.1/|70015||||||
-179.35.0.34|/B2CCoinCore:0.16.3/|70015|26615|179.35.0.0/20|BR|lacnic|2014-03-17|TIM SA, BR
+179.35.0.34|/B2CCoinCore:0.16.3/|70015||||||
 180.150.44.138|/DigitaleuroCore:0.16.3/|70015||||||
-181.92.241.90|/BitcoinKit:0.1.0/|70015||||||
+181.92.241.90|/BitcoinKit:0.1.0/|70015|7303|181.92.0.0/15|AR|lacnic|2011-09-19|Telecom Argentina S.A., AR
 184.162.20.211|/LitecoinCore:0.18.1/|70015||||||
 184.162.20.211|/LitecoinCore:0.18.1/|75000||||||
 184.4.67.197|/LitecoinCore:0.18.1/|70015||||||
@@ -123,7 +124,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.246.56.72|/LitecoinCore:0.18.1/|75000||||||
 185.62.101.121|/LitecoinCore:0.17.1/|70015||||||
 186.32.206.15|/loaf-android:175/|70015||||||
-187.18.122.92|/B2CCoinCore:0.16.3/|70015||||||
+187.18.122.92|/B2CCoinCore:0.16.3/|70015|22689|187.18.112.0/20|BR|lacnic|2008-12-09|Sercomtel Participacoes S.A., BR
 187.19.149.91|/B2CCoinCore:0.16.3/|70015||||||
 187.20.106.51|/BitcoinKit:0.1.0/|70015||||||
 188.124.46.112|/LitecoinCore:0.16.3/|70015||||||
@@ -204,7 +205,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.211.159.240|/loaf:2.1/|70015||||||
 46.84.85.12|/LitecoinCore:0.18.1/|70015||||||
 46.84.85.12|/LitecoinCore:0.18.1/|75000||||||
-47.134.25.48|/BitcoinKit:0.1.0/|70015||||||
 47.214.118.242|/LitecoinCore:0.18.1/|70015||||||
 47.214.118.242|/LitecoinCore:0.18.1/|75000||||||
 47.52.98.66|/LitecoinCore:0.14.2/|70015||||||
