@@ -49,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 158.42.126.69|/DigiByte:7.17.3/|70017||||||
 158.69.25.32|/DigiByte:7.17.2/|70017||||||
 159.138.87.18|/DigiByte:7.17.2/|70017||||||
-160.2.110.47|/DigiByte:7.17.3/|70017||||||
 167.86.116.187|/DigiByte:7.17.2/|70017||||||
 167.86.87.60|/DigiByte:7.17.3/|70017||||||
 170.10.229.129|/digiwallet:1.0.0/|70017||||||
@@ -62,7 +61,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.195.134.210|/digiwallet:1.0.0/|70017||||||
 174.244.208.213|/digiwallet:1.0.0/|70017||||||
 176.113.74.252|/DigiByte:7.17.3/|70017||||||
-178.239.198.141|/DigiByte:7.17.3/|70017||||||
 18.138.197.28|/DigiByte:7.17.2/|70017||||||
 18.214.252.88|/DigiByte:7.17.2/|70017||||||
 183.171.115.13|/digiwallet:1.0.0/|70017||||||
@@ -111,6 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.81.24.207|/DigiByte:7.17.2/|70017||||||
 31.134.168.162|/DigiByte:7.17.3/|70017||||||
 31.16.111.133|/DigiByte:7.17.3/|70017||||||
+34.107.72.59|/DigiByte:7.17.3/|70017||||||
 34.195.124.95|/DigiByte:7.17.2/|70017||||||
 34.225.224.198|/DigiByte:7.17.2/|70017||||||
 34.244.199.204|/DigiByte:7.17.2/|70017||||||
@@ -133,9 +132,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.123.249.82|/DigiByte:7.17.3/|70017||||||
 46.123.250.61|/DigiByte:7.17.3/|70017||||||
 46.123.254.176|/DigiByte:7.17.3/|70017||||||
+46.123.254.5|/DigiByte:7.17.3/|70017||||||
 46.137.231.10|/DigiByte:7.17.3/|70017||||||
 46.227.97.47|/DigiByte:7.17.3/|70017||||||
-47.17.33.24|/digiwallet:1.0.0/|70017|6128|47.16.0.0/15|US|arin|2012-02-29|CABLE-NET-1, US
+47.17.33.24|/digiwallet:1.0.0/|70017||||||
 47.196.181.192|/DigiByte:7.17.3/|70017||||||
 5.12.243.3|/DigiByte:7.17.2/|70017||||||
 5.121.242.227|/digiwallet:1.0.0/|70017||||||
@@ -143,7 +143,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.165.69|/DigiByte:7.17.2/|70017||||||
 5.250.69.105|/digiwallet:1.0.0/|70017||||||
 5.59.97.68|/DigiByte:7.17.3/|70017||||||
-50.116.45.67|/DigiByte:7.17.3/|70017|63949|50.116.32.0/20|US|arin|2011-08-30|LINODE-AP Linode, LLC, US
+50.116.45.67|/DigiByte:7.17.3/|70017||||||
 50.220.121.211|/DigiByte:7.17.2/|70017||||||
 51.195.234.88|/DigiByte:7.17.2/|70017||||||
 51.195.255.45|/digibyte-seeder:0.01/|70017||||||
@@ -160,14 +160,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.37.139.32|/DigiByte:7.17.2/|70017||||||
 54.37.81.148|/DigiByte:7.17.2/|70017||||||
 54.38.177.230|/DigiByte:7.17.2/|70017||||||
-62.159.33.3|/DigiByte:7.17.3/|70017||||||
+62.159.33.3|/DigiByte:7.17.3/|70017|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.171.186.34|/DigiByte:7.17.2/|70017||||||
 64.145.93.185|/digiwallet:1.0.0/|70017||||||
 64.182.71.28|/DigiByte:7.17.2/|70017||||||
-65.108.9.158|/DigiByte:7.17.3/|70017||||||
+65.108.9.158|/DigiByte:7.17.3/|70017|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 67.160.219.12|/DigiByte:7.17.2/|70017||||||
 67.219.121.2|/digiwallet:1.0.0/|70017||||||
-68.118.221.26|/DigiByte:7.17.3/|70017||||||
+68.118.221.26|/DigiByte:7.17.3/|70017|20115|68.118.208.0/20|US|arin|2002-03-14|CHARTER-20115, US
 69.244.126.14|/DigiByte:7.17.2/|70017||||||
 70.83.107.15|/DigiByte:7.17.3/|70017||||||
 71.174.109.86|/DigiByte:7.17.3/|70017||||||
@@ -191,7 +191,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.24.221.180|/DigiByte:7.17.2/|70017||||||
 83.81.49.43|/DigiByte:7.17.3/|70017||||||
 83.99.245.20|/DigiByte:7.17.2/|70017||||||
-84.2.34.93|/DigiByte:7.17.2/|70017||||||
 84.24.147.101|/digiwallet:1.0.0/|70017||||||
 85.10.202.167|/DigibyteHost:0.1/|70017||||||
 85.11.164.184|/digiwallet:1.0.0/|70017||||||
@@ -220,5 +219,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.253.56.37|/DigiByte:7.17.2/|70017||||||
 96.92.194.110|/digiwallet:1.0.0/|70017||||||
 98.203.82.233|/DigiByte:7.17.2/|70017||||||
+98.212.191.205|/DigiByte:7.17.2/|70017||||||
 99.148.47.138|/DigiByte:7.17.2/|70017||||||
 99.42.1.229|DigiByte:7.17.3|70017||||||
