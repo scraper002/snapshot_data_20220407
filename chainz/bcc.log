@@ -18,6 +18,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.249.184.188|/Satoshi:1.1.0/|60013||||||
 109.95.103.215|/Satoshi:1.0.0/|60013||||||
 109.95.103.215|/Satoshi:1.0.0/|60014||||||
+113.163.156.1|/Satoshi:1.0.0/|60013||||||
+113.163.156.1|/Satoshi:1.0.0/|60014||||||
 113.163.156.6|/Satoshi:1.0.0/|60013||||||
 113.163.156.6|/Satoshi:1.0.0/|60014||||||
 113.23.25.156|/Satoshi:1.0.0/|60013||||||
@@ -28,14 +30,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.61.18.155|/Satoshi:1.0.0/|60014||||||
 118.172.139.139|/Satoshi:1.0.0/|60013||||||
 118.172.139.139|/Satoshi:1.0.0/|60014||||||
-118.175.224.107|/Satoshi:1.0.0/|60013||||||
-118.175.224.107|/Satoshi:1.0.0/|60014||||||
-121.93.120.184|/Satoshi:1.0.0/|60013||||||
-121.93.120.184|/Satoshi:1.0.0/|60014||||||
-123.23.200.103|/Satoshi:1.0.0/|60013||||||
-123.23.200.103|/Satoshi:1.0.0/|60014||||||
-124.170.113.221|/Satoshi:1.0.0/|60013||||||
-124.170.113.221|/Satoshi:1.0.0/|60014||||||
+118.175.224.107|/Satoshi:1.0.0/|60013|23969|118.175.224.0/24|TH|apnic|2007-10-08|TOT-NET TOT Public Company Limited, TH
+118.175.224.107|/Satoshi:1.0.0/|60014|23969|118.175.224.0/24|TH|apnic|2007-10-08|TOT-NET TOT Public Company Limited, TH
+121.93.120.184|/Satoshi:1.0.0/|60013|2510|121.92.0.0/15|JP|apnic|2006-07-12|INFOWEB FUJITSU LIMITED, JP
+121.93.120.184|/Satoshi:1.0.0/|60014|2510|121.92.0.0/15|JP|apnic|2006-07-12|INFOWEB FUJITSU LIMITED, JP
+123.23.200.103|/Satoshi:1.0.0/|60013|45899|123.23.192.0/20|VN|apnic|2007-01-11|VNPT-AS-VN VNPT Corp, VN
+123.23.200.103|/Satoshi:1.0.0/|60014|45899|123.23.192.0/20|VN|apnic|2007-01-11|VNPT-AS-VN VNPT Corp, VN
+124.170.113.221|/Satoshi:1.0.0/|60013|7545|124.170.96.0/19|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
+124.170.113.221|/Satoshi:1.0.0/|60014|7545|124.170.96.0/19|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 125.212.149.226|/Satoshi:1.0.0/|60013||||||
 125.212.149.226|/Satoshi:1.0.0/|60014||||||
 136.243.77.47|/Satoshi:1.0.0/|60013||||||
@@ -136,8 +138,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.80.196.40|/Satoshi:1.0.0/|60014||||||
 31.148.31.193|/Satoshi:1.0.0/|60013||||||
 31.148.31.193|/Satoshi:1.0.0/|60014||||||
-31.168.98.74|/Satoshi:1.0.0/|60013||||||
-31.168.98.74|/Satoshi:1.0.0/|60014||||||
 36.37.216.233|/Satoshi:1.0.0/|60013||||||
 36.37.216.233|/Satoshi:1.0.0/|60014||||||
 37.111.128.209|/Satoshi:1.0.0/|60013||||||
@@ -200,6 +200,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.221.85.204|/Satoshi:1.0.0/|60014||||||
 77.153.171.15|/Satoshi:1.0.0/|60013||||||
 77.153.171.15|/Satoshi:1.0.0/|60014||||||
+77.222.105.108|/Satoshi:1.0.0/|60013||||||
+77.222.105.108|/Satoshi:1.0.0/|60014||||||
 77.48.22.57|/Satoshi:1.0.0/|60013||||||
 77.48.22.57|/Satoshi:1.0.0/|60014||||||
 78.153.38.198|/Satoshi:1.0.0/|60013||||||
@@ -218,12 +220,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.235.45.110|/Satoshi:1.0.0/|60014||||||
 80.83.235.44|/Satoshi:1.0.0/|60013||||||
 80.83.235.44|/Satoshi:1.0.0/|60014||||||
-82.202.154.103|/Satoshi:1.0.0/|60013||||||
-82.202.154.103|/Satoshi:1.0.0/|60014||||||
-84.108.229.194|/Satoshi:1.0.0/|60013||||||
-84.108.229.194|/Satoshi:1.0.0/|60014||||||
-84.255.249.179|/Satoshi:1.0.0/|60013||||||
-84.255.249.179|/Satoshi:1.0.0/|60014||||||
+82.202.154.103|/Satoshi:1.0.0/|60013|30745|82.202.144.0/20|RU|ripencc|2003-10-06|SITENETWORK-AS Sakhalin, Russia, RU
+82.202.154.103|/Satoshi:1.0.0/|60014|30745|82.202.144.0/20|RU|ripencc|2003-10-06|SITENETWORK-AS Sakhalin, Russia, RU
+84.108.229.194|/Satoshi:1.0.0/|60013|8551|84.108.228.0/22|IL|ripencc|2004-05-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+84.108.229.194|/Satoshi:1.0.0/|60014|8551|84.108.228.0/22|IL|ripencc|2004-05-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+84.255.249.179|/Satoshi:1.0.0/|60013|34779|84.255.192.0/18|SI|ripencc|2004-12-14|T-2-AS AS set propagated by T-2 d.o.o., SI
+84.255.249.179|/Satoshi:1.0.0/|60014|34779|84.255.192.0/18|SI|ripencc|2004-12-14|T-2-AS AS set propagated by T-2 d.o.o., SI
 84.49.209.236|/Satoshi:1.0.0/|60013||||||
 84.49.209.236|/Satoshi:1.0.0/|60014||||||
 86.12.53.111|/Satoshi:1.0.0/|60013||||||
