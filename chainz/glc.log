@@ -2,6 +2,7 @@
 # GoldCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.128.84.100|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+101.128.86.19|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 101.255.118.45|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.105.35.83|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.111.143.73|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -60,7 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.4.83.131|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.4.83.218|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.105.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.5.108.157|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|4761|114.5.108.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+114.5.108.157|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 114.5.110.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.212.234|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.213.105|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -126,8 +127,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.249.186.5|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.187.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.75.0|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-180.251.150.95|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-180.251.153.122|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+180.251.150.95|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.251.144.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+180.251.153.122|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.251.144.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.253.161.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.254.224.134|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.254.225.234|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
@@ -141,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.102.151|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.102.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.103.97|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.106.176|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.111.165|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.118.102|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.136.166|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -210,7 +210,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.85.70.152|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.88.49.128|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.90.63.45|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-45.236.101.245|/GoldcoinCore:0.14.7/|70015|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
+45.236.101.245|/GoldcoinCore:0.14.7/|70015||||||
 5.188.104.245|/GoldcoinCore:0.14.8/|70015||||||
 5.3.193.112|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 50.220.121.211|/GoldcoinCore:0.14.8/|70015||||||
@@ -223,7 +223,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.48.10.184|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 70.91.250.149|/GoldcoinCore:0.14.7/|70015||||||
 72.176.20.82|/GoldcoinCore:0.14.5/|70015||||||
-72.218.41.147|/GoldcoinCore:0.14.7/|70015|22773|72.218.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
+72.218.41.147|/GoldcoinCore:0.14.7/|70015||||||
 75.119.132.113|/GoldcoinCore:0.14.8/|70015||||||
 75.119.157.65|/GoldcoinCore:0.14.8/|70015||||||
 78.188.179.84|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -232,7 +232,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.65.23.139|/GoldcoinCore:0.14.8/|70015||||||
 81.4.101.247|/GoldcoinCore:0.14.8/|70015||||||
 82.169.139.142|/GoldcoinCore:0.14.8/|70015||||||
-82.200.205.30|/GoldcoinCore:0.14.8/|70015||||||
+82.200.205.30|/GoldcoinCore:0.14.8/|70015|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 83.221.211.116|/GoldcoinCore:0.14.8/|70015||||||
 84.234.52.190|/GoldcoinCore:0.14.8/|70015||||||
 85.113.209.121|/GoldcoinCore:0.14.8/|70015||||||
