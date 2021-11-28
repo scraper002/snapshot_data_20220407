@@ -44,7 +44,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.122.74.56|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.124.131.98|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.124.173.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.124.207.1|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 114.124.239.210|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.103.156|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.104.145|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -71,6 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.5.219.207|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.244.219|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.0.220|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.79.39.103|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.39.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.4.151|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.6.68|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -78,18 +78,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.37.96|/GoldcoinCore:0.14.8/|70015||||||
 116.206.40.14|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 116.206.40.37|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+120.188.66.235|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.72.221|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.77.247|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 120.188.83.212|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.93.175|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 125.162.161.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-125.164.21.198|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.164.4.157|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.166.119.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.166.9.75|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 129.205.124.91|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 139.193.131.1|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-139.193.222.136|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23700|139.193.192.0/19|ID|apnic|2011-03-30|FASTNET-AS-ID Linknet-Fastnet ASN, ID
+139.193.222.136|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 139.194.222.162|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 139.47.95.244|/GoldcoinCore:0.14.8/|70015||||||
 140.213.126.30|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -188,11 +188,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.100.149.160|/GoldcoinCore:0.14.8/|70015||||||
 2.83.115.214|/GoldcoinCore:0.14.8/|70015||||||
 203.78.114.142|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+203.78.121.206|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 203.78.121.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 209.126.86.10|/GoldcoinCore:0.14.8/|70015||||||
 209.182.239.169|/GoldcoinCore:0.14.8/|70015||||||
 209.222.166.129|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-209.42.146.167|???|0||||||
+209.42.146.167|???|0|11776|209.42.146.0/23|US|arin|2016-02-11|ATLANTICBB-JOHNSTOWN, US
 210.186.252.90|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 216.137.116.136|/GoldcoinCore:0.14.8/|70015||||||
 223.255.228.81|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -242,7 +243,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.233.108.211|/GoldcoinCore:0.14.8/|70015||||||
 89.40.26.30|/GoldcoinCore:0.14.5/|70015||||||
 91.206.16.214|/GoldcoinCore:0.14.4/|70015||||||
-93.51.186.180|/GoldcoinCore:0.14.8/|70015|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
+93.51.186.180|/GoldcoinCore:0.14.8/|70015||||||
 93.81.218.237|/GoldcoinCore:0.14.8/|70015||||||
 95.153.161.225|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 95.217.78.80|/GoldcoinCore:0.14.8/|70015||||||
