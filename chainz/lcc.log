@@ -17,12 +17,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.210.57.21|/LitecoinCashCore:0.16.3/|70015||||||
 117.3.100.241|/LitecoinCashCore:0.16.3/|70015||||||
 118.136.1.177|/LitecoinCashCore:0.16.3/|70015||||||
-120.235.227.173|/LitecoinCashCore:0.16.3/|70015||||||
-130.204.69.65|/LitecoinCashCore:0.16.3/|70015||||||
-136.158.25.160|/LitecoinCashCore:0.16.3/|70015||||||
-136.243.145.143|/LitecoinCashCore:0.16.3/|70015||||||
+120.235.227.173|/LitecoinCashCore:0.16.3/|70015|9808|120.235.224.0/21|CN|apnic|2008-04-14|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+130.204.69.65|/LitecoinCashCore:0.16.3/|70015|13124|130.204.64.0/20|BG|ripencc|2011-10-26|A1, BG
+136.158.25.160|/LitecoinCashCore:0.16.3/|70015|17639|136.158.24.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
+136.243.145.143|/LitecoinCashCore:0.16.3/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 141.95.55.97|/LitecoinCashCore:0.16.3/|70015||||||
-142.182.98.233|/LitecoinCashCore:0.16.3/|70015||||||
+142.182.98.233|/LitecoinCashCore:0.16.3/|70015|577|142.182.0.0/16|CA|arin|1992-08-27|BACOM, CA
 145.40.32.198|/LitecoinCashCore:0.15.0.1/|70015||||||
 146.59.0.36|/LitecoinCashCore:0.16.3/|70015||||||
 146.59.185.77|/LitecoinCashCore:0.16.3/|70015||||||
@@ -58,9 +58,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.207.214.170|/LitecoinCashCore:0.16.3/|70015||||||
 178.33.239.210|/LitecoinCashCore:0.16.3/|70015||||||
 178.62.215.167|/LitecoinCashCore:0.16.3/|70015||||||
-178.89.26.133|/LitecoinCashCore:0.16.3/|70015||||||
 179.110.37.158|/LitecoinCashCore:0.16.3/|70015||||||
 179.48.21.165|/LitecoinCashCore:0.16.3/|70015||||||
+183.171.66.255|/LitecoinCashCore:0.16.3/|70015||||||
 185.17.12.226|/LitecoinCashCore:0.16.3/|70015||||||
 185.220.70.233|/LitecoinCashCore:0.16.3/|70015||||||
 185.222.239.104|/LitecoinCashCore:0.16.3/|70015||||||
@@ -79,6 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.247.247.54|/LitecoinCashCore:0.16.3/|70015||||||
 2.39.15.92|/LitecoinCashCore:0.16.3/|70015||||||
 213.232.124.121|/LitecoinCashCore:0.16.3/|70015||||||
+216.15.21.83|/LitecoinCashCore:0.16.3/|70015||||||
 217.107.199.254|/LitecoinCashCore:0.16.3/|70015||||||
 217.182.199.85|/LitecoinCashCore:0.16.3/|70015||||||
 217.231.205.10|/LitecoinCashCore:0.16.3/|70015||||||
@@ -91,7 +92,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.33.130.195|/LitecoinCashCore:0.16.3/|70015||||||
 24.91.98.16|/LitecoinCashCore:0.16.3/|70015||||||
 31.151.57.106|/LitecoinCashCore:0.16.3/|70015||||||
-31.180.222.88|/LitecoinCashCore:0.16.3/|70015||||||
 31.181.43.144|/LitecoinCashCore:0.16.3/|70015||||||
 31.25.241.224|/LitecoinCashCore:0.16.3/|70015||||||
 31.29.58.64|/LitecoinCashCore:0.16.3/|70015||||||
@@ -159,9 +159,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.20.117.178|/LitecoinCashCore:0.16.3/|70015||||||
 82.70.129.110|/LitecoinCashCore:0.16.3/|70015||||||
 83.137.120.162|/LitecoinCashCore:0.16.3/|70015||||||
-83.194.96.86|/LitecoinCashCore:0.16.3/|70015|3215|83.194.0.0/16|FR|ripencc|2003-12-12|France Telecom - Orange, FR
+83.194.96.86|/LitecoinCashCore:0.16.3/|70015||||||
 83.221.211.116|/LitecoinCashCore:0.16.3/|70015||||||
-83.99.223.121|/LitecoinCashCore:0.16.3/|70015|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
+83.99.223.121|/LitecoinCashCore:0.16.3/|70015||||||
 84.159.102.209|/LitecoinCashCore:0.16.3/|70015||||||
 84.159.111.108|/LitecoinCashCore:0.16.3/|70015||||||
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015||||||
@@ -186,11 +186,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.211.18.220|/LitecoinCashCore:0.16.3/|70015||||||
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015||||||
 92.223.88.148|/LitecoinCashCore:0.16.3/|70015||||||
-93.142.190.180|/LitecoinCashCore:0.16.3/|70015||||||
-93.233.64.184|/LitecoinCashCore:0.16.3/|70015||||||
-94.130.132.133|/LitecoinCashCore:0.16.3/|70015||||||
-94.198.41.221|/LitecoinCashCore:0.16.3/|70015||||||
-94.37.51.19|/LitecoinCashCore:0.16.3/|70015||||||
+93.142.190.180|/LitecoinCashCore:0.16.3/|70015|5391|93.142.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
+93.233.64.184|/LitecoinCashCore:0.16.3/|70015|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+94.130.132.133|/LitecoinCashCore:0.16.3/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.198.41.221|/LitecoinCashCore:0.16.3/|70015|9009|94.198.41.0/24|RO|ripencc|2018-06-28|M247, GB
+94.37.51.19|/LitecoinCashCore:0.16.3/|70015|8612|94.36.0.0/14|IT|ripencc|2008-05-14|TISCALI-, IT
 95.216.244.58|/LitecoinCashCore:0.16.3/|70015||||||
 95.84.178.175|/LitecoinCashCore:0.16.3/|70015||||||
 97.73.244.162|/LitecoinCashCore:0.15.0.1/|70015||||||
