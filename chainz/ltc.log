@@ -4,11 +4,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|/Satoshi:0.13.2.1/|70015||||||
 100.34.15.199|/LitecoinCore:0.18.1/|70015|701|100.34.0.0/16|US|arin|2010-12-28|UUNET, US
 102.129.145.151|/WalletKit:0.1.0/|70015||||||
+103.27.203.79|/BitcoinKit:0.1.0/|70015||||||
 104.131.161.171|/litecoin-seeder:0.01/|70002||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 104.236.57.24|/Node:0.8.7.2/|70002||||||
+107.115.8.145|/BitcoinKit:0.1.0/|70015||||||
 107.125.25.156|/BitcoinKit:0.1.0/|70015||||||
-109.191.69.13|/LitecoinCore:0.18.1/|70015||||||
+109.191.69.13|/LitecoinCore:0.18.1/|70015|8369|109.191.0.0/16|RU|ripencc|2009-10-16|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
 109.38.153.88|/WalletKit:0.1.0/|70015||||||
 113.116.76.249|/LitecoinCore:0.18.1/|70015||||||
 113.124.84.154|/LitecoinCore:0.18.1/|70015||||||
@@ -16,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 119.123.175.246|/WalletKit:0.1.0/|70015||||||
 119.137.53.255|/BitcoinKit:0.1.0/|70015||||||
+119.137.54.116|/BitcoinKit:0.1.0/|70015||||||
 120.39.61.67|/LitecoinCore:0.18.1/|70015||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
 128.199.69.208|/LitecoinCore:0.18.1/|70015||||||
@@ -47,24 +50,23 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.72.169.203|/WalletKit:0.1.0/|70015||||||
 155.94.251.83|/WalletKit:0.1.0/|70015||||||
 157.161.128.61|/Satoshi:0.8.6.2/|70004||||||
-157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 157.230.4.30|/LitecoinCore:0.18.1/|70015||||||
 157.90.180.43|/LitecoinCore:0.17.1/|70015||||||
 158.69.196.61|/Node:0.8.7.2/|70002||||||
-159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 160.154.151.130|/WalletKit:0.1.0/|70015||||||
 160.176.118.164|/BitcoinKit:0.1.0/|70015||||||
 162.62.21.32|/LitecoinCore:0.17.1/|70015||||||
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 163.172.61.237|/LitecoinCore:0.18.1/|70015||||||
-165.73.75.164|/NBitcoin:5.0.49/|70012|37611|165.73.0.0/17|ZA|afrinic|2017-06-02|Afrihost, ZA
+165.73.75.164|/NBitcoin:5.0.49/|70012||||||
 166.205.102.193|/BitcoinKit:0.1.0/|70015||||||
-167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
+167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 167.99.179.226|/LitecoinCore:0.18.1/|70015||||||
 168.227.12.22|/BitcoinKit:0.1.0/|70015||||||
 170.106.36.158|/btc-seeder:0.0001/|70013||||||
-170.78.28.23|/NBitcoin:5.0.49/|70012|265241|170.78.28.0/23|BR|lacnic|2016-09-19|Data Fibra Telecom, BR
-170.79.155.243|/B2CCoinCore:0.16.3/|70015||||||
+170.78.28.23|/NBitcoin:5.0.49/|70012||||||
 170.84.55.121|/B2CCoinCore:0.16.3/|70015||||||
 172.56.34.43|/BitcoinKit:0.1.0/|70015||||||
 173.169.182.214|/LitecoinCore:0.18.1/|70015||||||
@@ -106,8 +108,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.17.152.246|/LitecoinCore:0.18.1/|70015||||||
 189.103.130.113|/B2CCoinCore:0.16.3/|70015||||||
 189.105.215.117|/B2CCoinCore:0.16.3/|70015||||||
-189.5.178.251|/B2CCoinCore:0.16.3/|70015|28573|189.5.128.0/18|BR|lacnic|2006-09-06|CLARO S.A., BR
-189.6.234.252|/B2CCoinCore:0.16.3/|70015|28573|189.6.128.0/17|BR|lacnic|2006-09-06|CLARO S.A., BR
+189.5.178.251|/B2CCoinCore:0.16.3/|70015||||||
+189.6.234.252|/B2CCoinCore:0.16.3/|70015||||||
 190.94.245.226|/LitecoinCore:0.18.1/|70015||||||
 190.96.1.19|/FlashcoinCore:0.13.3.1/|70015||||||
 191.245.83.58|/B2CCoinCore:0.16.3/|70015||||||
@@ -214,6 +216,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.100.128.193|/LitecoinCore:0.18.1/|70015||||||
 80.146.103.194|/LitecoinCore:0.18.1/|70015||||||
 81.2.79.165|/BitcoinKit:0.1.0/|70015||||||
+82.221.106.180|/FlashcoinCore:0.13.3.2/|70015||||||
 83.223.233.227|/WalletKit:0.1.0/|70015||||||
 84.241.194.250|/WalletKit:0.1.0/|70015||||||
 84.241.203.40|/WalletKit:0.1.0/|70015||||||
