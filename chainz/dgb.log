@@ -3,8 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.157.27.203|/DigiByte:7.17.2/|70017||||||
 102.252.66.32|/DigiByte:7.17.2/|70017||||||
-103.53.1.81|/DigiByte:7.17.3/|70017|63873|103.53.1.0/24|ID|apnic|2015-03-17|MAGNET-AS-ID PT Mitra Akses Globalindo, ID
-103.78.217.159|/DigiByte:7.17.3/|70017|55699|103.78.216.0/22|ID|apnic|2016-11-08|STARNET-AS-ID PT. Cemerlang Multimedia, ID
+103.53.1.81|/DigiByte:7.17.3/|70017||||||
+103.78.217.159|/DigiByte:7.17.3/|70017||||||
 104.163.195.200|/DigiByte:7.17.3/|70017||||||
 105.185.186.26|/DigiByte:7.17.2/|70017||||||
 105.187.36.165|/DigiByte:7.17.2/|70017||||||
@@ -32,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.189.177|/DigiByte:7.17.3/|70017||||||
 139.162.42.155|/DigiByte:7.17.3/|70017||||||
 142.161.252.95|/DigiByte:7.17.3/|70017||||||
+144.76.18.213|/CryptoTransfer:1.0.0/|70017||||||
 147.135.97.183|/DigiByte:7.17.2/|70017||||||
 149.56.111.148|/DigiByte:7.17.2/|70017||||||
 156.146.201.9|/DigiByte:7.17.2/|70017||||||
@@ -44,7 +45,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.116.187|/DigiByte:7.17.2/|70017||||||
 167.86.87.60|/DigiByte:7.17.3/|70017||||||
 172.105.36.91|/DigiByte:7.17.3/|70017||||||
-172.58.43.156|/DigiByte:7.17.2/|70017||||||
 172.72.130.146|/DigiByte:7.17.2/|70017||||||
 174.128.182.216|/DigiByte:7.17.3/|70017||||||
 176.214.116.55|/DigiByte:7.17.3/|70017||||||
@@ -55,12 +55,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.67.80.187|/DigiByte:7.17.2/|70017||||||
 177.67.80.188|/DigiByte:7.17.2/|70017||||||
 178.218.111.250|/DigiByte:7.17.2/|70017||||||
-178.78.32.223|/DigiByte:7.17.3/|70017||||||
-178.78.34.145|/DigiByte:7.17.3/|70017||||||
+178.78.32.223|/DigiByte:7.17.3/|70017|39435|178.78.32.0/22|RU|ripencc|2010-04-22|EVOLGOGRAD-AS, RU
+178.78.34.145|/DigiByte:7.17.3/|70017|39435|178.78.32.0/22|RU|ripencc|2010-04-22|EVOLGOGRAD-AS, RU
 179.187.83.120|/digiwallet:1.0.0/|70017||||||
 18.138.197.28|/DigiByte:7.17.2/|70017||||||
 18.214.252.88|/DigiByte:7.17.2/|70017||||||
-184.147.89.32|/DigiByte:7.17.3/|70017||||||
+184.147.89.32|/DigiByte:7.17.3/|70017|577|184.147.0.0/16|CA|arin|2010-04-12|BACOM, CA
 184.186.15.102|/digiwallet:1.0.0/|70017||||||
 185.113.128.13|/DigiByte:7.17.2/|70017||||||
 185.176.246.64|/DigiByte:7.17.3/|70017||||||
@@ -92,8 +92,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.198.146.232|/DigiByte:7.17.3/|70017||||||
 204.16.112.2|/digiwallet:1.0.0/|70017||||||
 207.5.20.218|/DigiByte:7.17.3/|70017||||||
-209.145.49.226|/DigiByte:7.17.2/|70017|40021|209.145.48.0/20|US|arin|2021-08-26|CONTABO, US
-212.92.101.189|/DigiByte:7.17.2/|70017|49505|212.92.101.0/24|RU|ripencc|1999-11-03|SELECTEL, RU
+209.145.49.226|/DigiByte:7.17.2/|70017||||||
+212.92.101.189|/DigiByte:7.17.2/|70017||||||
 213.87.146.71|/digiwallet:1.0.0/|70017||||||
 217.100.21.99|/DigiByte:7.17.2/|70017||||||
 23.120.212.63|/digiwallet:1.0.0/|70017||||||
@@ -164,6 +164,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.60.5.125|/digiwallet:1.0.0/|70017||||||
 73.95.148.176|/DigiByte:7.17.3/|70017||||||
 75.142.133.238|/DigiByte:7.17.2/|70017||||||
+75.74.14.124|/DigiByte:7.17.2/|70017||||||
 76.9.164.186|/digiwallet:1.0.0/|70017||||||
 77.223.119.124|/DigiByte:7.17.3/|70017||||||
 77.46.104.150|/DigiByte:7.17.3/|70017||||||
@@ -205,7 +206,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.19.166.16|/DigiByte:7.17.2/|70017||||||
 96.253.56.37|/DigiByte:7.17.2/|70017||||||
 98.121.238.185|/DigiByte:7.17.3/|70017||||||
-99.148.47.138|/DigiByte:7.17.2/|70017|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
-99.233.132.101|/DigiByte:7.17.2/|70017|812|99.233.128.0/18|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
+99.148.47.138|/DigiByte:7.17.2/|70017||||||
+99.233.132.101|/DigiByte:7.17.2/|70017||||||
 99.236.17.167|/DigiByte:7.17.3/|70017||||||
 99.251.43.142|/digiwallet:1.0.0/|70017||||||
