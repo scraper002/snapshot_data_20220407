@@ -4,23 +4,23 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.46.27.246|/BitcoinKit:0.1.0/|70015||||||
 100.34.15.199|/LitecoinCore:0.18.1/|70015|701|100.34.0.0/16|US|arin|2010-12-28|UUNET, US
 104.131.102.114|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-104.236.136.96|/Node:0.8.7.2/|70002|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
-104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
+104.236.136.96|/Node:0.8.7.2/|70002||||||
+104.236.57.24|/Node:0.8.7.2/|70002||||||
 105.235.158.80|/BitcoinKit:0.1.0/|70015||||||
 107.115.166.225|/BitcoinKit:0.1.0/|70015||||||
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002||||||
-115.135.30.107|/LitecoinCore:0.18.1/|70015||||||
+115.135.30.107|/LitecoinCore:0.18.1/|70015|4788|115.135.0.0/18|MY|apnic|2008-08-05|TMNET-AS-AP TM Net, Internet Service Provider, MY
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 120.156.48.121|/LitecoinCore:0.14.2/|70015||||||
-120.192.12.243|/LitecoinCore:0.18.1/|70015||||||
+120.192.12.243|/LitecoinCore:0.18.1/|70015|24444|120.192.0.0/20|CN|apnic|2008-04-14|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
-128.124.148.99|/LitecoinCore:0.18.1/|70015||||||
+128.124.148.99|/LitecoinCore:0.18.1/|70015|21497|128.124.128.0/18|UA|ripencc|2011-10-07|UMC-AS, UA
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-128.199.69.208|/LitecoinCore:0.18.1/|70015||||||
+128.199.69.208|/LitecoinCore:0.18.1/|70015|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 13.210.97.66|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 134.209.192.211|/CounosXCore:0.17.2/|70015||||||
-136.243.37.89|/LitecoinCore:0.18.1/|70015||||||
+136.243.37.89|/LitecoinCore:0.18.1/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.127.30.42|/WalletKit:0.1.0/|70015||||||
 142.161.144.91|/LitecoinCore:0.18.1/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
-144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
+144.76.222.140|/Node:0.8.7.2/|70002||||||
 144.91.68.191|/LitecoinCore:0.18.1/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
 147.12.250.166|/LitecoinCore:0.18.1/|70015||||||
@@ -124,9 +124,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.86.33.1|/LitecoinCore:0.18.1/|70015||||||
 34.91.121.122|/LitecoinCore:0.18.1/|70015||||||
 35.177.221.136|/LitecoinCore:0.18.1/|70015||||||
-35.183.68.152|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 37.159.42.231|???|0||||||
-37.59.40.171|/LitecoinCore:0.17.1/|70015||||||
 42.48.236.248|/LitecoinCore:0.17.1/|70015||||||
 45.56.69.105|/Block.io:0.1.0/|70002||||||
 46.101.235.143|/bridgecoinCore:1.0.3/|70015||||||
@@ -169,7 +167,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.195.38.190|/LitecoinCore:0.18.1/|70015||||||
 71.38.182.53|/LitecoinCore:0.18.1/|70015||||||
 71.63.120.51|/LitecoinCore:0.18.1/|70015||||||
-72.76.47.8|/NBitcoin:5.0.49/|70012|701|72.76.0.0/16|US|arin|2005-06-24|UUNET, US
+72.76.47.8|/NBitcoin:5.0.49/|70012||||||
 73.97.216.204|/LitecoinCore:0.16.3/|70015||||||
 75.187.208.43|/LitecoinCore:0.18.1/|70015||||||
 75.84.57.42|/LitecoinCore:0.18.1/|70015||||||
@@ -197,7 +195,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.123.224.229|/BitcoinKit:0.1.0/|70015||||||
 88.80.187.187|/Node:0.8.7.2/|70002||||||
 89.103.66.73|/LitecoinCore:0.18.1/|70015||||||
-89.64.55.236|/NBitcoin:5.0.49/|70012|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+89.64.55.236|/NBitcoin:5.0.49/|70012||||||
 91.193.181.3|/LitecoinCore:0.16.3/|70015||||||
 91.239.130.62|/LitecoinCore:0.18.1/|70015||||||
 91.36.186.249|/LitecoinCore:0.18.1/|70015||||||
