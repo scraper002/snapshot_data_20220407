@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.157.27.203|/DigiByte:7.17.2/|70017||||||
 102.89.3.182|/digiwallet:1.0.0/|70017|29465|102.89.3.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
-102.91.5.199|/digiwallet:1.0.0/|70017||||||
+102.91.5.199|/digiwallet:1.0.0/|70017|29465|102.91.5.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
 104.155.142.222|/DigiByte:7.17.3/|70017||||||
 104.163.195.200|/DigiByte:7.17.3/|70017||||||
 104.244.208.212|/DigiByte:7.17.2/|70017||||||
@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.124.45.213|/digiwallet:1.0.0/|70017||||||
 119.18.0.58|/DigiByte:7.17.2/|70017||||||
 12.244.161.182|/DigiByte:7.17.2/|70017||||||
-120.192.12.243|/DigiByte:7.17.2/|70017||||||
+120.192.12.243|/DigiByte:7.17.2/|70017|24444|120.192.0.0/20|CN|apnic|2008-04-14|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 13.209.60.161|/DigiByte:7.17.2/|70017||||||
 134.122.89.4|/DigiByte:7.17.2/|70017||||||
 134.209.100.221|/digibyte-js:5.0.3/|70017||||||
@@ -34,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.95.55.97|/DigiByte:7.17.2/|70017||||||
 144.76.27.125|/DigiByte:7.17.2/|70017||||||
 146.120.246.112|/digiwallet:1.0.0/|70017||||||
+146.70.31.29|/DigiByte:7.17.3/|70017||||||
 147.135.97.183|/DigiByte:7.17.2/|70017||||||
 149.91.107.64|/DigiByte:7.17.3/|70017||||||
 154.160.2.121|/digiwallet:1.0.0/|70017||||||
@@ -124,7 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.185.197.183|/digiwallet:1.0.0/|70017||||||
 47.40.0.213|/DigiByte:7.17.2/|70017||||||
 49.149.246.89|/digiwallet:1.0.0/|70017||||||
-49.48.68.133|/DigiByte:7.17.2/|70017||||||
 5.188.104.245|/DigiByte:7.17.2/|70017||||||
 5.189.139.144|/DigiByte:7.17.2/|70017||||||
 5.189.165.69|/DigiByte:7.17.2/|70017||||||
@@ -142,16 +142,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.91.70.29|/DigiByte:7.17.2/|70017||||||
 52.136.229.13|/DigiByte:7.17.3/|70017||||||
 52.57.124.161|/DigiByte:7.17.2/|70017||||||
-52.73.168.104|/DigiByte:7.17.2/|70017|14618|52.72.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
+52.73.168.104|/DigiByte:7.17.2/|70017||||||
 54.212.83.151|/digibyte-seeder:0.01/|70017||||||
-54.248.0.58|/DigiByte:7.17.2/|70017|16509|54.248.0.0/17|US|arin|2012-03-01|AMAZON-02, US
+54.248.0.58|/DigiByte:7.17.2/|70017||||||
 54.250.145.150|/DigiByte:7.17.3/|70017||||||
 54.251.36.145|/DigiByte:7.17.3/|70017||||||
-54.36.111.142|/DigiByte:7.17.2/|70017|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.37.81.148|/DigiByte:7.17.2/|70017|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
+54.36.111.142|/DigiByte:7.17.2/|70017||||||
+54.37.81.148|/DigiByte:7.17.2/|70017||||||
 54.38.107.228|/DigiByte:7.17.3/|70017||||||
-54.38.177.230|/DigiByte:7.17.2/|70017|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-58.104.41.118|/DigiByte:7.17.2/|70017|4804|58.104.0.0/16|AU|apnic|2005-04-22|MPX-AS Microplex PTY LTD, AU
+54.38.177.230|/DigiByte:7.17.2/|70017||||||
+58.104.41.118|/DigiByte:7.17.2/|70017||||||
 64.182.71.28|/DigiByte:7.17.2/|70017||||||
 65.108.9.158|/DigiByte:7.17.3/|70017||||||
 66.109.139.155|/DigiByte:7.17.2/|70017||||||
@@ -174,8 +174,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.215.178.57|/DigiByte:7.17.3/|70017||||||
 80.70.109.170|/digiwallet:1.0.0/|70017||||||
 81.155.199.130|/DigiByte:7.17.2/|70017||||||
-81.222.189.46|/DigiByte:7.17.3/|70017||||||
-82.215.96.75|/DigiByte:7.17.3/|70017||||||
+81.222.189.46|/DigiByte:7.17.3/|70017|16345|81.222.188.0/22|RU|ripencc|2002-11-28|BEE-AS Russia, RU
+82.215.96.75|/DigiByte:7.17.3/|70017|59668|82.215.96.0/20|UZ|ripencc|2003-11-17|ATURON --- Upstream: MCPK ---, UZ
 83.221.211.116|/DigiByte:7.17.2/|70017||||||
 85.10.202.167|/DigibyteHost:0.1/|70017||||||
 85.144.12.117|/DigiByte:7.17.2/|70017||||||
