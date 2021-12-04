@@ -18,9 +18,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.141.212.32|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.66.50|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.71.158|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-113.247.37.141|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|4134|113.240.0.0/13|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-114.125.43.114|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|23693|114.125.32.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-114.125.5.150|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|23693|114.125.0.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+113.247.37.141|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+114.125.43.114|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+114.125.5.150|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 115.84.237.99|/Satoshi:0.20.2/Peercoin:0.10.3/|70015||||||
 119.45.242.241|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 121.35.180.107|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -36,14 +36,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 143.198.164.157|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-151.26.188.28|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 151.35.223.44|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 151.35.97.44|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 151.47.219.183|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 158.69.25.32|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-159.196.171.179|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|4764|159.196.168.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
+159.196.171.179|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 159.65.153.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 161.35.95.39|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+161.81.78.72|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 163.172.194.148|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 164.52.157.50|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 167.172.215.202|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -103,14 +103,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 213.24.126.120|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 213.24.133.77|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-216.137.116.136|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+216.137.116.136|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|19515|216.137.96.0/19|CA|arin|2004-02-02|ORICOM-QUEBEC1, CA
 216.188.233.105|???|0||||||
 217.65.137.172|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 220.200.109.224|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 221.223.49.121|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 23.94.52.55|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 24.154.247.39|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-24.88.187.27|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+24.88.187.27|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|11426|24.88.0.0/16|US|arin|2000-06-19|TWC-11426-CAROLINAS, US
 3.121.247.139|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 31.187.113.71|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 31.28.12.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -203,6 +203,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.174.51.132|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 88.152.204.59|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 88.198.238.123|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+88.212.54.237|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.123.223.153|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.187.179.59|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 89.23.224.220|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
