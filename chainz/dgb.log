@@ -2,7 +2,7 @@
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.157.27.203|/DigiByte:7.17.2/|70017||||||
-102.89.3.182|/digiwallet:1.0.0/|70017|29465|102.89.3.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
+102.89.3.182|/digiwallet:1.0.0/|70017||||||
 104.155.142.222|/DigiByte:7.17.3/|70017||||||
 104.163.195.200|/DigiByte:7.17.3/|70017||||||
 104.244.208.212|/DigiByte:7.17.2/|70017||||||
@@ -19,7 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.141.52.126|/DigiByte:7.17.3/|70017||||||
 119.18.0.58|/DigiByte:7.17.2/|70017||||||
 12.244.161.182|/DigiByte:7.17.2/|70017||||||
-120.192.12.243|/DigiByte:7.17.2/|70017||||||
+120.192.12.243|/DigiByte:7.17.2/|70017|24444|120.192.0.0/20|CN|apnic|2008-04-14|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 13.209.60.161|/DigiByte:7.17.2/|70017||||||
 134.122.89.4|/DigiByte:7.17.2/|70017||||||
 134.209.100.221|/digibyte-js:5.0.3/|70017||||||
@@ -34,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 146.120.246.112|/digiwallet:1.0.0/|70017||||||
 146.70.31.29|/DigiByte:7.17.3/|70017||||||
 147.135.97.183|/DigiByte:7.17.2/|70017||||||
+148.252.129.117|/digiwallet:1.0.0/|70017||||||
 149.91.107.64|/DigiByte:7.17.3/|70017||||||
 154.160.2.121|/digiwallet:1.0.0/|70017||||||
 159.138.87.18|/DigiByte:7.17.2/|70017||||||
@@ -87,7 +88,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.244.240.40|/DigiByte:7.17.3/|70017||||||
 207.5.20.218|/DigiByte:7.17.3/|70017||||||
 209.145.49.226|/DigiByte:7.17.2/|70017||||||
-212.102.39.91|/digiwallet:1.0.0/|70017||||||
 212.92.101.189|/DigiByte:7.17.2/|70017||||||
 217.100.21.99|/DigiByte:7.17.2/|70017||||||
 222.211.174.221|/DigiByte:7.17.2/|70017||||||
@@ -171,11 +171,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.70.109.170|/digiwallet:1.0.0/|70017||||||
 81.155.199.130|/DigiByte:7.17.2/|70017||||||
 81.222.189.46|/DigiByte:7.17.3/|70017||||||
-82.215.96.75|/DigiByte:7.17.3/|70017||||||
+82.215.96.75|/DigiByte:7.17.3/|70017|59668|82.215.96.0/20|UZ|ripencc|2003-11-17|ATURON --- Upstream: MCPK ---, UZ
 83.221.211.116|/DigiByte:7.17.2/|70017||||||
 85.10.202.167|/DigibyteHost:0.1/|70017||||||
 85.144.12.117|/DigiByte:7.17.2/|70017||||||
-85.86.99.125|/DigiByte:7.17.3/|70017||||||
+85.86.99.125|/DigiByte:7.17.3/|70017|12338|85.86.0.0/16|ES|ripencc|2004-10-22|EUSKALTEL, ES
 86.100.49.209|/DigiByte:7.17.2/|70017||||||
 86.138.33.103|/DigiByte:7.17.3/|70017||||||
 86.91.182.131|/DigiByte:7.17.2/|70017||||||
@@ -185,16 +185,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.174.79|/DigiByte:7.17.2/|70017||||||
 89.151.220.172|/DigiByte:7.17.2/|70017||||||
 89.164.171.226|/DigiByte:7.17.2/|70017||||||
-89.205.129.26|/digiwallet:1.0.0/|70017||||||
 92.250.102.33|/digiwallet:1.0.0/|70017||||||
 94.198.51.131|/DigiByte:7.17.2/|70017||||||
-94.212.220.150|/DigiByte:7.17.3/|70017|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
+94.212.220.150|/DigiByte:7.17.3/|70017||||||
 94.24.83.44|/digiwallet:1.0.0/|70017||||||
-94.66.221.126|/DigiByte:7.17.3/|70017|6799|94.66.220.0/22|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
+94.66.221.126|/DigiByte:7.17.3/|70017||||||
 95.216.149.253|/DigiByte:7.17.2/|70017||||||
 95.216.97.96|/DigiByte:7.17.2/|70017||||||
 95.217.78.79|/DigiByte:7.17.2/|70017||||||
 96.19.166.16|/DigiByte:7.17.2/|70017||||||
 96.253.56.37|/DigiByte:7.17.2/|70017||||||
-98.121.238.185|/DigiByte:7.17.3/|70017|11426|98.121.0.0/16|US|arin|2008-04-09|TWC-11426-CAROLINAS, US
+98.121.238.185|/DigiByte:7.17.3/|70017||||||
 99.148.47.138|/DigiByte:7.17.2/|70017||||||
