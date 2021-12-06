@@ -3,8 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|/Satoshi:0.13.2.1/|70015||||||
 104.131.102.114|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-104.236.136.96|/Node:0.8.7.2/|70002|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
-104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
+104.236.136.96|/Node:0.8.7.2/|70002||||||
+104.236.57.24|/Node:0.8.7.2/|70002||||||
 104.244.76.44|/LitecoinCore:0.17.1/|70015||||||
 105.160.75.8|/BitcoinKit:0.1.0/|70015||||||
 106.197.126.154|/LitecoinCore:0.18.1/|70015|45609|106.197.112.0/20|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
@@ -31,7 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 14.203.57.50|/LitecoinCore:0.16.3/|70015||||||
 142.161.144.91|/LitecoinCore:0.18.1/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
-144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
+144.76.222.140|/Node:0.8.7.2/|70002||||||
 144.91.68.191|/LitecoinCore:0.18.1/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
 147.135.65.190|/LitecoinCore:0.18.1/|70015||||||
@@ -66,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.196.201.219|/LitecoinCore:0.18.1/|70015||||||
 178.255.153.167|/LitecoinCore:0.18.1/|70015||||||
 178.63.123.92|/CounosCashCore:0.15.1/|70015||||||
-180.109.10.109|/LitecoinCore:0.17.1/|70015||||||
 181.147.215.78|/loaf-android:175/|70015||||||
 184.105.70.100|/LitecoinCore:0.17.1/|70015||||||
 184.161.119.2|/NBitcoin:5.0.49/|70012|5769|184.161.64.0/18|CA|arin|2010-06-21|VIDEOTRON, CA
@@ -87,9 +86,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.163.121.82|/LitecoinCore:0.18.1/|70015||||||
 188.76.66.1|/BitcoinKit:0.1.0/|70015||||||
 189.103.130.180|/B2CCoinCore:0.16.3/|70015||||||
-191.193.68.40|/NBitcoin:5.0.49/|70012|27699|191.193.0.0/17|BR|lacnic|2013-11-18|TELEFONICA BRASIL S.A, BR
+191.193.68.40|/NBitcoin:5.0.49/|70012||||||
 194.107.179.125|/LitecoinCore:0.14.2/|70015||||||
-195.139.158.248|/NBitcoin:5.0.49/|70012|2116|195.139.0.0/16|NO|ripencc|1997-05-09|ASN-CATCHCOM, NO
+195.139.158.248|/NBitcoin:5.0.49/|70012||||||
 195.240.19.165|/LitecoinCore:0.18.1/|70015||||||
 197.210.54.136|/BitcoinKit:0.1.0/|70015||||||
 197.210.79.133|/loaf-android:175/|70015||||||
@@ -105,13 +104,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.34.100.116|/LitecoinCore:0.18.1/|70015||||||
 213.147.166.201|/BitcoinKit:0.1.0/|70015||||||
 213.30.217.118|/LitecoinCore:0.18.1/|70015||||||
-213.32.6.132|/DigitaleuroCore:0.16.3/|70015||||||
 217.155.62.20|/LitecoinCore:0.17.1/|70015||||||
 218.203.163.108|/LitecoinCore:0.18.1/|70015||||||
 223.206.215.92|/LitecoinCore:0.18.1/|70015||||||
 23.88.57.79|/LitecoinCore:0.18.1/|70015||||||
 23.92.25.116|/Node:0.8.7.2/|70002||||||
-24.111.165.211|/NBitcoin:5.0.49/|70012|11232|24.111.0.0/16|US|arin|2004-05-07|MIDCO-NET, US
+24.111.165.211|/NBitcoin:5.0.49/|70012||||||
 24.171.115.246|/LitecoinCore:0.15.1/|70015||||||
 24.34.61.18|/LitecoinCore:0.18.1/|70015||||||
 27.125.242.128|/loaf-android:175/|70015||||||
@@ -151,6 +149,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.135.143.70|/LitecoinCore:0.18.1/|70015||||||
 5.151.88.67|/BitcoinKit:0.1.0/|70015||||||
 5.157.108.204|/LitecoinCore:0.18.1/|70015||||||
+5.169.74.86|/BitcoinKit:0.1.0/|70015||||||
 5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
 50.93.23.76|/BitcoinKit:0.1.0/|70015||||||
 51.161.50.202|/LitecoinCore:0.16.3/|70015||||||
@@ -180,11 +179,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.213.2.42|/LitecoinCore:0.18.1/|70015||||||
 73.97.216.204|/LitecoinCore:0.16.3/|70015||||||
 76.174.236.180|/BitcoinKit:0.1.0/|70015||||||
-77.137.7.50|/LitecoinCore:0.18.1/|70015||||||
 77.35.236.123|/LitecoinCore:0.18.1/|70015||||||
 77.51.183.252|/LitecoinCore:0.18.1/|70015||||||
 79.203.225.17|/WalletKit:0.1.0/|70015||||||
 80.136.50.107|/LitecoinCore:0.18.1/|70015||||||
+80.146.98.49|/LitecoinCore:0.18.1/|70015||||||
 80.147.221.30|/LitecoinCore:0.18.1/|70015||||||
 81.196.30.65|/LitecoinCore:0.18.1/|70015||||||
 82.59.103.245|/loaf-android:175/|70015||||||
