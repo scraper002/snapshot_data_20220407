@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.199.69.96|/loaf-android:175/|70015||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 104.236.57.24|/Node:0.8.7.2/|70002||||||
-104.7.55.122|/LitecoinCore:0.18.1/|70015||||||
+104.7.55.122|/LitecoinCore:0.18.1/|70015|7018|104.0.0.0/12|US|arin|2014-01-16|ATT-INTERNET4, US
 105.112.35.169|/WalletKit:0.1.0/|70015||||||
 105.112.50.217|/BitcoinKit:0.1.0/|70015||||||
 107.129.162.76|/LitecoinCore:0.17.1/|70015||||||
@@ -58,14 +58,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 165.227.143.37|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-168.195.101.217|/NBitcoin:5.0.49/|70012||||||
+168.195.101.217|/NBitcoin:5.0.49/|70012|264228|168.195.101.0/24|BR|lacnic|2016-08-29|BRASIL STARLINK TELECOMUNICACOES LTDA - EPP, BR
 168.243.186.17|/BitcoinKit:0.1.0/|70015||||||
 169.0.2.193|/BitcoinKit:0.1.0/|70015||||||
 169.54.87.93|/LitecoinCore:0.18.1/|70015||||||
 170.247.36.88|/B2CCoinCore:0.16.3/|70015||||||
 170.79.201.218|/B2CCoinCore:0.16.3/|70015||||||
-170.84.55.121|/B2CCoinCore:0.16.3/|70015||||||
-171.233.200.210|/NBitcoin:5.0.49/|70012||||||
+170.84.55.121|/B2CCoinCore:0.16.3/|70015|263009|170.84.52.0/22|BR|lacnic|2016-05-23|FORTE TELECOM LTDA., BR
+171.233.200.210|/NBitcoin:5.0.49/|70012|7552|171.233.200.0/24|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
 172.56.17.178|/BitcoinKit:0.1.0/|70015||||||
 172.56.20.192|/loaf-android:175/|70015||||||
 172.58.142.200|/BitcoinKit:0.1.0/|70015||||||
@@ -83,6 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.150.44.138|/DigitaleuroCore:0.16.3/|70015||||||
 185.19.31.5|/LitecoinCore:0.18.1/|70015||||||
 185.210.140.218|/LitecoinCore:0.14.2/|70015||||||
+185.220.101.137|/BitcoinKit:0.1.0/|70015||||||
 185.220.101.166|/BitcoinKit:0.1.0/|70015||||||
 185.220.101.191|/BitcoinKit:0.1.0/|70015||||||
 185.220.101.43|/BitcoinKit:0.1.0/|70015||||||
@@ -90,7 +91,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.54|/LitecoinCore:0.18.1/|70015||||||
 185.246.56.72|/LitecoinCore:0.18.1/|70015||||||
 185.253.183.26|/LitecoinCore:0.18.1/|70015||||||
-185.254.75.54|/BitcoinKit:0.1.0/|70015||||||
 185.33.237.17|/LitecoinCore:0.18.1/|70015||||||
 185.62.101.121|/LitecoinCore:0.17.1/|70015||||||
 186.208.222.93|/B2CCoinCore:0.16.3/|70015||||||
@@ -108,9 +108,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.106.30.90|/LitecoinCore:0.15.1/|70015||||||
 193.106.60.145|/CounosXCore:0.17.2/|70015||||||
 194.49.59.148|/BitcoinKit:0.1.0/|70015||||||
+194.5.207.78|/LitecoinCore:0.18.1/|70015||||||
 195.139.158.248|/NBitcoin:5.0.49/|70012||||||
 197.210.79.82|/loaf-android:175/|70015||||||
-197.211.58.124|/WalletKit:0.1.0/|70015|328309|197.211.58.0/24|NG|afrinic|2012-12-21|Globacom-AS, NG
+197.211.58.124|/WalletKit:0.1.0/|70015||||||
 198.252.153.109|/BitcoinKit:0.1.0/|70015||||||
 199.127.62.235|LitecoinCore:0.18.1|75000||||||
 201.189.237.112|/BitcoinKit:0.1.0/|70015||||||
@@ -135,7 +136,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.83.30.168|/btcwire:0.5.0/ltcd:0.20.1/|70013||||||
 3.88.40.5|/Dain:0.1.0/|70003||||||
 31.207.255.81|/LitecoinCore:0.18.1/|70015||||||
-31.4.130.31|/WalletKit:0.1.0/|70015|12430|31.4.0.0/16|ES|ripencc|2011-04-07|VODAFONE_ES, ES
+31.4.130.31|/WalletKit:0.1.0/|70015||||||
 31.4.194.172|/BitcoinKit:0.1.0/|70015||||||
 34.233.95.55|/bitcore:8.25.12/|70011||||||
 34.79.155.43|/LitecoinCore:0.18.1/|70015||||||
@@ -213,7 +214,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.133.177.140|/NBitcoin:5.0.49/|70012||||||
 88.80.187.187|/Node:0.8.7.2/|70002||||||
 89.158.148.86|/LitecoinCore:0.18.1/|70015||||||
-89.164.55.92|/NBitcoin:5.0.49/|70012||||||
 89.187.164.96|/BitcoinKit:0.1.0/|70015||||||
 89.246.121.205|/BitcoinKit:0.1.0/|70015||||||
 89.40.14.208|/LitecoinCore:0.16.3/|70015||||||
