@@ -27,7 +27,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.216.218|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 138.197.141.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 14.202.151.7|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-141.136.137.229|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 141.138.33.72|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.138.42.237|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.95.55.97|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -82,6 +81,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.178|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.32|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.41|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
+185.220.101.57|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.63|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 185.247.70.36|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -108,7 +108,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.91.237.179|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-2.203.0.170|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
+2.203.0.170|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 2.27.96.205|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 204.237.88.45|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.237.91.178|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -117,7 +117,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.174.68.81|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 206.189.90.171|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 206.198.253.227|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-206.45.40.84|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|7122|206.45.0.0/16|CA|arin|1995-06-06|MTS-ASN, CA
+206.45.40.84|/Satoshi:0.20.2/Peercoin:0.10.3/|70015||||||
 207.244.240.40|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 210.75.253.169|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 212.228.29.144|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -197,7 +197,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.148.60.104|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 77.223.119.124|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-77.81.139.228|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 78.106.24.248|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.106.96.235|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.115.18.37|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
@@ -208,7 +207,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.17.31.76|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 79.218.218.177|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 79.248.192.39|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-79.59.255.93|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
+79.59.255.93|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3269|79.59.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.120.235.166|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 80.135.52.174|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 80.141.130.238|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -228,7 +227,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.65.233.245|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 84.87.9.141|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 85.25.202.57|/Satoshi:0.6.3/Peercoin:0.5.4/|60006||||||
-85.255.234.159|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|25135|85.255.234.0/23|GB|ripencc|2006-05-17|VODAFONE_UK_ASN, GB
+85.255.234.159|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 86.150.72.120|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 86.181.128.131|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 86.31.12.108|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
