@@ -2,7 +2,7 @@
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.159.255.39|/LitecoinCore:0.18.1/|70015|6713|105.159.248.0/21|MA|afrinic|2011-06-02|IAM-AS, MA
-110.42.213.113|/Satoshi:0.13.2.1/|70015||||||
+110.42.213.113|/Satoshi:0.13.2.1/|70015|45090|110.42.192.0/18|CN|apnic|2009-03-04|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 111.108.29.123|/Satoshi:0.8.7.2/|70002||||||
 117.136.39.85|/WalletKit:0.1.0/|70015||||||
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -12,16 +12,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.160.113.112|/loaf-android:175/|70015||||||
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-131.196.133.161|/LitecoinCore:0.18.1/|70015|265928|131.196.132.0/22|BR|lacnic|2017-07-06|MWA MAIS, BR
-136.56.33.213|/Satoshi:0.8.6.1/|70002||||||
+131.196.133.161|/LitecoinCore:0.18.1/|70015||||||
+136.56.33.213|/Satoshi:0.8.6.1/|70002|16591|136.56.32.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 138.97.137.100|/B2CCoinCore:0.16.3/|70015||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-141.239.77.197|/LitecoinCore:0.18.1/|70015|36149|141.239.0.0/16|US|arin|1990-08-10|HAWAIIAN-TELCOM, US
+141.239.77.197|/LitecoinCore:0.18.1/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
-148.251.22.112|/LitecoinCore:0.18.1/|70015|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
+148.251.22.112|/LitecoinCore:0.18.1/|70015||||||
 149.74.83.71|/KaanacoinCore:0.16.3/|70015||||||
 154.0.26.110|/WalletKit:0.1.0/|70015||||||
 154.216.2.131|/BitcoinKit:0.1.0/|70015||||||
@@ -39,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 169.54.87.93|/LitecoinCore:0.18.1/|70015||||||
 170.79.155.243|/B2CCoinCore:0.16.3/|70015||||||
 170.84.55.121|/B2CCoinCore:0.16.3/|70015||||||
-172.58.84.231|/loaf-android:175/|70015||||||
 174.247.9.203|/BitcoinKit:0.1.0/|70015||||||
 176.50.223.48|/LitecoinCore:0.16.2/|70015||||||
 177.126.154.255|/B2CCoinCore:0.16.3/|70015||||||
@@ -49,7 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.176.112.17|/loaf-android:175/|70015||||||
 178.176.170.5|/LitecoinCore:0.18.1/|70015||||||
 178.255.153.166|/LitecoinCore:0.18.1/|70015||||||
-178.63.123.92|/CounosCashCore:0.15.1/|70015||||||
+178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.111.23.143|/NBitcoin:5.0.49/|70012||||||
 18.157.201.127|/NBitcoin:5.0.49/|70012||||||
 180.109.10.109|/LitecoinCore:0.17.1/|70015||||||
@@ -61,7 +60,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.143|/BitcoinKit:0.1.0/|70015||||||
 185.220.101.191|/LitecoinCore:0.18.1/|70015||||||
 185.220.101.37|/BitcoinKit:0.1.0/|70015||||||
-185.220.101.45|/BitcoinKit:0.1.0/|70015||||||
 185.23.142.33|/BitcoinKit:0.1.0/|70015||||||
 186.250.236.199|/B2CCoinCore:0.16.3/|70015||||||
 187.114.55.72|/NBitcoin:5.0.49/|70012||||||
@@ -69,23 +67,22 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.35.146.68|/B2CCoinCore:0.16.3/|70015||||||
 188.124.46.112|/LitecoinCore:0.16.3/|70015||||||
 188.131.162.86|/btc-seeder:0.0001/|70013||||||
-189.6.234.252|/B2CCoinCore:0.16.3/|70015||||||
 190.123.43.53|/BitcoinKit:0.1.0/|70015||||||
 190.123.43.60|/BitcoinKit:0.1.0/|70015||||||
 191.116.38.213|/BitcoinKit:0.1.0/|70015||||||
 191.181.173.9|/B2CCoinCore:0.16.3/|70015||||||
 191.96.185.184|/LitecoinCore:0.17.1/|70015||||||
-192.187.97.78|/LitecoinCore:0.15.1/|70015|33387|192.187.96.0/19|US|arin|2013-05-01|NOCIX, US
+192.187.97.78|/LitecoinCore:0.15.1/|70015||||||
 193.106.60.145|/CounosXCore:0.17.2/|70015||||||
 194.135.118.19|/LitecoinCore:0.18.1/|70015||||||
 194.44.247.37|/LitecoinCore:0.16.3/|70015||||||
 195.24.136.186|/loaf:2.1/|70015||||||
 197.210.8.64|/loaf-android:175/|70015||||||
 199.127.62.235|LitecoinCore:0.18.1|75000||||||
-199.16.178.86|/Satoshi:0.8.5.1/|70002||||||
+199.16.178.86|/Satoshi:0.8.5.1/|70002|40076|199.16.176.0/22|US|arin|2010-07-14|DOVETEL, US
 200.185.208.83|/NBitcoin:5.0.49/|70012||||||
 209.250.235.59|/LitecoinCore:0.16.3/|70015||||||
-213.160.158.74|/Satoshi:0.10.2.2/|70003||||||
+213.160.158.74|/Satoshi:0.10.2.2/|70003|12963|213.160.128.0/19|UA|ripencc|2000-01-19|VOLZ Scientific -Industrial Firm Volz Ltd, UA
 216.10.217.57|/BitcoinKit:0.1.0/|70015||||||
 217.17.123.219|/LitecoinCore:0.18.1/|70015||||||
 217.64.148.101|/LitecoinCore:0.18.1/|70015||||||
@@ -99,7 +96,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.93.164.12|/Dain:0.1.0/|70003||||||
 34.107.8.127|/LitecoinCore:0.18.1/|70015||||||
 34.233.95.55|/bitcore:8.25.12/|70011||||||
-45.56.69.105|/Block.io:0.1.0/|70002||||||
+45.56.69.105|/Block.io:0.1.0/|70002|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.88.188.220|/LitecoinCore:0.18.1/|70015||||||
 46.101.95.209|/LitecoinCore:0.18.1/|70015||||||
 47.186.11.96|/LitecoinCore:0.18.1/|70015||||||
