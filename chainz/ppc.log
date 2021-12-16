@@ -23,7 +23,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.125.20.105|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 114.125.5.190|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 115.235.102.195|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-115.84.237.99|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 119.45.242.241|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 124.107.173.55|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
@@ -52,6 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.90.223.151|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 158.174.41.249|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 158.69.25.32|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+159.196.144.25|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 159.196.171.179|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 159.65.153.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -84,6 +84,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.212.10.1|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 185.220.100.242|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.100.252|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+185.220.101.129|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.136|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.220.101.138|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.184|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
@@ -101,7 +102,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.195.226.152|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 190.96.1.19|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 191.101.209.63|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-191.96.106.206|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 193.40.103.252|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 194.230.148.192|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 194.233.89.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -218,7 +218,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.132.143.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 78.26.142.87|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
+78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 79.17.31.76|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 79.247.248.56|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -227,7 +227,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.73.98.232|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 80.116.62.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 80.120.235.166|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-80.141.130.238|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.141.130.238|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 80.208.65.35|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 80.218.192.159|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 80.235.45.22|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -240,7 +240,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.96.200.38|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 84.115.210.25|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 84.153.219.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-84.169.236.14|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.169.236.14|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 84.241.10.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 84.61.255.71|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 84.64.246.35|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
