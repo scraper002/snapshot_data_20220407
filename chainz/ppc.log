@@ -39,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.164.189|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 135.181.216.218|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 138.197.141.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-141.138.37.57|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.138.39.83|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.95.55.97|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 143.131.15.197|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -84,6 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.33.239.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 180.74.66.132|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 183.225.239.4|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+184.155.240.160|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 184.190.233.217|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 185.100.87.174|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.138.191.7|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
@@ -97,6 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.144|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.220.101.184|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.37|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
+185.220.101.62|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.236.42.202|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 185.45.193.32|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
@@ -185,9 +186,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.102.148.22|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 69.107.129.201|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-71.175.22.59|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|701|71.175.0.0/16|US|arin|2005-06-01|UUNET, US
+71.175.22.59|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 71.81.228.36|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-72.143.225.24|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|812|72.143.224.0/23|CA|arin|2005-09-20|ROGERS-COMMUNICATIONS, CA
+72.143.225.24|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 72.182.206.159|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 73.140.51.169|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -226,7 +227,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.137.78.120|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.153.219.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 84.241.10.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-84.247.48.169|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+84.247.48.169|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|16247|84.247.48.0/24|RO|ripencc|2004-10-08|M247 M247 Ltd, Metronet UK Limited & Venus Business Communications Ltd trading as M247, GB
 85.140.2.65|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 85.212.17.95|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 85.249.162.3|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -257,5 +258,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 96.22.170.162|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 97.115.157.229|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
-99.199.237.109|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+99.199.237.109|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|852|99.199.224.0/20|CA|arin|2008-08-01|TELUS Communications, CA
 99.68.157.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
