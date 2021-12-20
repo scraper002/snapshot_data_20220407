@@ -15,9 +15,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.139.80.217|/DigiByte:7.17.3/|70017||||||
 107.191.63.126|/DigiByte:7.17.2/|70017||||||
 109.212.230.13|/DigiByte:7.17.2/|70017||||||
-117.236.189.14|/DigiByte:7.17.2/|70017|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
-119.23.35.152|/DigiByte:7.17.2/|70017|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-12.244.161.182|/DigiByte:7.17.2/|70017|7018|12.128.0.0/9|US|arin|1983-08-23|ATT-INTERNET4, US
+117.236.189.14|/DigiByte:7.17.2/|70017||||||
+119.23.35.152|/DigiByte:7.17.2/|70017||||||
+12.244.161.182|/DigiByte:7.17.2/|70017||||||
 120.133.230.86|/DigiByte:7.17.2/|70017|4811|120.133.228.0/22|CN|apnic|2008-04-04|CHINANET-SHANGHAI-MAN China Telecom Group, CN
 120.18.8.175|/digiwallet:1.0.0/|70017||||||
 121.98.150.116|/DigiByte:7.17.2/|70017|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
@@ -46,7 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.22.76.76|/DigiByte:7.17.2/|70017||||||
 172.105.36.91|/DigiByte:7.17.3/|70017||||||
 172.58.187.85|/digiwallet:1.0.0/|70017||||||
-172.7.16.63|/DigiByte:8.22.0/|70018||||||
+172.7.16.63|/DigiByte:8.22.0/|70018|7018|172.0.0.0/12|US|arin|2012-08-20|ATT-INTERNET4, US
 172.98.83.4|/DigiByte:7.17.2/|70017||||||
 173.212.202.33|/DigiByte:7.17.2/|70017||||||
 174.192.70.13|/digiwallet:1.0.0/|70017||||||
@@ -87,7 +87,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.72.4.157|/DigiByte:7.17.2/|70017||||||
 223.177.58.76|/digiwallet:1.0.0/|70017||||||
 223.204.55.87|/DigiByte:7.17.2/|70017||||||
-23.88.116.201|/DigiByte:8.22.0/|70018||||||
+23.88.116.201|/DigiByte:8.22.0/|70018|24940|23.88.0.0/17|DE|ripencc|2013-06-07|HETZNER-AS, DE
 23.88.77.172|/DigiByte:7.17.2/|70017||||||
 23.97.222.172|/DigiByte:7.17.2/|70017||||||
 24.220.199.156|/DigiByte:7.17.2/|70017||||||
@@ -125,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.39.68.143|/DigiByte:7.17.2/|70017||||||
 51.83.186.57|/DigiByte:7.17.2/|70017||||||
 51.89.211.42|/DigiByte:7.17.2/|70017||||||
+52.10.44.115|/DigiByte:8.22.0/|70018|16509|52.10.0.0/15|US|arin|1991-12-19|AMAZON-02, US
 52.144.99.74|/DigiByte:7.17.2/|70017||||||
 52.203.105.100|/DigiByte:7.17.2/|70017||||||
 54.251.36.145|/DigiByte:7.17.3/|70017||||||
@@ -134,7 +135,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.44.140.5|/DigiByte:7.17.2/|70017||||||
 65.21.40.28|/DigiByte:7.17.3/|70017||||||
 66.219.246.77|/DigiByte:7.17.2/|70017||||||
-67.3.184.175|/digiwallet:1.0.0/|70017||||||
 69.179.228.247|/DigiByte:7.17.2/|70017||||||
 69.196.142.76|/digiwallet:1.0.0/|70017||||||
 69.243.102.55|/DigiByte:7.17.3/|70017||||||
@@ -153,17 +153,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.255.85.196|/DigiByte:7.17.3/|70017||||||
 77.75.36.104|/DigiByte:7.17.2/|70017||||||
 78.148.136.70|/DigiByte:7.17.2/|70017||||||
-78.55.50.226|/digiwallet:1.0.0/|70017|6805|78.48.0.0/13|DE|ripencc|2007-02-28|TDDE-ASN1, DE
+78.55.50.226|/digiwallet:1.0.0/|70017||||||
 8.135.100.61|/DigiByte:7.17.2/|70017||||||
 80.215.234.84|/DigiByte:7.17.3/|70017||||||
 80.249.6.217|/DigiByte:8.22.0/|70018||||||
-81.242.67.155|/digiwallet:1.0.0/|70017|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
+81.242.67.155|/digiwallet:1.0.0/|70017||||||
 82.72.72.38|/DigiByte:7.17.2/|70017||||||
 85.10.202.167|/DigiByte:7.17.2/|70017||||||
-85.138.196.100|/digiwallet:1.0.0/|70017|2860|85.138.192.0/18|PT|ripencc|2004-12-01|NOS_COMUNICACOES, PT
+85.138.196.100|/digiwallet:1.0.0/|70017||||||
 85.184.191.57|/DigiByte:7.17.3/|70017||||||
 85.218.174.28|/DigiByte:7.17.2/|70017||||||
-85.26.241.22|/digiwallet:1.0.0/|70017|31133|85.26.241.0/24|RU|ripencc|2005-03-10|MF-MGSM-AS PJSC MegaFon, RU
+85.26.241.22|/digiwallet:1.0.0/|70017||||||
 87.103.49.216|/digiwallet:1.0.0/|70017|12353|87.103.0.0/17|PT|ripencc|2005-10-19|VODAFONE-PT Vodafone Portugal, PT
 87.26.240.75|/DigiByte:7.17.3/|70017||||||
 87.98.240.205|/DigiByte:7.17.2/|70017||||||
