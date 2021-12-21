@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 122.228.157.82|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 122.51.249.99|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-124.168.181.155|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+124.168.181.155|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7545|124.168.160.0/19|AU|apnic|2006-03-20|TPG-INTERNET-AP TPG Telecom Limited, AU
 128.227.231.94|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 129.227.96.82|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 134.101.35.47|/Satoshi:0.20.2/Peercoin:0.10.3/|70015||||||
@@ -42,7 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.138.39.83|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.95.55.97|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 143.131.15.197|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.0|70016|14061|143.198.112.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
+143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 143.198.164.157|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 144.91.97.13|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 145.236.67.253|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -109,7 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.96.1.19|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 192.154.231.66|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 193.40.103.252|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-194.230.148.192|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|6730|194.230.0.0/16|CH|ripencc|1996-01-23|SUNRISE, CH
+194.230.148.192|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 194.233.89.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 195.154.184.48|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -122,14 +122,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 199.195.248.29|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-2.203.0.170|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
+2.203.0.170|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 2.27.96.205|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
-201.3.88.21|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-203.198.146.232|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
+201.3.88.21|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|8167|201.3.64.0/18|BR|lacnic|2003-12-23|Brasil Telecom SA - Filial Distrito Federal, BR
+203.198.146.232|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.237.48.133|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.237.49.176|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.237.50.164|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-204.237.50.70|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+204.237.50.70|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|22995|204.237.0.0/17|CA|arin|2009-08-31|BARR-XPLR-ASN, CA
 204.237.51.209|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.237.89.141|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 204.8.156.142|/Satoshi:0.16.3/|70015||||||
@@ -138,13 +138,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.198.253.227|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 206.45.40.84|/Satoshi:0.20.2/Peercoin:0.10.3/|70015||||||
 207.244.240.40|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-210.75.253.169|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+210.75.253.169|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|7497|210.75.252.0/23|CN|apnic|1998-04-06|CSTNET-AS-AP Computer Network Information Center, CN
 212.119.227.158|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 212.187.3.64|/Satoshi:0.6.3/Peercoin:0.5.0/Peerunity:0.2.2/|60006||||||
 212.210.149.226|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 212.228.29.144|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 212.85.236.29|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 216.137.116.136|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 216.188.233.105|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 219.79.245.78|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -211,7 +211,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.182.46.18|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 75.7.170.67|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 75.88.223.119|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-76.171.50.47|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+76.171.50.47|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 76.65.58.9|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 76.69.190.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 76.85.101.43|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
