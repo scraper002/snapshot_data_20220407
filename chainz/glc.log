@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.18.5.109|/GoldcoinCore:0.14.8/|70015||||||
 101.128.87.222|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 102.89.0.198|/GoldcoinCore:0.14.8/|70015||||||
-102.89.0.43|/GoldcoinCore:0.14.8/|70015|29465|102.89.0.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
+102.89.0.43|/GoldcoinCore:0.14.8/|70015||||||
 102.89.3.49|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.10.67.164|/goldwallet:1.0.9/|70000||||||
 103.101.104.116|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.111.140.155|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.111.202.182|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 103.118.76.162|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+103.121.18.46|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.121.18.77|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.122.65.226|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.124.137.155|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -71,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.215.173.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.173.236|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.173.46|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-112.215.174.214|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.175.123|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.208.236|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.219.128|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -187,11 +187,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.125.102.23|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.108.130|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 114.125.108.174|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.125.110.221|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.125.116.80|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.116.91|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.120.225|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.124.25|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.125.175.179|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.181.162|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.184.202|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.184.74|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -408,7 +407,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.213.148.206|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.149.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.15.114|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
+140.213.15.120|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 140.213.150.2|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+140.213.150.220|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.150.221|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.150.245|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.150.50|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -433,12 +434,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.213.7.181|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.7.67|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 140.213.71.39|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-140.213.9.108|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+140.213.9.108|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.9.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 144.91.116.146|/GoldcoinCore:0.14.8/|70015||||||
 144.91.82.187|/GoldcoinCore:0.14.8/|70015||||||
-145.255.183.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+145.255.183.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9198|145.255.182.0/23|KZ|ripencc|2011-11-22|KAZTELECOM-AS, KZ
 147.135.97.55|/GoldcoinCore:0.14.8/|70015||||||
-149.110.118.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+149.110.118.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23700|149.110.96.0/19|US|arin|1992-01-28|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 149.56.155.28|/GoldcoinCore:0.14.8/|70015||||||
 151.106.12.247|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 151.43.46.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -571,7 +572,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.108.40|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.109.128|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.110.246|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.111.45|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.112.6|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.113.195|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.116.117|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -613,53 +613,53 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.237.131|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.3.96|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.35.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.56.210|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.66.116|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.68.219|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.68.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.69.248|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.72.232|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.76.136|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.81.187|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.81.253|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.87.119|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.90.126|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.56.210|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.66.116|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.68.219|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.68.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.69.248|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.72.232|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.76.136|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.81.187|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.81.253|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.87.119|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.90.126|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.90.54|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-182.1.90.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.92.203|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.92.237|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.95.40|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.96.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.97.24|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.99.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.100.44|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.105.102|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.105.115|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.90.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.92.203|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.92.237|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.95.40|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.96.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.97.24|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.99.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.100.44|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.105.102|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.105.115|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.132.173|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 182.2.133.165|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
-182.2.134.200|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.135.11|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.136.65|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.138.192|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.164.72|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.166.157|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.166.203|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.170.239|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.171.78|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.229.77|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.231.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.2.134.200|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.135.11|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.136.65|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.138.192|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.164.72|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.166.157|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.166.203|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.170.239|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.171.78|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.229.77|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.231.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.231.124|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-182.2.231.3|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.36.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.37.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.38.165|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.39.204|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.40.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.41.183|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.42.134|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.42.177|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.68.196|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.2.69.20|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.2.231.3|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.0.0/12|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.36.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.37.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.38.165|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.39.204|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.40.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.41.183|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.42.134|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.42.177|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.68.196|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.2.69.20|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.70.105|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 182.2.71.101|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.2.71.138|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -706,6 +706,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.3.73.93|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.3.8.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.3.9.140|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+185.210.141.20|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 185.52.0.211|/GoldcoinCore:0.14.8/|70015||||||
 187.246.227.210|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 188.34.161.186|/GoldcoinCore:0.14.8/|70015||||||
@@ -805,6 +806,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.85.230.206|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.85.237.214|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.85.248.61|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+36.85.248.85|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 36.85.251.48|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.90.218.39|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.90.43.14|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
