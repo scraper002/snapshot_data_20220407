@@ -5,8 +5,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.194.60.59|/Satoshi:0.13.2/|70015||||||
 101.206.250.5|/BitcoinKit:0.1.0/|70015|4837|101.204.0.0/14|CN|apnic|2010-12-20|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 101.93.32.20|/LitecoinCore:0.18.1/|70015||||||
-103.145.133.254|/BitcoinKit:0.1.0/|70015||||||
-103.230.106.25|/BitcoinKit:0.1.0/|70015||||||
+103.145.133.254|/BitcoinKit:0.1.0/|70015|139809|103.145.133.0/24|BD|apnic|2019-11-25|SWIFTNET-AS-AP Swift Net, BD
+103.230.106.25|/BitcoinKit:0.1.0/|70015|45925|103.230.106.0/24|BD|apnic|2014-04-30|TELETALK-BD ASN For Teletalk Bangladesh Ltd., BD
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 105.112.160.82|/BitcoinKit:0.1.0/|70015||||||
 106.112.237.74|/BitcoinKit:0.1.0/|70015||||||
@@ -63,6 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 167.99.137.196|/LitecoinCore:0.18.1/|70015||||||
+172.58.77.120|/BitcoinKit:0.1.0/|70015||||||
 172.58.77.214|/BitcoinKit:0.1.0/|70015||||||
 173.249.59.169|/LitecoinCore:0.18.1/|70015||||||
 175.223.17.130|/BitcoinKit:0.1.0/|70015||||||
@@ -90,6 +91,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.124.46.112|/LitecoinCore:0.16.3/|70015||||||
 188.139.228.3|???|0||||||
 188.162.201.162|/LitecoinCore:0.18.1/|70015||||||
+188.163.32.221|/LitecoinCore:0.18.1/|70015||||||
 188.170.86.3|/LitecoinCore:0.16.3/|70015||||||
 188.18.238.45|/LitecoinCore:0.18.1/|70015||||||
 188.20.184.122|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
@@ -130,12 +132,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.240.133.154|/LitecoinCore:0.18.1/|70015||||||
 35.205.223.37|/LitecoinCore:0.18.1/|70015||||||
 36.61.33.30|/BitcoinKit:0.1.0/|70015||||||
+36.7.42.163|/BitcoinKit:0.1.0/|70015||||||
 37.120.244.158|/LitecoinCore:0.21.1/|70016||||||
 37.19.195.4|/BitcoinKit:0.1.0/|70015||||||
 39.148.89.103|/BitcoinKit:0.1.0/|70015||||||
 41.189.61.139|/BitcoinKit:0.1.0/|70015||||||
 42.111.29.164|/BitcoinKit:0.1.0/|70015||||||
 45.126.209.106|LitecoinCore:0.18.1|70099||||||
+45.249.222.219|/BitcoinKit:0.1.0/|70015||||||
 45.88.188.220|/LitecoinCore:0.18.1/|70015||||||
 46.151.159.53|/CounosCoinCore:0.15.3.2/|70015||||||
 46.251.195.77|/loaf-android:175/|70015||||||
@@ -163,11 +167,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.147.104.150|/LitecoinCore:0.18.1/|70015||||||
 54.214.57.139|/LitecoinCore:0.17.1/|70015||||||
 58.243.254.107|/BitcoinKit:0.1.0/|70015||||||
-59.153.254.11|/loaf-android:175/|70015||||||
+59.153.254.11|/loaf-android:175/|70015|131429|59.153.254.0/24|VN|apnic|2015-10-22|MOBIFONE-AS-VN MOBIFONE Corporation, VN
 64.225.41.169|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 65.21.239.211|/LitecoinCore:0.18.1/|70015||||||
 67.205.191.42|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-67.220.32.114|/BitcoinKit:0.1.0/|70015||||||
 68.38.79.1|/LitecoinCore:0.18.1/|70015||||||
 69.136.97.147|/LitecoinCore:0.18.1/|70015||||||
 71.65.204.50|/BitcoinKit:0.1.0/|70015||||||
@@ -198,7 +201,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.151.67|/LitecoinCore:0.16.3/|70015||||||
 89.12.9.127|/LitecoinCore:0.17.1/|70015||||||
 91.201.177.34|/LitecoinCore:0.18.1/|70015||||||
-92.40.178.111|/loaf-android:175/|70015|206067|92.40.178.0/23|GB|ripencc|2007-11-21|H3GUK, GB
+92.40.178.111|/loaf-android:175/|70015||||||
 92.40.182.117|/LitecoinCore:0.17.1/|70015||||||
 92.42.34.252|/Satoshi:0.13.2/|70015||||||
 92.89.143.222|/LitecoinCore:0.18.1/|70015||||||
