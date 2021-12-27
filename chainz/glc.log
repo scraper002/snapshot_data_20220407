@@ -198,7 +198,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.178.247.235|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 116.203.106.98|/GoldcoinCore:0.14.8/|70015||||||
 116.206.14.15|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-116.206.28.27|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 116.206.40.1|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 116.206.40.63|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 116.206.40.75|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -214,7 +213,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.188.72.178|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.78.30|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.79.61|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-120.188.80.66|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|120.188.80.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+120.188.80.66|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.82.200|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.87.118|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.93.115|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -324,11 +323,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.243.36.15|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.244.131.14|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.244.138.90|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+180.244.139.187|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 180.244.165.135|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
 180.244.73.235|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.244.91.10|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.246.13.25|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.247.115.236|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+180.247.46.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.248.9.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.184.157|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.184.219|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -371,8 +372,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.0.165.31|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.0.165.95|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.0.166.126|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.100.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.101.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.100.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.101.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.102.78|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.102.94|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.104.2|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -497,19 +498,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.78.121.57|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 209.126.86.10|/GoldcoinCore:0.14.8/|70015||||||
 209.42.146.167|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-210.210.156.32|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4787|210.210.156.0/23|ID|apnic|2004-01-14|ASN-CBN PT Cyberindo Aditama, ID
+210.210.156.32|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 213.142.11.91|/GoldcoinCore:0.14.7/|70015||||||
 216.137.116.136|/GoldcoinCore:0.14.8/|70015||||||
-219.79.46.4|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4760|219.79.32.0/19|HK|apnic|2003-07-07|HKTIMS-AP HKT Limited, HK
-223.255.228.100|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
+219.79.46.4|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+223.255.228.100|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 223.255.228.101|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 223.255.228.107|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-223.255.228.109|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
-223.255.228.89|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
+223.255.228.109|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+223.255.228.89|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 223.255.228.94|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-223.255.230.39|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.230.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
+223.255.230.39|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 31.25.241.224|/GoldcoinCore:0.14.8/|70015||||||
-36.68.220.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.68.216.0/21|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+36.68.220.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.69.6.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.69.90.253|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.70.138.77|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -565,7 +566,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.231.36.39|/GoldcoinCore:0.14.8/|70015||||||
 80.65.23.139|/GoldcoinCore:0.14.8/|70015||||||
 82.151.123.134|/goldwallet:1.0.9/|70000||||||
-82.200.205.30|/GoldcoinCore:0.14.8/|70015||||||
+82.200.205.30|/GoldcoinCore:0.14.8/|70015|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 83.221.211.116|/GoldcoinCore:0.14.8/|70015||||||
 83.60.98.118|/GoldcoinCore:0.14.8/|70015||||||
 84.232.241.53|/goldwallet:1.0.9/|70000||||||
