@@ -19,7 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 119.137.54.187|/BitcoinKit:0.1.0/|70015||||||
-119.18.1.247|/LitecoinCore:0.18.1/|70015||||||
+119.18.1.247|/LitecoinCore:0.18.1/|70015|4764|119.18.0.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
 120.231.143.221|/BitcoinKit:0.1.0/|70015||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
 121.31.58.133|/BitcoinKit:0.1.0/|70015||||||
@@ -29,7 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.192.211|/CounosXCore:0.17.2/|70015||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 142.163.136.184|/LitecoinCore:0.18.1/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 143.178.72.67|/LitecoinCore:0.18.1/|70015||||||
@@ -39,7 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 15.235.26.146|/LitecoinCore:0.18.1/|70015||||||
 154.67.82.90|/LitecoinCore:0.17.1/|70015||||||
 156.219.45.159|/BitcoinKit:0.1.0/|70015||||||
-157.245.213.236|/B2CCoinCore:0.16.3/|70015|14061|157.245.208.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 158.69.196.61|/Node:0.8.7.2/|70002||||||
 159.203.22.136|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 159.65.106.248|/LitecoinCore:0.18.1/|70015||||||
@@ -64,6 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.0.251.96|/BitcoinKit:0.1.0/|70015||||||
 184.161.119.2|/NBitcoin:5.0.49/|70012||||||
 185.19.36.71|/bitcore:1.1.0/|70003||||||
+185.203.122.244|/LitecoinCore:0.18.1/|70015||||||
 185.218.127.54|/LitecoinCore:0.18.1/|70015||||||
 185.220.100.249|/LitecoinCore:0.18.1/|70015||||||
 185.220.101.133|/BitcoinKit:0.1.0/|70015||||||
@@ -101,13 +102,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.220.208.8|/LitecoinCore:0.18.1/|70015||||||
 203.69.243.19|/BitcoinKit:0.1.0/|70015||||||
 219.128.240.202|/LitecoinCore:0.18.1/|70015||||||
+221.231.196.124|/LitecoinCore:0.17.1/|70015||||||
 222.244.75.45|/BitcoinKit:0.1.0/|70015||||||
 223.104.131.204|/BitcoinKit:0.1.0/|70015||||||
 223.104.90.22|/BitcoinKit:0.1.0/|70015||||||
 223.74.192.144|/LitecoinCore:0.18.1/|70015||||||
 3.0.102.83|/MindexcoinCore:0.18.1/|70015||||||
-3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.88.40.5|/Dain:0.1.0/|70003||||||
 3.93.164.12|/Dain:0.1.0/|70003||||||
 31.134.188.71|/LitecoinCore:0.17.1/|70015||||||
@@ -119,6 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.240.133.154|/LitecoinCore:0.18.1/|70015||||||
 35.205.223.37|/LitecoinCore:0.18.1/|70015||||||
 36.18.113.136|/BitcoinKit:0.1.0/|70015||||||
+36.4.92.93|/BitcoinKit:0.1.0/|70015||||||
 37.120.244.158|/LitecoinCore:0.21.1/|70016||||||
 37.186.53.60|/WalletKit:0.1.0/|70015||||||
 37.201.224.65|/WalletKit:0.1.0/|70015||||||
@@ -132,7 +135,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.151.159.53|/CounosCoinCore:0.15.3.2/|70015||||||
 47.157.19.216|/loaf-android:175/|70015||||||
 47.56.82.31|???|0||||||
-47.74.187.186|/LitecoinCore:0.16.3/|70015||||||
+47.74.187.186|/LitecoinCore:0.16.3/|70015|45102|47.74.128.0/18|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015||||||
 47.9.102.192|/BitcoinKit:0.1.0/|70015||||||
 47.90.245.73|/LitecoinCore:0.17.1/|70015||||||
@@ -146,11 +149,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.182.223|/LitecoinCore:0.16.3/|70015||||||
 51.210.188.41|/LitecoinCore:0.18.1/|70015||||||
 51.222.139.44|/LitecoinCore:0.16.3/|70015||||||
-51.79.241.214|/LitecoinCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
+51.79.241.214|/LitecoinCore:0.16.3/|70015||||||
 51.89.149.234|/LitecoinCore:0.16.3/|70015||||||
 51.89.161.145|/CounosCoinCore:0.15.4/|70015||||||
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015||||||
-52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
+52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 52.66.76.68|/LitecoinCore:0.18.1/|70015||||||
 52.77.254.217|/MindexcoinCore:0.18.1/|70015||||||
 54.179.163.172|/MindexcoinCore:0.18.1/|70015||||||
@@ -192,7 +195,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.103.66.73|/LitecoinCore:0.18.1/|70015||||||
 89.246.121.135|/BitcoinKit:0.1.0/|70015||||||
 90.202.100.213|/BitcoinKit:0.1.0/|70015||||||
-91.201.177.34|/LitecoinCore:0.18.1/|70015||||||
 91.219.212.212|/LitecoinCore:0.18.1/|70015||||||
 91.219.238.25|/LitecoinCore:0.18.1/|70015||||||
 91.239.130.62|/LitecoinCore:0.18.1/|70015||||||
