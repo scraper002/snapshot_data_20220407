@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.9.6|/digibyte-seeder:0.01/|70017||||||
 139.162.42.155|/DigiByte:7.17.3/|70017||||||
 139.180.160.223|/DigiByte:7.17.2/|70017||||||
-141.95.45.92|/DigiByte:7.17.2/|70017||||||
+141.95.45.92|/DigiByte:7.17.2/|70017|16276|141.95.0.0/17|FR|ripencc|1993-02-18|OVH, FR
 142.161.252.95|/DigiByte:7.17.3/|70017||||||
 142.44.212.178|/DigiByte:7.17.2/|70017|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
 144.76.27.125|/DigiByte:7.17.2/|70017|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
@@ -36,8 +36,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.135.14.122|/digiwallet:1.0.0/|70017||||||
 156.146.139.69|/DigiByte:7.17.3/|70017||||||
 156.17.103.252|/DigiByte:7.17.2/|70017|8970|156.17.0.0/16|PL|ripencc|1991-11-01|WASK WROCMAN-EDU educational part of WASK network, Wroclaw, Poland, PL
-159.138.87.18|/DigiByte:7.17.2/|70017|136907|159.138.80.0/20|SG|apnic|1992-04-20|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
-159.89.126.193|/DigiByte:7.17.2/|70017|14061|159.89.112.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
+159.138.87.18|/DigiByte:7.17.2/|70017||||||
+159.89.126.193|/DigiByte:7.17.2/|70017||||||
 167.86.116.187|/DigiByte:7.17.2/|70017||||||
 167.86.118.253|/DigiByte:7.17.2/|70017||||||
 171.255.69.91|/digiwallet:1.0.0/|70017||||||
@@ -47,10 +47,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.19.153|/DigiByte:7.17.2/|70017||||||
 172.58.197.168|/digiwallet:1.0.0/|70017||||||
 172.58.227.247|/digiwallet:1.0.0/|70017||||||
-172.58.41.58|/digiwallet:1.0.0/|70017||||||
-173.212.202.33|/DigiByte:7.17.2/|70017|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
-174.48.186.160|/DigiByte:7.17.2/|70017|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
-176.117.195.164|/DigiByte:7.17.2/|70017|44484|176.117.192.0/19|RU|ripencc|2012-05-18|XTRIM-AS, RU
+173.212.202.33|/DigiByte:7.17.2/|70017||||||
+174.48.186.160|/DigiByte:7.17.2/|70017||||||
+176.117.195.164|/DigiByte:7.17.2/|70017||||||
 176.9.139.234|/DigiByte:7.17.3/|70017||||||
 178.0.56.168|/DigiByte:7.17.2/|70017||||||
 178.178.88.28|/DigiByte:7.17.3/|70017||||||
@@ -69,6 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 191.101.31.15|/DigiByte:7.17.3/|70017||||||
 193.70.35.157|/DigiByte:7.17.2/|70017||||||
 194.103.157.158|/DigiByte:7.17.3/|70017||||||
+197.211.61.45|/digiwallet:1.0.0/|70017||||||
 199.127.62.235|DigiByte:7.17.3|70018||||||
 2.247.252.50|/digiwallet:1.0.0/|70017||||||
 202.186.90.203|/DigiByte:7.17.3/|70017||||||
@@ -106,6 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.104.249|/DigiByte:7.17.2/|70017||||||
 5.189.139.144|/DigiByte:7.17.2/|70017||||||
 5.189.165.69|/DigiByte:7.17.2/|70017||||||
+5.62.24.37|/DigiByte:7.17.2/|70017||||||
 50.126.124.253|/DigiByte:7.17.3/|70017||||||
 50.21.190.189|/DigiByte:7.17.3/|70017||||||
 50.220.121.211|/DigiByte:7.17.3/|70017||||||
@@ -130,7 +131,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.216.216.91|/DigiByte:7.17.2/|70017||||||
 66.219.246.77|/DigiByte:7.17.2/|70017||||||
 67.183.201.137|/DigiByte:7.17.3/|70017||||||
-69.232.108.107|/DigiByte:7.17.2/|70017||||||
 69.243.102.55|/DigiByte:7.17.3/|70017||||||
 69.250.245.29|/digiwallet:1.0.0/|70017||||||
 70.118.62.98|/DigiByte:7.17.2/|70017||||||
@@ -169,7 +169,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.31.103.33|/DigiByte:7.17.3/|70017||||||
 94.6.199.47|/digiwallet:1.0.0/|70017||||||
 95.179.211.33|/DigiByte:7.17.2/|70017||||||
-95.216.97.96|/DigiByte:7.17.2/|70017||||||
+95.216.97.96|/DigiByte:7.17.2/|70017|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.99.219|/DigiByte:7.17.2/|70017||||||
 95.217.78.79|/DigiByte:7.17.2/|70017||||||
 96.19.166.16|/DigiByte:7.17.2/|70017||||||
