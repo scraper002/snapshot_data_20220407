@@ -70,8 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.215.244.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 112.215.65.75|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 113.211.98.39|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-114.10.17.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.10.17.171|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.20.137|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.20.22|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.21.178|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -79,6 +77,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.10.4.217|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.7.185|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.7.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.10.9.185|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.122.100.44|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.122.101.159|???|0||||||
 114.122.101.196|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -162,6 +161,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.5.145.191|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.216.107|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
 114.5.219.46|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.5.220.156|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.243.159|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.246.173|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.246.239|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -210,7 +210,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.188.4.45|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 120.188.5.228|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.6.75|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-120.188.66.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+120.188.66.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|120.188.66.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 120.188.66.73|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.67.135|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 123.195.200.59|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -239,6 +239,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.166.119.152|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.166.13.196|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.167.40.71|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+125.167.59.94|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 132.154.70.62|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 135.148.27.232|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 137.59.14.146|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -298,7 +299,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.88.117.138|/GoldcoinCore:0.14.8/|70015||||||
 168.235.108.149|/GoldcoinCore:0.14.8/|70015||||||
 172.56.20.74|/GoldcoinCore:0.14.8/|70015||||||
-172.56.21.43|/GoldcoinCore:0.14.8/|70015||||||
 172.58.236.61|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 172.58.3.1|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 173.173.220.9|/GoldcoinCore:0.14.3/|70015||||||
@@ -333,7 +333,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.247.69.29|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.128.58|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.175.195|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-180.249.184.160|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.184.173|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.184.34|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.185.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
