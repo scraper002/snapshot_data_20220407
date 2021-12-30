@@ -19,7 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.246.109.228|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 116.7.245.182|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-133.32.232.141|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|2519|133.32.224.0/19|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
+133.32.232.141|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 134.101.35.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 134.209.127.31|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 134.209.71.94|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -67,6 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.40|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 185.247.70.254|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+185.56.80.65|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 188.24.67.6|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 189.1.164.224|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -137,10 +138,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.249.236.211|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 46.81.95.54|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|31200|5.128.0.0/16|RU|ripencc|2012-06-29|NTK IPv6 customers, RU
 5.202.189.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-50.39.166.131|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
+50.39.166.131|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|27017|50.39.128.0/17|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 51.155.109.39|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 51.210.114.183|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -149,12 +150,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.220.135|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 51.77.67.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 51.91.107.13|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-54.38.107.228|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 61.144.174.61|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 62.159.33.3|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 62.213.10.22|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 64.4.160.13|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
-65.101.21.65|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
+65.101.21.65|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|209|65.101.0.0/18|US|arin|2001-01-03|CENTURYLINK-US-LEGACY-QWEST, US
 66.228.35.182|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 67.243.35.228|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 69.107.129.201|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -162,7 +162,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.92.33.174|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 72.182.206.159|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-72.201.68.93|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
+72.201.68.93|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|22773|72.201.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 73.140.51.169|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 73.148.215.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 73.194.98.202|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -228,6 +228,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.130.35.94|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 94.134.113.194|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 94.134.89.155|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+94.23.34.12|/Satoshi:0.8.6/Peercoin:0.7.1/|70002||||||
 94.234.44.79|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 95.236.91.97|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
