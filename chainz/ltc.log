@@ -3,11 +3,11 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.93.32.20|/LitecoinCore:0.18.1/|70015|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 102.129.145.149|/LitecoinCore:0.18.1/|70015|174|102.129.145.0/24|ZA|afrinic|2018-09-28|COGENT-174, US
-102.129.145.227|/LitecoinCore:0.18.1/|70015|174|102.129.145.0/24|ZA|afrinic|2018-09-28|COGENT-174, US
+102.129.145.227|/LitecoinCore:0.18.1/|70015||||||
 102.44.114.130|/BitcoinKit:0.1.0/|70015||||||
 103.199.40.111|/WalletKit:0.1.0/|70015||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
-105.154.254.148|/LitecoinCore:0.18.1/|70015|36903|105.154.248.0/21|MA|afrinic|2011-06-02|MT-MPLS, MA
+105.154.254.148|/LitecoinCore:0.18.1/|70015||||||
 106.76.77.74|/BitcoinKit:0.1.0/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 109.87.76.211|/LitecoinCore:0.14.2/|70015||||||
@@ -16,7 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.125.126.95|/BitcoinKit:0.1.0/|70015||||||
 114.125.27.18|/loaf-android:175/|70015||||||
 115.192.232.235|/BitcoinKit:0.1.0/|70015||||||
-116.202.83.71|/LitecoinCore:0.18.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.202.83.71|/LitecoinCore:0.18.1/|70015||||||
 117.141.50.0|/BitcoinKit:0.1.0/|70015||||||
 117.183.78.214|/BitcoinKit:0.1.0/|70015||||||
 117.205.37.28|/BitcoinKit:0.1.0/|70015||||||
@@ -25,8 +25,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.160.57.46|/BitcoinKit:0.1.0/|70015||||||
 119.73.117.1|/loaf-android:175/|70015||||||
 120.208.28.176|/BitcoinKit:0.1.0/|70015||||||
-120.241.153.144|/LitecoinCore:0.18.1/|70015|56040|120.241.152.0/22|CN|apnic|2008-04-14|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
-120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+120.241.153.144|/LitecoinCore:0.18.1/|70015||||||
+120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
 122.222.66.38|/LitecoinCore:0.18.1/|70015||||||
 123.231.86.161|/BitcoinKit:0.1.0/|70015||||||
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -49,7 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 15.235.26.146|/LitecoinCore:0.18.1/|70015||||||
 151.37.131.148|/WalletKit:0.1.0/|70015||||||
 151.57.199.110|/BitcoinKit:0.1.0/|70015||||||
-152.207.149.171|/BitcoinKit:0.1.0/|70015||||||
+152.207.149.171|/BitcoinKit:0.1.0/|70015|27725|152.207.148.0/22|CU|lacnic|2014-06-04|Empresa de Telecomunicaciones de Cuba, S.A., CU
 155.186.185.149|/LitecoinCore:0.18.1/|70015||||||
 156.219.63.32|/BitcoinKit:0.1.0/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -61,8 +61,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.203.68.40|/LitecoinCore:0.15.1/|70015||||||
 161.97.108.217|/LitecoinCore:0.18.1/|70015||||||
 162.55.97.200|/LitecoinCore:0.18.1/|70015||||||
-162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
-162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+162.62.21.32|/LitecoinCore:0.17.1/|70015||||||
+162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 165.22.233.175|/WalletKit:0.1.0/|70015||||||
 165.22.67.160|/LitecoinCore:0.18.1/|70015||||||
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -98,7 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.244.102.203|/LitecoinCore:0.18.1/|70015||||||
 209.94.191.213|/litecoin-seeder:0.01/|70002||||||
 210.2.150.206|/BitcoinKit:0.1.0/|70015||||||
-213.32.6.132|/DigitaleuroCore:0.16.3/|70015||||||
+213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 217.155.62.20|/LitecoinCore:0.17.1/|70015||||||
 217.16.183.11|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 219.254.243.128|/loaf-android:175/|70015||||||
