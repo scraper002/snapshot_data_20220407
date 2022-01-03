@@ -2,7 +2,7 @@
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.157.105.198|/DigiByte:7.17.2/|70017||||||
-103.16.129.95|/open-nodes:0.1/|70019||||||
+103.16.129.95|/open-nodes:0.1/|70019|133159|103.16.128.0/22|AU|apnic|2013-02-06|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 104.155.142.222|/DigiByte:7.17.3/|70017||||||
 105.112.70.144|/digiwallet:1.0.0/|70017||||||
 105.185.184.97|/DigiByte:7.17.2/|70017||||||
@@ -15,12 +15,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.143.24.234|/digiwallet:1.0.0/|70017||||||
 119.224.17.204|/DigiByte:7.17.3/|70017||||||
 119.23.35.152|/DigiByte:7.17.2/|70017||||||
-122.177.49.42|/DigiByte:7.17.2/|70017|24560|122.177.48.0/20|IN|apnic|2008-07-07|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
-124.156.113.219|/DigiByte:7.17.2/|70017||||||
+122.177.49.42|/DigiByte:7.17.2/|70017||||||
+124.156.113.219|/DigiByte:7.17.2/|70017|132203|124.156.112.0/22|SG|apnic|2006-03-17|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 125.235.60.109|/digiwallet:1.0.0/|70017||||||
 128.124.216.127|/digiwallet:1.0.0/|70017||||||
-128.199.250.222|/DigiByte:7.17.2/|70017||||||
-13.236.152.85|/DigiByte:7.17.2/|70017||||||
+128.199.250.222|/DigiByte:7.17.2/|70017|14061|128.199.192.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+13.236.152.85|/DigiByte:7.17.2/|70017|16509|13.236.0.0/14|US|arin|2019-10-01|AMAZON-02, US
 134.122.89.4|/DigiByte:7.17.2/|70017||||||
 134.209.76.157|/DigiByte:7.17.2/|70017||||||
 136.243.60.74|/DigiByte:7.17.2/|70017||||||
@@ -30,8 +30,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.180.160.223|/DigiByte:7.17.2/|70017||||||
 140.213.146.67|/digiwallet:1.0.0/|70017||||||
 140.213.149.239|/digiwallet:1.0.0/|70017||||||
-141.95.45.92|/DigiByte:7.17.2/|70017|16276|141.95.0.0/17|FR|ripencc|1993-02-18|OVH, FR
-142.44.212.178|/DigiByte:7.17.2/|70017|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
+141.95.45.92|/DigiByte:7.17.2/|70017||||||
+142.44.212.178|/DigiByte:7.17.2/|70017||||||
 145.53.52.246|/DigiByte:7.17.2/|70017||||||
 149.113.73.223|/DigiByte:7.17.3/|70017||||||
 151.250.29.154|/DigiByte:7.17.3/|70017||||||
@@ -122,7 +122,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.208.201|/DigiByte:7.17.2/|70017||||||
 51.222.152.238|/DigiByte:7.17.2/|70017||||||
 51.83.186.57|/DigiByte:7.17.2/|70017||||||
-52.10.44.115|/DigiByte:8.22.0/|70018||||||
+52.10.44.115|/DigiByte:8.22.0/|70018|16509|52.10.0.0/15|US|arin|1991-12-19|AMAZON-02, US
 52.136.229.13|/DigiByte:7.17.3/|70017||||||
 52.144.99.74|/DigiByte:7.17.2/|70017||||||
 52.203.105.100|/DigiByte:7.17.2/|70017||||||
@@ -147,7 +147,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.162.4.10|/DigiByte:7.17.3/|70017||||||
 73.18.78.21|/DigiByte:7.17.2/|70017||||||
 73.248.158.113|/DigiByte:7.17.3/|70017||||||
-73.26.110.176|/digiwallet:1.0.0/|70017|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.26.110.176|/digiwallet:1.0.0/|70017||||||
 73.28.98.74|/DigiByte:7.17.2/|70017||||||
 73.47.231.250|/DigiByte:7.17.2/|70017||||||
 73.74.143.251|/DigiByte:7.17.3/|70017||||||
@@ -159,8 +159,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.135.100.61|/DigiByte:7.17.2/|70017||||||
 8.218.140.132|/DigiByte:7.17.2/|70017||||||
 82.15.105.99|/digiwallet:1.0.0/|70017||||||
-82.170.9.100|/digiwallet:1.0.0/|70017||||||
-82.218.148.182|/DigiByte:7.17.2/|70017||||||
+82.170.9.100|/digiwallet:1.0.0/|70017|1136|82.170.0.0/16|NL|ripencc|2003-08-29|KPN KPN National, NL
 84.2.34.93|/DigiByte:7.17.2/|70017||||||
 85.10.202.167|/DigiByte:7.17.2/|70017||||||
 85.184.191.57|/DigiByte:7.17.3/|70017||||||
