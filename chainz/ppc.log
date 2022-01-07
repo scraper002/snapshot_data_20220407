@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.100.128.147|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|133579|101.100.128.0/24|NZ|apnic|2010-12-22|MYREPNZ-AS-AP MYREPUBLIC LIMITED, NZ
+101.100.128.147|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 101.191.221.174|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 103.243.173.214|/Satoshi:0.20.2/Peercoin:0.10.3/|70015||||||
 104.163.191.21|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -12,7 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.189.13.42|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 108.61.15.250|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 109.149.172.253|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-109.252.66.11|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|25513|109.252.0.0/16|RU|ripencc|2009-12-07|ASN-MGTS-USPD, RU
+109.252.66.11|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 110.52.159.172|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 111.85.64.4|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.69.164|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -23,7 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.247.65.62|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 113.64.80.49|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 114.125.4.21|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
-115.84.237.99|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+115.84.237.99|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9658|115.84.224.0/19|PH|apnic|2008-07-28|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
 116.7.245.182|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 118.161.240.43|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -77,11 +77,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.169|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 185.220.101.181|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.240.244.141|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+185.240.244.142|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 185.3.35.103|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.69.144.232|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
 188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 188.25.219.159|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+190.140.146.36|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 190.2.131.157|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 190.96.1.19|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 191.184.0.191|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -152,7 +154,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.183.201.137|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 67.243.35.228|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 69.107.129.201|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-71.235.243.115|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
+71.235.243.115|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 73.140.51.169|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 73.148.215.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 73.194.98.202|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -176,6 +178,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.59.255.93|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 79.64.72.10|/Satoshi:0.8.6/Peercoin:0.6.2/|70001||||||
 79.73.98.232|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+80.180.9.241|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 80.189.63.19|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 80.235.45.22|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 81.157.246.71|/Satoshi:0.6.3/Peercoin:0.5.4/|60006||||||
