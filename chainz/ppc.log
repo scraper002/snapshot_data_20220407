@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.241.110.96|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 109.252.66.11|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 110.52.159.172|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-111.38.43.33|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|9808|111.38.0.0/16|CN|apnic|2009-05-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+111.38.43.33|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 112.118.138.208|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 112.133.37.213|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 113.104.215.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -34,8 +34,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.136.194.7|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 141.138.43.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 141.138.44.153|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
-143.198.164.157|Satoshi:0.20.2/Peercoin:0.11.0|70016|14061|143.198.160.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
+143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.0|70016|14061|143.198.112.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
+143.198.164.157|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
 146.60.154.56|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 150.140.159.218|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -57,7 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.215.79.34|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 174.90.223.103|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 176.212.20.198|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-176.9.139.91|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
+176.9.139.91|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.145.156|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 178.115.73.100|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 178.33.239.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -90,11 +90,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.233.89.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 195.154.184.48|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 195.190.99.186|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
-195.201.104.49|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+195.201.104.49|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.213.4.35|/Satoshi:0.20.1/Peercoin:0.10.0/|70015||||||
 195.74.237.215|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 195.91.237.179|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.0|70016||||||
+199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.0|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 199.48.93.60|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 2.203.0.170|/Satoshi:0.20.2/Peercoin:0.10.2/|70015||||||
@@ -190,7 +190,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.173.48.85|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 87.79.237.229|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 88.166.210.68|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-88.198.238.126|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
+88.198.238.126|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 89.123.223.153|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.247.254.30|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 90.247.121.134|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -203,8 +203,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.226.71.42|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 94.23.34.12|/Satoshi:0.8.6/Peercoin:0.7.1/|70002||||||
 94.7.77.112|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-95.2.15.65|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|9121|95.2.8.0/21|TR|ripencc|2008-10-14|TTNET, TR
-95.223.73.108|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
+95.2.15.65|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
+95.223.73.108|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 95.65.35.43|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 96.22.170.162|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
 97.115.98.222|/Satoshi:0.20.2/Peercoin:0.10.4/|70015||||||
