@@ -7,10 +7,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.236.136.96|/Node:0.8.7.2/|70002|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 105.112.155.26|/loaf-android:175/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
-109.71.207.194|/LitecoinCore:0.18.1/|70015||||||
+109.71.207.194|/LitecoinCore:0.18.1/|70015|8371|109.71.204.0/22|RU|ripencc|2009-11-13|VIMPELCOM-NN Vimpelcom, Nizhniy Novgorod branch, fixed network, RU
 112.248.247.212|/BitcoinKit:0.1.0/|70015||||||
 112.9.100.187|/BitcoinKit:0.1.0/|70015||||||
-116.202.83.71|/LitecoinCore:0.18.1/|70015||||||
+116.202.83.71|/LitecoinCore:0.18.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
@@ -35,7 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 157.33.214.50|/BitcoinKit:0.1.0/|70015||||||
 157.90.242.154|/CounosXCore:0.17.2/|70015||||||
-159.203.68.40|/LitecoinCore:0.15.1/|70015|14061|159.203.64.0/20|US|arin|2015-08-10|DIGITALOCEAN-ASN, US
+159.203.68.40|/LitecoinCore:0.15.1/|70015||||||
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 160.155.35.178|/BitcoinKit:0.1.0/|70015||||||
 161.35.53.66|/B2CCoinCore:0.16.3/|70015||||||
@@ -62,11 +62,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.245.194.174|/BitcoinKit:0.1.0/|70015||||||
 181.53.12.141|/loaf-android:175/|70015||||||
 183.14.30.76|/BitcoinKit:0.1.0/|70015||||||
-183.171.29.142|/BitcoinKit:0.1.0/|70015||||||
-183.34.103.191|/BitcoinKit:0.1.0/|70015||||||
+183.171.29.142|/BitcoinKit:0.1.0/|70015|10030|183.171.0.0/16|MY|apnic|2009-11-23|CELCOMNET-AP Celcom Axiata Berhad, MY
+183.34.103.191|/BitcoinKit:0.1.0/|70015|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 185.177.5.7|/LitecoinCore:0.16.3/|70015||||||
 185.220.100.247|/LitecoinCore:0.18.1/|70015||||||
-185.78.37.206|/BitcoinKit:0.1.0/|70015||||||
+185.78.37.206|/BitcoinKit:0.1.0/|70015|29084|185.78.37.0/24|BG|ripencc|2014-11-21|COMNET-AS ComNet Bulgaria, BG
 185.94.193.185|/WalletKit:0.1.0/|70015||||||
 186.11.114.33|/BitcoinKit:0.1.0/|70015||||||
 187.19.203.188|/BitcoinKit:0.1.0/|70015||||||
@@ -85,7 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 196.50.230.174|/LitecoinCore:0.18.1/|70015||||||
 199.36.223.222|/LitecoinCore:0.18.1/|70015||||||
 209.169.203.217|/LitecoinCore:0.18.1/|70015||||||
-209.94.191.213|/litecoin-seeder:0.01/|70002||||||
+209.94.191.213|/litecoin-seeder:0.01/|70002|396426|209.94.191.0/24|US|arin|1997-07-14|CYBERONEDATA, US
 212.159.91.217|/LitecoinCore:0.18.1/|70015||||||
 212.3.150.142|/LitecoinCore:0.18.1/|70015||||||
 213.94.42.190|/BitcoinKit:0.1.0/|70015||||||
@@ -114,7 +114,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.252.5.229|/LitecoinCore:0.18.1/|70015||||||
 45.119.59.251|/loaf-android:175/|70015||||||
 45.126.209.106|LitecoinCore:0.18.1|70099||||||
-45.8.223.197|/LitecoinCore:0.18.1/|70015||||||
 45.88.188.220|/LitecoinCore:0.18.1/|70015||||||
 46.114.0.168|/BitcoinKit:0.1.0/|70015||||||
 46.147.163.10|/LitecoinCore:0.18.1/|70015||||||
