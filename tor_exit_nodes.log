@@ -1,6 +1,6 @@
 # https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1 and whois results
 IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.100.146.147|133579|101.100.146.0/24|NZ|apnic|2010-12-22|MYREPNZ-AS-AP MYREPUBLIC LIMITED, NZ
+101.100.146.147
 101.127.180.196
 102.130.113.37
 102.130.113.9
@@ -277,8 +277,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.70.100.84
 109.74.203.74
 110.175.240.206
-111.90.145.190
-114.199.75.111
+111.90.145.190|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+114.199.75.111|45250|114.199.75.0/24|HK|apnic|2008-06-30|VOCOM-AP-AS Vocom International Telecommunications AP Area, TW
 117.53.155.129
 118.163.74.160
 122.117.91.144
@@ -918,7 +918,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.189.100.196
 193.189.100.197
 193.189.100.198
-193.189.100.199|41281|193.189.100.0/24|GB|ripencc|2012-09-10|KEFF Interplanetary Communications Network, GB
+193.189.100.199
 193.189.100.200
 193.189.100.201
 193.189.100.202
