@@ -1,7 +1,7 @@
 # https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1 and whois results
 IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.100.146.147
-101.127.180.196
+101.100.146.147|133579|101.100.146.0/24|NZ|apnic|2010-12-22|MYREPNZ-AS-AP MYREPUBLIC LIMITED, NZ
+101.127.180.196|55430|101.127.128.0/18|SG|apnic|2011-04-08|STARHUB-NGNBN Starhub Ltd, SG
 102.130.113.37
 102.130.113.9
 103.171.85.126
@@ -704,8 +704,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.51
 185.220.101.52
 185.220.101.53
-185.220.101.54|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
-185.220.101.55|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
+185.220.101.54
+185.220.101.55
 185.220.101.56
 185.220.101.57
 185.220.101.58
@@ -1797,12 +1797,12 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.6.43.167
 81.6.43.9
 82.118.18.244
-82.118.253.153|45007|82.118.248.0/21|BG|ripencc|2004-02-13|VIPNET, BG
-82.146.55.139|29182|82.146.54.0/23|RU|ripencc|2003-06-18|THEFIRST-AS, RU
-82.165.111.147|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.183.88|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.223.202|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.221.128.191|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
+82.118.253.153
+82.146.55.139
+82.165.111.147
+82.165.183.88
+82.165.223.202
+82.221.128.191
 82.221.131.5
 82.221.131.71
 82.221.139.190
@@ -1843,7 +1843,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.249.134.84
 88.80.20.86
 89.137.155.17
-89.163.143.8
+89.163.143.8|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.150.213
 89.163.154.91
 89.163.243.88
