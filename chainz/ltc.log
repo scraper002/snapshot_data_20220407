@@ -6,14 +6,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.181.147.42|/LitecoinCore:0.18.1/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 103.152.127.143|/WalletKit:0.1.0/|70015||||||
 104.131.161.171|/litecoin-seeder:0.01/|70002||||||
-105.67.129.102|/BitcoinKit:0.1.0/|70015||||||
-106.213.128.95|/BitcoinKit:0.1.0/|70015|45609|106.213.128.0/22|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
+106.213.128.95|/BitcoinKit:0.1.0/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002||||||
 110.150.27.27|/LitecoinCore:0.14.2/|70015||||||
-111.19.60.74|/BitcoinKit:0.1.0/|70015|9808|111.19.56.0/21|CN|apnic|2009-05-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+111.19.60.74|/BitcoinKit:0.1.0/|70015||||||
 114.221.78.98|/LitecoinCore:0.17.1/|70015||||||
-116.206.244.186|/BitcoinKit:0.1.0/|70015|18001|116.206.244.0/22|LK|apnic|2017-04-03|DIALOG-AS Dialog Axiata PLC., LK
+116.206.244.186|/BitcoinKit:0.1.0/|70015||||||
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
@@ -26,13 +25,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 14.203.252.253|/LitecoinCore:0.17.1/|70015||||||
-141.0.153.130|/LitecoinCore:0.18.1/|70015|56478|141.0.152.0/21|GB|ripencc|2011-06-20|BCUBE-AS, GB
+141.0.153.130|/LitecoinCore:0.18.1/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 143.244.57.111|/BitcoinKit:0.1.0/|70015||||||
 144.64.179.8|/BitcoinKit:0.1.0/|70015||||||
-144.76.81.202|/LitecoinCore:0.18.1/|70015|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
+144.76.81.202|/LitecoinCore:0.18.1/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
 146.196.52.230|/LitecoinCore:0.18.1/|70015||||||
+146.200.167.139|/WalletKit:0.1.0/|70015||||||
 146.59.68.146|/opentxs:1.90.0/|70015||||||
 148.251.152.118|/LitecoinCore:0.18.1/|70015||||||
 151.57.194.119|/BitcoinKit:0.1.0/|70015||||||
@@ -59,6 +59,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.163.18.92|/LitecoinCore:0.18.1/|70015||||||
 176.48.2.204|/LitecoinCore:0.18.1/|70015||||||
 176.59.133.44|/BitcoinKit:0.1.0/|70015||||||
+177.136.64.28|/B2CCoinCore:0.16.3/|70015||||||
+178.158.66.210|/WalletKit:0.1.0/|70015||||||
 178.250.203.146|/LitecoinCore:0.14.2/|70015||||||
 180.150.26.159|/FutureBit-ApolloCore:0.17.1/|70015||||||
 180.150.44.138|/DigitaleuroCore:0.16.3/|70015||||||
@@ -92,11 +94,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.118.91.55|/LitecoinCore:0.16.0/|70015||||||
 217.96.85.232|/BitcoinKit:0.1.0/|70015||||||
 24.132.171.198|/LitecoinCore:0.14.2/|70015||||||
+24.239.227.33|/loaf-android:175/|70015||||||
 24.67.53.68|/LitecoinCore:0.17.1/|70015||||||
 27.12.1.89|/BitcoinKit:0.1.0/|70015||||||
 27.148.206.140|/LitecoinCore:0.18.1/|70015||||||
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-3.88.40.5|/Dain:0.1.0/|70003||||||
 31.15.3.108|/BitcoinKit:0.1.0/|70015||||||
 31.153.73.172|/LitecoinCore:0.18.1/|70015||||||
 34.201.144.179|/Dain:0.1.0/|70003||||||
@@ -152,7 +154,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.127.112.29|/loaf-android:175/|70015||||||
 74.129.232.246|/LitecoinCore:0.18.1/|70015||||||
 77.132.56.136|/WalletKit:0.1.0/|70015||||||
-77.204.199.227|/BitcoinKit:0.1.0/|70015||||||
 77.75.36.104|/LitecoinCore:0.17.1/|70015||||||
 81.193.60.228|/BitcoinKit:0.1.0/|70015||||||
 82.208.37.13|/LitecoinCore:0.14.2/|70015||||||
@@ -160,6 +161,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.148.218.125|/BitcoinKit:0.1.0/|70015||||||
 85.26.235.45|???|0||||||
 85.56.132.255|/WalletKit:0.1.0/|70015||||||
+85.92.44.77|/loaf-android:175/|70015||||||
 86.111.117.200|/loaf-android:175/|70015||||||
 86.6.242.196|/LitecoinCore:0.18.1/|70015||||||
 89.29.166.221|/WalletKit:0.1.0/|70015||||||
