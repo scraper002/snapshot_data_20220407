@@ -10,7 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.235.138.158|/BitcoinKit:0.1.0/|70015||||||
 106.203.83.92|/BitcoinKit:0.1.0/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
-109.236.129.162|/LitecoinCore:0.18.1/|70015|9031|109.236.128.0/20|BE|ripencc|2009-12-14|EDPNET, BE
+109.236.129.162|/LitecoinCore:0.18.1/|70015||||||
 111.108.29.123|/Satoshi:0.8.7.2/|70002||||||
 114.221.78.98|/LitecoinCore:0.17.1/|70015||||||
 116.206.42.109|/loaf-android:175/|70015||||||
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.210.97.66|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 134.209.192.211|/CounosXCore:0.17.2/|70015||||||
 138.199.28.8|/LitecoinCore:0.17.1/|70015||||||
-138.2.11.132|/LitecoinCore:0.18.1/|70015|31898|138.2.0.0/19|US|arin|1990-01-17|ORACLE-BMC-31898, US
+138.2.11.132|/LitecoinCore:0.18.1/|70015||||||
 139.228.131.216|/BitcoinKit:0.1.0/|70015||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -32,24 +32,24 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 145.255.9.41|/LitecoinCore:0.14.2/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
-146.196.52.230|/LitecoinCore:0.18.1/|70015|133380|146.196.52.0/24|HK|apnic|2016-03-09|LAYER-AS Layerstack Limited, HK
+146.196.52.230|/LitecoinCore:0.18.1/|70015||||||
 149.210.234.234|/Node:0.8.7.2/|70002||||||
 151.19.251.136|/WalletKit:0.1.0/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 158.248.58.139|/WalletKit:0.1.0/|70015||||||
 158.69.196.61|/Node:0.8.7.2/|70002||||||
-159.223.79.34|/LitecoinCore:0.18.1/|70015|14061|159.223.64.0/20|US|arin|2020-11-03|DIGITALOCEAN-ASN, US
+159.223.79.34|/LitecoinCore:0.18.1/|70015||||||
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 161.35.53.66|/B2CCoinCore:0.16.3/|70015||||||
 162.201.52.16|/BitcoinKit:0.1.0/|70015||||||
-162.55.171.170|/LitecoinCore:0.18.1/|70015|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
+162.55.171.170|/LitecoinCore:0.18.1/|70015||||||
 162.62.21.32|/LitecoinCore:0.17.1/|70015||||||
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 163.172.53.103|/LitecoinCore:0.17.1/|70015||||||
 165.227.84.200|/LitecoinCore:0.17.1/|70015||||||
-169.57.10.100|/LitecoinCore:0.18.1/|70015|36351|169.57.0.0/17|US|ripencc|1993-09-01|SOFTLAYER, US
-169.59.72.220|/LitecoinCore:0.18.1/|70015|36351|169.59.64.0/18|US|ripencc|1993-09-01|SOFTLAYER, US
+169.57.10.100|/LitecoinCore:0.18.1/|70015||||||
+169.59.72.220|/LitecoinCore:0.18.1/|70015||||||
 170.75.170.154|/LitecoinCore:0.17.1/|70015||||||
 172.118.250.20|/LitecoinCore:0.18.1/|70015||||||
 172.12.57.61|/LitecoinCore:0.16.3/|70015||||||
@@ -74,7 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.38|/BitcoinKit:0.1.0/|70015||||||
 185.25.120.91|/LitecoinCore:0.18.1/|70015||||||
 185.82.218.65|/loaf-android:175/|70015||||||
-186.12.88.112|/loaf-android:175/|70015||||||
+186.12.88.112|/loaf-android:175/|70015|11664|186.12.88.0/22|AR|lacnic|2008-08-22|Techtel LMDS Comunicaciones Interactivas S.A., AR
 186.208.222.87|/B2CCoinCore:0.16.3/|70015||||||
 186.96.209.110|/BitcoinKit:0.1.0/|70015||||||
 187.183.38.97|/B2CCoinCore:0.16.3/|70015||||||
@@ -112,6 +112,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.148.206.140|/LitecoinCore:0.18.1/|70015||||||
 27.72.113.186|/WalletKit:0.1.0/|70015||||||
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+3.93.164.12|/Dain:0.1.0/|70003||||||
 31.10.141.241|/LitecoinCore:0.18.1/|70015||||||
 31.3.104.161|/LitecoinCore:0.18.1/|70015||||||
 31.4.176.99|/BitcoinKit:0.1.0/|70015||||||
@@ -164,7 +165,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.131.191.161|/LitecoinCore:0.18.1/|70015||||||
 73.101.66.137|/loaf:2.1/|70015||||||
 73.118.143.88|/loaf:2.1/|70015||||||
-73.59.202.177|/WalletKit:0.1.0/|70015||||||
+73.59.202.177|/WalletKit:0.1.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.80.9.241|/LitecoinCore:0.18.1/|70015||||||
 75.113.214.125|/loaf-android:175/|70015||||||
 77.208.161.184|/BitcoinKit:0.1.0/|70015||||||
