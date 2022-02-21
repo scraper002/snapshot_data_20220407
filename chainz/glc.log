@@ -80,6 +80,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.122.142.29|???|0||||||
 114.122.142.9|???|0||||||
 114.122.143.13|???|0||||||
+114.122.143.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.122.164.110|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.122.164.71|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.122.167.196|/goldwallet:1.0.9/|70000||||||
@@ -96,8 +97,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.125.190.118|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.198.43|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.202.117|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.125.212.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-114.125.232.146|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.125.212.251|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.125.192.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+114.125.232.146|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.125.224.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.125.57.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.79.57|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.86.255|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -172,7 +173,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.164.96.132|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.166.116.61|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 125.167.146.85|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-125.167.59.61|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 128.1.155.88|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 129.205.114.24|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 134.209.117.149|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -226,6 +226,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.249.186.195|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.251.155.240|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.252.121.252|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+180.252.68.88|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.253.41.187|/goldwallet:1.0.9/|70000||||||
 180.254.224.165|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.254.225.247|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -245,7 +246,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.24.233|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.42.4|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.58.47|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.59.127|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.6.218|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.62.118|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.76.74|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.81.46|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.84.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -298,8 +301,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.145.2.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 202.67.46.22|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 202.73.12.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-202.73.12.89|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|55720|202.73.12.0/24|MY|apnic|2004-12-03|GIGABIT-MY Gigabit Hosting Sdn Bhd, MY
-203.78.114.141|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|203.78.114.0/24|ID|apnic|2005-12-09|NAPXLNET-AS-ID PT XL Axiata, ID
+202.73.12.89|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+203.78.114.141|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 203.78.114.245|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 203.78.114.4|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 203.78.114.79|???|0||||||
@@ -309,7 +312,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.86.10|/GoldcoinCore:0.14.8/|70015||||||
 216.137.116.136|/GoldcoinCore:0.14.8/|70015||||||
 216.238.104.222|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-216.73.163.35|/GoldcoinCore:0.14.8/|70015||||||
 223.255.227.25|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 223.255.227.3|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 223.255.228.106|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -331,8 +333,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.82.97.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.82.98.119|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.90.50.140|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+37.229.219.210|/GoldcoinCore:0.14.8/|70015||||||
 41.190.30.99|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 41.210.155.227|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+41.75.187.123|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 41.75.187.33|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 43.227.255.121|/GoldcoinCore:0.14.4/|70015||||||
 45.155.168.176|/GoldcoinCore:0.14.8/|70015||||||
