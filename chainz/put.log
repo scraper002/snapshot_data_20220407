@@ -39,6 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.247.3.225|/Satoshi:1.0.0/|60013||||||
 2.205.177.102|/Satoshi:1.0.0/|60013||||||
 2.247.241.180|/Satoshi:1.0.0/|60013||||||
+2.247.242.128|/Satoshi:1.0.0/|60013||||||
 2.247.242.141|/Satoshi:1.0.0/|60013||||||
 2.247.243.124|/Satoshi:1.0.0/|60013||||||
 202.143.111.11|/Satoshi:1.0.0/|60013||||||
@@ -55,7 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.226.21.65|/Satoshi:1.0.0/|60013||||||
 37.201.4.205|/Satoshi:1.0.0/|60013||||||
 45.63.1.153|/Satoshi:1.0.0/|60013||||||
-45.67.146.106|???|0||||||
+45.67.146.106|???|0|13213|45.67.146.0/24|US|ripencc|2019-02-18|UK2NET-AS, GB
 46.114.174.212|/Satoshi:1.0.0/|60013||||||
 46.114.175.110|/Satoshi:1.0.0/|60013||||||
 46.160.39.27|/Satoshi:1.0.0/|60013||||||
@@ -81,6 +82,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.53.97.218|/Satoshi:1.0.0/|60013||||||
 84.115.234.65|/Satoshi:1.0.0/|60013||||||
 84.159.145.214|/Satoshi:1.0.0/|60013||||||
+84.159.145.55|/Satoshi:1.0.0/|60013||||||
 84.159.149.99|/Satoshi:1.0.0/|60013||||||
 84.159.157.53|/Satoshi:1.0.0/|60013||||||
 84.169.101.247|/Satoshi:1.0.0/|60013||||||
@@ -93,24 +95,25 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.0.3.102|/Satoshi:1.0.0/|60013||||||
 89.1.209.60|/Satoshi:1.0.0/|60013||||||
 89.1.211.52|/Satoshi:1.0.0/|60013||||||
-89.161.21.199|/Satoshi:1.0.0/|60013||||||
-90.189.119.21|/Satoshi:1.0.0/|60013||||||
-90.201.201.255|/Satoshi:1.0.0/|60013||||||
-91.109.21.249|/Satoshi:1.0.0/|60013||||||
-91.141.74.105|/Satoshi:1.0.0/|60013||||||
-91.224.70.2|/Satoshi:1.0.0/|60013||||||
-91.25.224.10|/Satoshi:1.0.0/|60013||||||
-91.97.218.21|/Satoshi:1.0.0/|60013||||||
-91.97.220.18|/Satoshi:1.0.0/|60013||||||
-92.86.37.60|/Satoshi:1.0.0/|60013||||||
-92.86.38.219|/Satoshi:1.0.0/|60013||||||
-93.131.95.188|/Satoshi:1.0.0/|60013||||||
-93.135.144.236|/Satoshi:1.0.0/|60013||||||
-93.206.28.146|/Satoshi:1.0.0/|60013||||||
-93.209.206.38|/Satoshi:1.0.0/|60013||||||
-93.244.93.66|/Satoshi:1.0.0/|60013||||||
-93.245.184.193|/Satoshi:1.0.0/|60013||||||
-93.40.240.230|/Satoshi:1.0.0/|60013||||||
-94.134.112.112|/Satoshi:1.0.0/|60013||||||
-95.223.229.197|/Satoshi:1.0.0/|60013||||||
-95.90.249.41|/Satoshi:1.0.0/|60013||||||
+89.1.58.128|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.161.21.199|/Satoshi:1.0.0/|60013|39375|89.161.20.0/22|PL|ripencc|2006-02-09|TPODLASIE, PL
+90.189.119.21|/Satoshi:1.0.0/|60013|12389|90.189.112.0/20|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
+90.201.201.255|/Satoshi:1.0.0/|60013|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
+91.109.21.249|/Satoshi:1.0.0/|60013|28753|91.109.16.0/20|DE|ripencc|2012-06-18|LEASEWEB-DE-FRA-10, DE
+91.141.74.105|/Satoshi:1.0.0/|60013|25255|91.141.64.0/20|AT|ripencc|2006-10-24|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
+91.224.70.2|/Satoshi:1.0.0/|60013|13026|91.224.70.0/23|AT|ripencc|2011-02-04|K-WLAN-AS, AT
+91.25.224.10|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.97.218.21|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
+91.97.220.18|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
+92.86.37.60|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
+92.86.38.219|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
+93.131.95.188|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
+93.135.144.236|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
+93.206.28.146|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.209.206.38|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.244.93.66|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.245.184.193|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.40.240.230|/Satoshi:1.0.0/|60013|12874|93.40.192.0/18|IT|ripencc|2008-02-25|FASTWEB, IT
+94.134.112.112|/Satoshi:1.0.0/|60013|8881|94.134.112.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
+95.223.229.197|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
+95.90.249.41|/Satoshi:1.0.0/|60013|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
