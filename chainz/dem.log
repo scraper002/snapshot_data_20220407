@@ -14,17 +14,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.209.32.215|/eMark:1.6.1.2/|60012|12389|176.209.0.0/17|RU|ripencc|2011-08-16|ROSTELECOM-AS, RU
 178.238.229.124|/eMark:1.6.1.2/|60012|51167|178.238.228.0/23|DE|ripencc|2010-07-28|CONTABO, DE
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
-185.45.204.22|/eMark Android:1.0.0/|60011|206761|185.45.204.0/22|DE|ripencc|2014-01-24|LHAS, DE
 185.72.232.138|/eMark:1.6.1.2/|60012|9136|185.72.232.0/22|DE|ripencc|2014-10-10|WOBCOM, DE
 188.16.1.202|/eMark:1.6.1.2/|60012|12389|188.16.0.0/18|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.165.203.96|/eMark:1.6.1.2/|60012|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
 195.90.211.174|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
-199.0.205.41|/eMark:1.6.1.2/|60012|14174|199.0.192.0/20|US|arin|1993-09-08|NCKCN, US
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
 207.89.76.64|/eMark:1.6.1.2/|60012|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 208.73.206.109|/eMark:1.6.1.2/|60012|19318|208.73.200.0/21|US|arin|2014-12-19|IS-AS-1, US
 212.202.3.120|/eMark:1.6.1.2/|60012|20676|212.202.0.0/16|DE|ripencc|1998-03-24|PLUSNET *****************, DE
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
+213.162.141.232|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
+213.162.151.98|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
 213.238.92.75|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 217.229.228.110|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.236.40.1|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -37,8 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.236.101.218|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
 46.114.91.29|/eMark:1.6.1.2/|60012|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
-5.146.215.28|/eMark:1.6.1.2/|60012|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
-5.159.26.75|/eMark:1.6.1.2/|60012|9136|5.159.24.0/21|DE|ripencc|2012-07-27|WOBCOM, DE
+5.146.215.28|/eMark:1.5.1/|60011|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
 5.254.243.120|/eMark:1.6.1.2/|60012|12688|5.254.224.0/19|RU|ripencc|2012-09-14|BAIKALTRANSTELECOM Irkutsk, Russia, RU
 5.45.106.180|/eMark:1.6.0/|60011|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -51,23 +50,24 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.198.76.212|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.240.168.169|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.252.98.125|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.253.35.163|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.132.119.62|/eMark:1.5.0/|60011|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.133.147.132|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.133.150.183|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.133.157.75|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.133.159.170|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.133.159.236|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.143.207.137|/eMark:1.5.1/|60011|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.169.141.94|/eMark:1.6.1.2/|60012|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 82.161.34.149|/eMark:1.6.1.2/|60012|3265|82.161.0.0/16|NL|ripencc|2003-07-14|XS4ALL-NL Amsterdam, NL
-82.207.238.210|/eMark:1.6.2/|60012|8881|82.207.238.0/24|DE|ripencc|2003-12-02|VERSATEL, DE
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
+83.215.142.159|/eMark:1.6.1.2/|60012|8445|83.215.0.0/16|AT|ripencc|2004-03-26|SALZBURG-AG-AS, AT
 83.250.154.149|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
 83.85.142.36|/eMark:1.6.1.2/|60012|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.174.236.199|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
+87.123.200.218|/eMark:1.6.1.2/|60012|8881|87.123.200.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.244.112|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
-87.123.244.126|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
+87.123.244.99|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.104|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.157|/eMark:1.5.1/|60011|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.128.105.199|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
@@ -77,34 +77,35 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.184.123.59|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.130.153.77|/eMark:1.5.0/|60011|8881|88.130.153.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
-88.130.56.113|/eMark:1.6.1.2/|60012|8881|88.130.56.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.217.33.56|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
+88.217.39.188|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.250.167.59|/eMark:1.6.1.2/|60012|12389|89.250.166.0/23|RU|ripencc|2006-08-14|ROSTELECOM-AS, RU
 90.186.33.228|/eMark:1.5.1/|60011|3209|90.186.0.0/16|DE|ripencc|2006-11-09|VODANET International IP-Backbone of Vodafone, DE
 90.188.240.98|/eMark:1.5.1/|60011|12389|90.188.240.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 90.188.243.175|/eMark:1.5.1/|60011|12389|90.188.243.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
+91.186.49.169|/eMark:1.6.1.2/|60012|9136|91.186.32.0/19|DE|ripencc|2006-11-07|WOBCOM, DE
 91.206.16.214|/eMark:1.6.1/|60012|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.32.144.34|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.41.129.30|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.130.56|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.132.96|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.134.127|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.41.137.54|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.138.210|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.140.247|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.42.201.166|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.42.202.50|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.46.28.187|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.5.124.110|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.56.127.175|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.7.243.195|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.194.235.218|/eMark:1.6.1.2/|60012|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
-93.192.252.48|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.197.230.73|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.197.235.81|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.226.119.216|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.101.160|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.134.197.250|/eMark:1.6.1.2/|60012|8881|94.134.197.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
+94.134.91.214|/eMark:1.6.2/|60012|8881|94.134.91.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
 94.134.91.243|/eMark:1.6.2/|60012|8881|94.134.91.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
-94.134.92.154|/eMark:1.5.0/|60011|8881|94.134.92.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
 94.23.209.98|/eMark:1.5.1/|60011|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 95.153.131.65|/eMark:1.6.1.2/|60012|29497|95.153.130.0/23|RU|ripencc|2009-02-23|KUBANGSM, RU
 95.153.163.218|/eMark:1.6.1.2/|60012|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
