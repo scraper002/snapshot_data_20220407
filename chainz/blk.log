@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.93.144.95|/Blackcoin More:2.13.2.9/|70013||||||
 104.238.220.119|Blackcoin More:2.13.2.8|70713||||||
 104.238.221.41|Blackcoin More:2.13.2.8|70713||||||
-109.156.8.104|/Blackcoin More:2.13.2.8/|70013|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
+109.156.8.104|/Blackcoin More:2.13.2.8/|70013||||||
 109.252.54.71|/Blackcoin More:2.13.2.8/|70013||||||
 112.81.43.27|/Blackcoin More:2.13.2.8/|70013||||||
 114.139.0.145|/Blackcoin More:2.13.2.7/|70013||||||
@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.228.69.196|/Blackcoin More:2.13.2.7/|70013||||||
 136.53.88.111|/Satoshi:2.12.1/|70012||||||
 138.199.57.38|/Blackcoin More:2.13.2.8/|70013||||||
+141.226.15.110|/Blackcoin More:2.13.2.9/|70013||||||
 142.162.23.234|/Blackcoin More:2.13.2.8/|70013||||||
 151.248.203.104|/Blackcoin More:2.13.2.8/|70013||||||
 161.81.46.66|/Blackcoin More:2.13.2.7/|70013||||||
@@ -54,7 +55,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.96.237.202|/Blackcoin More:2.13.2.8/|70013||||||
 2.203.231.80|/Blackcoin More:2.13.2.7/|70013||||||
 213.114.228.96|/Blackcoin More:2.13.2.8/|70013||||||
-213.87.246.215|/Blackcoin More:2.13.2.8/|70013||||||
 216.73.161.70|/Blackcoin More:2.13.2.9/|70013||||||
 217.231.201.216|/Blackcoin More:2.13.2.7/|70013||||||
 223.104.210.208|/Blackcoin More:2.13.2.9/|70013||||||
@@ -93,13 +93,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.238.177.219|/Blackcoin More:2.13.2.5/|70013||||||
 72.39.45.37|/Blackcoin More:2.13.2.8/|70013||||||
 73.117.62.222|/Blackcoin More:2.13.2.8/|70013||||||
-73.53.78.243|/Blackcoin More:2.13.2.8/|70013||||||
+73.53.78.243|/Blackcoin More:2.13.2.8/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 76.217.132.44|/Blackcoin More:2.13.2.6/|70013||||||
-77.182.192.147|/Blackcoin More:2.13.2.8/|70013||||||
+77.182.192.147|/Blackcoin More:2.13.2.8/|70013|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.182.25.110|/Blackcoin More:2.13.2.7/|70013||||||
 77.190.75.23|/Blackcoin More:2.13.2.7/|70013||||||
-77.50.23.34|/Blackcoin More:2.13.2.8/|70013||||||
-78.34.160.35|/Blackcoin More:2.13.2.8/|70013||||||
+77.50.23.34|/Blackcoin More:2.13.2.8/|70013|34602|77.50.16.0/20|RU|ripencc|2007-01-04|STARLINK-AS Moscow, Russia, RU
+78.34.160.35|/Blackcoin More:2.13.2.8/|70013|8422|78.34.0.0/15|DE|ripencc|2007-03-08|NETCOLOGNE, DE
 80.100.188.53|/Blackcoin More:2.13.2.6/|70013||||||
 80.101.169.251|/Blackcoin More:2.13.2.8/|70013||||||
 80.131.225.158|/Blackcoin More:2.13.2.8/|70013||||||
@@ -112,7 +112,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.199.52.154|/Blackcoin More:2.13.2.8/|70013||||||
 84.249.4.71|/Blackcoin More:2.13.2.8/|70013||||||
 85.239.158.188|/Blackcoin More:2.13.2.9/|70013||||||
-86.183.212.218|/Blackcoin More:2.13.2.8/|70013||||||
+86.183.212.218|/Blackcoin More:2.13.2.8/|70013|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 88.198.238.126|/Blackcoin More:2.13.2.8/|70013||||||
 88.207.82.157|/Blackcoin More:2.13.2.8/|70013||||||
 89.142.64.85|/Blackcoin More:2.13.2.7/|70013||||||
@@ -122,8 +122,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.168.35|/Blackcoin More:2.13.2.8/|70013||||||
 94.130.176.201|/Blackcoin More:2.13.2.7/|70013||||||
 94.198.42.203|/Blackcoin More:2.13.2.8/|70013||||||
-94.222.236.154|/Blackcoin More:2.13.2.8/|70013||||||
-94.227.44.148|/Blackcoin More:2.13.2.8/|70013||||||
+94.222.236.154|/Blackcoin More:2.13.2.8/|70013|3209|94.216.0.0/13|DE|ripencc|2008-07-28|VODANET International IP-Backbone of Vodafone, DE
+94.227.44.148|/Blackcoin More:2.13.2.8/|70013|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.231.253.146|/Blackcoin More:2.13.2.8/|70013||||||
 94.253.190.149|/Blackcoin More:2.13.2.9/|70013||||||
 95.217.78.81|/Blackcoin More:2.13.2.8/|70013||||||
