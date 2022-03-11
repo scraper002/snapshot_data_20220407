@@ -24,12 +24,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.192.211|/CounosXCore:0.17.2/|70015||||||
 135.181.164.52|/LitecoinCore:0.18.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 138.0.92.22|/B2CCoinCore:0.16.3/|70015|262407|138.0.92.0/24|BR|lacnic|2014-12-22|RAPIDANET TELECOM LTDA, BR
+138.199.15.67|/WalletKit:0.1.0/|70015|60068|138.199.14.0/23|GB|ripencc|1990-05-23|CDN77 ^_^, GB
 139.47.112.37|/BitcoinKit:0.1.0/|70015|15704|139.47.112.0/21|ES|ripencc|1990-06-19|AS15704, ES
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-141.95.146.47|/LitecoinCore:0.18.1/|70015|16276|141.95.128.0/17|FR|ripencc|1993-02-18|OVH, FR
-142.132.203.183|/LitecoinCore:0.18.1/|70015|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
+141.95.146.47|/LitecoinCore:0.18.1/|70015||||||
+142.132.203.183|/LitecoinCore:0.18.1/|70015||||||
 142.93.227.115|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015||||||
@@ -128,13 +129,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.233.95.55|/bitcore:8.25.12/|70011||||||
 35.237.41.104|/LitecoinCore:0.18.1/|70015||||||
 36.113.98.38|/LitecoinCore:0.18.1/|70015||||||
-37.214.57.74|/loaf-android:175/|70015||||||
 37.228.89.212|/LitecoinCore:0.18.1/|70015||||||
 37.48.80.234|/LitecoinCore:0.18.1/|70015||||||
 45.132.227.55|/LitecoinCore:0.18.1/|70015||||||
 45.191.89.197|/B2CCoinCore:0.16.3/|70015|269887|45.191.89.0/24|PY|lacnic|2020-01-02|FRANCISCO VILLALBA SANTACRUZ PLUS.NET, PY
 45.56.69.105|/Block.io:0.1.0/|70002||||||
-45.79.200.94|/LitecoinCore:0.18.1/|70015||||||
+45.79.200.94|/LitecoinCore:0.18.1/|70015|63949|45.79.192.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
 46.101.95.209|/LitecoinCore:0.18.1/|70015||||||
 46.114.39.238|/WalletKit:0.1.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.151.159.53|/CounosCoinCore:0.15.3.2/|70015||||||
@@ -143,11 +143,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-5.181.255.48|/LitecoinCore:0.16.3/|70015|44128|5.181.254.0/23|RU|ripencc|2019-04-04|INTERNET-PRO-AS, RU
+5.18.156.113|/LitecoinCore:0.18.1/|70015||||||
+5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
 5.218.48.159|/loaf-android:175/|70015||||||
 50.34.166.189|/LitecoinCore:0.18.1/|70015||||||
 50.46.158.44|/LitecoinCore:0.18.1/|70015||||||
-51.161.131.60|/LitecoinCore:0.16.3/|70015|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
+51.161.131.60|/LitecoinCore:0.16.3/|70015||||||
 51.79.190.161|/LitecoinCore:0.16.3/|70015||||||
 51.79.241.214|/LitecoinCore:0.16.3/|70015||||||
 51.89.115.252|/LitecoinCore:0.18.1/|70015||||||
@@ -155,15 +156,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015||||||
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
-52.3.231.253|/LitecoinCore:0.18.1/|70015||||||
-52.66.76.68|/LitecoinCore:0.18.1/|70015||||||
+52.3.231.253|/LitecoinCore:0.18.1/|70015|14618|52.2.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
+52.66.76.68|/LitecoinCore:0.18.1/|70015|16509|52.66.64.0/18|US|arin|1991-12-19|AMAZON-02, US
 54.233.162.165|/B2CCoinCore:0.16.3/|70015|16509|54.233.128.0/17|US|arin|2012-03-01|AMAZON-02, US
 54.252.11.36|/LitecoinCore:0.18.1/|70015||||||
 54.37.234.18|/LitecoinCore:0.16.3/|70015||||||
-54.38.156.27|/LitecoinCore:0.16.3/|70015||||||
+54.38.156.27|/LitecoinCore:0.16.3/|70015|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.193.222|/opentxs:1.98.0/|70015||||||
 58.96.14.212|/Satoshi:0.8.6.5/|70006||||||
-64.141.25.214|/LitecoinCore:0.18.1/|70015|6327|64.141.25.0/24|CA|arin|2002-05-20|SHAW, CA
+64.141.25.214|/LitecoinCore:0.18.1/|70015||||||
 66.115.180.195|/LitecoinCore:0.18.1/|70015|46562|66.115.128.0/18|US|arin|2001-05-09|PERFORMIVE, US
 69.23.218.194|/LitecoinCore:0.18.1/|70015|10796|69.23.208.0/20|US|arin|2003-02-11|TWC-10796-MIDWEST, US
 71.83.196.245|/WalletKit:0.1.0/|70015|20115|71.83.192.0/20|US|arin|2005-05-19|CHARTER-20115, US
