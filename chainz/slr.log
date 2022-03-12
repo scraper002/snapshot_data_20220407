@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 170.133.10.83|/Satoshi:2.1.8/|70005|198930|170.133.0.0/18|DE|ripencc|1994-05-09|DE-VSM-ASN Peering, DE
 170.247.189.39|/Satoshi:2.1.8/|70005|265529|170.247.189.0/24|MX|lacnic|2017-02-22|Miguel Angel Gonzalez Dobarganes, MX
 172.58.188.123|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.189.11|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.189.187|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.189.226|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 176.183.35.190|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
@@ -28,7 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.132.206.163|/Satoshi:2.1.8/|70005|8151|187.132.204.0/22|MX|lacnic|2007-12-06|Uninet S.A. de C.V., MX
 188.137.85.215|/Satoshi:2.1.8/|70005|13000|188.137.80.0/20|PL|ripencc|2009-05-06|LEON-AS, PL
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
-190.96.1.19|/Satoshi:2.1.8/|70005||||||
+190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.80.101.209|/Satoshi:2.1.8/|70005|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 195.65.248.82|/Satoshi:2.1.8/|70005|3303|195.65.0.0/16|CH|ripencc|1997-01-20|SWISSCOM Swisscom Switzerland Ltd, CH
 197.158.255.200|/Satoshi:2.1.8/|70005|37343|197.158.255.0/24|SC|afrinic|2012-05-31|AirtelSeychelles, SC
@@ -46,7 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.157.7.21|/Satoshi:2.1.8/|70005|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.149.43.22|/Satoshi:2.1.8/|70005|15600|5.149.32.0/19|CH|ripencc|2012-07-16|QUICKLINE Quickline AG, CH
 5.226.84.123|/Satoshi:2.1.8/|70005|12741|5.226.64.0/18|PL|ripencc|2012-09-07|AS-NETIA Warszawa 02-822, PL
-50.220.121.211|/Satoshi:2.1.8/|70005|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
+50.220.121.211|/Satoshi:2.1.8/|70005||||||
 50.77.24.21|/Satoshi:2.1.8/|70005|7922|50.76.0.0/14|US|arin|2011-01-06|COMCAST-7922, US
 59.17.52.194|/Satoshi:2.1.8/|70005|4766|59.16.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
 62.35.163.6|/Satoshi:2.1.8/|70005|5410|62.34.0.0/15|FR|ripencc|2002-10-09|BOUYGTEL-ISP, FR
@@ -83,16 +84,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.171.205.181|/Satoshi:2.1.8/|70005||||||
 88.130.51.235|/Satoshi:2.1.8/|70005||||||
 90.247.66.200|/Satoshi:2.1.8/|70005||||||
-91.0.148.39|/Satoshi:2.1.8/|70005||||||
-91.19.114.146|/Satoshi:2.1.8/|70005||||||
-91.196.220.166|/Satoshi:2.1.8/|70005||||||
-91.206.16.214|/Satoshi:2.1.8/|70005||||||
-91.7.100.128|/Satoshi:2.1.8/|70005||||||
-92.108.14.31|/Satoshi:2.1.8/|70005||||||
-92.75.61.174|/Satoshi:2.1.8/|70005||||||
-93.48.255.43|/Satoshi:2.1.8/|70005||||||
-94.30.0.250|/Satoshi:2.1.8/|70005||||||
-95.182.164.94|/Satoshi:2.1.8/|70005||||||
+91.0.148.39|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.19.114.146|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.196.220.166|/Satoshi:2.1.8/|70005|62240|91.196.220.0/24|DE|ripencc|2018-06-26|CLOUVIDER Clouvider - Global ASN, GB
+91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+91.7.100.128|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+92.108.14.31|/Satoshi:2.1.8/|70005|33915|92.108.0.0/15|NL|ripencc|2007-10-23|TNF-AS, NL
+92.75.61.174|/Satoshi:2.1.8/|70005|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
+93.48.255.43|/Satoshi:2.1.8/|70005|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
+94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
+95.182.164.94|/Satoshi:2.1.8/|70005|12392|95.182.128.0/17|BE|ripencc|2009-02-06|ASBRUTELE VOO, BE
 95.217.78.80|/Satoshi:2.1.8/|70005||||||
-95.88.77.37|/Satoshi:2.1.8/|70005||||||
-95.91.241.192|/Satoshi:2.1.8/|70005||||||
+95.88.77.37|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
+95.91.241.192|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
