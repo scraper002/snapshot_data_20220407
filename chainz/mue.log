@@ -4,16 +4,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.17.53.39|/MonetaryUnit Core:2.3.0/|70706||||||
 113.212.170.196|/MonetaryUnit Core:2.3.0/|70706||||||
 13.209.60.161|/MonetaryUnit Core:2.3.0/|70706|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
-135.181.164.190|/MonetaryUnit Core:2.3.0/|70706|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+135.181.164.190|/MonetaryUnit Core:2.3.0/|70706||||||
 144.91.116.146|/MonetaryUnit Core:2.3.0/|70706|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-159.196.12.145|/MonetaryUnit Core:2.3.0/|70706||||||
+159.196.12.145|/MonetaryUnit Core:2.3.0/|70706|4764|159.196.12.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 161.81.69.13|/MonetaryUnit Core:2.3.0/|70706||||||
 167.86.127.48|/MonetaryUnit Core:2.3.0/|70706||||||
 173.212.223.117|/MonetaryUnit Core:2.3.0/|70706||||||
 173.249.5.41|/MonetaryUnit Core:2.3.0/|70706||||||
 178.63.93.227|/MonetaryUnit Core:2.3.0/|70706||||||
 178.63.93.245|/MonetaryUnit Core:2.3.0/|70706||||||
-178.83.130.73|/MonetaryUnit Core:2.3.0/|70706||||||
+178.83.130.73|/MonetaryUnit Core:2.3.0/|70706|6830|178.83.0.0/16|CH|ripencc|2009-12-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 185.242.112.23|/MonetaryUnit Core:2.3.0/|70706||||||
 185.242.112.9|/MonetaryUnit Core:2.3.0/|70706||||||
 185.61.164.37|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -23,18 +23,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.29.107.245|/MonetaryUnit Core:2.3.0/|70706||||||
 201.138.141.158|/MonetaryUnit Core:2.3.0/|70706||||||
 207.180.193.28|/MonetaryUnit Core:2.3.0/|70706||||||
-213.7.5.160|/MonetaryUnit Core:2.3.0/|70706|6866|213.7.0.0/20|CY|ripencc|2006-05-24|CYTA-NETWORK Internet Services, CY
+213.7.5.160|/MonetaryUnit Core:2.3.0/|70706||||||
 24.217.176.216|/MonetaryUnit Core:2.3.0/|70706|20115|24.217.0.0/16|US|arin|1999-02-22|CHARTER-20115, US
 40.115.13.33|/MonetaryUnit Core:2.3.0/|70706||||||
 45.134.142.24|/MonetaryUnit Core:2.3.0/|70706||||||
 45.32.145.53|/MonetaryUnit Core:2.3.0/|70706||||||
 46.251.251.15|/MonetaryUnit Core:2.3.0/|70706||||||
 46.251.251.34|/MonetaryUnit Core:2.3.0/|70706||||||
-47.149.151.190|/MonetaryUnit Core:2.3.0/|70706|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
+47.149.151.190|/MonetaryUnit Core:2.3.0/|70706||||||
 47.156.76.53|/MonetaryUnit Core:2.3.0/|70706||||||
 49.12.203.205|/MonetaryUnit Core:2.3.0/|70706||||||
 5.9.24.99|/MonetaryUnit Core:2.3.0/|70706||||||
-50.5.236.135|/MonetaryUnit Core:2.3.0/|70706||||||
+50.5.236.135|/MonetaryUnit Core:2.3.0/|70706|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
 65.186.33.100|/MonetaryUnit Core:2.3.0/|70706||||||
 67.199.179.49|/MonetaryUnit Core:2.3.0/|70706||||||
 72.66.45.15|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -45,7 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.133.201.63|/MonetaryUnit Core:2.3.0/|70706||||||
 85.248.130.25|/MonetaryUnit Core:2.3.0/|70706||||||
 87.123.240.81|/MonetaryUnit Core:2.3.0/|70706||||||
-88.212.55.252|/MonetaryUnit Core:2.3.0/|70706|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
+88.212.55.252|/MonetaryUnit Core:2.3.0/|70706||||||
 89.154.80.156|/MonetaryUnit Core:2.3.0/|70706||||||
 92.0.73.195|/MonetaryUnit Core:2.3.0/|70706||||||
 92.2.137.12|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -56,11 +56,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.60.45.13|/MonetaryUnit Core:2.3.0/|70706||||||
 92.60.45.145|/MonetaryUnit Core:2.3.0/|70706||||||
 92.60.45.15|/MonetaryUnit Core:2.3.0/|70706||||||
-92.60.45.159|/MonetaryUnit Core:2.3.0/|70706|3170|92.60.45.0/24|GB|ripencc|2018-08-24|VELOXSERV VeloxServ Communications Ltd, GB
+92.60.45.159|/MonetaryUnit Core:2.3.0/|70706||||||
 92.60.45.220|/MonetaryUnit Core:2.3.0/|70706||||||
 93.104.70.34|/MonetaryUnit Core:2.3.0/|70706||||||
 94.66.59.116|/MonetaryUnit Core:2.3.0/|70706||||||
-95.179.177.121|/MonetaryUnit Core:2.3.0/|70706|20473|95.179.176.0/20|US|ripencc|2009-01-22|AS-CHOOPA, US
+95.179.177.121|/MonetaryUnit Core:2.3.0/|70706||||||
 98.169.92.173|/MonetaryUnit Core:2.3.0/|70706|22773|98.169.0.0/16|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.215.160.113|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.250.175.53|/MonetaryUnit Core:2.3.0/|70706||||||
