@@ -42,6 +42,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.148.91.159|9333|/LitecoinCore:0.18.1/|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 109.236.88.130|9333|/LitecoinCore:0.17.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.87.166.145|9333|/LitecoinCore:0.18.1/|13188|109.87.166.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
+110.42.213.113|9321|/Satoshi:0.13.2.1/|45090|110.42.192.0/18|CN|apnic|2009-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
 112.5.37.248|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
@@ -123,7 +124,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.197.11.111|7107|/FlashcoinCore:0.13.3.2(bitcore)/|14061|138.197.0.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.68.73.224|9333|/LitecoinCore:0.18.1(UASF-SegWit-BIP148)/|14061|138.68.64.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 139.180.139.56|9321|/Satoshi:0.14.3/|20473|139.180.128.0/19|US|apnic|1993-04-08|AS-CHOOPA, US
-139.186.130.253|9321|/Satoshi:0.14.3/|45090|139.186.128.0/20|CN|apnic|2011-03-10|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 139.186.130.254|9321|/Satoshi:0.14.3/|45090|139.186.128.0/20|CN|apnic|2011-03-10|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 139.60.163.103|9333|/LitecoinCore:0.16.3/|395839|139.60.163.0/24|US|arin|2017-02-07|HOSTKEY-USA, US
 139.99.133.164|9333|/LitecoinCore:0.16.3/|16276|139.99.128.0/17|CA|arin|2016-09-09|OVH, FR
@@ -528,7 +528,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 219.147.219.150|9333|/LitecoinCore:0.18.1/|4134|219.147.128.0/17|CN|apnic|2002-03-21|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 220.179.77.92|9321|/Satoshi:0.14.3/|4134|220.178.0.0/15|CN|apnic|2002-10-30|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 221.216.136.57|2321|/LitecoinCore:0.18.1/|4808|221.216.128.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
-221.219.102.228|2321|/LitecoinCore:0.18.1/|4808|221.219.64.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
 223.72.35.243|2321|/LitecoinCore:0.18.1/|56048|223.72.0.0/17|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 23.108.102.27|9333|/LitecoinCore:0.18.1/|59253|23.108.96.0/21|SG|apnic|2013-07-24|LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG
 23.112.250.126|9333|/LitecoinCore:0.16.3/|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
@@ -684,6 +683,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2e6f::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:c4a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|9333|/LitecoinCore:0.21.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:176a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -832,7 +832,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 44.195.69.102|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.199.98.249|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.201.56.1|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
-44.202.205.218|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.225.254.244|9333|/LitecoinCore:0.18.1/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.11.57.69|9333|/LitecoinCore:0.18.1/|43180|45.11.57.0/24|UA|ripencc|2019-04-26|CLOUDNETWORKS-AS, UA
 45.131.66.182|9333|/LitecoinCore:0.18.1/|213250|45.131.66.0/23|DE|ripencc|2019-07-18|ITP-SOLUTIONS, DE
