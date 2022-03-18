@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.192.90.183|/open-nodes:0.1/|70015||||||
 1.53.154.129|/WalletKit:0.1.0/|70015||||||
 102.89.33.185|???|0||||||
+103.231.191.7|/LitecoinCore:0.16.0/|70015||||||
 104.131.161.171|/litecoin-seeder:0.01/|70002||||||
 104.196.224.232|/LitecoinCore:0.18.1/|70015|396982|104.196.224.0/20|US|arin|2014-08-27|GOOGLE-CLOUD-PLATFORM, US
 104.236.136.96|/Node:0.8.7.2/|70002||||||
@@ -12,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.180.79.29|/LitecoinCore:0.16.3/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 109.106.244.78|/LitecoinCore:0.16.0/|70015||||||
-109.193.62.240|/LitecoinCore:0.18.1/|70015||||||
+109.193.62.240|/LitecoinCore:0.18.1/|70015|3209|109.193.0.0/16|DE|ripencc|2009-10-06|VODANET International IP-Backbone of Vodafone, DE
 109.53.14.87|/BitcoinKit:0.1.0/|70015||||||
 110.42.213.113|/Satoshi:0.13.2.1/|70015||||||
 111.108.29.123|/Satoshi:0.8.7.2/|70002||||||
@@ -83,8 +84,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.94.134.49|/LitecoinCore:0.16.3/|70015||||||
 175.176.1.110|/BitcoinKit:0.1.0/|70015||||||
 176.87.46.80|/BitcoinKit:0.1.0/|70015||||||
-177.136.64.87|/B2CCoinCore:0.16.3/|70015||||||
-177.192.94.58|/B2CCoinCore:0.16.3/|70015|28573|177.192.0.0/16|BR|lacnic|2012-08-30|CLARO S.A., BR
+177.136.64.87|/B2CCoinCore:0.16.3/|70015|263600|177.136.64.0/21|BR|lacnic|2013-08-29|Radio Link Telecom, BR
+177.192.94.58|/B2CCoinCore:0.16.3/|70015||||||
 178.117.220.114|/LitecoinCore:0.18.1/|70015||||||
 178.120.57.185|/LitecoinCore:0.14.2/|70015||||||
 178.170.253.53|/LitecoinCore:0.17.1/|70015||||||
@@ -92,7 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.46.159.112|/LitecoinCore:0.18.1/|70015||||||
 18.181.231.51|/LitecoinCore:0.18.1/|70015||||||
 18.183.28.105|/LitecoinCore:0.21.1/|70016||||||
-18.229.164.57|/B2CCoinCore:0.16.3/|70015|16509|18.229.0.0/16|US|arin|2019-10-07|AMAZON-02, US
+18.229.164.57|/B2CCoinCore:0.16.3/|70015||||||
 184.161.119.2|/NBitcoin:5.0.49/|70012||||||
 185.180.220.94|/LitecoinCore:0.18.1/|70015||||||
 185.217.117.111|/LitecoinCore:0.18.1/|70015||||||
@@ -103,7 +104,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.253.42.131|/LitecoinCore:0.18.1/|70015||||||
 185.38.175.130|/LitecoinCore:0.17.1/|70015||||||
 185.44.9.178|/LitecoinCore:0.18.1/|70015||||||
-186.208.219.81|/B2CCoinCore:0.16.3/|70015|28577|186.208.218.0/23|BR|lacnic|2013-05-07|AZEVEDO E FLORIANI TELECOMUNICACOES LTDA., BR
+185.51.190.80|/LitecoinCore:0.18.1/|70015||||||
+186.208.219.81|/B2CCoinCore:0.16.3/|70015||||||
 186.208.222.80|/B2CCoinCore:0.16.3/|70015||||||
 186.94.77.118|/LitecoinCore:0.18.1/|70015||||||
 187.18.122.92|/B2CCoinCore:0.16.3/|70015||||||
@@ -132,6 +134,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.220.169.149|/WalletKit:0.1.0/|70015||||||
 197.233.126.175|/loaf-android:175/|70015||||||
 197.239.4.127|/BitcoinKit:0.1.0/|70015||||||
+2.139.168.22|/WalletKit:0.1.0/|70015||||||
 2.152.225.250|/WalletKit:0.1.0/|70015||||||
 2.236.19.13|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 200.68.173.197|/BitcoinKit:0.1.0/|70015||||||
@@ -223,8 +226,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.220.237.26|/loaf-android:175/|70015||||||
 84.112.142.138|Custom 1.0|70015||||||
 84.123.164.28|/BitcoinKit:0.1.0/|70015||||||
-84.193.233.121|/LitecoinCore:0.18.1/|70015|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
-84.71.106.221|/LitecoinCore:0.18.1/|70015||||||
+84.193.233.121|/LitecoinCore:0.18.1/|70015||||||
 85.163.24.239|/BitcoinKit:0.1.0/|70015||||||
 86.202.86.179|/LitecoinCore:0.18.1/|70015||||||
 88.169.167.199|/WalletKit:0.1.0/|70015||||||
