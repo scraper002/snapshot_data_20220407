@@ -26,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.137.189.221|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 178.195.246.13|/Satoshi:2.1.8/|70005|3303|178.194.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 185.183.66.35|/Satoshi:2.1.8/|70005|44407|185.183.64.0/22|FR|ripencc|2016-12-21|ASN-LINKT, FR
+185.199.100.6|/Satoshi:2.1.8/|70005|136787|185.199.100.0/24|DE|ripencc|2017-04-13|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 185.216.35.46|/Satoshi:2.1.8/|70005|9009|185.216.35.0/24|RO|ripencc|2017-08-03|M247, GB
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
@@ -41,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.213.153.83|/Satoshi:2.1.8/|70005|56329|216.213.128.0/18|GB|ripencc|1999-04-06|GIGACLEAR, GB
 220.233.24.98|/Satoshi:2.1.8/|70005|10143|220.233.0.0/18|AU|apnic|2004-02-09|EXETEL-AS-AP Exetel Pty Ltd, AU
 31.150.118.175|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
-45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 45.15.61.105|/Satoshi:2.1.8/|70005|24904|45.15.60.0/22|FR|ripencc|2019-05-10|KWAOO K-NET SARL, FR
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
 47.145.215.5|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -67,12 +67,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.20.251.167|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.23.121.239|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.77.196.220|/Satoshi:2.1.8/|70005|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
+78.79.168.156|/Satoshi:2.1.8/|70005|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
 79.220.57.10|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.131.112.214|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.140.50.221|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.154.152.199|/Satoshi:2.1.8/|70005|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.225.194.104|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
+83.79.7.75|/Satoshi:2.1.8/|70005|3303|83.79.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom Switzerland Ltd, CH
 84.168.23.192|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.9.95|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.191.164.216|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -90,22 +92,26 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.130.152.201|/Satoshi:2.1.8/|70005|8881|88.130.152.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.51.97|/Satoshi:2.1.8/|70005|8881|88.130.51.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.7.201|/Satoshi:2.1.8/|70005|8881|88.130.0.0/19|DE|ripencc|2005-10-17|VERSATEL, DE
+90.235.67.90|/Satoshi:2.1.8/|70005|3301|90.224.0.0/12|SE|ripencc|2006-05-30|TELIANET-SWEDEN Telia Company, SE
+90.235.8.192|/Satoshi:2.1.8/|70005|3301|90.224.0.0/12|SE|ripencc|2006-05-30|TELIANET-SWEDEN Telia Company, SE
+90.235.84.156|/Satoshi:2.1.8/|70005|3301|90.224.0.0/12|SE|ripencc|2006-05-30|TELIANET-SWEDEN Telia Company, SE
 90.247.66.200|/Satoshi:2.1.8/|70005|5378|90.244.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 91.0.148.39|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.219.214.171|/Satoshi:2.1.8/|70005|9009|91.219.214.0/24|RO|ripencc|2010-10-25|M247, GB
 91.62.4.247|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.108.14.31|/Satoshi:2.1.8/|70005|33915|92.108.0.0/15|NL|ripencc|2007-10-23|TNF-AS, NL
-92.132.74.90|/Satoshi:2.1.8/|70005|3215|92.132.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.185.213.105|/Satoshi:2.1.8/|70005|12479|92.185.208.0/21|FR|ripencc|2007-07-12|UNI2-AS, ES
 92.75.61.174|/Satoshi:2.1.8/|70005|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
 93.232.18.201|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.235.128.56|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.48.255.43|/Satoshi:2.1.8/|70005|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
 94.208.22.17|/Satoshi:2.1.8/|70005|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
+94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
 95.182.164.94|/Satoshi:2.1.8/|70005|12392|95.182.128.0/17|BE|ripencc|2009-02-06|ASBRUTELE VOO, BE
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.75.243|/Satoshi:2.1.8/|70005|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.88.77.37|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.171.230|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
+95.91.241.192|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
