@@ -1,7 +1,6 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.144.107.171|/loaf-android:175/|70015||||||
 1.192.90.183|/open-nodes:0.1/|70015||||||
 101.181.167.232|/LitecoinCore:0.18.1/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 104.151.218.77|/BitcoinKit:0.1.0/|70015||||||
@@ -9,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.112.40.124|/loaf-android:175/|70015||||||
 107.146.184.76|/LitecoinCore:0.18.1/|70015|33363|107.146.128.0/18|US|arin|2013-11-06|BHN-33363, US
 107.180.79.29|/LitecoinCore:0.16.3/|70015||||||
+107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 109.166.138.51|/LitecoinCore:0.18.1/|70015||||||
 109.193.62.240|/LitecoinCore:0.18.1/|70015||||||
 109.252.154.121|/LitecoinCore:0.18.1/|70015||||||
@@ -145,7 +145,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.73.229.248|/LitecoinCore:0.17.1/|70015||||||
 35.76.236.124|/LitecoinCore:0.17.1/|70015||||||
 36.113.113.198|/LitecoinCore:0.18.1/|70015||||||
-37.173.100.20|/BitcoinKit:0.1.0/|70015||||||
 37.29.40.58|???|0||||||
 45.191.89.197|/B2CCoinCore:0.16.3/|70015||||||
 45.252.191.33|/Satoshi:0.8.6.5/|70006||||||
@@ -158,6 +157,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.53.242.114|/loaf-android:175/|70015||||||
 46.6.250.65|/WalletKit:0.1.0/|70015||||||
 47.152.115.62|/Satoshi:0.8.6.1/|70002||||||
+47.253.61.77|/LitecoinCore:0.16.3/|70015||||||
 47.35.122.33|/BitcoinKit:0.1.0/|70015||||||
 47.60.36.18|/WalletKit:0.1.0/|70015||||||
 47.89.189.197|/LitecoinCore:0.17.1/|70015||||||
@@ -175,9 +175,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.178.29.148|/LitecoinCore:0.16.3/|70015||||||
 51.210.182.223|/LitecoinCore:0.16.3/|70015||||||
 51.75.47.161|/LitecoinCore:0.17.1/|70015||||||
-51.79.241.214|/LitecoinCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
+51.79.241.214|/LitecoinCore:0.16.3/|70015||||||
 51.89.115.252|/LitecoinCore:0.18.1/|70015||||||
-51.89.149.234|/LitecoinCore:0.16.3/|70015||||||
+51.89.149.234|/LitecoinCore:0.16.3/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015||||||
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -187,17 +187,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.233.162.165|/B2CCoinCore:0.16.3/|70015||||||
 54.252.11.36|/LitecoinCore:0.18.1/|70015||||||
 54.37.234.18|/LitecoinCore:0.16.3/|70015||||||
-54.38.156.27|/LitecoinCore:0.16.3/|70015||||||
+54.38.156.27|/LitecoinCore:0.16.3/|70015|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.84.154.21|/LitecoinCore:0.17.1/|70015||||||
 58.96.14.212|/Satoshi:0.8.6.5/|70006||||||
 62.210.203.244|/LitecoinCore:0.18.1/|70015||||||
 62.217.188.138|/LitecoinCore:0.16.0/|70015||||||
-62.75.216.158|/LitecoinCore:0.16.3/|70015||||||
+62.75.216.158|/LitecoinCore:0.16.3/|70015|8972|62.75.216.0/24|DE|ripencc|2001-07-27|GD-EMEA-DC-SXB1, DE
 64.225.65.218|/Node:0.8.7.2/|70002||||||
 64.227.97.247|/LitecoinCore:0.17.1/|70015||||||
 64.44.164.217|/LitecoinCore:0.17.1/|70015||||||
 67.180.109.66|/LitecoinCore:0.17.1/|70015||||||
-67.242.81.213|/LitecoinCore:0.16.3/|70015||||||
+67.242.81.213|/LitecoinCore:0.16.3/|70015|11351|67.242.0.0/16|US|arin|2008-02-27|TWC-11351-NORTHEAST, US
 68.194.176.6|/LitecoinCore:0.18.1/|70015||||||
 69.23.218.194|/LitecoinCore:0.18.1/|70015||||||
 72.85.27.236|/LitecoinCore:0.18.1/|70015||||||
@@ -219,7 +219,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.191.15.192|/loaf:2.1/|70015||||||
 91.122.99.55|/loaf-android:175/|70015||||||
 91.169.128.126|/BitcoinKit:0.1.0/|70015||||||
-91.197.161.144|/LitecoinCore:0.18.1/|70015||||||
 91.204.150.8|/LitecoinCore:0.18.1/|70015||||||
 91.205.174.201|/LitecoinCore:0.18.1/|70015||||||
 91.96.220.28|/LitecoinCore:0.18.1/|70015||||||
