@@ -7,11 +7,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.151.218.77|/BitcoinKit:0.1.0/|70015||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 105.112.40.124|/loaf-android:175/|70015||||||
-107.146.184.76|/LitecoinCore:0.18.1/|70015|33363|107.146.128.0/18|US|arin|2013-11-06|BHN-33363, US
+107.146.184.76|/LitecoinCore:0.18.1/|70015||||||
 107.180.79.29|/LitecoinCore:0.16.3/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002||||||
-109.166.138.51|/LitecoinCore:0.18.1/|70015|8953|109.166.128.0/17|RO|ripencc|2009-10-22|ASN-ORANGE-ROMANIA, RO
+109.166.138.51|/LitecoinCore:0.18.1/|70015||||||
 109.193.62.240|/LitecoinCore:0.18.1/|70015||||||
 109.252.154.121|/LitecoinCore:0.18.1/|70015||||||
 109.252.49.88|/LitecoinCore:0.18.1/|70015||||||
@@ -22,7 +22,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 119.29.174.115|/LitecoinCore:0.18.1/|70015||||||
 119.95.229.106|/WalletKit:0.1.0/|70015||||||
-120.133.230.86|/CounosXCore:0.17.2/|70015||||||
 120.77.249.96|/LitecoinCore:0.17.1/|70015||||||
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -48,26 +47,27 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.21.114.222|/LitecoinCore:0.17.1/|70015||||||
 154.44.141.93|/BitcoinKit:0.1.0/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-157.245.213.236|/B2CCoinCore:0.16.3/|70015|14061|157.245.208.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 157.90.242.154|/CounosXCore:0.17.3/|70015||||||
 158.69.196.61|/Node:0.8.7.2/|70002||||||
 159.242.228.87|/WalletKit:0.1.0/|70015||||||
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 159.89.101.113|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
+161.35.53.66|/B2CCoinCore:0.16.3/|70015||||||
 162.62.21.32|/LitecoinCore:0.17.1/|70015||||||
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 165.227.41.156|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 166.170.54.223|/BitcoinKit:0.1.0/|70015||||||
 166.205.100.66|/WalletKit:0.1.0/|70015||||||
 167.142.89.1|/LitecoinCore:0.18.1/|70015||||||
-167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 168.227.250.135|/LitecoinCore:0.17.1/|70015||||||
-168.227.35.74|/B2CCoinCore:0.16.3/|70015|28284|168.227.34.0/23|BR|lacnic|2016-03-14|V.B. Telecomunicacoes LTDA., BR
+168.227.35.74|/B2CCoinCore:0.16.3/|70015||||||
 170.79.155.240|/B2CCoinCore:0.16.3/|70015||||||
 171.4.234.187|/BitcoinKit:0.1.0/|70015||||||
 172.0.1.174|/WalletKit:0.1.0/|70015||||||
 172.98.33.13|/LitecoinCore:0.18.1/|70015||||||
+173.238.142.28|/LitecoinCore:0.18.1/|70015||||||
 174.108.47.150|/loaf-android:175/|70015||||||
 174.192.137.144|???|0||||||
 174.94.134.49|/LitecoinCore:0.16.3/|70015||||||
@@ -88,6 +88,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 186.154.68.73|/LitecoinCore:0.18.1/|70015||||||
 187.18.122.92|/B2CCoinCore:0.16.3/|70015||||||
 188.124.46.112|/LitecoinCore:0.16.3/|70015||||||
+188.130.178.98|/loaf-android:175/|70015||||||
 188.166.255.97|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 188.23.95.156|/LitecoinCore:0.18.1/|70015||||||
 188.34.132.30|/LitecoinCore:0.18.1/|70015||||||
@@ -114,8 +115,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.47.183.77|/LitecoinCore:0.18.1/|70015||||||
 27.208.171.190|/LitecoinCore:0.18.1/|70015||||||
 27.72.113.186|/WalletKit:0.1.0/|70015||||||
-3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.66.59.110|/LitecoinCore:0.17.1/|70015||||||
 3.69.75.33|/LitecoinCore:0.17.1/|70015||||||
 3.87.219.166|/btcwire:0.5.0/ltcd:0.20.1/|70013||||||
@@ -153,6 +154,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.128.15.165|/LitecoinCore:0.18.1/|70015||||||
 5.139.36.38|/LitecoinCore:0.18.1/|70015||||||
 5.157.111.187|/LitecoinCore:0.18.1/|70015||||||
+5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
 5.225.77.164|/WalletKit:0.1.0/|70015||||||
 50.110.4.182|/LitecoinCore:0.14.2/|70015||||||
 51.161.50.202|/LitecoinCore:0.16.3/|70015||||||
@@ -163,8 +165,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.89.115.252|/LitecoinCore:0.18.1/|70015||||||
 51.89.149.234|/LitecoinCore:0.16.3/|70015||||||
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015||||||
-52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
-52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
+52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 52.43.255.93|/LitecoinCore:0.17.1/|70015||||||
 52.51.174.138|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 52.66.76.68|/LitecoinCore:0.18.1/|70015||||||
@@ -191,7 +193,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.80.9.241|/LitecoinCore:0.18.1/|70015||||||
 75.247.20.228|/BitcoinKit:0.1.0/|70015||||||
 75.66.255.232|/BitcoinKit:0.1.0/|70015||||||
-76.104.142.119|???|0||||||
+76.104.142.119|/LitecoinCore:0.18.1/|70015||||||
 79.116.67.156|/BitcoinKit:0.1.0/|70015||||||
 79.13.96.180|/BitcoinKit:0.1.0/|70015||||||
 8.43.225.76|/BitcoinKit:0.1.0/|70015||||||
