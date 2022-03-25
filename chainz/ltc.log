@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.181.60.67|/LitecoinCore:0.18.1/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 102.91.5.6|/loaf-android:175/|70015||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
-107.146.184.76|/LitecoinCore:0.18.1/|70015|33363|107.146.128.0/18|US|arin|2013-11-06|BHN-33363, US
+107.146.184.76|/LitecoinCore:0.18.1/|70015||||||
 107.180.79.29|/LitecoinCore:0.16.3/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 109.193.62.240|/LitecoinCore:0.18.1/|70015||||||
@@ -51,6 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.62.208.26|/loaf-android:175/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 157.230.4.30|/LitecoinCore:0.18.1/|70015||||||
+157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 157.90.242.154|/CounosXCore:0.17.3/|70015||||||
 158.69.196.61|/Node:0.8.7.2/|70002||||||
 159.100.243.160|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
@@ -63,6 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015||||||
 165.227.41.156|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 165.73.75.164|/NBitcoin:5.0.49/|70012||||||
+172.58.219.4|/loaf-android:175/|70015||||||
 173.244.55.149|/WalletKit:0.1.0/|70015||||||
 174.138.49.82|/LitecoinCore:0.18.1/|70015||||||
 174.192.137.144|/LitecoinCore:0.17.1/|70015||||||
@@ -90,6 +92,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.50|/BitcoinKit:0.1.0/|70015||||||
 185.220.101.54|/BitcoinKit:0.1.0/|70015||||||
 185.230.124.46|/BitcoinKit:0.1.0/|70015||||||
+185.242.6.5|/bitcore:1.1.0/|70003||||||
 185.244.39.30|/LitecoinCore:0.18.1/|70015||||||
 185.64.106.129|/LitecoinCore:0.18.1/|70015||||||
 186.154.68.73|/LitecoinCore:0.18.1/|70015||||||
@@ -112,7 +115,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.145.124.154|/BitcoinKit:0.1.0/|70015||||||
 193.106.51.213|/loaf:2.1/|70015||||||
 194.56.184.161|/LitecoinCore:0.18.1/|70015||||||
-196.239.91.189|/WalletKit:0.1.0/|70015|37492|196.239.0.0/16|TN|afrinic|2015-09-21|ORANGE-, TN
+196.239.91.189|/WalletKit:0.1.0/|70015||||||
 198.251.52.147|/LitecoinCore:0.18.1/|70015||||||
 198.54.132.74|/LitecoinCore:0.18.1/|70015||||||
 2.86.45.157|/BitcoinKit:0.1.0/|70015||||||
@@ -123,7 +126,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.70.135.154|/LitecoinCore:0.18.1/|70015||||||
 209.128.197.186|/LitecoinCore:0.18.1/|70015||||||
 209.145.62.193|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-212.102.49.208|/WalletKit:0.1.0/|70015|212238|212.102.49.0/24|GB|ripencc|1999-06-10|CDNEXT, GB
+212.102.49.208|/WalletKit:0.1.0/|70015||||||
 212.102.49.215|/WalletKit:0.1.0/|70015||||||
 212.220.230.224|/LitecoinCore:0.18.1/|70015||||||
 213.166.141.76|/BitcoinKit:0.1.0/|70015||||||
@@ -155,6 +158,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.111.136.144|/BitcoinKit:0.1.0/|70015||||||
 37.159.102.66|/WalletKit:0.1.0/|70015||||||
 37.223.158.130|/WalletKit:0.1.0/|70015||||||
+37.29.88.84|/LitecoinCore:0.18.1/|70015||||||
 37.9.168.241|/LitecoinCore:0.18.1/|70015||||||
 38.9.24.1|/loaf:2.0.0/|70015||||||
 39.7.46.183|/BitcoinKit:0.1.0/|70015||||||
@@ -172,13 +176,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.90.245.73|/LitecoinCore:0.17.1/|70015||||||
 47.91.74.132|/LitecoinCore:0.17.1/|70015||||||
 47.91.77.232|/LitecoinCore:0.17.1/|70015||||||
-5.139.36.38|/LitecoinCore:0.18.1/|70015||||||
 5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
 5.188.188.127|/BitcoinKit:0.1.0/|70015||||||
 5.200.73.26|/LitecoinCore:0.18.1/|70015||||||
 5.58.11.49|/LitecoinCore:0.18.1/|70015||||||
 5.90.153.173|/BitcoinKit:0.1.0/|70015||||||
-51.210.182.223|/LitecoinCore:0.16.3/|70015||||||
 51.75.47.161|/LitecoinCore:0.17.1/|70015||||||
 51.79.241.214|/LitecoinCore:0.16.3/|70015||||||
 51.89.115.252|/LitecoinCore:0.18.1/|70015||||||
