@@ -2,7 +2,7 @@
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.83.204.199|/LitecoinCore:0.18.1/|70015|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-101.181.60.67|/LitecoinCore:0.18.1/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
+101.181.60.67|/LitecoinCore:0.18.1/|70015||||||
 103.62.152.244|/WalletKit:0.1.0/|70015||||||
 104.236.136.96|/Node:0.8.7.2/|70002||||||
 107.146.184.76|/LitecoinCore:0.18.1/|70015||||||
@@ -24,6 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 129.0.99.25|/BitcoinKit:0.1.0/|70015||||||
 13.48.203.158|/LitecoinCore:0.18.1/|70015||||||
 13.52.63.192|/LitecoinCore:0.17.1/|70015||||||
+132.255.174.82|/BitcoinKit:0.1.0/|70015||||||
 134.122.77.211|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 134.209.159.64|/Satoshi:0.8.6.5/|70006||||||
 134.209.244.8|/LitecoinCore:0.18.1/|70015||||||
@@ -36,6 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+140.186.32.194|/LitecoinCore:0.18.1/|70015||||||
 141.95.146.47|/LitecoinCore:0.18.1/|70015||||||
 142.93.227.115|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
@@ -100,7 +102,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.3.79.95|/BitcoinKit:0.1.0/|70015||||||
 189.203.88.186|/BitcoinKit:0.1.0/|70015||||||
 189.6.213.219|/B2CCoinCore:0.16.3/|70015||||||
-189.63.4.31|/B2CCoinCore:0.16.3/|70015||||||
 190.2.131.209|/LitecoinCore:0.18.1/|70015||||||
 190.2.146.90|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 191.243.124.156|/B2CCoinCore:0.16.3/|70015||||||
@@ -118,7 +119,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.70.135.154|/LitecoinCore:0.18.1/|70015||||||
 209.128.197.186|/LitecoinCore:0.18.1/|70015||||||
 209.145.62.193|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
-212.102.49.208|/WalletKit:0.1.0/|70015||||||
+212.102.49.208|/WalletKit:0.1.0/|70015|212238|212.102.49.0/24|GB|ripencc|1999-06-10|CDNEXT, GB
 212.102.49.215|/WalletKit:0.1.0/|70015||||||
 212.220.230.224|/LitecoinCore:0.18.1/|70015||||||
 213.166.141.76|/BitcoinKit:0.1.0/|70015||||||
@@ -148,7 +149,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.111.135.52|/BitcoinKit:0.1.0/|70015||||||
 37.111.136.144|/BitcoinKit:0.1.0/|70015||||||
 37.159.102.66|/WalletKit:0.1.0/|70015||||||
-37.223.158.130|/WalletKit:0.1.0/|70015|12430|37.222.0.0/15|ES|ripencc|2012-04-05|VODAFONE_ES, ES
+37.223.158.130|/WalletKit:0.1.0/|70015||||||
 37.9.168.241|/LitecoinCore:0.18.1/|70015||||||
 38.9.24.1|/loaf:2.0.0/|70015||||||
 39.7.46.183|/BitcoinKit:0.1.0/|70015||||||
@@ -157,7 +158,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.128.39.170|/BitcoinKit:0.1.0/|70015||||||
 45.226.140.20|/B2CCoinCore:0.16.3/|70015||||||
 45.228.188.105|/BitcoinKit:0.1.0/|70015||||||
-45.252.191.33|/Satoshi:0.8.6.5/|70006||||||
 45.56.69.105|/Block.io:0.1.0/|70002||||||
 45.79.200.94|/LitecoinCore:0.18.1/|70015||||||
 46.107.113.145|/BitcoinKit:0.1.0/|70015||||||
@@ -198,6 +198,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.210.203.244|/LitecoinCore:0.18.1/|70015||||||
 64.225.65.218|/Node:0.8.7.2/|70002||||||
 64.227.97.247|/LitecoinCore:0.17.1/|70015||||||
+67.0.92.26|/LitecoinCore:0.18.1/|70015||||||
 67.180.109.66|/LitecoinCore:0.17.1/|70015||||||
 67.242.81.213|/LitecoinCore:0.16.3/|70015||||||
 68.161.155.36|/LitecoinCore:0.18.1/|70015||||||
@@ -234,7 +235,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.84.203.208|/WalletKit:0.1.0/|70015||||||
 88.198.207.38|/LitecoinCore:0.18.1/|70015||||||
 88.80.187.187|/Node:0.8.7.2/|70002||||||
-89.108.107.191|/LitecoinCore:0.18.1/|70015|197695|89.108.107.0/24|RU|ripencc|2006-03-20|AS-REG, RU
+89.108.107.191|/LitecoinCore:0.18.1/|70015||||||
 89.187.161.131|/Satoshi:0.8.6.5/|70006||||||
 89.205.136.215|/WalletKit:0.1.0/|70015||||||
 89.38.97.144|/LitecoinCore:0.18.1/|70015||||||
