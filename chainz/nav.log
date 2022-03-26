@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.15.67.65|/Navcoin:7.0.0/|80021||||||
 104.131.160.248|/Navcoin:7.0.1/|80021|14061|104.131.160.0/20|US|arin|2014-06-02|DIGITALOCEAN-ASN, US
-104.163.130.150|/Navcoin:7.0.0/|80021|1403|104.163.128.0/21|CA|arin|2014-08-14|EBOX, CA
+104.163.130.150|/Navcoin:7.0.0/|80021||||||
 109.86.81.235|/Navcoin:7.0.1/|80021|13188|109.86.81.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
 111.243.35.18|/Navcoin:7.0.0/|80021||||||
 112.213.197.128|/Navcoin:7.0.1/|80021|136994|112.213.197.0/24|AU|apnic|2009-02-19|SOUTHERNPHONE-AS-AP Southern Phone Company Ltd, AU
@@ -21,9 +21,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.95.70.135|/Navcoin:7.0.0/|80021||||||
 151.95.84.160|/Navcoin:7.0.0/|80021||||||
 154.120.112.48|/Navcoin:7.0.1/|80021|37340|154.120.112.0/23|NG|afrinic|2014-02-21|Spectranet, NG
-157.90.223.151|/Navcoin:7.0.1/|80021|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
+157.90.223.151|/Navcoin:7.0.1/|80021||||||
 159.48.55.96|/Navcoin:7.0.0/|80021||||||
-162.55.92.62|/Navcoin:7.0.1/|80021|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
+162.55.92.62|/Navcoin:7.0.1/|80021||||||
 163.158.218.217|/Navcoin:7.0.0/|80021||||||
 164.132.207.77|/Navcoin:7.0.1/|80021|16276|164.132.0.0/16|FR|ripencc|1993-04-23|OVH, FR
 166.70.232.234|/Navcoin:7.0.1/|80021|6315|166.70.0.0/16|US|arin|1997-02-19|XMISSION, US
@@ -39,7 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.245.85.62|/Navcoin:7.0.1/|80021|9009|185.245.85.0/24|RO|ripencc|2018-02-07|M247, GB
 185.87.120.30|/Navcoin:7.0.1/|80021|207582|185.87.120.0/24|TR|ripencc|2015-02-11|BUULDY, TR
 185.87.28.3|/Navcoin:7.0.1/|80021|201058|185.87.28.0/24|IT|ripencc|2015-02-06|SPAZIOTEMPO-AS, IT
-188.171.253.252|/Navcoin:7.0.0/|80021||||||
+188.171.253.252|/Navcoin:7.0.0/|80021|12946|188.171.0.0/16|ES|ripencc|2009-07-08|TELECABLE Spain, ES
 188.67.223.84|/Navcoin:7.0.1/|80021|16086|188.67.0.0/16|FI|ripencc|2011-01-13|DNA, FI
 189.190.160.52|/Navcoin:7.0.1/|80021|8151|189.190.160.0/21|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 193.176.211.193|/Navcoin:7.0.0/|80021||||||
@@ -66,10 +66,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.183.118.215|/Navcoin:7.0.1/|80021|30722|37.176.0.0/13|IT|ripencc|2012-03-19|VODAFONE-IT-ASN, IT
 37.247.42.67|/Navcoin:7.0.2/|80021||||||
 37.30.17.237|/Navcoin:7.0.0/|80021||||||
-40.117.251.125|/Navcoin:7.0.1/|80021||||||
+40.117.251.125|/Navcoin:7.0.1/|80021|8075|40.112.0.0/13|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 45.138.143.96|/Navcoin:7.0.1/|80021|205199|45.138.140.0/22|SE|ripencc|2019-08-07|BITCOM, SE
 46.151.138.92|/Navcoin:7.0.1/|80021|197437|46.151.136.0/21|PL|ripencc|2010-12-01|PLAST-COM-AS, PL
-46.172.159.8|/Navcoin:7.0.1/|80021||||||
+46.172.159.8|/Navcoin:7.0.1/|80021|49125|46.172.128.0/19|UA|ripencc|2010-12-13|UTEAM-AS, UA
 47.156.233.9|/Navcoin:7.0.0/|80021||||||
 49.51.136.144|/Navcoin:6.0.2/|80020||||||
 5.172.238.85|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
@@ -109,10 +109,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.163.247.136|/Navcoin:7.0.1/|80021|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
 79.60.43.220|/Navcoin:7.0.0/|80021||||||
 80.110.44.247|/Navcoin:7.0.1/|80021|8412|80.110.0.0/17|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
-81.61.179.177|/Navcoin:7.0.1/|80021||||||
-82.149.143.50|/Navcoin:7.0.1/|80021||||||
+81.61.179.177|/Navcoin:7.0.1/|80021|6739|81.61.128.0/18|ES|ripencc|2002-12-12|ONO-AS Cableuropa - ONO, ES
+82.149.143.50|/Navcoin:7.0.1/|80021|12714|82.149.128.0/19|RU|ripencc|2003-08-07|TI-AS Moscow, Russia, RU
 82.197.210.239|/Navcoin:7.0.0/|80021||||||
-82.77.77.39|/Navcoin:7.0.1/|80021||||||
+82.77.77.39|/Navcoin:7.0.1/|80021|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
 83.11.17.142|/Navcoin:7.0.1/|80021||||||
 83.198.49.172|/Navcoin:7.0.0/|80021||||||
 83.25.31.139|/Navcoin:7.0.1/|80021||||||
@@ -124,11 +124,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.239.158.188|/Navcoin:7.0.1/|80021||||||
 85.76.51.233|/Navcoin:7.0.0/|80021||||||
 85.93.234.140|/Navcoin:7.0.0/|80021||||||
-87.65.104.29|/Navcoin:7.0.1/|80021|5432|87.64.0.0/14|BE|ripencc|2005-05-19|PROXIMUS-ISP-AS, BE
-89.176.233.150|/Navcoin:7.0.1/|80021|16019|89.176.0.0/16|CZ|ripencc|2006-03-16|VODAFONE-CZ-AS, CZ
+87.65.104.29|/Navcoin:7.0.1/|80021||||||
+89.176.233.150|/Navcoin:7.0.1/|80021||||||
 89.64.79.2|/Navcoin:7.0.1/|80021||||||
 90.126.103.148|/Navcoin:7.0.1/|80021||||||
-91.150.178.168|/Navcoin:7.0.0/|80021||||||
+91.150.178.168|/Navcoin:7.0.0/|80021|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.205.41.233|/Navcoin:7.0.0/|80021||||||
 91.232.147.34|/Navcoin:7.0.1/|80021||||||
 91.67.67.140|/Navcoin:7.0.1/|80021||||||
