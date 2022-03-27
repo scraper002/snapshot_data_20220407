@@ -25,18 +25,18 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.144.215.219|8233|/MagicBean:4.6.0-1/|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 138.197.174.176|8233|/MagicBean:4.6.0-1/|14061|138.197.160.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.201.252.11|8233|/MagicBean:4.6.0-1/|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
-138.88.178.182|8233|/MagicBean:4.6.0-1/
-139.162.138.168|40311|/MagicBean:2.1.1-4/
-139.99.123.157|8233|/MagicBean:4.6.0-1/
-139.99.68.66|8233|/MagicBean:4.6.0-1/
-139.99.69.67|8233|/MagicBean:4.6.0-1/
-141.20.33.71|8233|/MagicBean:4.6.0-1/
-141.94.218.174|8233|/MagicBean:4.6.0-1/|16276|141.94.0.0/16|FR|ripencc|1993-02-18|OVH, FR
-142.93.152.28|8233|/MagicBean:4.6.0-1/|14061|142.93.144.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
-144.217.253.98|8233|/MagicBean:4.6.0-1/|16276|144.217.0.0/16|CA|arin|2016-09-07|OVH, FR
-147.135.11.134|8233|/MagicBean:4.6.0-1/|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
-147.135.11.144|8233|/MagicBean:4.6.0-1/|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
-148.251.22.104|8233|/MagicBean:4.6.0-1/|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
+138.88.178.182|8233|/MagicBean:4.6.0-1/|701|138.88.0.0/16|US|arin|1990-04-19|UUNET, US
+139.162.138.168|40311|/MagicBean:2.1.1-4/|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+139.99.123.157|8233|/MagicBean:4.6.0-1/|16276|139.99.0.0/17|CA|arin|2016-09-09|OVH, FR
+139.99.68.66|8233|/MagicBean:4.6.0-1/|16276|139.99.0.0/17|CA|arin|2016-09-09|OVH, FR
+139.99.69.67|8233|/MagicBean:4.6.0-1/|16276|139.99.0.0/17|CA|arin|2016-09-09|OVH, FR
+141.20.33.71|8233|/MagicBean:4.6.0-1/|680|141.20.0.0/16|DE|ripencc|1990-06-07|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+141.94.218.174|8233|/MagicBean:4.6.0-1/
+142.93.152.28|8233|/MagicBean:4.6.0-1/
+144.217.253.98|8233|/MagicBean:4.6.0-1/
+147.135.11.134|8233|/MagicBean:4.6.0-1/
+147.135.11.144|8233|/MagicBean:4.6.0-1/
+148.251.22.104|8233|/MagicBean:4.6.0-1/
 148.251.22.185|8233|/MagicBean:4.6.0-1/
 149.56.135.165|8233|/MagicBean:4.6.0-1/
 154.53.58.36|8233|/MagicBean:4.6.0-1/
@@ -111,7 +111,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.135.157.73|8233|/MagicBean:4.6.0-1/
 206.196.145.143|8233|/MagicBean:4.6.0-1/
 209.141.47.197|8233|/MagicBean:4.6.0-1/
-212.80.213.225|16125|/MagicBean:6.0.0/
 213.136.78.68|8233|/MagicBean:4.6.0-1/
 213.136.91.236|8233|/MagicBean:4.6.0-1/
 213.239.201.46|8233|/MagicBean:4.6.0-1/
@@ -145,6 +144,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:fff0:9e:1:0:d:60d5|8233|/MagicBean:4.6.0-1/
 2a01:4f9:4b:42cb::2|8233|/MagicBean:4.6.0-1/
 2a01:4f9:6a:429e::2|8233|/MagicBean:4.6.0-1/
+2a01:4f9:c010:7391::1|8233|/MagicBean:4.6.0-1(bitcore)/
 2a01:7c8:d002:10f:5054:ff:fe5c:dac7|8233|/MagicBean:4.6.0-1/
 2a01:7e01::f03c:92ff:fe11:4acc|8233|/MagicBean:4.6.0-1/
 2a02:7b40:50d0:e589::1|8233|/MagicBean:4.6.0-1/
@@ -183,7 +183,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 44.199.61.199|8233|/MagicBean:4.6.0-1/
 45.136.28.221|8144|/MagicBean:2.1.0/
 45.157.178.244|16125|/MagicBean:6.0.0/
-45.227.252.247|8233|/MagicBean:4.6.0-1/
 45.43.30.2|8233|/MagicBean:4.6.0-1/
 45.79.223.173|40311|/MagicBean:2.1.1-4/
 45.90.217.111|8233|/MagicBean:4.6.0-1/
@@ -282,5 +281,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.201.0.147|8233|/MagicBean:4.6.0-1/
 93.56.117.22|8233|/MagicBean:4.6.0-1/
 94.156.174.100|8233|/MagicBean:4.6.0-1/
+95.217.155.210|8233|/MagicBean:4.6.0-1(bitcore)/
 95.217.36.126|8233|/MagicBean:4.6.0-1/
 95.217.78.170|8233|/MagicBean:4.6.0-1/
