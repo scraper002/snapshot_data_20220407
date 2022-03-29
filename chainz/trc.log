@@ -13,7 +13,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.248.138.102|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.138.187|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.14.78|/Terracoin Core:0.12.2.5/|70208||||||
-109.248.142.172|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.143.248|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.143.250|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.204.72|/Terracoin Core:0.12.2.5/|70208||||||
@@ -29,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.172.73.66|/Terracoin Core:0.12.2.5/|70208||||||
 147.135.97.55|/Terracoin Core:0.12.2.4/|70208||||||
 149.28.79.141|/Terracoin Core:0.12.2.4/|70208||||||
+155.138.158.196|/Terracoin Core:0.12.2.5/|70208||||||
 158.51.99.246|/Terracoin Core:0.12.2.4/|70208||||||
 158.51.99.248|/Terracoin Core:0.12.2.4/|70208||||||
 158.51.99.249|/Terracoin Core:0.12.2.4/|70208||||||
@@ -57,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.130.128.139|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.128.150|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.128.38|/Terracoin Core:0.12.2.5/|70208||||||
+188.130.128.43|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.129.161|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.129.185|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.137.237|/Terracoin Core:0.12.2.5/|70208||||||
@@ -67,14 +68,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.130.221.56|/Terracoin Core:0.12.2.5/|70208||||||
 192.241.198.44|/Terracoin Core:0.12.2.5/|70208||||||
 192.53.163.250|/Terracoin Core:0.12.2.5/|70208||||||
-193.23.245.53|/Terracoin Core:0.12.2.5/|70208||||||
 193.70.35.157|/Terracoin Core:0.12.2.5/|70208||||||
 194.32.229.125|/Terracoin Core:0.12.2.5/|70208||||||
 194.34.248.21|/Terracoin Core:0.12.2.5/|70208||||||
 194.35.113.178|/Terracoin Core:0.12.2.5/|70208||||||
 194.35.113.182|/Terracoin Core:0.12.2.5/|70208||||||
 2.56.101.143|/Terracoin Core:0.12.2.5/|70208||||||
-2.59.50.250|/Terracoin Core:0.12.2.5/|70208||||||
+2.59.50.250|/Terracoin Core:0.12.2.5/|70208|35048|2.59.50.0/24|RU|ripencc|2019-03-25|BITERIKA-AS, RU
 2.59.50.45|/Terracoin Core:0.12.2.5/|70208||||||
 207.180.204.7|break|70208||||||
 212.115.49.114|/Terracoin Core:0.12.2.5/|70208||||||
@@ -96,10 +96,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.139.56.150|/Terracoin Core:0.12.2.5/|70208||||||
 37.139.56.153|/Terracoin Core:0.12.2.5/|70208||||||
 37.139.56.24|/Terracoin Core:0.12.2.5/|70208||||||
+37.139.57.220|/Terracoin Core:0.12.2.5/|70208||||||
 37.139.59.170|/Terracoin Core:0.12.2.5/|70208||||||
 37.139.59.210|/Terracoin Core:0.12.2.5/|70208||||||
 40.114.220.68|/Terracoin Core:0.12.2.5/|70208||||||
-40.118.9.135|/Terracoin Core:0.12.2.5/|70208||||||
+40.118.9.135|/Terracoin Core:0.12.2.5/|70208|8075|40.112.0.0/13|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 45.10.152.127|/Terracoin Core:0.12.2.4/|70208||||||
 45.10.152.226|/Terracoin Core:0.12.2.4/|70208||||||
 45.11.20.147|/Terracoin Core:0.12.2.5/|70208||||||
@@ -125,7 +126,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.154.84.198|/Terracoin Core:0.12.2.5/|70208||||||
 45.56.115.65|/Terracoin Core:0.12.2.5/|70208||||||
 45.72.119.71|/Terracoin Core:0.12.2.5/|70208||||||
-45.72.95.0|/Terracoin Core:0.12.2.5/|70208||||||
 45.77.206.138|/Terracoin Core:0.12.2.5/|70208||||||
 45.81.136.46|/Terracoin Core:0.12.2.5/|70208||||||
 45.81.137.103|/Terracoin Core:0.12.2.5/|70208||||||
@@ -145,7 +145,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.9.122.189|/Terracoin Core:0.12.2.5/|70208||||||
 45.9.123.42|???|0||||||
 45.90.196.79|/Terracoin Core:0.12.2.5/|70208||||||
-46.161.48.17|/Terracoin Core:0.12.2.5/|70208||||||
+46.161.48.17|/Terracoin Core:0.12.2.5/|70208|34665|46.161.48.0/24|RU|ripencc|2010-11-16|PINDC-AS, RU
 46.161.49.200|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.10.182|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.10.217|/Terracoin Core:0.12.2.5/|70208||||||
@@ -176,17 +176,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.45.245|/Terracoin Core:0.12.2.5/|70208||||||
 5.39.70.87|/Terracoin Core:0.12.2.5/|70208||||||
 5.8.10.51|/Terracoin Core:0.12.2.5/|70208||||||
-5.8.49.44|/Terracoin Core:0.12.2.5/|70208||||||
 5.8.53.41|/Terracoin Core:0.12.2.5/|70208||||||
 5.8.55.101|/Terracoin Core:0.12.2.5/|70208||||||
 5.8.55.103|/Terracoin Core:0.12.2.5/|70208||||||
 5.8.55.251|/Terracoin Core:0.12.2.5/|70208||||||
+5.8.8.130|/Terracoin Core:0.12.2.5/|70208||||||
 50.220.121.211|/Terracoin Core:0.12.2.4/|70208||||||
 51.254.6.112|/Terracoin Core:0.12.2.5/|70208||||||
 51.254.6.113|/Terracoin Core:0.12.2.5/|70208||||||
 51.254.6.115|/Terracoin Core:0.12.2.5/|70208||||||
 51.77.116.109|/Terracoin Core:0.12.2.5/|70208||||||
-51.77.124.18|/Terracoin Core:0.12.2.5/|70208||||||
 51.77.124.9|/Terracoin Core:0.12.2.5/|70208||||||
 51.77.196.203|/Terracoin Core:0.12.2.5/|70208||||||
 54.36.130.129|/Terracoin Core:0.12.2.5/|70208||||||
@@ -194,7 +193,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.36.130.135|/Terracoin Core:0.12.2.5/|70208||||||
 62.171.132.112|/Terracoin Core:0.12.2.5/|70208||||||
 64.231.116.238|/Terracoin Core:0.12.2.5/|70208||||||
-64.94.212.101|/Terracoin Core:0.12.2.5/|70208||||||
 64.94.212.231|/Terracoin Core:0.12.2.5/|70208||||||
 64.94.212.250|/Terracoin Core:0.12.2.5/|70208||||||
 65.108.2.108|/Terracoin Core:0.12.2.5/|70208||||||
@@ -203,6 +201,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.205.83.216|/Terracoin Core:0.12.2.5/|70208||||||
 74.207.226.215|/Terracoin Core:0.12.2.5/|70208||||||
 74.207.230.113|/Terracoin Core:0.12.2.5/|70208||||||
+80.238.172.9|/Terracoin Core:0.12.2.4/|70208||||||
 80.65.23.139|/Terracoin Core:0.12.2.4/|70208||||||
 82.200.205.30|/Terracoin Core:0.12.2.4/|70208||||||
 83.221.211.116|/Terracoin Core:0.12.2.4/|70208||||||
@@ -218,4 +217,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.182.126.18|/Terracoin Core:0.12.2.5/|70208||||||
 95.182.127.239|/Terracoin Core:0.12.2.5/|70208||||||
 95.29.6.56|/Terracoin Core:0.12.2.5/|70208||||||
+97.91.207.27|/Terracoin Core:0.12.2.5/|70208||||||
 99.148.47.138|/Terracoin Core:0.12.2.5/|70208||||||
