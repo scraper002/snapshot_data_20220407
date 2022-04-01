@@ -6,7 +6,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.17.53.39|/MonetaryUnit Core:2.3.0/|70706|701|108.17.0.0/18|US|arin|2009-06-05|UUNET, US
 13.209.60.161|/MonetaryUnit Core:2.3.0/|70706|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
 135.181.164.190|/MonetaryUnit Core:2.3.0/|70706|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-135.181.183.38|/MonetaryUnit Core:2.3.0/|70706||||||
+135.181.183.38|/MonetaryUnit Core:2.3.0/|70706|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 144.91.116.146|/MonetaryUnit Core:2.3.0/|70706||||||
 151.182.124.34|/MonetaryUnit Core:2.3.0/|70706|12430|151.182.0.0/16|ES|ripencc|1991-09-17|VODAFONE_ES, ES
 159.196.12.145|/MonetaryUnit Core:2.3.0/|70706|4764|159.196.12.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.2.36.36|/MonetaryUnit Core:2.3.0/|70706|2107|193.2.0.0/16|SI|ripencc|1993-09-01|ARNES-NET Academic and Research Network of Slovenia, SI
 201.138.131.89|/MonetaryUnit Core:2.3.0/|70706|8151|201.138.128.0/20|MX|lacnic|2004-10-15|Uninet S.A. de C.V., MX
 201.138.137.223|/MonetaryUnit Core:2.3.0/|70706|8151|201.138.128.0/20|MX|lacnic|2004-10-15|Uninet S.A. de C.V., MX
-201.138.166.7|/MonetaryUnit Core:2.3.0/|70706||||||
+201.138.166.7|/MonetaryUnit Core:2.3.0/|70706|8151|201.138.164.0/22|MX|lacnic|2004-10-15|Uninet S.A. de C.V., MX
 207.180.193.28|/MonetaryUnit Core:2.3.0/|70706|51167|207.180.192.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 213.7.5.160|/MonetaryUnit Core:2.3.0/|70706|6866|213.7.0.0/20|CY|ripencc|2006-05-24|CYTA-NETWORK Internet Services, CY
 40.115.13.33|/MonetaryUnit Core:2.3.0/|70706|8075|40.112.0.0/13|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -37,7 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.5.236.135|/MonetaryUnit Core:2.3.0/|70706|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
 50.7.14.76|/MonetaryUnit Core:2.3.0/|70706|30058|50.7.14.0/24|US|arin|2010-10-18|FDCSERVERS, US
 54.37.85.61|/MonetaryUnit Core:2.3.0/|70706|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-67.199.179.49|/MonetaryUnit Core:2.3.0/|70706||||||
+67.199.179.49|/MonetaryUnit Core:2.3.0/|70706|36223|67.199.176.0/22|US|arin|2008-08-27|SPANISHFORK-COMMUNITY-NETWORK, US
 72.66.45.15|/MonetaryUnit Core:2.3.0/|70706|701|72.66.0.0/17|US|arin|2005-06-24|UUNET, US
 73.84.111.198|/MonetaryUnit Core:2.3.0/|70706|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 78.26.178.235|/MonetaryUnit Core:2.3.0/|70706|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
@@ -45,7 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.215.142.159|/MonetaryUnit Core:2.3.0/|70706|8445|83.215.0.0/16|AT|ripencc|2004-03-26|SALZBURG-AG-AS, AT
 83.42.198.179|/MonetaryUnit Core:2.3.0/|70706|3352|83.42.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.247.48.164|/MonetaryUnit Core:2.3.0/|70706|16247|84.247.48.0/24|RO|ripencc|2004-10-08|M247-UK M247 UK Ltd, trading as M247, GB
-87.123.240.50|/MonetaryUnit Core:2.3.0/|70706||||||
+87.123.240.50|/MonetaryUnit Core:2.3.0/|70706|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.240.65|/MonetaryUnit Core:2.3.0/|70706|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 88.212.55.252|/MonetaryUnit Core:2.3.0/|70706|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
 89.154.80.156|/MonetaryUnit Core:2.3.0/|70706|2860|89.154.64.0/18|PT|ripencc|2006-02-07|NOS_COMUNICACOES, PT
@@ -62,6 +62,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.234.43.174|/MonetaryUnit Core:2.3.0/|70706|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.197.117.226|/MonetaryUnit Core:2.3.0/|70706|206067|94.197.112.0/21|GB|ripencc|2008-09-25|H3GUK, GB
 94.66.59.116|/MonetaryUnit Core:2.3.0/|70706|6799|94.66.56.0/22|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
-98.169.92.173|/MonetaryUnit Core:2.3.0/|70706|22773|98.169.0.0/16|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.215.160.113|/MonetaryUnit Core:2.3.0/|70706||||||
+98.169.92.173|/MonetaryUnit Core:2.3.0/|70706||||||
+98.215.160.113|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.250.175.53|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
