@@ -99,10 +99,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.122.56.35|22556|/Shibetoshi:1.14.5/
 134.19.188.142|22556|/Shibetoshi:1.14.5/
 134.209.211.85|22556|/Shibetoshi:1.14.4/
+134.41.184.82|22556|/Shibetoshi:1.14.5/
 135.0.228.215|22556|/Shibetoshi:1.14.5/
 135.125.160.121|30009|/Shibetoshi:1.14.5/
 135.125.160.122|30009|/Shibetoshi:1.14.5/
 135.181.116.234|21018|/NewYorkCoin:1.14.3/
+135.181.211.44|22556|/Shibetoshi:1.14.2/
 135.181.86.56|22556|/Shibetoshi:1.21.0/
 135.23.131.29|22556|/Shibetoshi:1.14.5/
 136.143.100.216|22556|/Shibetoshi:1.14.3/
@@ -217,7 +219,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.19.136.25|30009|/Shibetoshi:1.14.5/
 162.234.161.92|22556|/Shibetoshi:1.14.5/
 162.236.159.153|22556|/Shibetoshi:1.14.5/
-162.251.235.50|22556|/Shibetoshi:1.14.3(MINETHAT.COM, Las Vegas, NV)/
 162.55.44.116|22556|/Shibetoshi:1.14.5/
 162.55.75.102|22556|/Shibetoshi:1.14.3/
 162.62.21.32|22556|/Shibetoshi:1.14.2/
@@ -252,7 +253,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.105.59.106|22556|/Shibetoshi:1.14.5(MishaBoar)/
 172.114.211.255|22556|/Shibetoshi:1.14.3/
 172.117.162.235|22556|/Shibetoshi:1.14.5/
-172.117.219.104|22556|/Shibetoshi:1.14.5/
 172.250.251.200|22556|/Shibetoshi:1.14.5/
 172.9.99.126|22556|/Shibetoshi:1.14.4/
 172.92.148.249|22556|/Shibetoshi:1.14.5/
@@ -580,6 +580,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2603:3024:1519:6000::be6b|22556|/Shibetoshi:1.14.4/
 2603:3024:1546:5800::4ac9|22556|/Shibetoshi:1.14.5/
 2603:6080:1740:11::1a62|22556|/Shibetoshi:1.14.5/
+2603:6080:7501:a822::1d4d|22556|/Shibetoshi:1.14.5/
 2603:7081:7c00:f12f:480a:20ec:5a77:fb5d|22556|/Shibetoshi:1.14.3/
 2603:7:1:1071:3eec:efff:fe3f:26c6|22556|/Shibetoshi:1.14.4/
 2603:8080:2904:5ccc::16b9|22556|/Shibetoshi:1.14.5/
@@ -622,22 +623,22 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:10a:1084::450|22556|/Shibetoshi:1.14.3/
 2a01:4f8:110:425f::2|22556|/Shibetoshi:1.14.5/
 2a01:4f8:13a:4e::2|9071|/Shibetoshi:1.14.4/
-2a01:4f8:13b:17e5::2|22556|/Shibetoshi:1.14.5/
-2a01:4f8:13b:329d::2|22556|/Shibetoshi:1.14.2/
-2a01:4f8:13b:bd6::2|22556|/Shibetoshi:1.14.4/
-2a01:4f8:140:6452::2|22556|/Shibetoshi:1.14.5/
-2a01:4f8:141:22cb::2|22556|/Shibetoshi:1.14.3/
-2a01:4f8:150:6197::2|22556|/Shibetoshi:1.14.2/
-2a01:4f8:151:2064::2|22556|/Shibetoshi:1.14.5/
-2a01:4f8:162:34ef::2|22556|/Shibetoshi:1.14.5/
-2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/
-2a01:4f8:172:11df::2|22556|/Shibetoshi:1.14.3/
-2a01:4f8:191:49::1|22556|/Shibetoshi:1.14.2/
-2a01:4f8:1c0c:5d7f::1|22556|/Shibetoshi:1.14.3/
-2a01:4f8:1c17:52b1::1|22556|/Shibetoshi:1.14.5/
-2a01:4f8:1c17:ecca::1|22556|/Shibetoshi:1.14.5/
-2a01:4f8:201:838a::2|22556|/Shibetoshi:1.14.3/
-2a01:4f8:202:12eb::2|22556|/Shibetoshi:1.14.3/
+2a01:4f8:13b:17e5::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:13b:329d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:13b:bd6::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:140:6452::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:141:22cb::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:150:6197::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:151:2064::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:162:34ef::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:172:11df::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:191:49::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:1c0c:5d7f::1|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:1c17:52b1::1|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:1c17:ecca::1|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:201:838a::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:202:12eb::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:211:623::2|22556|/Shibetoshi:1.14.5/
 2a01:4f8:221:1a8f::2|5094|/Shibetoshi:1.14.5/
 2a01:4f8:222:16d6::2|22556|/Shibetoshi:1.14.0/
@@ -651,23 +652,22 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:c010:8f5f::1|22556|/Shibetoshi:1.14.5(MishaBoar)/
 2a01:4f8:c0c:2179::1|22556|/Shibetoshi:1.14.2/
 2a01:4f8:c2c:5aa0::1|22556|/Shibetoshi:1.14.5/
-2a01:4f8:fff0:9e:1:0:d:612d|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2a:1ca8::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2a:20d6::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2a:2911:ffff:0:2e65:f508|22556|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:1bde::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:fd8::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3b:4fe9::2|22556|/Shibetoshi:1.14.5(DLu6ZaDeWTz8AvGF15bhwwmpbtj7ELjAQc)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:4a:19ec::4203|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:4a:1dee::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:4b:1cd5::2|21001|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:6a:4449::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:6a:53e0::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:6b:101a::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:6b:268f::2|20001|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:fff0:9e:1:0:d:612d|22556|/Shibetoshi:1.14.3/
+2a01:4f9:2a:1ca8::2|22556|/Shibetoshi:1.14.2/
+2a01:4f9:2a:20d6::2|22556|/Shibetoshi:1.14.2/
+2a01:4f9:2a:2911:ffff:0:2e65:f508|22556|/Shibetoshi:1.14.5/
+2a01:4f9:2b:1bde::2|22556|/Shibetoshi:1.14.4/
+2a01:4f9:2b:fd8::2|22556|/Shibetoshi:1.10.0/
+2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/
+2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/
+2a01:4f9:3b:4fe9::2|22556|/Shibetoshi:1.14.5(DLu6ZaDeWTz8AvGF15bhwwmpbtj7ELjAQc)/
+2a01:4f9:4a:19ec::4203|22556|/Shibetoshi:1.14.2/
+2a01:4f9:4a:1dee::2|22556|/Shibetoshi:1.14.2/
+2a01:4f9:4b:1cd5::2|21001|/Shibetoshi:1.14.5/
+2a01:4f9:6a:4449::2|22556|/Shibetoshi:1.14.4/
+2a01:4f9:6a:53e0::2|22556|/Shibetoshi:1.14.5/
+2a01:4f9:6b:101a::2|22556|/Shibetoshi:1.14.4/
+2a01:4f9:6b:268f::2|20001|/Shibetoshi:1.14.4/
 2a01:4f9:6b:3487::2|22556|/Shibetoshi:1.14.4/
 2a01:4f9:6b:35cd::2|22556|/Shibetoshi:1.14.5/
 2a01:4f9:c010:e78::1|22556|/Shibetoshi:1.14.5/
@@ -767,6 +767,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.22.99.171|22556|/Shibetoshi:1.14.5/
 45.23.107.113|22556|/Shibetoshi:1.14.3/
 45.24.190.140|22556|/Shibetoshi:1.14.5/
+45.30.229.100|22556|/Shibetoshi:1.14.4/
 45.32.66.136|22556|/Shibetoshi:1.14.2/
 45.32.68.125|22556|/Shibetoshi:1.14.5/
 45.33.1.14|22556|/Shibetoshi:1.14.5/
@@ -790,6 +791,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.4.83.157|22556|/Shibetoshi:1.14.5/
 47.108.135.94|22556|/Shibetoshi:1.14.4/
 47.14.187.221|22556|/Shibetoshi:1.14.3/
+47.149.152.230|22556|/Shibetoshi:1.14.5/
 47.151.149.235|22556|/Shibetoshi:1.14.5/
 47.151.185.197|22556|/Shibetoshi:1.14.5/
 47.156.183.88|22556|/Shibetoshi:1.14.5/
@@ -829,7 +831,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.196.80.197|22556|/Shibetoshi:1.14.5/
 5.45.77.220|22556|/Shibetoshi:1.14.4/
 5.45.79.81|22556|/Shibetoshi:1.14.5/
-5.9.10.66|22556|/Shibetoshi:1.14.0/
 5.9.102.250|22556|/Shibetoshi:1.14.5/
 5.9.109.174|22556|/Shibetoshi:1.14.5/
 5.9.155.168|22556|/Shibetoshi:1.14.4/
@@ -953,11 +954,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.219.137.211|22556|/Shibetoshi:1.14.2/
 67.220.3.113|22556|/Shibetoshi:1.14.5/
 67.221.106.30|22556|/Shibetoshi:1.14.5/
+67.241.183.117|22556|/Shibetoshi:1.14.4/
 67.243.126.119|22556|/Shibetoshi:1.14.5/
 67.43.1.184|22556|/Shibetoshi:1.14.2/
 67.5.119.194|22556|/Shibetoshi:1.14.5/
 67.58.234.247|22556|/Shibetoshi:1.14.4/
 67.81.221.150|22556|/Shibetoshi:1.14.4/
+67.82.221.132|22556|/Shibetoshi:1.14.5/
 68.104.129.240|22556|/Shibetoshi:1.14.5/
 68.106.249.252|22556|/Shibetoshi:1.14.5/
 68.107.131.217|22556|/Shibetoshi:1.14.2/
@@ -1013,6 +1016,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.35.98.12|22556|/Shibetoshi:1.14.5/
 70.37.207.153|22556|/Shibetoshi:1.14.5/
 70.51.29.229|22556|/Shibetoshi:1.14.5/
+70.64.4.45|22556|/Shibetoshi:1.14.5/
 70.65.39.109|22556|/Shibetoshi:1.14.5/
 70.80.25.29|22556|/Shibetoshi:1.14.5/
 71.0.209.242|22556|/Shibetoshi:1.14.5/
@@ -1086,8 +1090,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.24.103.35|22556|/Shibetoshi:1.14.5/
 73.242.206.133|22556|/Shibetoshi:1.14.4/
 73.253.117.17|22556|/Shibetoshi:1.14.2/
+73.32.176.226|22556|/Shibetoshi:1.14.4/
 73.4.168.45|22556|/Shibetoshi:1.14.4/
 73.40.128.13|22556|/Shibetoshi:1.14.4/
+73.41.243.133|22556|/Shibetoshi:1.14.4/
 73.43.182.25|22556|/Shibetoshi:1.14.5/
 73.43.36.183|22556|/Shibetoshi:1.14.3/
 73.53.219.172|22556|/Shibetoshi:1.14.5/
@@ -1309,8 +1315,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 97.100.98.3|22556|/Shibetoshi:1.14.5/
 97.115.189.69|22556|/Shibetoshi:1.14.4/
 97.116.39.212|22556|/Shibetoshi:1.14.6/
-97.118.164.198|22556|/Shibetoshi:1.14.3/
 98.10.10.213|22556|/Shibetoshi:1.14.3/
+98.13.133.225|22556|/Shibetoshi:1.14.4/
+98.14.192.152|22556|/Shibetoshi:1.14.5/
 98.145.230.60|22556|/Shibetoshi:1.14.5/
 98.153.134.187|22556|/Shibetoshi:1.14.5/
 98.153.134.188|22556|/Shibetoshi:1.14.5/
@@ -1319,7 +1326,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.160.108.156|22556|/Shibetoshi:1.14.5/
 98.194.135.174|22556|/Shibetoshi:1.14.4/
 98.194.206.199|22556|/Shibetoshi:1.14.5/
-98.203.186.210|22556|/Shibetoshi:1.14.4/
 98.207.188.140|22556|/Shibetoshi:1.14.5/
 98.220.224.124|22556|/Shibetoshi:1.14.5/
 98.247.38.77|22556|/Shibetoshi:1.14.3/
