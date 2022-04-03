@@ -2,7 +2,7 @@
 # Dogecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.117.98.127|22556|/Shibetoshi:1.14.5/|45090|1.117.64.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-1.160.155.72|22556|/Shibetoshi:1.14.3/|3462|1.160.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
+1.160.155.72|22556|/Shibetoshi:1.14.3/
 100.15.152.129|22556|/Shibetoshi:1.14.5/
 100.15.241.219|22556|/Shibetoshi:1.10.0/
 100.16.34.137|22556|/Shibetoshi:1.14.4/
@@ -78,6 +78,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.91.254.245|22556|/Shibetoshi:1.14.5/
 120.158.177.124|22556|/Shibetoshi:1.14.3/
 121.217.165.196|22556|/Shibetoshi:1.14.5/
+121.7.1.11|22556|/Shibetoshi:1.14.5/
 121.74.217.182|22556|/Shibetoshi:1.14.4/
 121.78.223.195|22556|/Shibetoshi:1.14.5/
 122.116.224.58|22556|/Shibetoshi:1.14.5/
@@ -205,7 +206,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.203.65.214|22556|/Shibetoshi:1.14.3/
 159.69.243.119|22556|/Shibetoshi:1.14.5/
 160.2.100.188|22556|/Shibetoshi:1.14.5/
-160.2.172.207|22556|/Shibetoshi:1.14.5/
 160.2.202.163|22556|/Shibetoshi:1.14.3/
 161.230.1.52|22556|/Shibetoshi:1.14.4/
 161.35.22.12|8333|/Shibetoshi:1.14.5/
@@ -215,6 +215,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.87.122|18522|/Shibetoshi:1.14.4/
 162.19.136.25|30009|/Shibetoshi:1.14.5/
 162.236.159.153|22556|/Shibetoshi:1.14.5/
+162.251.235.50|22556|/Shibetoshi:1.14.3(MINETHAT.COM, Las Vegas, NV)/
 162.55.44.116|22556|/Shibetoshi:1.14.5/
 162.55.75.102|22556|/Shibetoshi:1.14.3/
 162.62.21.32|22556|/Shibetoshi:1.14.2/
@@ -222,6 +223,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 163.172.45.184|22556|/Shibetoshi:1.14.5/
 163.172.61.237|22556|/Shibetoshi:1.14.3/
 163.172.83.208|22556|/Shibetoshi:1.14.5/
+164.68.119.129|22556|/Shibetoshi:1.14.3/
 164.92.248.247|22556|/Shibetoshi:1.14.5/
 165.22.228.211|7333|/Shibetoshi:1.14.5/
 165.227.224.171|22556|/Shibetoshi:1.14.5/
@@ -238,6 +240,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.91.238.8|22556|/Shibetoshi:1.14.5/
 169.0.0.181|22556|/Shibetoshi:1.14.3/
 171.101.216.67|22556|/Shibetoshi:1.14.4/
+172.1.224.179|22556|/Shibetoshi:1.14.4/
 172.10.137.7|22556|/Shibetoshi:1.14.5/
 172.104.156.166|22556|/Shibetoshi:1.14.4(plddr3)/
 172.104.199.23|22556|/Shibetoshi:1.14.6/
@@ -540,6 +543,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.167.251.186|22556|/Shibetoshi:1.14.5/
 24.170.194.76|22556|/Shibetoshi:1.14.5/
 24.170.21.251|22556|/Shibetoshi:1.14.5/
+24.18.36.166|22556|/Shibetoshi:1.14.2/
 24.202.81.55|22556|/Shibetoshi:1.14.5/
 24.219.140.26|22556|/Shibetoshi:1.14.5/
 24.220.103.140|22556|/Shibetoshi:1.14.5/
@@ -660,7 +664,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2a:20d6::2|22556|/Shibetoshi:1.14.2/
 2a01:4f9:2a:2911:ffff:0:2e65:f508|22556|/Shibetoshi:1.14.5/
 2a01:4f9:2b:1bde::2|22556|/Shibetoshi:1.14.4/
-2a01:4f9:2b:2e81::2|22556|/Shibetoshi:1.14.5/
 2a01:4f9:2b:fd8::2|22556|/Shibetoshi:1.10.0/
 2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/
 2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/
@@ -689,18 +692,20 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:1210:721f:2100:2d11:8aba:bab3:c676|22556|/Shibetoshi:1.14.2/
 2a02:168:420b:a::2a|22556|/Shibetoshi:1.14.2/
 2a02:2b80:1:0:5652::572|22556|/Shibetoshi:1.14.5/
+2a02:2e02:9bf1:4000:602d:487c:2b6a:1895|22556|/Shibetoshi:1.14.5/
 2a02:2f05:1103:8b00:5b0d:e589:a83e:e538|22556|/Shibetoshi:1.14.2/
-2a02:2f07:960b:3800:5904:64c9:9c0f:6c9c|22556|/Shibetoshi:1.14.4/
 2a02:4780:1:1::1:8048|22556|/Shibetoshi:1.14.4/
 2a02:4780:8:6:2:f502:2b5:5736|22556|/Shibetoshi:1.14.3/
 2a02:730::1430|22556|/Shibetoshi:1.14.3/
 2a02:7b40:5928:2e::1|22556|/Shibetoshi:1.14.3/
 2a02:8085:b140:6b00:c8c0:a795:4dc1:a33f|22556|/Shibetoshi:1.14.5/
 2a02:908:d76:31e0:fdc3:3db7:5821:3667|22556|/Shibetoshi:1.14.5/
+2a02:908:f761:4e00:b899:9fd8:c655:7cae|22556|/Shibetoshi:1.14.3/
 2a02:a45d:f115:1:3ce0:3a7d:793d:d23e|22556|/Shibetoshi:1.14.5/
 2a02:a58:8240:4100:3c84:45ee:52fd:94e4|22556|/Shibetoshi:1.14.5/
 2a02:c206:2059:557::1|22556|/Shibetoshi:1.14.3/
 2a02:c207:2015:2082::1|23476|/Shibetoshi:1.14.2/
+2a02:ce0:2001:3dcf:140:9d58:d47d:f812|22556|/Shibetoshi:1.14.3/
 2a03:4000:2:c49:4ab:eeff:fe76:4ba|22556|/Shibetoshi:1.14.5/
 2a03:4000:4a:d50:c8c6:f1ff:feb2:8fb9|22556|/Shibetoshi:1.14.2/
 2a03:4000:4a:de0:0:73:6865:6261|22556|/Shibetoshi:1.14.3/
@@ -725,7 +730,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.159.32.157|22556|/Shibetoshi:1.14.5/
 34.247.67.187|5001|/Shibetoshi:1.14.4/
 34.76.80.177|22556|/Shibetoshi:1.14.5/
-34.77.140.185|22556|/Shibetoshi:1.14.5/
+34.77.140.185|22556|/Shibetoshi:1.14.5/|396982|34.76.0.0/15|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.89.210.98|22556|/Shibetoshi:1.14.5/
 35.136.119.166|22556|/Shibetoshi:1.14.5/
 35.172.110.164|22556|/Shibetoshi:1.14.3/
@@ -958,6 +963,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.104.129.240|22556|/Shibetoshi:1.14.5/
 68.106.249.252|22556|/Shibetoshi:1.14.5/
 68.107.131.217|22556|/Shibetoshi:1.14.2/
+68.11.229.40|22556|/Shibetoshi:1.14.3/
 68.127.169.55|22556|/Shibetoshi:1.14.5/
 68.144.58.183|22556|/Shibetoshi:1.14.5/
 68.169.160.130|22556|/Shibetoshi:1.14.5/
@@ -1007,7 +1013,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.51.29.229|22556|/Shibetoshi:1.14.5/
 70.65.39.109|22556|/Shibetoshi:1.14.5/
 71.0.209.242|22556|/Shibetoshi:1.14.5/
-71.11.27.214|22556|/Shibetoshi:1.14.5/
 71.114.33.30|22556|/Shibetoshi:1.14.5/
 71.114.80.129|22556|/Shibetoshi:1.14.3/
 71.127.156.63|22556|/Shibetoshi:1.14.5/
@@ -1073,6 +1078,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.253.117.17|22556|/Shibetoshi:1.14.2/
 73.4.168.45|22556|/Shibetoshi:1.14.4/
 73.40.128.13|22556|/Shibetoshi:1.14.4/
+73.41.243.133|22556|/Shibetoshi:1.14.4/
 73.43.182.25|22556|/Shibetoshi:1.14.5/
 73.43.36.183|22556|/Shibetoshi:1.14.3/
 73.59.199.111|22556|/Shibetoshi:1.14.2/
@@ -1122,7 +1128,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.181.92.231|22556|/Shibetoshi:1.14.5/
 76.184.151.27|22556|/Shibetoshi:1.14.5/
 76.214.40.107|22556|/Shibetoshi:1.14.5/
-76.242.54.235|22556|/Shibetoshi:1.14.5/
+76.30.178.242|22556|/Shibetoshi:1.14.5/
 76.31.80.2|22556|/Shibetoshi:1.14.2/
 76.8.94.19|22556|/Shibetoshi:1.14.5/
 77.166.224.12|22556|/Shibetoshi:1.14.5/
@@ -1162,16 +1168,15 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.217.198.25|22556|/Shibetoshi:1.14.5/
 81.251.45.149|22556|/Shibetoshi:1.14.5/
 81.68.184.207|22556|/Shibetoshi:1.14.5/
-81.9.212.103|22556|/Shibetoshi:1.14.5/
 82.157.66.172|22556|/Shibetoshi:1.14.5/
 82.163.40.40|22556|/Shibetoshi:1.14.5/
 82.181.196.76|22556|/Shibetoshi:1.14.5/
 82.200.205.30|22554|/Shibetoshi:1.14.2/
-82.23.69.20|22556|/Shibetoshi:1.14.3/
-82.27.167.207|22445|/Pandoshi:3.0.5.6/
-82.41.164.174|22556|/Shibetoshi:1.14.5/
-82.6.56.202|22556|/Shibetoshi:1.14.3/
-82.65.114.73|22556|/Shibetoshi:1.14.5/
+82.23.69.20|22556|/Shibetoshi:1.14.3/|5089|82.20.0.0/14|GB|ripencc|2003-02-28|NTL, GB
+82.27.167.207|22445|/Pandoshi:3.0.5.6/|5089|82.24.0.0/14|GB|ripencc|2003-02-28|NTL, GB
+82.41.164.174|22556|/Shibetoshi:1.14.5/|5089|82.41.0.0/16|GB|ripencc|2003-01-31|NTL, GB
+82.6.56.202|22556|/Shibetoshi:1.14.3/|5089|82.4.0.0/14|GB|ripencc|2003-02-28|NTL, GB
+82.65.114.73|22556|/Shibetoshi:1.14.5/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.181.253|22556|/Shibetoshi:1.14.3/
 82.66.105.59|22556|/Shibetoshi:1.14.5/
 82.66.134.11|22556|/Shibetoshi:1.14.5/
@@ -1185,6 +1190,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.230.26.72|22556|/Shibetoshi:1.14.5/
 84.251.135.31|22556|/Shibetoshi:1.14.5(FI---DoOnlyGoodEveryday---DNQnqx4dxefbEYYVpDgduRZtYz9ZgmfB8N)/
 84.251.177.132|22556|/Shibetoshi:1.14.2/
+84.64.204.211|22556|/Shibetoshi:1.14.4/
 85.15.108.202|22556|/Shibetoshi:1.14.3/
 85.15.179.171|22556|/Shibetoshi:1.14.2/
 85.154.105.82|22556|/Shibetoshi:1.14.5/
@@ -1242,25 +1248,25 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.205.174.201|22556|/Shibetoshi:1.14.5/
 91.206.16.214|22556|/Shibetoshi:1.14.2/
 91.217.2.119|22556|/Shibetoshi:1.14.3/
-91.232.143.23|22556|/Shibetoshi:1.14.5/|201068|91.232.143.0/24|PL|ripencc|2011-11-14|AK-COM, PL
-91.39.182.142|22556|/Shibetoshi:1.14.5/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.90.161.84|22556|/Shibetoshi:1.14.5/|33901|91.90.160.0/21|PL|ripencc|2006-09-19|CONNECTA-AS, PL
-92.15.23.208|22556|/Shibetoshi:1.14.5/|13285|92.14.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
-92.204.40.25|22556|/Shibetoshi:1.14.5/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
-92.66.80.18|22556|/Shibetoshi:1.14.4/|1136|92.64.0.0/14|NL|ripencc|2007-06-19|KPN KPN National, NL
-93.188.163.201|22556|/Shibetoshi:1.14.4/|47583|93.188.160.0/21|CY|ripencc|2012-08-10|AS-HOSTINGER, CY
-93.189.27.165|22556|/Shibetoshi:1.14.3/|44133|93.189.24.0/21|AT|ripencc|2008-04-23|IPAX-AS, AT
-93.243.101.29|22556|/Shibetoshi:1.14.5/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.43.231.1|22556|/Shibetoshi:1.14.5/|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
-93.46.80.157|22556|/Shibetoshi:1.14.3/|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
-94.130.137.98|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.143.7|22778|/Shibetoshi:1.14.5(DogeDojo-DLh4jVaQ2FFFMy1XkjtRqD2v4BkdX9Sz6k)/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.220.87|22556|/Shibetoshi:1.14.5/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.64.182|9003|/Shibetoshi:1.14.5/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.71.31|22556|/Shibetoshi:1.14.5/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.224.166.158|22556|/Shibetoshi:1.14.5(DoOnlyGoodEveryday)/|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
-94.229.65.210|22556|/Shibetoshi:1.14.5/|42831|94.229.64.0/20|GB|ripencc|2008-11-12|UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location, GB
-94.23.192.171|22556|/Shibetoshi:1.14.5/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+91.232.143.23|22556|/Shibetoshi:1.14.5/
+91.39.182.142|22556|/Shibetoshi:1.14.5/
+91.90.161.84|22556|/Shibetoshi:1.14.5/
+92.15.23.208|22556|/Shibetoshi:1.14.5/
+92.204.40.25|22556|/Shibetoshi:1.14.5/
+92.66.80.18|22556|/Shibetoshi:1.14.4/
+93.188.163.201|22556|/Shibetoshi:1.14.4/
+93.189.27.165|22556|/Shibetoshi:1.14.3/
+93.243.101.29|22556|/Shibetoshi:1.14.5/
+93.43.231.1|22556|/Shibetoshi:1.14.5/
+93.46.80.157|22556|/Shibetoshi:1.14.3/
+94.130.137.98|22556|/Shibetoshi:1.14.2/
+94.130.143.7|22778|/Shibetoshi:1.14.5(DogeDojo-DLh4jVaQ2FFFMy1XkjtRqD2v4BkdX9Sz6k)/
+94.130.220.87|22556|/Shibetoshi:1.14.5/
+94.130.64.182|9003|/Shibetoshi:1.14.5/
+94.130.71.31|22556|/Shibetoshi:1.14.5/
+94.224.166.158|22556|/Shibetoshi:1.14.5(DoOnlyGoodEveryday)/
+94.229.65.210|22556|/Shibetoshi:1.14.5/
+94.23.192.171|22556|/Shibetoshi:1.14.5/
 94.23.2.215|22556|/Shibetoshi:1.14.0/
 94.23.216.167|22556|/Shibetoshi:1.14.3/
 94.62.51.28|22556|/Shibetoshi:1.14.5(@LuisSanctus)/
