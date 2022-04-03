@@ -532,6 +532,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/
 2403:6200:88a8:630f:25a0:2cbe:ea07:7d13|9333|/LitecoinCore:0.18.1/
 2408:8234:8410:660:3083:511e:65a1:c889|9333|/LitecoinCore:0.18.1/
+2409:8a1e:2a63:7ac0:b44f:645e:95d0:3123|9321|/Satoshi:0.14.3/
 240d:1b:64:6202:1f7a:a402:916:dc86|9513|/Satoshi:0.8.7.2/
 2600:1700:3f00:7f30::41|9333|/LitecoinCore:0.18.1/
 2600:3c00::f03c:91ff:fe45:8a2d|9333|/LitecoinCore:0.21.1/
@@ -764,7 +765,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.162.126.176|9333|/LitecoinCore:0.17.1/
 35.169.124.203|9333|/LitecoinCore:0.18.1/
 35.169.128.163|9333|/LitecoinCore:0.18.1/
-35.171.84.190|9333|/LitecoinCore:0.18.1/
 35.175.146.121|9333|/LitecoinCore:0.18.1/
 35.184.103.190|9333|/LitecoinCore:0.18.1/
 35.185.243.234|9333|/LitecoinCore:0.18.1/
@@ -1083,16 +1083,16 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.44.250.93|9333|/LitecoinCore:0.21.1/
 78.46.189.221|9333|/LitecoinCore:0.18.1/
 78.46.46.22|9333|/LitecoinCore:0.17.1/
-78.46.78.206|9333|/LitecoinCore:0.17.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-79.137.57.54|9027|/Satoshi:0.8.6.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.69.175|9333|/LitecoinCore:0.14.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.175.125.210|9333|/LitecoinCore:0.16.3/|9125|79.175.64.0/18|RS|ripencc|2007-11-12|ORIONTELEKOM-AS, RS
-79.98.159.7|12333|/LitecoinCore:0.17.1/|44065|79.98.152.0/21|CZ|ripencc|2007-11-06|NETAIR-AS, CZ
-8.131.54.186|9333|/LitecoinCore:0.18.1(LTC1)/|37963|8.131.0.0/16|SG|apnic|1992-12-01|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.135.49.172|9333|/LitecoinCore:0.21.2/|37963|8.135.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.136.222.220|9321|/Satoshi:0.14.3/|37963|8.136.128.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.214.154.25|9333|/LitecoinCore:0.21.2/|45102|8.214.128.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-80.241.215.211|9333|/LitecoinCore:0.13.2(bitcore)/|51167|80.241.215.0/24|DE|ripencc|2011-02-14|CONTABO, DE
+78.46.78.206|9333|/LitecoinCore:0.17.1/
+79.137.57.54|9027|/Satoshi:0.8.6.2/
+79.137.69.175|9333|/LitecoinCore:0.14.2/
+79.175.125.210|9333|/LitecoinCore:0.16.3/
+79.98.159.7|12333|/LitecoinCore:0.17.1/
+8.131.54.186|9333|/LitecoinCore:0.18.1(LTC1)/
+8.135.49.172|9333|/LitecoinCore:0.21.2/
+8.136.222.220|9321|/Satoshi:0.14.3/
+8.214.154.25|9333|/LitecoinCore:0.21.2/
+80.241.215.211|9333|/LitecoinCore:0.13.2(bitcore)/
 80.65.23.139|33666|/CypherfunkCore:0.15.2/
 80.79.114.34|9333|/LitecoinCore:0.17.1/
 80.89.156.216|9333|/LitecoinCore:0.18.1/
@@ -1163,14 +1163,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.193.181.3|9333|/LitecoinCore:0.16.3/
 91.200.102.243|9333|/LitecoinCore:0.18.1/
 91.205.174.201|9333|/LitecoinCore:0.18.1/
-91.206.16.214|9333|/LitecoinCore:0.18.1/
-91.216.240.134|9333|/LitecoinCore:0.18.1/
-91.228.147.153|9333|/LitecoinCore:0.18.1/
-91.231.187.7|9333|/LitecoinCore:0.16.3/
-91.232.105.180|9333|/LitecoinCore:0.16.3/
-91.90.161.84|9333|/LitecoinCore:0.18.1/
-92.132.81.214|9333|/LitecoinCore:0.18.1/
-92.204.40.25|9333|/LitecoinCore:0.18.1/
+91.206.16.214|9333|/LitecoinCore:0.18.1/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+91.216.240.134|9333|/LitecoinCore:0.18.1/|197159|91.216.240.0/24|UA|ripencc|2010-07-05|TRINET, UA
+91.228.147.153|9333|/LitecoinCore:0.18.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
+91.231.187.7|9333|/LitecoinCore:0.16.3/|44779|91.231.187.0/24|RU|ripencc|2019-10-03|POLYSERVICE-AS, RU
+91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.90.161.84|9333|/LitecoinCore:0.18.1/|33901|91.90.160.0/21|PL|ripencc|2006-09-19|CONNECTA-AS, PL
+92.132.81.214|9333|/LitecoinCore:0.18.1/|3215|92.132.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
+92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.220.66.56|9333|/LitecoinCore:0.21.2/
 92.245.6.89|9333|/LitecoinCore:0.18.1/
 93.189.27.164|9333|/LitecoinCore:0.18.1/
