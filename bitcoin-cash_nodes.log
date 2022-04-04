@@ -75,7 +75,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.48.28.6|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
 13.49.221.204|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
 13.53.124.134|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
-13.73.22.56|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 13.90.141.13|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 134.209.120.206|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 135.181.0.47|8433|/Bitcoin Cash Node:23.0.0(EB32.0)/
@@ -141,6 +140,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.202.47.119|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/
 144.202.91.233|8333|/Bitcoin ABC:0.24.4(EB32.0)/
 144.217.77.97|8335|/Bitcoin ABC:0.20.9(EB32.0)/
+144.76.117.158|8333|/Bitcoin XT:0.11.0K(Linux; x86_64; EB32)/
 144.76.34.104|8333|/Bitcoin ABC:0.20.6(EB32.0)/
 144.76.39.233|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/
 144.76.44.57|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/
@@ -527,6 +527,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5300:60:37df::420|8444|/Bitcoin Cash Node:23.1.0(EB32.0)/
 2607:5300:60:4cab::|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 2607:5300:60:6f79::|14335|/Bitcoin Cash Node:23.0.0(EB32.0)/
+2607:fb90:e95:7332:7:4fab:4e95:e993|8333|/Bitcoin ABC:0.24.3(EB32.0)/
 2620:a6:2000:1::5:1265|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 27.102.129.54|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 2a00:1768:2001:27::a1cb|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
@@ -555,6 +556,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:190:4210::2|8333|/Bitcoin ABC:0.20.10(EB32.0)/
 2a01:4f8:191:3067::2|8333|/Bitcoin ABC:0.20.6(EB32.0)/
 2a01:4f8:191:40e8::2|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/
+2a01:4f8:191:5061::2|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/
 2a01:4f8:192:221c::2|8433|/Bitcoin Cash Node:24.0.0(EB32.0)/
 2a01:4f8:1c1c:69ee::1|8333|/Bitcoin ABC:0.24.4(EB32.0)/
 2a01:4f8:1c1c:aad9::1|8333|/Bitcoin ABC:0.20.6(EB32.0)/
@@ -682,7 +684,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.77.137.101|8333|/Bitcoin ABC:0.25.1(EB32.0)/
 35.77.88.236|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 36.2.28.125|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-37.139.30.133|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 37.48.125.237|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 37.58.56.7|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 37.59.32.10|8433|/Bitcoin Cash Node:23.1.0(EB32.0)/
@@ -726,7 +727,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.32.46.198|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/
 45.32.75.82|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 45.32.79.103|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
-45.33.122.254|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 45.33.14.27|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 45.33.48.42|8333|/Bitcoin Cash Node:23.0.1(EB32.0)/
 45.33.6.213|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
@@ -911,6 +911,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.172.112.154|8333|/kth-bch:0.22.0/
 66.172.112.251|8333|/kth-bch:0.22.0/
 66.206.13.51|8335|/Bitcoin Cash Node:23.1.0(EB32.0)/
+66.228.37.77|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 66.42.100.27|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 67.149.69.39|8333|/Bitcoin Verde:2.2.0/
 67.164.15.15|9333|/Bitcoin ABC:0.22.14(EB32.0)/
@@ -976,6 +977,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.132.133.8|8331|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 92.139.81.20|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 93.189.27.164|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
+93.190.23.114|8328|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 93.95.228.200|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 94.130.35.227|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/
 94.130.9.100|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/
@@ -984,6 +986,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.199.178.233|3301|/Bitcoin Cash Node:23.1.0(EB32.0)/
 94.247.134.76|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 95.111.233.123|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
+95.154.90.99|8335|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 95.216.118.33|8343|/Bitcoin Cash Node:23.0.0(EB32.0)/
 95.216.119.109|38333|/Bitcoin ABC:0.21.3(EB32.0; bitcore)/
 95.216.21.176|38333|/Bitcoin ABC:0.18.5(EB32.0; bitcore)/
@@ -992,12 +995,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.236.248|8333|/bchd:0.18.1(EB32.0)/
 95.217.36.126|8888|/Bitcoin Cash Node:23.0.0(EB32.0)/
 95.217.73.169|8333|/Bitcoin ABC:0.24.6(EB32.0)/
+95.217.78.79|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 95.246.228.134|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
 95.85.13.44|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 96.126.116.182|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 96.126.126.236|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 96.2.114.205|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 96.231.250.25|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-97.120.14.12|8433|/Bitcoin Cash Node:24.0.0(EB32.0)/
 99.130.253.220|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 99.148.47.138|19332|/Bitcoin ABC:0.24.7(EB32.0)/
