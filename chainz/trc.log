@@ -5,13 +5,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.131.160.119|/Terracoin Core:0.12.2.5/|70208||||||
 104.131.180.71|/Terracoin Core:0.12.2.5/|70208||||||
 104.144.34.129|/Terracoin Core:0.12.2.5/|70208||||||
-104.236.183.29|/Terracoin Core:0.12.2.5/|70208|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
-104.238.174.84|/Terracoin Core:0.12.2.5/|70208|20473|104.238.168.0/21|US|arin|2014-11-13|AS-CHOOPA, US
-107.173.67.39|/Terracoin Core:0.12.2.5/|70208|36352|107.173.67.0/24|US|arin|2013-12-27|AS-COLOCROSSING, US
+104.236.183.29|/Terracoin Core:0.12.2.5/|70208||||||
+104.238.174.84|/Terracoin Core:0.12.2.5/|70208||||||
+107.173.67.39|/Terracoin Core:0.12.2.5/|70208||||||
 107.191.44.183|/Terracoin Core:0.12.2.5/|70208||||||
 108.61.166.194|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.12.68|/Terracoin Core:0.12.2.5/|70208||||||
-109.248.128.71|/Terracoin Core:0.12.2.5/|70208|35048|109.248.128.0/24|CZ|ripencc|2009-11-27|BITERIKA-AS, RU
+109.248.128.71|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.14.127|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.142.172|/Terracoin Core:0.12.2.5/|70208||||||
 109.248.143.62|/Terracoin Core:0.12.2.5/|70208||||||
@@ -33,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 147.135.97.55|/Terracoin Core:0.12.2.4/|70208||||||
 149.28.79.141|/Terracoin Core:0.12.2.4/|70208||||||
 149.56.155.28|/Terracoin Core:0.12.2.5/|70208||||||
+151.35.187.184|/Terracoin Core:0.12.2.5/|70208||||||
 158.51.99.246|/Terracoin Core:0.12.2.4/|70208||||||
 158.51.99.248|/Terracoin Core:0.12.2.4/|70208||||||
 158.51.99.249|/Terracoin Core:0.12.2.4/|70208||||||
@@ -59,11 +60,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.130.143.42|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.143.73|/Terracoin Core:0.12.2.5/|70208||||||
 188.130.185.121|/Terracoin Core:0.12.2.5/|70208||||||
-188.130.188.4|/Terracoin Core:0.12.2.5/|70208||||||
 188.40.85.214|/Terracoin Core:0.12.2.5/|70208||||||
 192.241.198.44|/Terracoin Core:0.12.2.5/|70208||||||
 192.53.163.250|/Terracoin Core:0.12.2.5/|70208||||||
 193.70.35.157|/Terracoin Core:0.12.2.5/|70208||||||
+193.70.97.192|/Terracoin Core:0.12.2.5/|70208||||||
 194.32.229.212|/Terracoin Core:0.12.2.5/|70208||||||
 194.34.248.5|/Terracoin Core:0.12.2.5/|70208||||||
 194.35.113.140|/Terracoin Core:0.12.2.5/|70208||||||
@@ -88,6 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 40.114.227.71|/Terracoin Core:0.12.2.5/|70208||||||
 40.118.9.135|/Terracoin Core:0.12.2.5/|70208||||||
 45.10.152.127|/Terracoin Core:0.12.2.4/|70208||||||
+45.10.152.135|/Terracoin Core:0.12.2.4/|70208||||||
 45.10.152.223|/Terracoin Core:0.12.2.4/|70208||||||
 45.10.152.226|/Terracoin Core:0.12.2.4/|70208||||||
 45.10.152.227|/Terracoin Core:0.12.2.4/|70208||||||
@@ -124,8 +126,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.8.10.217|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.106.215|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.11.170|/Terracoin Core:0.12.2.5/|70208||||||
-46.8.154.79|/Terracoin Core:0.12.2.5/|70208||||||
-46.8.156.48|/Terracoin Core:0.12.2.5/|70208||||||
+46.8.154.79|/Terracoin Core:0.12.2.5/|70208|35048|46.8.154.0/24|CZ|ripencc|2010-09-07|BITERIKA-AS, RU
+46.8.156.48|/Terracoin Core:0.12.2.5/|70208|35048|46.8.156.0/24|CZ|ripencc|2010-09-07|BITERIKA-AS, RU
 46.8.156.92|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.16.245|/Terracoin Core:0.12.2.5/|70208||||||
 46.8.17.163|/Terracoin Core:0.12.2.5/|70208||||||
@@ -152,16 +154,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.8.9.239|/Terracoin Core:0.12.2.5/|70208||||||
 51.254.6.113|/Terracoin Core:0.12.2.5/|70208||||||
 51.254.6.115|/Terracoin Core:0.12.2.5/|70208||||||
-51.77.116.109|/Terracoin Core:0.12.2.5/|70208||||||
-51.77.124.9|/Terracoin Core:0.12.2.5/|70208||||||
+51.77.116.109|/Terracoin Core:0.12.2.5/|70208|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.77.124.9|/Terracoin Core:0.12.2.5/|70208|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.36.130.133|/Terracoin Core:0.12.2.5/|70208||||||
 54.36.130.135|/Terracoin Core:0.12.2.5/|70208||||||
 54.36.19.76|/Terracoin Core:0.12.2.5/|70208||||||
 54.38.116.181|/Terracoin Core:0.12.2.5/|70208||||||
 54.38.150.126|/Terracoin Core:0.12.2.5/|70208||||||
 64.231.116.238|/Terracoin Core:0.12.2.5/|70208||||||
-64.94.212.101|/Terracoin Core:0.12.2.5/|70208||||||
-64.94.212.231|/Terracoin Core:0.12.2.5/|70208|35913|64.94.212.0/23|US|arin|2000-06-05|DEDIPATH-LLC, US
+64.94.212.231|/Terracoin Core:0.12.2.5/|70208||||||
 65.108.2.108|/Terracoin Core:0.12.2.5/|70208||||||
 66.151.242.154|/Terracoin Core:0.12.2.4/|70208||||||
 66.70.182.1|/Terracoin Core:0.12.2.5/|70208||||||
@@ -175,8 +176,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.159.90.59|/Terracoin Core:0.12.2.5/|70208||||||
 91.243.49.222|/Terracoin Core:0.12.2.5/|70208||||||
 92.119.193.237|/Terracoin Core:0.12.2.5/|70208||||||
-94.158.190.213|/Terracoin Core:0.12.2.5/|70208|35048|94.158.190.0/24|RU|ripencc|2019-04-23|BITERIKA-AS, RU
-94.158.190.78|/Terracoin Core:0.12.2.5/|70208|35048|94.158.190.0/24|RU|ripencc|2019-04-23|BITERIKA-AS, RU
+94.158.190.213|/Terracoin Core:0.12.2.5/|70208||||||
+94.158.190.78|/Terracoin Core:0.12.2.5/|70208||||||
 94.158.190.97|/Terracoin Core:0.12.2.5/|70208||||||
 95.179.140.120|/Terracoin Core:0.12.2.4/|70208||||||
 95.182.126.85|/Terracoin Core:0.12.2.5/|70208||||||
