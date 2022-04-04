@@ -3,12 +3,11 @@
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.110.123|8333|/Satoshi:22.0.0/|45090|1.116.64.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.13.7.12|8333|/Satoshi:22.0.0/|45090|1.13.0.0/18|CN|apnic|2010-05-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-1.14.156.27|8333|/Satoshi:22.0.0/|45090|1.14.128.0/18|CN|apnic|2010-05-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-1.53.139.91|8333|/Satoshi:0.21.1/|18403|1.53.128.0/18|VN|apnic|2010-05-26|FPT-AS-AP FPT Telecom Company, VN
+1.14.156.27|8333|/Satoshi:22.0.0/
+1.53.139.91|8333|/Satoshi:0.21.1/
 1.64.95.241|8333|/Satoshi:0.21.1/
 100.0.15.8|8333|/Satoshi:22.0.0/
 100.0.180.148|8333|/Satoshi:22.0.0/
-100.14.113.48|8333|/Satoshi:22.0.0/
 100.14.190.176|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 100.14.80.48|8333|/Satoshi:22.0.0/
 100.15.139.5|8333|/Satoshi:22.0.0/
@@ -52,14 +51,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.235.230.204|8333|/Satoshi:22.0.0/
 103.239.19.142|8333|/Satoshi:0.18.0/
 103.243.173.210|8333|/Satoshi:0.21.1/
-103.243.173.214|8333|/Satoshi:0.21.1/|59210|103.243.173.0/24|SG|apnic|2013-10-15|PHOENIXNAP-AS-SG1 PhoenixNAP, SG
-103.249.111.33|8333|/Satoshi:0.18.1/|133199|103.249.111.0/24|HK|apnic|2013-06-04|SONDERCLOUDLIMITED-AS-AP SonderCloud Limited, HK
-103.29.69.57|8333|/Satoshi:0.18.0(bitcore)/|63949|103.29.68.0/22|SG|apnic|2011-06-22|LINODE-AP Linode, LLC, US
-103.3.61.194|8333|/Satoshi:0.20.0/|63949|103.3.60.0/22|SG|apnic|2011-04-28|LINODE-AP Linode, LLC, US
-103.35.121.72|8333|/Satoshi:0.20.1/|9430|103.35.121.0/24|IN|apnic|2015-08-17|STPI-NOIDA Software Technology Parks of India,Block-IV, IN
-103.36.92.112|8333|/therealbitcoin.org:0.9.99.99/|38532|103.36.92.0/22|SG|apnic|2014-08-14|EXABYTES-AS-AP Exabytes Network Singapore Pte. Ltd., SG
-103.4.15.25|8333|/Satoshi:0.20.0/|16509|103.4.8.0/21|JP|apnic|2011-05-06|AMAZON-02, US
-103.45.153.169|8333|/Satoshi:0.21.1/|63612|103.45.153.0/24|CN|apnic|2014-12-14|XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN
+103.243.173.214|8333|/Satoshi:0.21.1/
+103.249.111.33|8333|/Satoshi:0.18.1/
+103.29.69.57|8333|/Satoshi:0.18.0(bitcore)/
+103.3.61.194|8333|/Satoshi:0.20.0/
+103.35.121.72|8333|/Satoshi:0.20.1/
+103.36.92.112|8333|/therealbitcoin.org:0.9.99.99/
+103.4.15.25|8333|/Satoshi:0.20.0/
+103.45.153.169|8333|/Satoshi:0.21.1/
 103.47.192.15|8333|/Satoshi:0.21.1/
 103.6.212.28|8333|/therealbitcoin.org:0.9.99.99/
 103.71.252.18|8333|/Satoshi:0.20.1/
@@ -78,6 +77,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.129.170.190|8333|/Satoshi:22.0.0/
 104.129.171.121|8333|/Satoshi:22.0.0/
 104.13.168.146|8333|/Satoshi:0.20.0/
+104.131.150.216|20202|/Satoshi:0.12.0(UASF-SegWit-BIP148)/
 104.131.175.245|8333|/Satoshi:0.21.0/
 104.139.19.140|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 104.14.157.7|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -98,9 +98,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.182.210.230|8333|/Satoshi:0.21.1/
 104.189.109.54|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 104.196.136.244|8333|/Satoshi:22.0.0/
+104.196.231.248|8333|/Satoshi:0.20.1/
 104.198.114.108|8333|/Satoshi:0.20.1/
-104.198.114.145|8333|/Satoshi:0.20.1/
-104.198.216.178|8333|/Satoshi:0.20.1/
 104.199.56.247|8333|/Satoshi:0.20.1/
 104.199.71.15|8333|/Satoshi:0.21.1/
 104.2.203.234|8333|/Satoshi:22.0.0/
@@ -116,10 +115,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.246.196.11|8333|/Satoshi:22.0.0/
 104.248.136.82|8333|/Satoshi:22.0.0/
 104.248.139.211|8333|/Satoshi:0.21.0/
-104.248.143.83|8333|/Satoshi:0.20.1/
 104.248.157.169|8333|/Satoshi:0.20.1/
 104.248.16.27|8333|/Satoshi:0.17.0/
-104.248.160.118|8333|/Satoshi:0.20.1/
 104.248.162.68|8333|/Satoshi:22.0.0/
 104.248.207.3|8333|/Satoshi:22.0.0/
 104.248.21.247|8333|/Satoshi:0.21.0/
@@ -185,6 +182,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.198.62.75|8333|/Satoshi:22.0.0/
 108.20.175.197|8333|/Satoshi:22.0.0/
 108.20.186.210|8333|/Satoshi:22.0.0/
+108.200.255.200|8333|/Satoshi:22.0.0/
 108.201.79.41|8333|/Satoshi:22.0.0/
 108.205.172.139|8333|/Satoshi:0.21.1/
 108.216.198.86|8333|/Satoshi:22.0.0/
@@ -200,6 +198,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.27.70.20|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 108.28.120.178|8333|/Satoshi:22.0.0/
 108.31.147.13|8333|/Satoshi:22.0.0/
+108.31.76.241|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 108.4.212.234|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 108.4.212.83|8333|/Satoshi:0.21.0/
 108.45.136.194|8333|/Satoshi:22.0.0/
@@ -253,7 +252,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.202.206.15|8333|/Satoshi:22.0.0/
 109.202.211.125|8333|/Satoshi:22.0.0/
 109.206.168.240|8333|/Satoshi:0.21.1/
-109.207.79.248|8333|/Satoshi:0.20.1(Omni:0.11.0)/
+109.207.79.248|8333|/Satoshi:0.20.1(Omni:0.11.0)/|44709|109.207.79.0/24|IL|ripencc|2018-08-30|CLOUDWEBMANAGE-, IL
 109.21.2.47|8333|/Satoshi:0.18.1/
 109.221.234.72|8333|/Satoshi:22.0.0/
 109.229.142.98|8333|/Satoshi:22.0.0/
@@ -423,7 +422,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.252.50|8333|/Satoshi:22.0.0/
 128.199.4.104|8333|/Satoshi:0.20.1/
 128.199.50.213|8333|/Satoshi:0.21.0/
-128.199.98.15|8333|/Satoshi:0.20.1/
 128.2.12.38|8333|/Satoshi:0.21.0/
 128.204.192.76|8333|/Satoshi:22.0.0/
 128.65.194.136|8333|/Satoshi:22.0.0/
@@ -437,20 +435,18 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 129.146.162.57|8333|/Satoshi:22.0.0/
 129.226.125.10|8333|/Satoshi:0.18.0/
 13.112.109.34|8333|/Satoshi:0.14.99/
-13.112.175.43|8333|/Satoshi:0.20.1/
 13.112.218.4|8333|/Satoshi:0.14.99/
 13.112.248.184|8333|/Satoshi:22.0.0/
 13.113.116.175|8333|/Satoshi:0.20.0/
 13.113.139.174|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 13.113.224.85|8333|/Satoshi:0.20.1(Omni:0.11.0)/
-13.115.95.157|8333|/Satoshi:0.20.1/
 13.124.250.6|8333|/Satoshi:0.14.99/
+13.124.29.164|8333|/Satoshi:0.20.1/
 13.124.60.74|8333|/Satoshi:0.20.1/
 13.124.74.157|8333|/Satoshi:0.18.1/
 13.125.202.178|8333|/Satoshi:0.16.0/
 13.125.67.125|8333|/Satoshi:0.14.99/
 13.126.144.12|8333|/Satoshi:0.21.1/
-13.126.218.145|8333|/Satoshi:0.20.1/
 13.127.108.110|8333|/Satoshi:0.20.1/
 13.127.130.18|8333|/Satoshi:0.14.99/
 13.127.94.172|8333|/Satoshi:0.14.99/
@@ -460,7 +456,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.209.215.189|8333|/Satoshi:22.0.0/
 13.209.5.125|8333|/Satoshi:22.0.0/
 13.211.210.18|8333|/Satoshi:0.20.1/
-13.211.79.130|8333|/Satoshi:0.20.1/
 13.212.122.78|8333|/Satoshi:0.21.1/
 13.212.141.79|8333|/Satoshi:0.20.1/
 13.212.145.209|8333|/Satoshi:22.0.0/
@@ -477,7 +472,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.228.25.171|8333|/Satoshi:0.20.1/
 13.228.53.43|8333|/Satoshi:0.19.1/
 13.228.91.206|8333|/Satoshi:0.14.99/
-13.229.129.207|8333|/Satoshi:0.20.1/
 13.229.131.185|8333|/Satoshi:0.21.1/
 13.229.133.26|8333|/Satoshi:0.15.0/
 13.229.145.68|8333|/Satoshi:22.0.0/
@@ -492,27 +486,24 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.231.85.192|8333|/Satoshi:0.17.1/
 13.232.135.122|8333|/Satoshi:0.20.1/
 13.232.238.113|8333|/Satoshi:0.14.99/
+13.232.38.92|8333|/Satoshi:0.20.1/
 13.232.94.246|8333|/Satoshi:0.14.99/
-13.233.14.14|8333|/Satoshi:0.20.1/
 13.233.176.4|8333|/Satoshi:0.14.99/
 13.233.182.207|8333|/Satoshi:0.14.99/
 13.233.82.105|8333|/Satoshi:0.14.99/
-13.233.97.177|8333|/Satoshi:0.20.1/
 13.236.132.166|8333|/Satoshi:0.14.99/
 13.236.204.65|8333|/Satoshi:0.14.99/
 13.236.97.169|8333|/Satoshi:0.14.99/
-13.239.12.139|8333|/Satoshi:0.20.1/
-13.239.85.6|8333|/Satoshi:0.20.1/
+13.238.120.8|8333|/Satoshi:0.20.1/
 13.244.102.90|8333|/Satoshi:0.20.1/
 13.244.104.103|8333|/Satoshi:0.20.1/
-13.244.105.4|8333|/Satoshi:0.20.1/
 13.244.108.188|8333|/Satoshi:0.20.1/
 13.244.59.9|8333|/Satoshi:0.20.1/
-13.244.68.86|8333|/Satoshi:0.20.1/
+13.244.63.90|8333|/Satoshi:0.20.1/
+13.244.70.8|8333|/Satoshi:0.20.1/
 13.244.71.100|8333|/Satoshi:0.20.1/
-13.245.27.50|8333|/Satoshi:0.20.1/
 13.245.30.239|8333|/Satoshi:0.20.1/
-13.245.4.171|8333|/Satoshi:0.20.1/
+13.245.5.102|8333|/Satoshi:0.20.1/
 13.246.37.157|8333|/Satoshi:0.20.1/
 13.250.41.138|8333|/Satoshi:0.20.1/
 13.250.47.0|8333|/Satoshi:22.0.0/
@@ -524,8 +515,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.48.138.23|8333|/Satoshi:0.18.0/
 13.48.148.170|8333|/Satoshi:0.21.1/
 13.48.25.119|8333|/Satoshi:0.18.0/
+13.48.71.240|8333|/Satoshi:0.20.1/
 13.48.8.80|8333|/Satoshi:22.0.0/
-13.49.228.150|8333|/Satoshi:0.20.1/
+13.49.240.116|8333|/Satoshi:0.20.1/
 13.49.240.49|8333|/Satoshi:0.20.1/
 13.49.77.201|8333|/Satoshi:0.20.1/
 13.51.39.48|8333|/Satoshi:0.21.0/
@@ -533,13 +525,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.53.107.75|8333|/Satoshi:0.20.1/
 13.53.125.154|8333|/Satoshi:0.20.1/
 13.53.133.190|8333|/Satoshi:0.18.0/
-13.53.190.249|8333|/Satoshi:0.20.1/
+13.53.170.167|8333|/Satoshi:0.20.1/
 13.53.235.38|8333|/Satoshi:22.0.0/
 13.53.36.154|8333|/Satoshi:0.20.1/
 13.53.40.179|8333|/Satoshi:0.20.1/
 13.55.244.216|8333|/Satoshi:0.17.0.1/
 13.57.192.196|8333|/Satoshi:0.20.1/
-13.57.250.92|8333|/Satoshi:0.20.1/
 13.58.73.107|8333|/Satoshi:0.21.0/
 13.59.221.192|8333|/Satoshi:0.14.99/
 13.59.63.132|8333|/Satoshi:22.0.0/
@@ -552,7 +543,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.185.109.17|8333|/Satoshi:0.12.1(bitcore)/
 130.185.118.173|8333|/Satoshi:0.21.1/
 130.204.118.13|8333|/Satoshi:22.0.0/
-130.211.232.148|8333|/Satoshi:0.20.1/
 130.44.146.120|8333|/Satoshi:0.20.1/
 130.61.30.186|8333|/Satoshi:0.20.99/
 131.106.252.201|8333|/Satoshi:22.0.0/
@@ -569,7 +559,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.122.106.46|8333|/Satoshi:22.0.0/
 134.122.22.241|8333|/Satoshi:0.20.1/
 134.122.26.164|8333|/Satoshi:0.20.0/
-134.122.38.34|8333|/Satoshi:0.20.1/
+134.122.40.106|8333|/Satoshi:0.20.1/
 134.122.47.206|8333|/Satoshi:0.20.1/
 134.195.185.52|8333|/Satoshi:0.21.1/
 134.195.196.216|8333|/Satoshi:0.21.1/
@@ -593,12 +583,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.108.79|8333|/Satoshi:0.21.0/
 135.181.109.126|8333|/Satoshi:0.20.1/
 135.181.109.127|8333|/Satoshi:0.20.1/
+135.181.109.128|8333|/Satoshi:0.20.1/
 135.181.109.130|8333|/Satoshi:0.20.1/
+135.181.109.131|8333|/Satoshi:0.20.1/
 135.181.109.133|8333|/Satoshi:0.20.1/
 135.181.109.137|8333|/Satoshi:0.20.1/
-135.181.109.139|8333|/Satoshi:0.20.1/
 135.181.109.146|8333|/Satoshi:22.0.0/
-135.181.109.196|8333|/Satoshi:0.20.1/
+135.181.109.189|8333|/Satoshi:0.20.1/
 135.181.109.218|8333|/Satoshi:0.20.1/
 135.181.113.81|8333|/Satoshi:0.21.1/
 135.181.116.234|21002|/Satoshi:22.0.0/
@@ -635,7 +626,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.144.191.173|8333|/Satoshi:0.17.0/
 136.144.215.219|10100|/Satoshi:0.20.1(Omni:0.11.0)/
 136.144.230.61|8333|/Satoshi:0.12.1(bitcore)/
-136.24.173.82|8333|/Satoshi:22.0.0/
 136.243.104.27|8333|/Satoshi:22.0.0/
 136.243.11.96|8333|/Satoshi:0.20.0/
 136.243.132.4|8333|/Satoshi:22.0.0/
@@ -695,7 +685,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.197.168.65|8333|/Satoshi:22.0.0/
 138.197.173.43|8333|/Satoshi:0.21.1/
 138.197.177.216|8333|/Satoshi:22.0.0/
-138.197.180.164|8333|/Satoshi:0.20.1/
 138.197.190.145|8333|/Satoshi:0.21.1/
 138.197.233.230|8333|/Satoshi:22.0.0/
 138.197.97.88|8333|/Satoshi:0.17.1/
@@ -755,16 +744,19 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.173.148|8333|/Satoshi:22.0.0/
 139.59.178.222|8333|/Satoshi:0.21.1/
 139.59.247.235|8333|/Satoshi:0.18.0/
+139.59.70.163|8333|/Satoshi:0.20.1/
 139.59.80.147|8333|/Satoshi:0.20.99/
 139.59.92.87|8333|/Satoshi:0.20.1/
 14.108.213.45|8333|/Satoshi:0.21.1/
 14.2.88.250|8333|/Satoshi:0.21.1/
 14.250.130.254|8333|/Satoshi:0.21.1/
 14.39.151.167|8333|/Satoshi:22.0.0/
+140.190.12.129|8333|/Satoshi:22.0.0/
 140.190.21.8|8333|/Satoshi:0.15.99/
 140.82.43.118|8333|/Satoshi:0.19.1/
 141.126.129.66|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 141.154.81.39|8333|/Satoshi:22.0.0(PlanetCoinMarket.com)/
+141.156.198.187|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 141.156.235.15|8333|/Satoshi:0.21.1/
 141.164.39.196|8333|/Satoshi:0.21.0/
 141.94.139.101|8333|/Satoshi:22.0.0/
@@ -828,21 +820,24 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.6.38|8333|/Satoshi:0.21.0/
 142.93.98.144|8333|/Satoshi:22.0.0/
 143.110.147.13|8333|/Satoshi:0.20.1/
-143.110.158.176|8333|/Satoshi:0.20.1/
+143.110.157.215|8333|/Satoshi:0.20.1/
 143.110.159.19|8333|/Satoshi:0.20.1/
 143.110.171.5|8333|/Satoshi:0.20.1/
 143.110.175.239|8333|/Satoshi:0.20.1/
+143.110.175.241|8333|/Satoshi:0.20.1/
 143.110.175.248|8333|/Satoshi:0.20.1/
 143.110.176.58|8333|/Satoshi:22.0.0/
-143.110.178.161|8333|/Satoshi:0.20.1/
 143.110.183.30|8333|/Satoshi:22.0.0/
 143.110.216.174|8333|/Satoshi:0.20.1/
 143.110.216.20|8333|/Satoshi:0.20.1/
-143.110.224.56|8333|/Satoshi:0.20.1/
+143.110.228.219|8333|/Satoshi:0.20.1/
 143.110.231.111|8333|/Satoshi:0.21.1/
-143.110.238.6|8333|/Satoshi:0.20.1/
-143.110.240.87|8333|/Satoshi:0.20.1/
+143.110.238.129|8333|/Satoshi:0.20.1/
+143.110.238.132|8333|/Satoshi:0.20.1/
+143.110.240.102|8333|/Satoshi:0.20.1/
+143.110.240.88|8333|/Satoshi:0.20.1/
 143.110.252.118|8333|/Satoshi:0.20.1/
+143.110.252.124|8333|/Satoshi:0.20.1/
 143.110.252.127|8333|/Satoshi:0.20.1/
 143.177.229.149|8333|/Satoshi:22.0.0/
 143.178.154.103|8333|/Satoshi:0.8.2.2/
@@ -867,6 +862,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.126.220.166|8333|/Satoshi:0.21.0/
 144.130.98.41|8333|/Satoshi:22.0.0/
 144.137.20.70|8333|/Satoshi:0.21.1/
+144.137.29.181|8333|/Satoshi:22.0.0/
 144.168.197.186|8333|/Satoshi:0.20.1/
 144.178.130.132|8333|/Satoshi:22.0.0/
 144.2.116.168|8333|/Satoshi:0.18.0/
@@ -999,40 +995,34 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.74.54.240|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 149.90.214.78|8333|/Satoshi:22.0.0/
 149.91.88.181|8333|/Satoshi:22.0.0/
-15.161.132.203|8333|/Satoshi:0.20.1/
+15.161.128.6|8333|/Satoshi:0.20.1/
 15.161.147.177|8333|/Satoshi:0.20.1/
-15.161.153.204|8333|/Satoshi:0.20.1/
-15.161.212.232|8333|/Satoshi:0.20.1/
-15.161.245.6|8333|/Satoshi:0.20.1/
-15.161.54.116|8333|/Satoshi:0.20.1/
-15.161.89.19|8333|/Satoshi:0.20.1/
-15.161.90.31|8333|/Satoshi:0.20.1/
-15.161.99.250|8333|/Satoshi:0.20.1/
+15.161.234.83|8333|/Satoshi:0.20.1/
+15.161.246.2|8333|/Satoshi:0.20.1/
 15.164.169.212|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 15.164.181.146|8333|/Satoshi:0.16.0/
 15.164.232.223|8333|/Satoshi:23.99.0/
-15.164.241.150|8333|/Satoshi:0.20.1/
 15.165.33.136|8333|/Satoshi:0.17.0/
-15.165.59.8|8333|/Satoshi:0.20.1/
 15.185.182.162|8333|/Satoshi:0.20.1/
-15.185.213.255|8333|/Satoshi:0.20.1/
-15.185.229.194|8333|/Satoshi:0.20.1/
-15.185.59.217|8333|/Satoshi:0.20.1/
+15.185.209.73|8333|/Satoshi:0.20.1/
+15.185.218.62|8333|/Satoshi:0.20.1/
+15.185.66.211|8333|/Satoshi:0.20.1/
 15.188.83.52|8333|/Satoshi:0.20.1/
 15.188.90.0|8333|/Satoshi:0.20.1/
-15.207.108.70|8333|/Satoshi:0.20.1/
+15.206.146.144|8333|/Satoshi:0.20.1/
 15.207.111.189|8333|/Satoshi:0.20.1/
 15.207.116.17|8333|/Satoshi:0.20.1/
+15.207.19.192|8333|/Satoshi:0.20.1/
 15.222.153.202|8333|/Satoshi:0.20.1/
 15.223.116.208|8333|/Satoshi:0.20.1/
 15.228.41.112|8333|/Satoshi:0.20.1/
 15.228.87.193|8333|/Satoshi:0.20.1/
+15.228.89.32|8333|/Satoshi:0.20.1/
 15.229.1.157|8333|/Satoshi:22.0.0/
 15.229.7.63|8333|/Satoshi:22.0.0/
 15.235.144.76|8333|/Satoshi:22.99.0/
 15.235.41.51|8333|/Satoshi:22.0.0/
-15.236.60.15|8333|/Satoshi:0.20.1/
-15.237.122.75|8333|/Satoshi:0.20.1/
+15.236.224.135|8333|/Satoshi:0.20.1/
 15.237.51.173|8333|/Satoshi:0.20.1/
 15.237.74.33|8333|/Satoshi:22.0.0/
 150.136.62.109|8333|/Satoshi:22.0.0/
@@ -1071,6 +1061,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 153.100.187.128|8333|/Satoshi:22.0.0/
 153.127.253.219|8333|/Satoshi:0.20.0/
 153.151.217.194|9740|/Satoshi:0.19.1/
+153.161.176.157|8333|/Satoshi:22.0.0/
 154.20.238.182|8333|/Satoshi:22.0.0/
 154.22.123.138|8333|/Satoshi:22.0.0/
 154.22.123.250|8333|/Satoshi:22.0.0/
@@ -1097,8 +1088,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.138.20.22|8333|/Satoshi:0.21.1/
 157.147.117.135|8333|/Satoshi:23.99.0/
 157.175.145.101|8333|/Satoshi:0.20.1/
-157.175.40.136|8333|/Satoshi:0.20.1/
-157.230.1.157|8333|/Satoshi:0.20.1/
+157.175.149.19|8333|/Satoshi:0.20.1/
+157.175.74.249|8333|/Satoshi:0.20.1/
 157.230.180.187|8333|/Satoshi:0.20.1/
 157.230.19.33|8333|/Satoshi:0.19.1/
 157.230.22.250|8333|/Satoshi:22.0.0/
@@ -1108,12 +1099,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.230.43.113|8333|/Satoshi:0.20.1/
 157.230.89.219|8333|/Satoshi:0.16.3/
 157.245.109.31|8333|/Satoshi:22.0.0/
-157.245.140.69|8333|/Satoshi:0.20.1/
 157.245.140.86|8333|/Satoshi:0.19.0.1/
 157.245.148.166|8333|/Satoshi:22.0.0/
 157.245.150.18|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 157.245.172.236|8333|/Satoshi:0.21.0/
+157.245.35.47|8333|/Satoshi:0.20.1/
 157.245.38.214|8333|/Satoshi:0.21.1/
+157.245.64.189|8333|/Satoshi:0.20.1/
 157.245.91.36|8333|/Satoshi:0.18.0/
 157.245.91.88|8333|/Satoshi:0.18.0/
 157.90.106.242|8333|/Satoshi:22.0.0/
@@ -1189,7 +1181,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.69.61.2|8333|/Satoshi:22.0.0/
 159.69.85.172|8333|/Satoshi:22.0.0/
 159.89.104.55|8333|/Satoshi:0.16.0/
-159.89.108.74|8333|/Satoshi:0.20.1/
+159.89.108.149|8333|/Satoshi:0.20.1/
 159.89.121.240|8333|/Satoshi:0.21.1/
 159.89.124.195|8333|/Satoshi:0.19.1/
 159.89.18.80|8333|/Satoshi:0.18.0/
@@ -1198,7 +1190,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.89.230.128|8333|/Satoshi:22.0.0/
 159.89.9.20|8333|/Satoshi:22.0.0/
 159.89.95.94|8333|/Satoshi:23.99.0/
-159.89.98.116|8333|/Satoshi:0.20.1/
 159.89.98.96|8333|/Satoshi:0.20.1/
 16.162.100.118|8333|/Satoshi:0.20.1/
 16.162.161.45|8333|/Satoshi:0.20.1/
@@ -1218,10 +1209,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.35.225.196|8333|/Satoshi:22.0.0/
 161.35.23.222|8333|/Satoshi:21.99.0/
 161.35.232.202|8333|/Satoshi:0.21.1/
-161.35.233.130|8333|/Satoshi:0.20.1/
-161.35.54.110|8333|/Satoshi:0.20.1/
 161.35.84.235|8333|/Satoshi:0.17.1/
-161.35.90.45|8333|/Satoshi:0.20.1/
 161.53.201.178|8333|/Satoshi:22.0.0/
 161.53.201.185|8333|/Satoshi:22.0.0/
 161.97.109.229|8333|/Satoshi:22.0.0/
@@ -1309,26 +1297,26 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 164.68.119.129|8333|/Satoshi:0.20.1/
 164.68.119.58|8333|/Satoshi:22.0.0/
 164.68.120.100|8333|/Satoshi:22.0.0/
+164.90.151.31|8333|/Satoshi:0.20.1/
 164.92.197.49|8333|/Satoshi:23.99.0/
 164.92.80.157|8333|/Satoshi:22.0.0/
 165.173.9.25|8333|/Satoshi:22.0.0/
 165.22.0.113|8333|/Satoshi:0.20.1/
-165.22.113.168|8333|/Satoshi:0.20.1/
 165.22.154.213|8333|/Satoshi:0.18.0/
 165.22.163.18|8333|/Satoshi:22.0.0/
-165.22.227.159|8333|/Satoshi:0.20.1/
 165.22.227.235|8333|/Satoshi:0.20.1/
+165.22.229.88|8333|/Satoshi:0.20.1/
 165.22.231.74|8333|/Satoshi:0.20.1/
 165.22.233.194|8333|/Satoshi:0.20.1/
 165.22.235.29|8333|/Satoshi:0.20.1/
+165.22.237.253|8333|/Satoshi:0.20.1/
 165.22.44.115|8333|/Satoshi:0.20.1/
 165.22.65.212|8333|/Satoshi:0.21.0/
 165.227.101.132|8333|/Satoshi:0.20.0/
 165.227.118.77|8333|/Satoshi:0.21.0/
 165.227.132.202|8333|/Satoshi:0.16.3/
 165.227.145.138|8333|/Satoshi:0.16.3/
-165.227.163.238|8333|/Satoshi:0.20.1/
-165.227.173.181|8333|/Satoshi:0.20.1/
+165.227.175.240|8333|/Satoshi:0.20.1/
 165.227.196.254|8333|/Satoshi:0.18.0/
 165.227.203.131|8333|/Satoshi:0.18.0/
 165.227.247.74|8333|/Satoshi:22.0.0/
@@ -1398,10 +1386,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.99.137.196|8333|/Satoshi:0.21.1/
 167.99.160.95|8333|/bcoin:v1.0.2/
 167.99.179.226|8333|/Satoshi:22.0.0/
-167.99.187.41|8333|/Satoshi:0.20.1/
 167.99.213.37|8333|/Satoshi:0.21.0/
 167.99.248.192|8333|/Satoshi:0.21.0/
-167.99.4.53|8333|/Satoshi:0.20.1/
 167.99.45.32|8333|/Satoshi:22.0.0/
 167.99.52.178|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 168.100.11.28|8333|/Satoshi:22.0.0/
@@ -1411,21 +1397,18 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.139.60|9001|/Satoshi:22.0.0/
 168.119.147.184|9001|/Satoshi:22.0.0/
 168.119.15.229|8333|/Satoshi:22.0.0/
+168.119.153.10|8333|/Satoshi:0.20.1/
+168.119.153.12|8333|/Satoshi:0.20.1/
+168.119.155.116|8333|/Satoshi:0.20.1/
 168.119.158.57|8333|/Satoshi:0.20.1/
-168.119.163.115|8333|/Satoshi:0.21.1/
-168.119.165.222|8333|/Satoshi:0.21.1/
-168.119.165.226|8333|/Satoshi:0.21.1/
-168.119.167.245|8333|/Satoshi:0.21.1/
 168.119.167.40|8333|/Satoshi:0.21.1/
 168.119.169.2|8333|/Satoshi:0.21.1/
-168.119.171.197|8333|/Satoshi:0.21.1/
-168.119.172.114|8333|/Satoshi:0.21.1/
+168.119.172.105|8333|/Satoshi:0.21.1/
 168.119.172.142|8333|/Satoshi:0.21.1/
 168.119.172.18|8333|/Satoshi:0.21.1/
 168.119.173.53|8333|/Satoshi:0.21.1/
 168.119.174.106|8333|/Satoshi:0.21.1/
-168.119.176.153|8333|/Satoshi:0.20.1/
-168.119.176.220|8333|/Satoshi:0.20.1/
+168.119.174.140|8333|/Satoshi:0.21.1/
 168.119.176.221|8333|/Satoshi:0.20.1/
 168.119.176.222|8333|/Satoshi:0.20.1/
 168.119.176.229|8333|/Satoshi:0.20.1/
@@ -1433,6 +1416,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.249.19|8333|/Satoshi:0.20.0/
 168.119.31.150|8333|/Satoshi:22.0.0/
 168.119.33.233|8333|/Satoshi:0.21.1/
+168.119.49.105|8333|/Satoshi:0.20.1/
 168.119.51.177|8333|/Satoshi:0.20.1/
 168.119.56.127|8333|/Satoshi:0.20.1/
 168.119.68.66|8333|/Satoshi:22.0.0/
@@ -1519,7 +1503,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.167.6.138|8333|/Satoshi:22.0.0/
 173.168.245.184|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 173.171.32.37|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-173.173.211.102|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 173.174.51.73|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 173.176.198.68|8333|/Satoshi:0.21.1/
 173.177.237.29|8333|/Satoshi:22.0.0/
@@ -1588,11 +1571,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.255.240.205|8333|/Satoshi:0.21.1(@devinbileck)/
 173.255.241.186|8333|/Satoshi:22.0.0/
 173.26.125.183|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
+173.27.148.30|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 173.28.150.216|8333|/Satoshi:22.0.0/
 173.3.208.175|8333|/Satoshi:22.0.0/
 173.3.218.91|8333|/Satoshi:22.0.0/
 173.33.223.148|8333|/Satoshi:22.0.0/
-173.34.127.181|8333|/Satoshi:0.21.1/
 173.48.155.112|8333|/Satoshi:22.0.0/
 173.48.194.108|8333|/Satoshi:0.21.0/
 173.50.76.53|8333|/Satoshi:0.21.1/
@@ -1608,6 +1591,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.63.83.31|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 173.66.105.50|8333|/Satoshi:22.0.0/
 173.67.17.22|8333|/Satoshi:22.0.0/
+173.69.190.153|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 173.70.24.84|8333|/Satoshi:0.21.1/
 173.71.120.163|8333|/Satoshi:22.0.0/
 173.71.197.191|8333|/Satoshi:22.0.0/
@@ -1674,6 +1658,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.94.155.224|8333|/Satoshi:22.0.0/
 174.95.157.116|8333|/Satoshi:22.0.0/
 174.96.221.158|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
+174.96.92.54|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 174.97.197.95|8333|/Satoshi:22.0.0/
 174.99.73.49|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 175.214.58.100|8333|/Satoshi:0.21.0/
@@ -1753,6 +1738,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.84.43.2|8333|/Satoshi:22.0.0/
 178.116.190.252|8333|/Satoshi:0.20.0/
 178.117.250.216|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
+178.128.105.25|8333|/Satoshi:0.20.1/
 178.128.120.178|8333|/Satoshi:0.18.0/
 178.128.166.44|8333|/Satoshi:22.0.0/
 178.128.17.153|8333|/Satoshi:0.17.0/
@@ -1762,7 +1748,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.128.58.95|8333|/Satoshi:0.21.1/
 178.128.77.226|8333|/Satoshi:0.16.3/
 178.128.93.12|8333|/Satoshi:0.20.1/
-178.128.97.218|8333|/Satoshi:0.20.1/
+178.128.97.198|8333|/Satoshi:0.20.1/
 178.128.97.48|8333|/Satoshi:0.21.1/
 178.140.229.154|8333|/Satoshi:0.21.1/
 178.141.82.83|8333|/Satoshi:0.12.1/
@@ -1856,11 +1842,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.119.130.38|8333|/Satoshi:22.0.0/
 18.119.138.46|8333|/Satoshi:23.99.0/
 18.130.60.52|8333|/Satoshi:0.20.0/
+18.132.37.244|8333|/Satoshi:0.20.1/
+18.132.48.243|8333|/Satoshi:0.20.1/
 18.132.63.206|8333|/Satoshi:0.21.1/
 18.133.234.40|8333|/Satoshi:0.21.1/
 18.134.2.142|48533|/Satoshi:0.20.1(Omni:0.11.0)/
-18.134.242.0|8333|/Satoshi:0.20.1/
-18.136.200.216|8333|/Satoshi:0.20.1/
+18.134.246.255|8333|/Satoshi:0.20.1/
 18.136.74.240|8333|/Satoshi:0.14.99/
 18.139.162.210|8333|/Satoshi:22.0.0/
 18.140.174.141|59050|/Satoshi:22.0.0/
@@ -1874,17 +1861,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.158.93.160|8333|/Satoshi:0.20.0/
 18.159.246.147|8333|/Satoshi:22.0.0/
 18.159.60.231|8333|/Satoshi:0.20.1/
-18.162.120.42|8333|/Satoshi:0.20.1/
 18.162.133.34|8333|/Satoshi:0.21.0/
 18.162.208.153|48334|/Satoshi:0.20.1(Omni:0.11.0)/
 18.162.245.103|8333|/Satoshi:0.21.0/
 18.163.100.62|8333|/Satoshi:0.20.1/
-18.163.113.110|8333|/Satoshi:0.20.1/
 18.163.16.119|8333|/Satoshi:22.0.0/
 18.163.185.7|8333|/Satoshi:0.21.1/
-18.163.194.25|8333|/Satoshi:0.20.1/
-18.163.200.139|8333|/Satoshi:0.20.1/
 18.166.15.242|8333|/Satoshi:22.0.0/
+18.166.226.142|8333|/Satoshi:0.20.1/
 18.166.53.72|8333|/Satoshi:0.21.1/
 18.166.56.29|8333|/Satoshi:0.21.1/
 18.166.73.73|8333|/Satoshi:0.20.1/
@@ -1892,31 +1876,25 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.167.172.162|8333|/Satoshi:0.21.0/
 18.170.56.78|8333|/Satoshi:22.0.0/
 18.176.200.244|8333|/Satoshi:0.21.1/
-18.177.144.21|8333|/Satoshi:0.20.1/
 18.179.206.81|8333|/Satoshi:0.18.0/
-18.181.173.197|8333|/Satoshi:0.20.1/
-18.181.250.178|8333|/Satoshi:0.20.1/
 18.181.40.228|8333|/Satoshi:22.0.0/
 18.181.82.231|8333|/Satoshi:0.20.1(Omni:0.11.0)/
+18.182.46.53|8333|/Satoshi:0.20.1/
 18.183.106.18|8333|/Satoshi:0.20.1/
-18.183.19.86|8333|/Satoshi:0.20.1/
 18.184.216.132|8333|/Satoshi:22.0.0/
 18.185.79.116|8333|/Satoshi:22.0.0/
 18.188.105.26|8333|/Satoshi:22.99.0/
 18.188.40.131|8333|/Satoshi:0.20.1/
 18.191.109.28|8333|/bcoin:v1.0.2/
 18.191.89.177|8333|/Satoshi:22.0.0/
-18.192.62.125|8333|/Satoshi:0.20.1/
 18.192.62.41|8333|/Satoshi:22.0.0/
 18.192.64.133|8333|/Satoshi:0.21.2/
-18.193.113.81|8333|/Satoshi:0.20.1/
 18.193.177.26|8333|/Satoshi:0.21.1/
 18.193.246.167|48333|/Satoshi:22.0.0/
 18.193.3.1|8333|/Satoshi:0.15.2/
 18.196.240.197|8333|/Satoshi:0.18.0/
 18.196.79.108|8333|/Satoshi:0.18.1/
 18.197.10.242|8333|/Satoshi:0.21.1/
-18.197.172.46|8333|/Satoshi:0.20.1/
 18.197.34.112|8333|/Satoshi:0.20.1/
 18.198.16.76|8333|/Satoshi:0.20.1/
 18.198.93.234|8333|/Satoshi:0.20.1/
@@ -1929,7 +1907,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.211.2.126|8333|/Satoshi:0.21.1/
 18.215.28.188|8333|/Satoshi:0.16.0/
 18.215.95.51|8333|/Satoshi:0.18.1/
-18.216.163.203|8333|/Satoshi:0.20.1/
 18.216.249.151|8333|/Satoshi:22.0.0/
 18.216.65.61|8333|/Satoshi:0.14.99/
 18.216.78.104|8333|/Satoshi:22.0.0/
@@ -1946,6 +1923,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.219.38.235|8333|/Satoshi:0.14.99/
 18.219.63.79|8333|/Satoshi:0.14.99/
 18.219.99.76|8333|/Satoshi:0.14.99/
+18.220.157.153|8333|/Satoshi:0.20.1/
 18.220.171.207|8333|/Satoshi:0.21.1/
 18.221.116.62|8333|/Satoshi:22.0.0/
 18.221.76.76|8333|/Satoshi:0.21.1/
@@ -1965,6 +1943,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.228.10.250|8333|/Satoshi:0.20.1/
 18.228.122.94|8333|/Satoshi:0.14.99/
 18.228.142.220|8333|/Satoshi:0.14.99/
+18.228.31.45|8333|/Satoshi:0.20.1/
+18.228.59.8|8333|/Satoshi:0.20.1/
 18.229.148.50|8333|/Satoshi:0.20.1/
 18.230.191.224|8333|/Satoshi:0.20.1/
 18.231.24.24|8333|/Satoshi:0.14.99/
@@ -1989,7 +1969,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.221.119.112|8333|/Satoshi:22.0.0/
 181.230.176.136|8333|/Satoshi:0.21.1/
 181.231.105.12|8333|/Satoshi:22.0.0/
-181.43.110.133|8333|/Satoshi:22.0.0/
 181.48.77.26|8333|/Satoshi:0.20.0/
 181.88.226.223|8333|/Satoshi:22.0.0/
 182.54.172.156|8333|/Satoshi:22.0.0/
@@ -2009,11 +1988,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.171.208.109|8333|/Satoshi:0.18.0/
 184.175.21.10|8333|/Satoshi:0.20.1/
 184.182.233.206|8333|/Satoshi:0.13.1/
-184.182.82.79|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
-184.189.235.31|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-184.19.19.16|8333|/Satoshi:22.0.0/
-184.55.208.211|8333|/Satoshi:22.0.0/
-184.64.190.218|8333|/Satoshi:22.0.0/
+184.182.82.79|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/|22773|184.182.64.0/18|US|arin|2010-05-14|ASN-CXA-ALL-CCI-22773-RDC, US
+184.189.235.31|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/|22773|184.189.224.0/19|US|arin|2010-05-14|ASN-CXA-ALL-CCI-22773-RDC, US
+184.19.19.16|8333|/Satoshi:22.0.0/|5650|184.16.0.0/14|US|arin|2009-09-22|FRONTIER-FRTR, US
+184.55.208.211|8333|/Satoshi:22.0.0/|10796|184.55.192.0/19|US|arin|2009-12-08|TWC-10796-MIDWEST, US
+184.64.190.218|8333|/Satoshi:22.0.0/|6327|184.64.188.0/22|CA|arin|2010-01-15|SHAW, CA
 184.68.216.134|8333|/Satoshi:0.21.2/
 184.69.51.34|8333|/Satoshi:0.21.1/
 184.70.38.170|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -2103,7 +2082,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.19.29.110|8333|/Satoshi:0.21.0/
 185.19.31.6|8333|/Satoshi:0.21.0/
 185.193.227.36|8333|/Satoshi:22.0.0/
-185.194.143.172|8333|/Satoshi:22.0.0/
 185.194.219.89|8333|/Satoshi:22.0.0/
 185.194.93.135|8333|/Satoshi:0.21.0/
 185.197.162.61|8333|/Satoshi:0.13.2/
@@ -2194,7 +2172,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.58.109.139|8333|/Satoshi:22.0.0/
 187.85.191.5|8333|/Satoshi:22.0.0/
 188.104.95.129|8333|/Satoshi:22.0.0/
-188.113.130.7|8333|/Satoshi:22.0.0/
 188.116.62.88|8333|/Satoshi:22.0.0/
 188.117.200.212|8333|/Satoshi:22.0.0/
 188.120.135.68|8333|/Satoshi:0.21.1/
@@ -2206,6 +2183,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.126.15.127|8333|/Satoshi:22.0.0/
 188.126.5.195|8333|/Satoshi:0.21.1/
 188.127.179.47|8333|/Satoshi:22.0.0/
+188.127.182.204|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 188.127.226.230|8333|/Satoshi:22.0.0/
 188.134.6.84|8333|/Satoshi:0.18.0/
 188.134.8.36|8333|/Satoshi:22.0.0/
@@ -2227,9 +2205,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.165.244.143|8333|/Satoshi:0.18.1/
 188.165.86.25|8333|/Satoshi:0.21.1/
 188.165.86.26|8333|/Satoshi:0.21.1/
+188.166.102.232|8333|/Satoshi:0.20.1/
+188.166.102.98|8333|/Satoshi:0.20.1/
 188.166.104.44|8333|/Satoshi:0.20.1/
-188.166.122.56|8333|/Satoshi:0.20.1/
-188.166.246.32|8333|/Satoshi:0.20.1/
+188.166.120.198|8333|/Satoshi:0.20.1/
 188.166.249.211|8333|/Satoshi:0.20.1/
 188.166.254.248|8333|/Satoshi:0.20.1/
 188.166.66.205|8333|/Satoshi:0.20.0/
@@ -2253,7 +2232,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.242.6.124|8333|/Satoshi:22.0.0/
 188.244.4.78|8333|/Satoshi:22.0.0/
 188.244.43.25|8333|/Satoshi:22.0.0/
-188.255.8.233|8333|/Satoshi:22.0.0/
 188.26.249.153|8333|/Satoshi:22.0.0/
 188.27.134.15|8333|/Satoshi:0.16.3/
 188.32.14.31|8334|/Satoshi:22.0.0/
@@ -2311,6 +2289,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.182.157.119|8333|/Satoshi:0.21.1/
 192.184.150.34|8333|/Satoshi:22.0.0/
 192.187.121.46|8333|/Satoshi:0.18.1/
+192.208.59.212|8333|/Satoshi:22.0.0/
 192.222.147.141|8333|/Satoshi:0.21.1/
 192.222.24.54|8333|/Satoshi:22.0.0/
 192.227.80.83|8333|/Satoshi:22.0.0/
@@ -2536,7 +2515,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 200.122.181.26|8333|/Satoshi:0.13.1/
 200.127.30.240|8333|/Satoshi:22.0.0/
 200.6.250.234|8333|/Satoshi:22.0.0/
-200.6.250.235|8333|/Satoshi:0.21.1/
 2001:0:c38c:c38c:38a0:681e:c248:eb7f|8333|/Satoshi:22.0.0/
 2001:1284:f016:ac40:4bc:6924:6cb2:bd6e|8333|/Satoshi:22.0.0/
 2001:14ba:ab01:338b::1|8333|/Satoshi:22.0.0/
@@ -2682,7 +2660,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:a:fbd6::1|8333|/Satoshi:0.20.0/
 2001:41d0:e:1146::1|8333|/Satoshi:0.21.0/
 2001:41d0:e:26b::1|8333|/Satoshi:22.0.0/
-2001:41d0:e:9e7::1|8333|/Satoshi:0.21.1/
 2001:41d0:e:f8c::1|8333|/Satoshi:0.21.1/
 2001:41f0::62:6974:636f:696e|8333|/Satoshi:0.21.1/
 2001:44b8:256:5d11:216:3eff:fe39:d5d4|8333|/Satoshi:22.0.0/
@@ -2713,7 +2690,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:470:a:c13::2|8333|/Satoshi:22.0.0/
 2001:470:b2f0:aa11:cd5:3cff:fe06:f191|8333|/Satoshi:0.21.1/
 2001:470:ddc1:20:2092:d0ff:fee4:e0b3|8333|/Satoshi:22.0.0/
-2001:470:de5a::ec|9333|/Satoshi:22.0.0/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
+2001:470:de5a::ec|9333|/Satoshi:22.0.0/
 2001:48f8:c:549:3dbd:7f3e:69ec:ecea|8333|/Satoshi:0.21.1/
 2001:4b98:dc0:45:216:3eff:fea2:95cd|8333|/Satoshi:22.0.0/
 2001:4b98:dc0:51:216:3eff:fe72:2b13|8333|/Satoshi:0.20.1/
@@ -2786,7 +2763,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:da8:e000:3035:9179:f859:7563:4988|8333|/Satoshi:22.0.0/
 2001:f40:908:576:29c1:2dba:ffeb:2fc4|8333|/Satoshi:0.21.0/
 2001:fb1:24:acf5:c8c4:e06f:99d0:aa5|8333|/Satoshi:0.21.1/
-2001:fb1:49:e981:cf1:eb71:1b73:d1dc|8333|/Satoshi:22.0.0/
 2001:fb1:95:aa8:21c7:be05:9a56:886a|8333|/Satoshi:22.0.0/
 2002:2eb7:ecfe::2eb7:ecfe|8333|/Satoshi:0.15.1/
 2002:2f34:551::2f34:551|8333|/Satoshi:0.20.1/
@@ -2802,7 +2778,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:5bc:3e12::5bc:3e12|8333|/Satoshi:0.20.1/
 2002:5c35:5a46::5c35:5a46|8333|/Satoshi:0.21.0/
 2002:5c35:5a54::5c35:5a54|8333|/Satoshi:0.21.1/
-2002:5d48:f5dd::5d48:f5dd|8333|/Satoshi:0.12.1/
 2002:5dbd:91a9::5dbd:91a9|8333|/Satoshi:22.0.0/
 2002:5fd9:e532::5fd9:e532|8333|/Satoshi:22.0.0/
 2002:704e:3b8::704e:3b8|8333|/Satoshi:0.21.0(crypto.voduy.com)/
@@ -2882,15 +2857,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.174.68.81|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 206.189.109.149|8333|/Satoshi:0.17.0/
 206.189.116.132|8333|/Satoshi:22.99.0/
-206.189.137.124|8333|/Satoshi:0.20.1/
 206.189.180.73|8333|/Satoshi:0.21.1/
 206.189.222.161|8333|/Satoshi:0.19.0.1/
 206.189.30.31|8333|/Satoshi:22.0.0/
 206.189.32.48|8333|/Satoshi:0.16.0/
 206.189.54.247|8333|/Satoshi:0.20.1/
-206.189.62.14|8333|/Satoshi:0.20.1/
 206.189.62.190|8333|/Satoshi:0.21.1/
-206.189.62.8|8333|/Satoshi:0.20.1/
+206.189.63.80|8333|/Satoshi:0.20.1/
 206.189.99.231|8333|/Satoshi:0.21.1/
 206.192.203.0|8333|/Satoshi:22.0.0/
 206.196.145.143|8333|/Satoshi:22.0.0/
@@ -2974,7 +2947,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.97.136.213|8333|/Satoshi:22.0.0/
 209.97.137.55|8333|/Satoshi:0.20.99/
 209.97.150.240|8333|/Satoshi:0.18.1/
-209.97.179.21|8333|/Satoshi:0.20.1/
+209.97.189.249|8333|/Satoshi:0.20.1/
+209.97.189.48|8333|/Satoshi:0.20.1/
 210.101.83.65|8333|/Satoshi:22.0.0/
 210.2.64.112|8333|/Satoshi:0.21.0(crypto.voduy.com)/
 210.220.150.170|8333|/Satoshi:0.17.0.1/
@@ -3178,7 +3152,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.175.0.222|8333|/Satoshi:22.0.0/
 23.20.24.146|8333|/Satoshi:0.21.1/
 23.233.107.21|8333|/Satoshi:0.21.1/
-23.233.55.92|8333|/Satoshi:22.0.0/
 23.240.205.69|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 23.241.232.46|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 23.242.202.30|8333|/Satoshi:22.0.0/
@@ -3197,6 +3170,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.101.212.110|8333|/Satoshi:22.0.0/
 24.102.91.203|8333|/Satoshi:22.0.0/
 24.116.153.115|8333|/Satoshi:0.21.1/
+24.118.163.243|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 24.118.228.102|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 24.12.249.240|8333|/Satoshi:22.0.0/
 24.128.106.40|8333|/Satoshi:22.0.0/
@@ -3259,6 +3233,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.6.132.222|8333|/Satoshi:22.0.0/
 24.6.168.141|8333|/Satoshi:22.0.0/
 24.6.171.42|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
+24.61.27.204|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 24.63.142.234|8333|/Satoshi:22.0.0/
 24.68.94.168|8333|/Satoshi:0.20.1/
 24.76.119.230|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -3296,6 +3271,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2403:4800:2463:f807:584b:937:5849:6066|8333|/Satoshi:22.0.0/
 2403:6200:8810:ff14:14af:563c:ddb8:330|8333|/Satoshi:22.0.0/
 2403:6200:8821:f5bc:ced:b483:7b8c:c688|8333|/Satoshi:22.0.0/
+2403:6200:8870:b06b:501a:4391:9383:2a23|8333|/Satoshi:22.0.0/Knots:20211108/
 2403:6200:88a0:fb17:f5f2:d8b5:b7ba:f4d3|8333|/Satoshi:22.0.0/
 2403:6200:8988:1c03:8598:5104:e63c:c22b|8333|/Satoshi:22.0.0/
 2404:4408:679d:8000::1999|8333|/Satoshi:22.0.0(OMEGALUL)/
@@ -3309,20 +3285,23 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2405:9800:b970:c64c:109f:74e7:ae5f:87c7|8333|/Satoshi:22.0.0/
 2405:aa00:2::40|8333|/Satoshi:22.0.0/
 2406:b400:d1:c720:c41a:665e:abdd:bec3|8333|/Satoshi:22.0.0/
-2406:da11:169:b00:6f1e:7625:c330:4164|8333|/Satoshi:0.20.1/
-2406:da11:169:b01:39c0:c1cc:86e9:f2a9|8333|/Satoshi:0.20.1/
-2406:da12:ce1:f000:3ab7:1eed:6ae7:38ae|8333|/Satoshi:0.20.1/
+2406:da11:169:b01:eb60:3d77:3055:92f3|8333|/Satoshi:0.20.1/
+2406:da11:169:b03:3b4d:8425:385e:e9f7|8333|/Satoshi:0.20.1/
+2406:da12:ce1:f000:afcd:2e3a:11f6:67c0|8333|/Satoshi:0.20.1/
 2406:da12:ce1:f001:1312:e40f:3d0f:2ebe|8333|/Satoshi:0.20.1/
-2406:da14:335:b603:6c22:528b:12be:19a6|8333|/Satoshi:0.20.1/
+2406:da12:ce1:f003:5828:162:46d9:66a9|8333|/Satoshi:0.20.1/
+2406:da14:335:b600:2d04:f503:b927:f635|8333|/Satoshi:0.20.1/
+2406:da14:335:b603:b4d0:d61e:c2c1:dc5c|8333|/Satoshi:0.20.1/
 2406:da18:9f1:f300:98a5:5e02:b6ee:9742|8333|/Satoshi:0.20.1/
-2406:da1a:5b2:ea00:30bb:d819:3fa0:929|8333|/Satoshi:0.20.1/
-2406:da1a:5b2:ea03:f688:2f8:2b4e:d7f6|8333|/Satoshi:0.20.1/
+2406:da18:9f1:f303:5faf:9380:3858:c10a|8333|/Satoshi:0.20.1/
+2406:da1a:5b2:ea00:82eb:d60c:ac7f:119a|8333|/Satoshi:0.20.1/
+2406:da1a:5b2:ea01:58c:5fb:ae7c:484c|8333|/Satoshi:0.20.1/
+2406:da1a:5b2:ea03:6bc4:4317:54f5:2e1|8333|/Satoshi:0.20.1/
 2406:da1c:50b:cd00:77e2:ecea:6807:dae1|8333|/Satoshi:0.20.1/
-2406:da1c:50b:cd01:e63e:490c:7d41:8065|8333|/Satoshi:0.20.1/
-2406:da1c:50b:cd03:71b2:b8bd:4ea7:69e8|8333|/Satoshi:0.20.1/
-2406:da1e:a4e:8a00:58ca:e5a6:2a00:69a6|8333|/Satoshi:0.20.1/
-2406:da1e:a4e:8a01:c046:a57b:8758:24ba|8333|/Satoshi:0.20.1/
-2406:da1e:a4e:8a03:6a17:f5a0:4037:5d08|8333|/Satoshi:0.20.1/
+2406:da1c:50b:cd01:2b31:4032:6a1f:168a|8333|/Satoshi:0.20.1/
+2406:da1c:50b:cd03:21a8:3ac1:772a:f4bf|8333|/Satoshi:0.20.1/
+2406:da1e:a4e:8a01:618a:3775:2d21:54e2|8333|/Satoshi:0.20.1/
+2406:da1e:a4e:8a03:56c5:ab61:5b47:ba2|8333|/Satoshi:0.20.1/
 2407:8800:bc61:2202:a0c6:107:502b:4e3b|8333|/Satoshi:22.0.0/
 2408:8207:251b:a620:c1ee:5373:785a:ee07|8333|/Satoshi:22.0.0/
 2408:8207:3031:55a0:106a:5b6:ec7e:2101|8333|/Satoshi:0.20.1/
@@ -3360,22 +3339,20 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2600:1700:c1c0:d50::47|8333|/Satoshi:22.0.0/
 2600:1702:2f60:26c0::6|8333|/Satoshi:22.0.0/
 2600:1f11:b5e:2a00:25d6:4487:d23:da42|8333|/Satoshi:0.20.1/
-2600:1f11:b5e:2a01:d457:f120:b4a3:d222|8333|/Satoshi:0.20.1/
-2600:1f11:b5e:2a03:cc13:2995:76d5:5762|8333|/Satoshi:0.20.1/
+2600:1f11:b5e:2a01:4b8a:77b4:c73a:90db|8333|/Satoshi:0.20.1/
+2600:1f11:b5e:2a03:a00f:8f8c:ded2:3b24|8333|/Satoshi:0.20.1/
 2600:1f14:40e:e300:24c4:c3db:e22f:4cb6|8333|/Satoshi:0.20.1/
-2600:1f14:40e:e301:2a46:5969:9bdf:3fa5|8333|/Satoshi:0.20.1/
-2600:1f14:40e:e303:e7da:af24:21a9:6f1a|8333|/Satoshi:0.20.1/
+2600:1f14:40e:e301:d155:aa3a:77be:960e|8333|/Satoshi:0.20.1/
+2600:1f14:40e:e303:8633:b3f3:ee03:208a|8333|/Satoshi:0.20.1/
 2600:1f14:741:4a00:fedc:ba98:7654:3210|8333|/Satoshi:22.0.0/
 2600:1f16:1d5:b400:c0af:dad5:98b5:31fe|8333|/Satoshi:23.99.0/
-2600:1f16:a08:b900:f06c:e1d1:d2f3:be72|8333|/Satoshi:0.20.1/
 2600:1f16:a08:b901:d781:7002:1c5b:1d96|8333|/Satoshi:0.20.1/
-2600:1f16:a08:b903:ef9:a9d:5dcc:ff3e|8333|/Satoshi:0.20.1/
+2600:1f16:a08:b903:c811:dde9:3c6e:d07c|8333|/Satoshi:0.20.1/
 2600:1f18:64d9:1603:4436:871e:2bfe:7403|8333|/Satoshi:22.0.0/
-2600:1f18:66fc:d700:9b71:f45:f3c9:c43b|8333|/Satoshi:0.20.1/
-2600:1f18:66fc:d703:91f1:c297:f382:c56b|8333|/Satoshi:0.20.1/
-2600:1f1c:2d3:2400:44ab:687e:929f:d2e4|8333|/Satoshi:0.20.1/
-2600:1f1c:2d3:2401:9b2d:f357:c085:7fcc|8333|/Satoshi:0.20.1/
-2600:1f1e:2fe:3600:8cba:cbdb:e823:73ca|8333|/Satoshi:0.20.1/
+2600:1f18:66fc:d701:5e47:6904:adbf:1ae2|8333|/Satoshi:0.20.1/
+2600:1f1c:2d3:2401:6989:b1fd:d2a6:fbc8|8333|/Satoshi:0.20.1/
+2600:1f1e:2fe:3600:bd46:e0d8:4fbd:861d|8333|/Satoshi:0.20.1/
+2600:1f1e:2fe:3601:a113:a108:29c5:259e|8333|/Satoshi:0.20.1/
 2600:1f1e:2fe:3603:bc37:96bf:b1a5:d519|8333|/Satoshi:0.20.1/
 2600:2104:1003:c5ab:dc5e:90ff:fe18:1d08|8333|/Satoshi:22.99.0/
 2600:3c00::f03c:92ff:feb7:62ac|8333|/Satoshi:0.21.1/
@@ -3436,7 +3413,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2603:3010:800:9300::41f5|8333|/Satoshi:0.16.1/
 2603:3015:2900:ec00:7f6a:39f4:fea0:d6c|8333|/Satoshi:0.18.1/
 2603:3015:3602:ea00::4458|8333|/Satoshi:22.0.0/
-2603:3016:27a:c000:22b9:942b:4e21:9c43|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 2603:301b:2598:8000::8351|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 2603:3020:1166::a59d|8333|/Satoshi:22.0.0/
 2603:3023:a3f:1000:ac5a:9f32:9576:ba5|8333|/Satoshi:22.0.0/
@@ -4025,6 +4001,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e0a:2d8:64f0:20ad:54dd:ead6:c0ea|8333|/Satoshi:0.21.0/
 2a01:e0a:300:4a40:ad58:8cf4:8fa5:adfe|8333|/Satoshi:0.21.1/
 2a01:e0a:3e9:d640:87f:45b5:43c1:6673|8333|/Satoshi:22.0.0/
+2a01:e0a:3f3:3580:f6:f3ee:febf:425f|8333|/Satoshi:22.0.0/
 2a01:e0a:41d:7630:ac7d:1bf:7b9:9304|8333|/Satoshi:22.0.0/
 2a01:e0a:4d5:2fb0:1454:9bdf:910d:c4b0|8333|/Satoshi:0.21.1/
 2a01:e0a:591:9e20:6415:2515:2a44:7f73|8333|/Satoshi:22.0.0/
@@ -4167,7 +4144,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:e98:20:1504::1|8333|/Satoshi:22.0.0/
 2a02:f680:1:1100:ae1f:6bff:fe90:8f3a|8333|/Satoshi:0.21.1/
 2a03:1b20:1:f410::18e|61144|/Satoshi:22.0.0/
-2a03:4000:1c:523::1|8333|/Satoshi:22.0.0/
 2a03:4000:42:5e1:4ef:f7ff:fec9:a3fa|8333|/Satoshi:0.21.1/
 2a03:4000:47:f1::1|8333|/Satoshi:22.0.0/
 2a03:4000:4e:ca2::1|8333|/Satoshi:21.99.0/
@@ -4186,8 +4162,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a03:94e0:ffff:185:243:218:0:19|8333|/Satoshi:22.0.0/
 2a03:9da0:5:1000:0:b9ff:fe71:67|8333|/Satoshi:0.21.1/
 2a03:b0c0:1:d0::afa:b001|8333|/Satoshi:0.21.1/
-2a03:b0c0:1:e0::794:9001|8333|/Satoshi:0.20.1/
-2a03:b0c0:2:d0::4de:f001|8333|/Satoshi:0.20.1/
+2a03:b0c0:1:e0::794:a001|8333|/Satoshi:0.20.1/
+2a03:b0c0:2:d0::dab:4001|8333|/Satoshi:0.20.1/
 2a03:b0c0:2:f0::7c:d001|8333|/Satoshi:0.20.99/
 2a03:b0c0:3:d0::5e48:d001|8333|/Satoshi:0.21.1/
 2a03:b0c0:3:e0::18b:6001|8333|/Satoshi:22.0.0/
@@ -4206,25 +4182,25 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a05:3580:d101:c500::1|8333|/Satoshi:22.0.0/
 2a05:3580:db0b:1600:c489:76ed:313d:b33|8333|/Satoshi:22.0.0/
 2a05:6d40:b94e:d100:230:48ff:fedf:1432|8333|/Satoshi:22.99.0/
-2a05:d012:42a:5700:cbe3:f0fc:f536:1d6|8333|/Satoshi:0.20.1/
+2a05:d012:42a:5700:46bb:b6db:3a8f:a124|8333|/Satoshi:0.20.1/
 2a05:d012:42a:5701:5855:a339:1fc4:5c82|8333|/Satoshi:0.20.1/
 2a05:d012:42a:5703:dae9:5a16:5839:91|8333|/Satoshi:0.20.1/
-2a05:d014:a55:4000:b19:2a1d:e343:dc39|8333|/Satoshi:0.20.1/
-2a05:d014:a55:4001:8d52:ae42:b79f:b5b1|8333|/Satoshi:0.20.1/
-2a05:d014:a55:4003:3cc0:e3c:ee4:44f4|8333|/Satoshi:0.20.1/
+2a05:d014:a55:4000:725d:6262:4553:a251|8333|/Satoshi:0.20.1/
+2a05:d014:a55:4003:b02d:a88c:b587:1dc5|8333|/Satoshi:0.20.1/
 2a05:d014:d64:6e00:cfc2:fd8e:c3b0:3547|8333|/Satoshi:22.0.0/
-2a05:d016:98f:5200:3afa:d57:98f3:6a0c|8333|/Satoshi:0.20.1/
+2a05:d016:98f:5200:6ee9:c25:3088:1598|8333|/Satoshi:0.20.1/
 2a05:d016:98f:5201:a9:93a4:bc6f:3168|8333|/Satoshi:0.20.1/
+2a05:d016:98f:5203:6f3a:54ce:5bd9:2770|8333|/Satoshi:0.20.1/
 2a05:d018:a75:6c00:bdd7:bf80:2578:4598|8333|/Satoshi:0.20.1/
-2a05:d018:a75:6c01:2bc:8597:5752:715f|8333|/Satoshi:0.20.1/
+2a05:d018:a75:6c01:2b84:c78d:e08a:8749|8333|/Satoshi:0.20.1/
 2a05:d018:a75:6c03:cdc0:6ce1:f398:8aa1|8333|/Satoshi:0.20.1/
-2a05:d01a:b7b:3c00:5e21:ed54:57d2:f88a|8333|/Satoshi:0.20.1/
-2a05:d01a:b7b:3c01:a7a:3978:28ec:2a3c|8333|/Satoshi:0.20.1/
+2a05:d01a:b7b:3c00:3911:295:14a1:d9f4|8333|/Satoshi:0.20.1/
+2a05:d01a:b7b:3c01:534d:58b6:f445:1dda|8333|/Satoshi:0.20.1/
+2a05:d01a:b7b:3c03:6bf6:78e2:4e85:7281|8333|/Satoshi:0.20.1/
 2a05:d01c:41e:1603:5027:1431:472c:3e3c|8333|/Satoshi:0.20.0/
-2a05:d01c:672:9200:b1c2:7680:3e94:27ad|8333|/Satoshi:0.20.1/
-2a05:d01c:672:9201:2c59:c9a8:451b:4f4b|8333|/Satoshi:0.20.1/
+2a05:d01c:672:9200:7b21:2eb2:5326:c8b2|8333|/Satoshi:0.20.1/
+2a05:d01c:672:9201:1bc2:3c6c:6bf5:dd3|8333|/Satoshi:0.20.1/
 2a05:d01c:672:9203:ca5f:7c25:5f8a:7311|8333|/Satoshi:0.20.1/
-2a05:d01e:1b1:6c01:2079:83f1:1b17:138d|8333|/Satoshi:0.20.1/
 2a05:d01e:1b1:6c03:5369:fd23:e62f:a257|8333|/Satoshi:0.20.1/
 2a05:f480:1000:f33:5400:3ff:fe84:6e40|8333|/Satoshi:0.20.1/
 2a05:f480:1800:697:5400:2ff:feb6:c36d|8333|/Satoshi:0.20.1/
@@ -4271,21 +4247,20 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.0.92.194|8333|/Satoshi:22.0.0/
 3.0.97.94|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 3.1.201.76|8333|/Satoshi:22.0.0/
-3.1.220.100|8333|/Satoshi:0.20.1/
 3.10.164.253|8333|/Satoshi:0.21.1/
 3.10.5.123|8333|/Satoshi:0.21.1/
 3.10.70.38|8333|/Satoshi:22.0.0/
-3.101.67.35|8333|/Satoshi:0.20.1/
+3.101.125.70|8333|/Satoshi:0.20.1/
 3.104.224.80|8333|/Satoshi:0.20.1/
 3.11.81.216|8333|/Satoshi:0.20.1/
 3.112.173.12|8333|/Satoshi:0.20.1/
+3.112.22.239|8333|/Satoshi:0.20.1/
 3.112.222.89|8333|/Satoshi:0.19.1/
 3.112.50.156|8333|/Satoshi:0.18.0/
 3.112.7.115|8333|/Satoshi:0.21.1/
 3.113.172.54|48333|/Satoshi:0.18.0/
 3.114.246.28|8333|/Satoshi:0.21.1/
 3.115.12.116|8333|/Satoshi:0.20.1(Omni:0.11.0)/
-3.120.151.83|8333|/Satoshi:0.20.1/
 3.120.158.102|8333|/Satoshi:0.20.1/
 3.120.189.78|8333|/Satoshi:0.20.1/
 3.121.203.141|8333|/Satoshi:0.14.99/
@@ -4294,13 +4269,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.124.63.44|8333|/Satoshi:0.20.1/
 3.124.65.19|8333|/Satoshi:0.20.1/
 3.125.46.134|8333|/Satoshi:0.21.1/
+3.126.209.33|8333|/Satoshi:0.20.1/
 3.126.21.114|8333|/Satoshi:0.21.1/
 3.127.219.132|8333|/Satoshi:22.0.0/
 3.127.236.227|8333|/Satoshi:22.0.0/
 3.128.106.107|48333|/Satoshi:0.18.0/
 3.128.160.242|8333|/Satoshi:0.21.1/
 3.128.194.145|48333|/Satoshi:0.18.0/
-3.128.205.10|8333|/Satoshi:0.20.1/
 3.128.207.243|48333|/Satoshi:0.18.0/
 3.128.212.89|8333|/Satoshi:0.20.1/
 3.130.97.163|48333|/Satoshi:0.18.0/
@@ -4334,16 +4309,19 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.16.22.22|8333|/Satoshi:22.0.0/
 3.16.53.75|8333|/Satoshi:0.14.99/
 3.17.142.163|8333|/Satoshi:0.17.1/
+3.17.174.43|8333|/Satoshi:0.20.1/
 3.17.213.129|8333|/Satoshi:0.20.1/
 3.17.249.178|48333|/Satoshi:0.18.0/
 3.18.101.80|8333|/Satoshi:0.21.1/
 3.20.12.35|48333|/Satoshi:0.18.0/
 3.20.224.15|8333|/Satoshi:22.0.0/
 3.208.33.179|8333|/Satoshi:0.21.0/
+3.21.232.168|8333|/Satoshi:0.20.1/
 3.21.234.35|8333|/Satoshi:0.21.1/
 3.21.24.45|8333|/Satoshi:0.16.2/
 3.211.51.136|8333|/Satoshi:0.17.1/
 3.214.190.255|8333|/Satoshi:22.0.0/
+3.219.41.205|8333|/Satoshi:0.20.1/
 3.219.58.63|8333|/Satoshi:0.17.1/
 3.22.120.116|8333|/Satoshi:22.0.0/
 3.22.164.105|8333|/Satoshi:22.0.0/
@@ -4354,20 +4332,19 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.234.251.85|8333|/Satoshi:0.20.1/
 3.235.196.4|8333|/Satoshi:22.0.0/
 3.236.197.159|8333|/Satoshi:21.99.0/
-3.237.205.105|8333|/Satoshi:0.20.1/
+3.237.65.243|8333|/Satoshi:0.20.1/
 3.238.134.107|8333|/Satoshi:22.0.0/
+3.238.8.21|8333|/Satoshi:0.20.1/
 3.25.130.248|8333|/Satoshi:0.20.1/
 3.25.97.204|8333|/Satoshi:0.20.1/
 3.250.188.245|8333|/Satoshi:0.19.1/
-3.250.35.22|8333|/Satoshi:0.20.1/
 3.26.49.147|8333|/Satoshi:0.20.1/
 3.34.133.144|8333|/Satoshi:0.20.99/
-3.34.180.213|8333|/Satoshi:0.20.1/
 3.34.189.221|51800|/Satoshi:0.12.1(bitcore)/
 3.34.4.73|8333|/Satoshi:0.21.0/
 3.35.1.75|8333|/Satoshi:22.0.0/
 3.35.138.214|8333|/Satoshi:0.20.1/
-3.35.166.20|8333|/Satoshi:0.20.1/
+3.35.168.137|8333|/Satoshi:0.20.1/
 3.35.40.175|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 3.37.128.93|8333|/Satoshi:22.0.0/
 3.37.231.206|8333|/Satoshi:0.21.0/
@@ -4379,8 +4356,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.69.23.235|8333|/Satoshi:22.0.0/
 3.7.201.234|8333|/Satoshi:0.21.1/
 3.72.145.61|8333|/Satoshi:22.0.0/
+3.8.133.46|8333|/Satoshi:0.20.1/
 3.8.165.235|8333|/Satoshi:0.20.1/
-3.8.174.255|8333|/Satoshi:0.20.1/
 3.8.38.104|8333|/Satoshi:0.14.99/
 3.8.9.247|8333|/Satoshi:0.14.99/
 3.83.190.102|8333|/Satoshi:0.18.0/
@@ -4394,6 +4371,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.94.149.68|8333|/Satoshi:22.0.0/
 3.94.249.60|8333|/Satoshi:0.18.0/
 3.95.56.191|8333|/Satoshi:22.0.0/
+3.96.126.235|8333|/Satoshi:0.20.1/
+3.96.190.111|8333|/Satoshi:0.20.1/
+3.96.218.124|8333|/Satoshi:0.20.1/
 3.97.201.205|8333|/Satoshi:0.21.0/
 31.125.188.214|8333|/Satoshi:0.20.1/
 31.125.43.66|8333|/Satoshi:22.0.0/
@@ -4439,53 +4419,52 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.101.105.12|8333|/Satoshi:0.20.1/
 34.101.110.211|8333|/Satoshi:0.20.1/
 34.101.129.24|8333|/Satoshi:0.20.1/
+34.101.132.198|8333|/Satoshi:0.20.1/
 34.101.167.102|8333|/Satoshi:0.20.1/
+34.101.179.157|8333|/Satoshi:0.20.1/
 34.101.186.228|8333|/Satoshi:0.20.1/
-34.101.205.132|8333|/Satoshi:0.20.1/
-34.101.229.34|8333|/Satoshi:0.20.1/
 34.101.247.157|8333|/Satoshi:0.20.1/
+34.101.70.182|8333|/Satoshi:0.20.1/
 34.101.72.24|8333|/Satoshi:0.20.1/
+34.101.77.203|8333|/Satoshi:0.20.1/
 34.101.85.110|8333|/Satoshi:0.20.1/
 34.105.209.243|8333|/Satoshi:0.20.1/
 34.105.219.230|8333|/Satoshi:22.0.0/
-34.106.105.122|8333|/Satoshi:0.20.1/
-34.106.108.150|8333|/Satoshi:0.20.1/
+34.105.247.173|8333|/Satoshi:0.20.1/
 34.106.139.46|8333|/Satoshi:0.20.1/
-34.106.170.167|8333|/Satoshi:0.20.1/
-34.106.214.26|8333|/Satoshi:0.20.1/
+34.106.151.6|8333|/Satoshi:0.20.1/
 34.106.217.38|8333|/Satoshi:0.20.1/
-34.106.233.250|8333|/Satoshi:0.20.1/
 34.106.237.35|8333|/Satoshi:0.20.1/
-34.106.240.178|8333|/Satoshi:0.20.1/
 34.106.249.67|8333|/Satoshi:0.20.1/
-34.106.53.91|8333|/Satoshi:0.20.1/
-34.106.58.234|8333|/Satoshi:0.20.1/
 34.106.62.115|8333|/Satoshi:0.20.1/
-34.106.78.170|8333|/Satoshi:0.20.1/
 34.107.107.99|8333|/Satoshi:0.20.1/
 34.107.116.167|8333|/Satoshi:22.0.0/
 34.107.118.237|8333|/Satoshi:0.20.1/
 34.107.51.85|8333|/Satoshi:0.20.1/
+34.107.54.119|8333|/Satoshi:0.20.1/
+34.121.191.59|8333|/Satoshi:0.20.1/
 34.121.41.161|8333|/Satoshi:22.0.0/
 34.121.56.218|8333|/Satoshi:0.20.1/
 34.122.17.53|8333|/Satoshi:0.20.1/
 34.123.171.121|8333|/Satoshi:22.0.0/
 34.123.213.165|8333|/Satoshi:0.20.1/
-34.125.112.156|8333|/Satoshi:0.20.1/
+34.123.84.183|8333|/Satoshi:0.20.1/
 34.125.126.33|8333|/Satoshi:0.20.1/
 34.125.135.83|8333|/Satoshi:0.20.1/
-34.125.14.221|8333|/Satoshi:0.20.1/
 34.125.157.90|8333|/Satoshi:0.20.1/
 34.125.177.239|8333|/Satoshi:0.20.1/
+34.125.180.222|8333|/Satoshi:0.20.1/
 34.125.190.73|8333|/Satoshi:0.20.1/
 34.125.216.114|8333|/Satoshi:22.0.0/
 34.125.237.161|8333|/Satoshi:22.0.0/
+34.125.46.3|8333|/Satoshi:0.20.1/
 34.125.47.186|8333|/Satoshi:0.20.1/
 34.125.67.59|8333|/Satoshi:0.20.1/
-34.125.72.57|8333|/Satoshi:0.20.1/
+34.125.77.92|8333|/Satoshi:0.20.1/
 34.125.88.170|8333|/Satoshi:0.20.1/
 34.126.107.179|8333|/Satoshi:0.20.1/
 34.126.115.35|8333|/Satoshi:0.20.1/
+34.126.120.20|8333|/Satoshi:0.20.1/
 34.126.67.135|8333|/Satoshi:0.20.1/
 34.133.106.215|8333|/Satoshi:22.0.0/
 34.136.47.143|8333|/Satoshi:22.0.0/
@@ -4515,25 +4494,23 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.207.101.78|8333|/Satoshi:0.20.1/
 34.207.108.183|8333|/Satoshi:0.20.1/
 34.207.3.254|8333|/Satoshi:0.14.99/
-34.210.115.53|8333|/Satoshi:0.20.1/
 34.210.198.230|8333|/Satoshi:22.0.0/
 34.211.65.11|8333|/Satoshi:0.12.1/
 34.213.39.120|8333|/Satoshi:22.0.0/
 34.213.86.84|8333|/btcwire:0.5.0/btcd:0.21.0/
 34.217.49.80|8333|/Satoshi:22.0.0/
+34.221.179.213|8333|/Satoshi:0.20.1/
 34.221.182.61|8333|/Satoshi:22.0.0/
 34.222.125.43|8333|/Satoshi:22.0.0/
 34.222.37.152|8333|/Satoshi:0.17.0.1/
 34.226.136.24|8333|/Satoshi:0.12.1(bitcore)/
 34.229.135.193|8333|/Satoshi:22.0.0/
-34.229.46.133|8333|/Satoshi:0.20.1/
 34.231.176.154|8333|/Satoshi:0.20.1/
 34.231.234.150|8333|/Satoshi:0.14.2/
 34.232.242.173|8333|/Satoshi:22.0.0/
 34.232.63.88|8333|/Satoshi:0.17.0.1/
 34.234.208.165|8333|/Satoshi:0.18.0/
 34.234.247.78|8333|/Satoshi:22.0.0/
-34.235.144.59|8333|/Satoshi:0.20.1/
 34.236.113.58|8333|/Satoshi:0.18.0/
 34.237.15.134|8333|/Satoshi:0.16.0/
 34.240.10.66|8333|/Satoshi:0.20.1/
@@ -4541,6 +4518,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.243.139.60|8333|/Satoshi:0.19.0.1/
 34.243.145.140|8333|/Satoshi:0.14.99/
 34.243.157.123|8333|/Satoshi:22.0.0/
+34.244.102.121|8333|/Satoshi:0.20.1/
 34.244.156.160|8333|/Satoshi:0.20.1/
 34.244.240.211|8333|/Satoshi:22.0.0/
 34.247.49.32|8333|/Satoshi:0.20.1/
@@ -4552,6 +4530,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.249.165.68|8333|/Satoshi:0.14.99/
 34.249.21.210|8333|/Satoshi:0.14.99/
 34.250.102.234|8333|/Satoshi:0.14.99/
+34.251.215.228|8333|/Satoshi:0.20.1/
 34.252.206.108|8333|/Satoshi:22.0.0/
 34.252.220.98|8333|/Satoshi:0.14.99/
 34.252.91.3|5001|/Satoshi:0.21.1/
@@ -4559,25 +4538,33 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.254.224.123|8333|/Satoshi:0.20.1/
 34.255.135.131|8333|/Satoshi:0.14.99/
 34.255.158.175|8333|/Satoshi:0.14.99/
+34.64.101.4|8333|/Satoshi:0.20.1/
 34.64.109.126|8333|/Satoshi:0.20.1/
 34.64.123.98|8333|/Satoshi:0.20.1/
-34.64.137.48|8333|/Satoshi:0.20.1/
 34.64.138.114|8333|/Satoshi:0.20.1/
+34.64.144.84|8333|/Satoshi:0.20.1/
 34.64.149.89|8333|/Satoshi:0.20.1/
 34.64.150.100|8333|/Satoshi:0.20.1/
+34.64.199.161|8333|/Satoshi:0.20.1/
 34.64.209.210|8333|/Satoshi:0.20.1/
-34.64.211.116|8333|/Satoshi:0.20.1/
-34.64.213.1|8333|/Satoshi:0.20.1/
+34.64.233.186|8333|/Satoshi:0.20.1/
+34.64.243.112|8333|/Satoshi:0.20.1/
 34.64.249.186|8333|/Satoshi:0.20.1/
 34.65.142.83|8333|/Satoshi:0.20.1/
 34.65.15.213|8333|/Satoshi:0.20.1/
 34.65.152.209|8333|/Satoshi:0.20.1/
+34.65.169.182|8333|/Satoshi:0.20.1/
 34.65.179.100|8333|/Satoshi:0.20.1/
 34.65.180.169|8333|/Satoshi:0.20.1/
+34.65.190.212|8333|/Satoshi:0.20.1/
+34.65.191.138|8333|/Satoshi:0.20.1/
 34.65.210.142|8333|/Satoshi:0.20.1/
+34.65.239.250|8333|/Satoshi:0.20.1/
 34.65.36.169|8333|/Satoshi:0.20.1/
+34.65.37.217|8333|/Satoshi:0.20.1/
 34.65.45.157|8333|/Satoshi:22.0.0/
 34.65.68.114|8333|/Satoshi:0.20.1/
+34.65.71.81|8333|/Satoshi:0.20.1/
 34.66.138.202|8333|/Satoshi:22.0.0/
 34.66.68.153|8333|/Satoshi:0.20.1/
 34.68.210.208|8333|/Satoshi:0.20.1/
@@ -4590,85 +4577,100 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.74.46.5|8333|/Satoshi:0.19.0.1/
 34.75.113.198|8333|/Satoshi:0.20.1/
 34.75.142.107|8333|/Satoshi:22.0.0/
-34.75.215.83|8333|/Satoshi:0.20.1/
 34.75.54.59|8333|/Satoshi:0.20.1/
 34.75.95.65|8333|/Satoshi:22.0.0/
 34.76.137.234|8333|/Satoshi:0.21.1/
 34.76.14.99|8333|/Satoshi:0.20.1/
-34.76.95.40|8333|/Satoshi:0.20.1/
+34.76.203.45|8333|/Satoshi:0.20.1/|396982|34.76.0.0/15|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+34.76.95.40|8333|/Satoshi:0.20.1/|396982|34.76.0.0/15|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.77.154.124|8333|/Satoshi:22.0.0/
 34.78.14.25|8333|/Satoshi:0.20.1/
+34.78.180.55|8333|/Satoshi:0.20.1/
 34.78.48.104|8333|/Satoshi:0.20.1/
 34.78.48.187|8333|/Satoshi:0.21.1/
-34.78.97.138|8333|/Satoshi:0.20.1/
 34.80.134.68|8333|/Satoshi:0.19.1/
-34.80.137.236|8333|/Satoshi:0.20.1/
-34.80.224.42|8333|/Satoshi:0.20.1/
 34.80.47.157|8333|/Satoshi:22.0.0/
-34.82.117.252|8333|/Satoshi:0.20.1/
+34.82.128.79|8333|/Satoshi:0.20.1/
 34.82.201.104|8333|/Satoshi:0.20.1/
+34.82.210.229|8333|/Satoshi:0.20.1/
 34.82.26.8|8333|/Satoshi:0.20.1/
 34.82.27.114|8333|/Satoshi:0.20.1/
+34.83.222.21|8333|/Satoshi:0.20.1/
 34.83.245.161|8333|/Satoshi:0.21.0/
-34.83.54.3|8333|/Satoshi:0.20.1/
 34.84.123.1|8333|/Satoshi:0.20.1/
+34.84.157.174|8333|/Satoshi:0.20.1/
+34.84.22.94|8333|/Satoshi:0.20.1/
+34.84.70.7|8333|/Satoshi:0.20.1/
 34.85.110.139|8333|/Satoshi:0.20.1/
 34.85.208.41|8333|/Satoshi:0.21.1/
 34.85.99.179|8333|/Satoshi:0.20.1/
 34.86.135.216|8333|/Satoshi:0.20.1/
 34.86.174.130|8333|/Satoshi:0.18.99/
 34.86.185.91|8333|/Satoshi:0.20.1/
-34.86.205.89|8333|/Satoshi:0.20.1/
-34.86.209.19|8333|/Satoshi:0.20.1/
 34.86.228.49|8333|/Satoshi:0.20.1/
+34.86.248.96|8333|/Satoshi:0.20.1/
 34.86.48.176|8333|/Satoshi:0.20.1/
 34.86.8.132|8333|/Satoshi:0.20.1/
+34.86.94.66|8333|/Satoshi:0.20.1/
+34.87.112.13|8333|/Satoshi:0.20.1/
+34.87.160.111|8333|/Satoshi:0.20.1/
 34.87.168.12|8333|/Satoshi:0.20.1/
+34.87.188.136|8333|/Satoshi:0.20.1/
 34.87.226.183|8333|/Satoshi:0.20.1/
-34.87.232.92|8333|/Satoshi:0.20.1/
+34.87.251.72|8333|/Satoshi:0.20.1/
 34.87.252.166|8333|/Satoshi:0.20.1/
 34.87.53.100|8333|/Satoshi:0.20.1/
 34.87.61.90|8333|/Satoshi:0.20.1/
-34.87.88.54|8333|/Satoshi:0.20.1/
+34.87.70.59|8333|/Satoshi:0.20.1/
 34.89.113.184|8333|/Satoshi:0.20.1/
 34.89.132.163|8333|/Satoshi:0.20.1/
-34.89.138.120|8333|/Satoshi:0.20.1/
 34.89.32.154|8333|/Satoshi:0.20.1/
 34.89.40.82|8333|/Satoshi:0.20.1/
 34.89.57.152|8333|/Satoshi:0.20.1/
+34.89.78.76|8333|/Satoshi:0.20.1/
+34.89.86.67|8333|/Satoshi:0.20.1/
 34.90.103.131|8333|/Satoshi:0.20.1/
 34.90.104.47|8333|/Satoshi:0.20.1/
-34.90.157.209|8333|/Satoshi:0.20.1/
 34.90.160.87|8333|/Satoshi:0.20.1/
 34.90.70.223|8333|/Satoshi:0.20.1/
-34.91.195.229|8333|/Satoshi:0.20.1/
+34.91.140.191|8333|/Satoshi:0.20.1/
+34.91.188.86|8333|/Satoshi:0.20.1/
 34.91.41.138|8333|/Satoshi:0.20.1/
 34.91.86.7|8333|/Satoshi:0.20.1/
-34.92.126.92|8333|/Satoshi:0.20.1/
 34.92.136.198|8333|/Satoshi:0.20.1/
+34.92.205.223|8333|/Satoshi:0.20.1/
+34.92.215.155|8333|/Satoshi:0.20.1/
 34.92.235.236|8333|/Satoshi:0.20.1/
 34.92.247.201|8333|/Satoshi:0.20.1/
 34.92.27.145|8333|/Satoshi:0.20.1/
 34.92.87.60|8333|/Satoshi:0.20.1/
 34.92.95.72|8333|/Satoshi:0.20.1/
 34.93.116.89|8333|/Satoshi:0.20.1/
-34.93.141.123|8333|/Satoshi:0.20.1/
+34.93.124.74|8333|/Satoshi:0.20.1/
+34.93.152.123|8333|/Satoshi:0.20.1/
 34.93.206.77|8333|/Satoshi:0.20.1/
 34.93.222.205|8333|/Satoshi:0.20.1/
 34.94.120.32|8333|/Satoshi:0.20.1/
-34.94.137.151|8333|/Satoshi:0.20.1/
 34.94.201.103|8333|/Satoshi:0.20.1/
-34.94.246.180|8333|/Satoshi:0.20.1/
 34.94.255.160|8333|/Satoshi:0.20.1/
+34.94.30.169|8333|/Satoshi:0.20.1/
 34.94.90.131|8333|/Satoshi:0.20.1/
-34.95.17.184|8333|/Satoshi:0.20.1/
+34.94.90.206|8333|/Satoshi:0.20.1/
+34.95.0.69|8333|/Satoshi:0.20.1/
+34.95.164.161|8333|/Satoshi:0.20.1/
 34.95.223.61|8333|/Satoshi:0.20.1/
+34.95.29.216|8333|/Satoshi:0.20.1/
 34.95.38.162|8333|/Satoshi:0.20.1/
 34.95.4.198|8333|/Satoshi:0.20.1/
+34.96.170.247|8333|/Satoshi:0.20.1/
+34.96.182.63|8333|/Satoshi:0.20.1/
 34.96.185.33|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 34.96.233.167|8333|/Satoshi:0.20.1/
 34.97.110.74|8333|/Satoshi:0.20.1/
+34.97.114.213|8333|/Satoshi:0.20.1/
+34.97.123.203|8333|/Satoshi:0.20.1/
 34.97.134.215|8333|/Satoshi:0.20.1/
+34.97.142.205|8333|/Satoshi:0.20.1/
 34.97.148.44|8333|/Satoshi:0.20.1/
 34.97.173.26|8333|/Satoshi:0.20.1/
 34.97.176.217|8333|/Satoshi:0.20.1/
@@ -4676,20 +4678,19 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.97.246.8|8333|/Satoshi:0.20.1/
 34.97.29.29|8333|/Satoshi:0.20.1/
 34.97.78.39|8333|/Satoshi:0.20.1/
-34.97.86.22|8333|/Satoshi:0.20.1/
+34.97.79.59|8333|/Satoshi:0.20.1/
 35.129.177.245|8333|/Satoshi:22.0.0/
 35.132.245.199|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 35.134.193.105|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 35.137.212.22|8333|/Satoshi:22.0.0/
 35.142.120.159|8333|/Satoshi:22.0.0/
-35.152.37.200|8333|/Satoshi:0.20.1/
 35.154.66.71|8333|/Satoshi:0.14.99/
+35.154.84.205|8333|/Satoshi:0.20.1/
 35.157.178.223|8333|/Satoshi:0.14.99/
 35.163.36.246|8333|/Satoshi:0.21.0/
 35.163.48.30|9091|/Satoshi:22.0.0/
 35.165.145.30|8333|/Satoshi:0.14.2/
 35.165.198.33|8333|/Satoshi:0.18.1/
-35.166.238.70|8333|/Satoshi:0.20.1/
 35.167.107.148|8333|/Satoshi:0.13.2/
 35.168.202.100|8333|/Satoshi:0.14.99/
 35.170.15.41|8333|/Satoshi:0.14.99/
@@ -4698,7 +4699,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.175.55.104|8333|/Satoshi:0.14.99/
 35.177.121.42|8333|/Satoshi:22.0.0/
 35.177.153.69|8333|/Satoshi:0.20.1/
-35.177.228.130|8333|/Satoshi:0.20.1/
 35.177.70.10|8333|/Satoshi:0.14.99/
 35.178.31.4|8333|/Satoshi:0.14.99/
 35.178.95.164|8333|/Satoshi:0.14.99/
@@ -4708,17 +4708,18 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.180.238.127|8333|/Satoshi:22.0.0/
 35.180.33.119|8333|/Satoshi:0.20.1/
 35.180.77.182|8333|/Satoshi:0.14.99/
-35.181.8.232|8333|/Satoshi:0.20.1/
 35.181.9.180|8333|/Satoshi:0.20.1/
 35.182.228.235|8333|/Satoshi:0.20.1/
+35.182.5.119|8333|/Satoshi:0.20.1/
 35.182.84.78|8333|/Satoshi:0.14.99/
 35.182.94.224|8333|/Satoshi:0.14.99/
 35.183.103.87|8333|/Satoshi:0.20.1/
-35.183.106.99|8333|/Satoshi:0.20.1/
+35.183.127.110|8333|/Satoshi:0.20.1/
 35.183.224.58|8333|/Satoshi:0.14.99/
 35.183.241.79|8333|/Satoshi:0.14.99/
 35.183.249.56|8333|/Satoshi:0.14.99/
 35.183.251.194|8333|/Satoshi:0.14.99/
+35.183.49.55|8333|/Satoshi:0.20.1/
 35.183.60.98|8333|/Satoshi:0.14.99/
 35.184.149.162|8333|/Satoshi:0.21.0/
 35.184.77.189|8333|/Satoshi:0.18.0/
@@ -4732,9 +4733,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.187.108.126|8333|/Satoshi:0.20.1/
 35.187.177.230|8333|/Satoshi:0.20.1/
 35.189.17.69|8333|/Satoshi:0.20.1/
-35.189.42.216|8333|/Satoshi:0.20.1/
+35.189.76.12|8333|/Satoshi:0.20.1/
 35.190.139.73|8333|/Satoshi:0.20.1/
 35.190.200.254|8333|/Satoshi:0.20.1/
+35.194.161.52|8333|/Satoshi:0.20.1/
 35.194.184.247|8333|/Satoshi:22.0.0/
 35.195.212.194|8333|/Satoshi:0.20.1/
 35.195.234.115|8333|/Satoshi:22.0.0/
@@ -4744,36 +4746,34 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.196.152.77|8333|/Satoshi:22.0.0/
 35.196.178.88|8333|/Satoshi:0.20.1/
 35.196.89.175|8333|/Satoshi:0.20.1/
-35.197.140.219|8333|/Satoshi:0.20.1/
 35.197.172.49|8333|/Satoshi:0.20.1/
 35.198.104.34|8333|/Satoshi:0.20.1/
+35.198.155.181|8333|/Satoshi:0.20.1/
 35.198.162.31|8333|/Satoshi:0.20.1/
 35.198.48.176|8333|/Satoshi:0.20.1/
 35.199.107.158|8333|/Satoshi:0.20.1/
 35.199.123.23|8333|/Satoshi:0.20.1/
+35.199.159.226|8333|/Satoshi:0.20.1/
 35.199.190.33|8333|/Satoshi:0.20.1/
 35.199.29.207|8333|/Satoshi:0.20.1/
-35.199.76.65|8333|/Satoshi:0.20.1/
+35.199.65.64|8333|/Satoshi:0.20.1/
 35.199.88.255|8333|/Satoshi:0.20.1/
 35.200.203.112|8333|/Satoshi:0.20.1/
-35.200.208.95|8333|/Satoshi:0.20.1/
 35.200.231.26|8333|/Satoshi:0.20.1/
+35.200.237.93|8333|/Satoshi:0.20.1/
 35.200.71.247|8333|/Satoshi:0.20.1/
+35.200.77.30|8333|/Satoshi:0.20.1/
 35.200.95.220|8333|/Satoshi:0.20.1/
 35.201.13.82|8333|/Satoshi:0.20.1/
-35.201.16.222|8333|/Satoshi:0.20.1/
-35.201.200.26|8333|/Satoshi:0.20.1/
 35.201.227.227|8333|/Satoshi:0.20.1/
+35.203.10.112|8333|/Satoshi:0.20.1/
+35.203.15.57|8333|/Satoshi:0.20.1/
 35.203.4.36|8333|/Satoshi:0.19.1/
-35.203.41.106|8333|/Satoshi:0.20.1/
-35.203.55.159|8333|/Satoshi:0.20.1/
-35.203.64.233|8333|/Satoshi:0.20.1/
+35.203.49.27|8333|/Satoshi:0.20.1/
 35.203.7.188|8333|/Satoshi:0.20.1/
 35.203.70.175|8333|/Satoshi:0.20.1/
 35.203.9.43|8333|/Satoshi:0.20.1/
-35.204.114.205|8333|/Satoshi:0.20.1/
 35.204.137.151|8333|/Satoshi:0.20.1/
-35.204.194.255|8333|/Satoshi:0.20.1/
 35.204.253.254|8333|/Satoshi:0.20.1/
 35.205.117.63|8333|/Satoshi:0.20.1/
 35.205.83.203|8333|/Satoshi:0.20.1/
@@ -4798,11 +4798,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.215.2.174|8333|/Satoshi:0.18.0/
 35.217.10.60|8333|/Satoshi:0.18.0/
 35.220.138.138|8333|/Satoshi:0.20.1/
+35.220.179.119|8333|/Satoshi:0.20.1/
+35.220.191.191|8333|/Satoshi:0.20.1/
 35.221.114.222|8333|/Satoshi:0.20.1/
 35.221.158.174|8333|/Satoshi:0.20.1/
 35.221.196.29|8333|/Satoshi:0.20.1(Omni:0.11.0; bitcore)/
 35.221.214.98|8333|/Satoshi:0.20.1/
 35.224.196.150|8333|/Satoshi:22.0.0/
+35.226.53.239|8333|/Satoshi:0.20.1/
 35.227.108.18|8333|/Satoshi:22.0.0/
 35.227.169.40|8333|/Satoshi:0.20.1/
 35.227.5.166|8333|/Satoshi:22.0.0/
@@ -4811,64 +4814,62 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.228.173.101|8333|/Satoshi:0.20.1/
 35.228.2.58|8333|/Satoshi:0.20.1/
 35.228.210.96|8333|/Satoshi:0.20.1/
-35.228.230.233|8333|/Satoshi:0.20.1/
+35.228.225.73|8333|/Satoshi:0.20.1/
 35.228.236.15|8333|/Satoshi:0.20.1/
 35.228.238.236|8333|/Satoshi:0.20.1/
-35.228.240.175|8333|/Satoshi:0.20.1/
-35.228.71.136|8333|/Satoshi:0.20.1/
+35.228.85.207|8333|/Satoshi:0.20.1/
 35.228.95.22|8333|/Satoshi:0.20.1/
+35.229.123.111|8333|/Satoshi:0.20.1/
 35.229.123.189|8333|/Satoshi:22.0.0/
 35.229.169.213|8333|/Satoshi:0.20.1/
-35.229.189.237|8333|/Satoshi:0.20.1/
+35.229.223.156|8333|/Satoshi:0.20.1/
 35.229.68.5|8333|/Satoshi:0.20.1/
 35.229.81.12|8333|/Satoshi:22.0.0/
 35.230.132.126|8333|/Satoshi:22.0.0/
-35.230.135.101|8333|/Satoshi:0.20.1/
 35.230.145.197|8333|/Satoshi:22.0.0/
+35.230.145.215|8333|/Satoshi:0.20.1/
 35.231.113.167|8333|/Satoshi:0.20.1/
 35.231.188.255|8333|/Satoshi:22.0.0/
 35.231.94.90|8333|/btcwire:0.5.0/btcd:0.22.0/
 35.232.112.59|8333|/Satoshi:0.20.1/
+35.232.138.65|8333|/Satoshi:0.20.1/
 35.234.19.151|8333|/Satoshi:0.20.1/
-35.234.52.44|8333|/Satoshi:0.20.1/
 35.234.7.71|8333|/Satoshi:0.20.1/
 35.234.78.228|8333|/Satoshi:0.20.1/
-35.235.89.230|8333|/Satoshi:0.20.1/
 35.236.118.211|8333|/Satoshi:0.20.1/
 35.236.12.131|8333|/Satoshi:0.20.1/
 35.236.139.60|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 35.236.147.169|8333|/Satoshi:0.20.1/
-35.236.164.193|8333|/Satoshi:0.20.1/
-35.236.40.20|8333|/Satoshi:0.20.1/
 35.236.68.211|8333|/Satoshi:0.20.1/
 35.237.109.49|8333|/Satoshi:0.20.1/
+35.237.144.170|8333|/Satoshi:0.20.1/
 35.237.182.178|8333|/Satoshi:22.0.0/
 35.237.254.241|8333|/Satoshi:0.10.3/
 35.237.92.187|8333|/Satoshi:0.19.0.1/
-35.242.205.19|8333|/Satoshi:0.20.1/
+35.240.252.177|8333|/Satoshi:0.20.1/
+35.242.148.200|8333|/Satoshi:0.20.1/
 35.243.250.85|8333|/Satoshi:22.0.0/
 35.243.99.49|8333|/Satoshi:0.20.1/
-35.244.103.240|8333|/Satoshi:0.20.1/
 35.244.103.242|8333|/Satoshi:0.20.1/
 35.244.108.75|8333|/Satoshi:0.20.1/
+35.244.33.53|8333|/Satoshi:0.20.1/
+35.244.67.121|8333|/Satoshi:0.20.1/
 35.244.9.182|8333|/Satoshi:0.20.1/
+35.245.143.50|8333|/Satoshi:0.20.1/
+35.245.186.117|8333|/Satoshi:0.20.1/
 35.245.230.216|8333|/Satoshi:0.20.1/
 35.245.48.156|8333|/Satoshi:0.20.1/
 35.245.81.106|8333|/Satoshi:0.21.1/
 35.246.115.144|8333|/Satoshi:22.0.0/
 35.246.116.88|8333|/Satoshi:0.20.1/
 35.246.131.254|8333|/Satoshi:0.21.2/
-35.246.144.163|8333|/Satoshi:0.20.1/
 35.246.23.1|8333|/Satoshi:0.20.1/
-35.246.231.230|8333|/Satoshi:0.20.1/
 35.246.247.7|8333|/Satoshi:0.19.0.1/
 35.246.6.156|8333|/Satoshi:22.0.0/
 35.246.85.107|8333|/Satoshi:0.20.1/
 35.246.92.247|8333|/Satoshi:22.0.0/
 35.247.228.106|8333|/Satoshi:0.20.1/
 35.247.235.180|8333|/Satoshi:0.20.1/
-35.247.237.194|8333|/Satoshi:0.20.1/
-35.247.241.173|8333|/Satoshi:0.20.1/
 35.247.39.60|8333|/Satoshi:0.20.1/
 35.72.163.27|8333|/Satoshi:22.0.0/
 35.73.128.27|8333|/Satoshi:22.0.0/
@@ -4880,6 +4881,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.1.216.71|8333|/Satoshi:0.20.1/
 37.1.217.35|8333|/Satoshi:0.21.0/
 37.1.218.2|8333|/Satoshi:0.20.1/
+37.117.142.7|8333|/Satoshi:0.14.2/
 37.120.155.34|8333|/Satoshi:22.0.0/
 37.120.164.102|8333|/Satoshi:22.0.0/
 37.120.171.27|8333|/Satoshi:22.0.0/
@@ -4920,6 +4922,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.252.10.114|8333|/Satoshi:22.0.0/
 37.34.249.83|8333|/Satoshi:22.0.0/
 37.49.81.219|8333|/Satoshi:22.0.0/
+37.49.88.25|8333|/Satoshi:22.0.0/
 37.49.93.30|8333|/Satoshi:22.0.0/
 37.59.32.10|8333|/Satoshi:0.21.1/
 37.59.38.74|8333|/Satoshi:0.21.0/
@@ -4956,10 +4959,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.101.136.226|8333|/Satoshi:0.19.0.1/
 39.101.206.20|8333|/Satoshi:0.19.0.1/
 39.104.118.116|8333|/Satoshi:0.13.0(bitcore)/
+39.104.81.231|8333|/Satoshi:22.0.0/
 39.105.85.40|8333|/Satoshi:22.0.0/
 39.107.234.140|8333|/Satoshi:22.0.0/
 39.97.227.7|8333|/Satoshi:0.21.1/
 39.97.231.198|8333|/Satoshi:0.21.1/
+39.97.244.212|8333|/Satoshi:0.21.1/
 39.99.232.25|8333|/Satoshi:0.19.0.1/
 40.115.137.28|8333|/Satoshi:22.0.0/
 40.71.41.208|8333|/Satoshi:22.0.0/
@@ -5066,7 +5071,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.94.58.23|8333|/Satoshi:22.0.0/
 46.101.112.24|8333|/btcwire:0.5.0/btcd:0.22.0/
 46.101.119.30|8333|/Satoshi:22.0.0/
-46.101.136.220|8333|/Satoshi:0.18.0/
 46.101.138.202|8333|/Satoshi:22.0.0/
 46.101.162.131|8333|/Satoshi:22.0.0/
 46.101.201.88|8333|/Satoshi:0.17.1/
@@ -5093,7 +5097,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.132.187.250|8333|/Satoshi:0.21.1/
 46.136.216.172|8333|/Satoshi:22.0.0/
 46.137.210.204|8333|/Satoshi:0.21.1/
-46.140.83.86|8333|/Satoshi:0.21.1/
 46.142.128.157|8333|/Satoshi:22.0.0/
 46.146.248.89|8333|/Satoshi:0.21.1/
 46.148.204.202|8333|/Satoshi:22.0.0/
@@ -5191,6 +5194,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.108.21.116|8333|/Satoshi:0.21.1/
 47.108.65.144|8333|/Satoshi:0.21.1/
 47.109.21.215|8333|/Satoshi:22.0.0/
+47.113.108.107|8333|/Satoshi:0.19.0.1/
 47.113.95.224|8333|/Satoshi:0.19.0.1/
 47.115.52.118|8333|/Satoshi:0.19.0.1/
 47.115.53.163|8333|/Satoshi:0.19.0.1/
@@ -5272,7 +5276,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.253.239|8333|/Satoshi:0.20.0/
 47.91.77.30|8333|/Satoshi:22.0.0/
 47.93.230.171|8333|/Satoshi:0.21.1/
-47.93.247.22|8333|/Satoshi:0.21.1/
 47.94.243.77|8333|/Satoshi:0.16.0/
 47.95.143.14|8333|/Satoshi:22.0.0/
 47.96.111.238|8333|/Satoshi:0.18.0/
@@ -5430,6 +5433,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.116.29.254|8333|/Satoshi:0.21.1/
 50.125.224.3|8333|/Satoshi:0.20.1/
 50.125.234.132|8333|/Satoshi:22.0.0/
+50.125.250.194|8333|/Satoshi:22.0.0/
 50.125.90.245|8333|/Satoshi:0.21.1/
 50.126.96.22|8333|/Satoshi:22.0.0(QRSNAP)/
 50.158.148.167|8333|/Satoshi:0.21.1/
@@ -5573,7 +5577,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.83.237.20|8333|/Satoshi:22.0.0/
 51.83.67.9|8333|/Satoshi:0.18.1/
 51.83.99.227|8333|/Satoshi:0.18.1/
-51.89.115.248|8333|/Satoshi:22.0.0/
 51.89.153.76|8333|/Satoshi:0.21.0/
 51.89.194.158|8333|/Satoshi:22.0.0/
 51.89.212.177|8333|/Satoshi:22.0.0/
@@ -5585,6 +5588,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.91.197.151|8333|/Satoshi:0.19.0.1/
 51.91.94.23|8333|/Satoshi:0.16.3/
 52.10.170.186|8333|/Satoshi:0.16.3/
+52.13.22.56|8333|/Satoshi:0.20.1/
 52.14.104.124|48333|/Satoshi:0.18.0/
 52.14.188.108|8333|/Satoshi:22.0.0/
 52.144.114.197|8333|/Satoshi:0.21.2/
@@ -5597,6 +5601,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.192.233.133|8333|/Satoshi:0.14.99/
 52.193.194.19|8333|/Satoshi:0.21.1/
 52.194.111.32|8333|/Satoshi:0.14.99/
+52.194.211.45|8333|/Satoshi:0.20.1/
 52.194.241.193|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 52.195.14.155|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 52.196.1.52|8333|/Satoshi:0.21.1.1/
@@ -5622,6 +5627,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.35.82.187|8333|/Satoshi:0.18.0/
 52.36.94.143|8333|/Satoshi:0.16.3/
 52.38.169.214|8333|/Satoshi:22.0.0/
+52.39.135.220|8333|/Satoshi:0.20.1/
 52.42.152.76|8333|/Satoshi:0.19.1/
 52.43.65.134|8333|/Satoshi:0.14.99/
 52.45.165.248|8333|/Satoshi:22.0.0/
@@ -5633,27 +5639,30 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.47.84.26|8333|/Satoshi:0.14.99/
 52.51.128.216|8333|/Satoshi:0.16.3/
 52.52.195.167|8333|/Satoshi:0.14.99/
-52.53.229.86|8333|/Satoshi:0.20.1/
+52.53.184.110|8333|/Satoshi:0.20.1/
 52.54.198.224|8333|/Satoshi:22.0.0/
 52.54.44.109|8333|/Satoshi:21.99.0(bitcored)/
 52.55.10.156|8333|/Satoshi:0.21.2/
+52.57.53.177|8333|/Satoshi:0.20.1/
 52.58.158.158|8333|/Satoshi:22.0.0/
 52.59.10.197|8333|/Satoshi:22.0.0/
 52.59.165.248|8333|/Satoshi:0.19.0.1/
+52.59.216.190|8333|/Satoshi:0.20.1/
 52.59.218.170|8333|/Satoshi:0.18.1/
 52.60.133.166|8333|/Satoshi:0.16.1/
 52.60.222.172|8333|/Satoshi:0.14.99/
 52.63.131.58|8333|/Satoshi:0.14.99/
 52.63.137.54|8333|/Satoshi:0.14.99/
-52.63.184.235|8333|/Satoshi:0.20.1/
 52.65.123.63|8333|/Satoshi:0.14.99/
 52.67.135.8|8333|/Satoshi:0.14.99/
 52.67.242.2|8333|/Satoshi:0.14.99/
 52.77.156.14|8333|/Satoshi:22.0.0/
 52.77.50.175|59050|/Satoshi:0.20.1/
 52.78.163.216|8333|/Satoshi:0.21.1/
+52.78.217.89|8333|/Satoshi:0.20.1/
 52.78.43.216|8333|/Satoshi:0.14.99/
 52.78.46.189|8333|/Satoshi:0.21.1/
+52.78.49.245|8333|/Satoshi:0.20.1/
 52.78.60.35|8333|/Satoshi:0.21.1/
 52.79.158.242|8333|/Satoshi:0.14.99/
 52.79.58.63|8333|/Satoshi:22.99.0/
@@ -5675,11 +5684,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.166.17.133|8333|/Satoshi:0.14.99/
 54.167.232.37|8333|/Satoshi:0.14.99/
 54.168.144.78|8333|/Satoshi:0.20.1(Omni:0.11.0)/
+54.168.197.87|8333|/Satoshi:0.20.1/
 54.168.212.227|8333|/Satoshi:0.14.99/
 54.169.19.59|8333|/Satoshi:22.0.0/
 54.169.82.49|8333|/Satoshi:0.21.1/
 54.172.187.239|8333|/Satoshi:0.15.1/
 54.173.97.189|8333|/Satoshi:0.21.1/
+54.176.141.169|8333|/Satoshi:0.20.1/
 54.176.63.16|8333|/Satoshi:0.21.0/
 54.177.200.242|8333|/Satoshi:22.0.0/
 54.177.33.197|8333|/Satoshi:21.99.0/
@@ -5692,8 +5703,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.183.250.50|8333|/Satoshi:0.20.1/
 54.183.73.157|8333|/Satoshi:21.99.0/
 54.185.108.174|8333|/Satoshi:0.17.0/
+54.187.117.98|8333|/Satoshi:0.20.1/
 54.188.180.102|8333|/Satoshi:0.19.1/
-54.189.184.168|8333|/Satoshi:0.20.1/
 54.190.14.141|8333|/Satoshi:22.0.0/
 54.191.204.251|8333|/Satoshi:22.0.0/
 54.193.21.65|8333|/Satoshi:0.20.1/
@@ -5712,32 +5723,34 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.213.65.91|8333|/Satoshi:0.20.1/
 54.215.194.229|8333|/Satoshi:22.0.0/
 54.216.44.60|8333|/Satoshi:0.18.0/
+54.217.136.122|8333|/Satoshi:0.20.1/
+54.217.186.6|8333|/Satoshi:0.20.1/
 54.218.75.112|8333|/Satoshi:22.0.0/
-54.219.145.18|8333|/Satoshi:0.20.1/
-54.219.185.231|8333|/Satoshi:0.20.1/
 54.226.125.96|8333|/Satoshi:0.21.1/
 54.227.36.209|8333|/Satoshi:0.21.1/
 54.228.128.82|8333|/Satoshi:22.0.0/
 54.232.244.249|8333|/Satoshi:0.14.99/
+54.232.29.198|8333|/Satoshi:0.20.1/
 54.233.225.236|8333|/Satoshi:0.14.99/
 54.238.102.8|48333|/Satoshi:0.18.0/
 54.238.129.38|8333|/Satoshi:0.14.99/
 54.238.161.216|8333|/Satoshi:0.21.1/
 54.238.197.17|8333|/Satoshi:0.20.1(Omni:0.11.0)/
-54.238.238.34|8333|/Satoshi:0.20.1/
+54.241.144.222|8333|/Satoshi:0.20.1/
 54.241.71.39|8333|/Satoshi:0.20.0/
 54.242.17.7|8333|/Satoshi:0.14.99/
 54.242.239.5|8333|/Satoshi:22.0.0/
 54.243.100.79|8333|/Satoshi:22.0.0/
+54.244.178.49|8333|/Satoshi:0.20.1/
 54.244.199.61|8333|/Satoshi:22.0.0/
 54.245.129.52|8333|/Satoshi:0.14.2/
 54.245.51.27|8333|/Satoshi:0.18.0/
 54.249.229.7|8333|/Satoshi:0.16.3/
 54.251.158.5|8333|/Satoshi:22.0.0/
 54.251.30.125|8333|/Satoshi:0.20.1/
+54.252.45.131|8333|/Satoshi:0.20.1/
 54.253.15.33|8333|/Satoshi:0.20.1/
 54.253.200.105|8333|/Satoshi:22.0.0/
-54.254.181.28|8333|/Satoshi:0.20.1/
 54.254.213.170|8333|/Satoshi:0.14.99/
 54.254.244.105|8333|/Satoshi:0.21.1(bitcore)/
 54.255.204.204|8333|/Satoshi:0.20.1/
@@ -5759,7 +5772,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.37.81.191|8333|/Satoshi:0.12.1(bitcore)/
 54.37.9.164|8333|/Satoshi:0.21.1/
 54.38.177.175|8333|/Satoshi:0.17.0/
-54.38.177.230|8333|/Satoshi:0.20.1/
+54.38.177.230|8333|/Satoshi:0.20.1/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.178.205|8333|/Satoshi:0.20.1/
 54.38.192.225|8333|/Satoshi:23.99.0/
 54.38.204.14|8333|/Satoshi:0.21.0/
@@ -5789,6 +5802,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.64.103.190|8333|/Satoshi:0.14.99/
 54.65.138.8|8333|/Satoshi:0.20.1(Omni:0.11.0)/
 54.65.201.164|8333|/Satoshi:22.0.0/
+54.67.29.114|8333|/Satoshi:0.20.1/
 54.68.82.186|8333|/Satoshi:22.0.0/
 54.72.249.230|8333|/Satoshi:0.14.99/
 54.76.224.236|5001|/Satoshi:0.21.1/
@@ -5800,7 +5814,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.93.197.248|8333|/Satoshi:0.21.1/
 54.93.244.144|8333|/Satoshi:22.0.0/
 54.93.45.76|8333|/Satoshi:0.20.1/
-54.94.24.55|8333|/Satoshi:0.20.1/
+54.94.158.137|8333|/Satoshi:0.20.1/
 58.105.166.109|8333|/Satoshi:22.0.0/
 58.105.168.41|8333|/Satoshi:0.21.1/
 58.106.207.149|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -5813,6 +5827,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.162.234.167|8333|/Satoshi:22.0.0/
 58.182.50.74|8333|/Satoshi:0.21.1/
 58.41.27.86|8333|/Satoshi:22.0.0/
+58.84.106.27|8333|/Satoshi:22.0.0/
 59.18.164.179|8333|/Satoshi:0.20.0/
 60.205.205.119|8333|/Satoshi:0.20.1/
 60.205.226.185|8333|/Satoshi:0.21.1/
@@ -5854,6 +5869,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.194.33.100|8333|/Satoshi:21.99.0/
 62.195.75.40|8333|/Satoshi:22.0.0/
 62.2.144.110|8333|/Satoshi:22.0.0/
+62.20.235.106|8333|/Satoshi:22.0.0/
 62.205.132.253|8333|/Satoshi:0.21.0/
 62.210.123.142|8333|/Satoshi:22.0.0/
 62.210.129.123|8333|/Satoshi:22.0.0/
@@ -6092,6 +6108,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.249.11.197|8333|/Satoshi:22.0.0/
 67.253.83.253|8333|/Satoshi:22.0.0/
 67.254.171.220|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
+67.254.203.136|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 67.6.158.89|8333|/Satoshi:0.21.1/
 67.80.186.162|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 67.83.53.143|8333|/Satoshi:22.99.0(Adam Bruncaj Was Here.)/
@@ -6115,7 +6132,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.151.224.89|8333|/Satoshi:22.0.0/
 68.175.80.226|8333|/Satoshi:22.0.0/
 68.181.4.12|8333|/Satoshi:0.14.2/
-68.183.126.132|8333|/Satoshi:0.20.1/
 68.183.130.60|8333|/Satoshi:0.17.0/
 68.183.146.151|8333|/Satoshi:22.0.0/
 68.183.186.231|8333|/Satoshi:22.0.0(bitcoin)/
@@ -6128,6 +6144,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.183.6.64|8333|/Satoshi:22.0.0/
 68.183.67.64|8333|/Satoshi:0.20.1/
 68.183.74.7|8333|/Satoshi:0.20.1/
+68.183.75.251|8333|/Satoshi:0.20.1/
 68.185.140.235|8333|/Satoshi:0.21.1/
 68.186.54.215|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 68.199.169.196|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -6149,11 +6166,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.49.187.88|8333|/Satoshi:22.0.0/
 68.56.203.112|8333|/Satoshi:0.20.1/
 68.60.110.91|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
+68.61.3.40|8333|/Satoshi:0.19.1(AldinNode)/
 68.75.195.2|8333|/Satoshi:22.0.0/
 68.8.149.185|8333|/Satoshi:0.21.1/
 68.8.75.25|8333|/Satoshi:22.0.0/
 68.81.34.147|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-68.84.196.90|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 68.89.232.80|8333|/Satoshi:0.19.1/
 69.11.228.4|8333|/Satoshi:0.21.1/
 69.112.101.212|8333|/Satoshi:22.0.0/
@@ -6355,7 +6372,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.29.91.40|8333|/Satoshi:0.19.1/
 72.45.22.43|8333|/Satoshi:22.0.0/
 72.46.131.18|8333|/Satoshi:22.0.0/
-72.48.253.168|8333|/Satoshi:0.21.0/
+72.48.253.168|8333|/Satoshi:0.21.0/|7459|72.48.0.0/16|US|arin|2005-05-03|GRANDECOM-AS1, US
 72.49.124.6|8333|/Satoshi:0.17.1/
 72.65.246.83|8333|/libbitcoin:3.7.0/
 72.65.246.84|8333|/libbitcoin:3.6.0/
@@ -6418,7 +6435,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.176.4.113|8333|/Satoshi:0.20.1/
 73.179.187.251|8333|/Satoshi:0.8.1/
 73.179.57.37|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-73.18.184.12|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 73.181.127.189|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 73.181.212.48|8333|/Satoshi:0.21.1/
 73.182.130.125|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -6447,7 +6463,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.228.195.131|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 73.230.167.70|8333|/Satoshi:0.18.0/
 73.234.31.194|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-73.234.47.90|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 73.236.159.217|8333|/Satoshi:0.9.2.1/
 73.240.188.228|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 73.243.107.24|8333|/Satoshi:0.21.1/
@@ -6489,7 +6504,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.101.15.206|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 74.101.202.3|8333|/Satoshi:0.20.0/
 74.103.220.121|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-74.108.25.169|8333|/Satoshi:0.21.1/
 74.109.38.58|8333|/Satoshi:0.20.0/
 74.110.146.212|8333|/Satoshi:0.21.1/
 74.111.101.245|8333|/Satoshi:22.0.0/
@@ -6530,7 +6544,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.91.115.229|8333|/Satoshi:22.0.0/
 74.96.242.226|8333|/Satoshi:0.21.0/
 75.101.240.176|8333|/Satoshi:22.0.0/
-75.106.222.93|8333|/therealbitcoin.org:0.9.99.99/
 75.117.111.253|8333|/Satoshi:22.0.0/
 75.118.50.201|8333|/Satoshi:0.21.1/
 75.119.132.199|9333|/Satoshi:0.21.0/
@@ -6586,6 +6599,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.122.161.189|8333|/Satoshi:22.0.0/
 76.122.178.18|8333|/Satoshi:22.0.0/
 76.122.82.253|8333|/Satoshi:22.0.0/
+76.166.151.53|8333|/Satoshi:22.0.0/
 76.167.180.206|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 76.168.207.62|8333|/Satoshi:0.19.1/
 76.168.98.162|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -6641,8 +6655,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.13.254.132|8333|/Satoshi:0.21.0/
 77.13.70.76|8333|/Satoshi:0.21.1/
 77.134.172.81|8333|/Satoshi:0.21.1/
-77.138.166.43|8333|/Satoshi:22.0.0/|12849|77.138.166.0/23|FR|ripencc|2010-08-31|HOTNET-IL AMS-IX Admin LAN, IL
-77.161.103.188|8333|/Satoshi:22.0.0/|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
+77.138.166.43|8333|/Satoshi:22.0.0/
+77.161.103.188|8333|/Satoshi:22.0.0/
 77.161.234.169|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 77.162.190.90|8333|/Satoshi:0.21.0/
 77.163.136.136|8333|/Satoshi:22.0.0/
@@ -6683,6 +6697,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.37.156.166|8333|/Satoshi:22.0.0/
 77.37.174.84|8333|/Satoshi:22.0.0/
 77.37.209.235|8333|/Satoshi:0.21.0/
+77.37.212.122|8333|/Satoshi:22.0.0/
 77.40.92.193|8333|/Satoshi:0.17.1/
 77.53.135.74|8333|/Satoshi:22.0.0/
 77.53.53.196|8333|/Satoshi:22.0.0/
@@ -6690,6 +6705,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.56.5.67|8333|/Satoshi:22.0.0/
 77.56.65.5|8333|/Satoshi:0.19.1/
 77.56.68.181|8333|/Satoshi:22.0.0/
+77.57.53.115|8333|/Satoshi:22.0.0/
 77.58.160.43|8333|/Satoshi:21.99.0/
 77.58.232.41|8333|/Satoshi:22.0.0/
 77.58.58.108|8333|/Satoshi:0.17.1/
@@ -6721,8 +6737,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.157.171.44|8333|/Satoshi:0.21.1/
 78.159.115.5|8333|/Satoshi:22.0.0/
 78.194.158.141|8333|/Satoshi:0.20.1/
-78.20.227.249|8333|/Satoshi:22.0.0/
-78.202.234.57|8333|/Satoshi:22.0.0/
+78.20.227.249|8333|/Satoshi:22.0.0/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
+78.202.234.57|8333|/Satoshi:22.0.0/|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.203.137.64|8333|/Satoshi:22.0.0/
 78.21.167.8|8333|/Satoshi:22.0.0/
 78.231.131.6|8333|/Satoshi:0.17.2/
@@ -6963,7 +6979,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.7.16.182|8333|/Satoshi:22.0.0/
 81.7.17.202|8333|/Satoshi:0.20.1(needs-coffee)/
 81.83.52.42|8333|/Satoshi:0.21.1/
-81.88.221.190|8333|/Satoshi:22.0.0/
 81.98.188.192|8333|/Satoshi:0.21.1/
 81.98.199.117|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 82.1.55.213|8333|/Satoshi:22.0.0/
@@ -6987,7 +7002,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.174.9.36|8333|/Satoshi:22.99.0/
 82.193.103.110|6333|/Satoshi:0.21.1/
 82.193.117.166|8333|/Satoshi:22.0.0/
-82.194.104.246|8333|/Satoshi:22.0.0/
 82.195.237.253|8333|/Satoshi:22.99.0/
 82.197.206.139|8333|/Satoshi:22.0.0/
 82.197.215.125|8333|/Satoshi:22.0.0/
@@ -7057,11 +7071,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.221.211.116|8335|/Satoshi:0.21.1/
 83.226.186.108|8333|/Satoshi:22.0.0/
 83.233.146.87|8333|/Satoshi:22.0.0/
-83.24.42.188|8333|/Satoshi:22.0.0/
 83.240.118.196|8333|/Satoshi:0.21.1/
 83.240.89.70|8333|/Satoshi:22.0.0/
 83.243.191.199|8333|/Satoshi:22.0.0/
 83.243.59.41|8333|/Satoshi:0.14.2/
+83.34.170.220|8333|/Satoshi:22.0.0/
 83.40.244.4|8333|/Satoshi:0.17.0.1/
 83.42.204.9|8333|/Satoshi:22.0.0/
 83.5.145.1|8333|/Satoshi:22.0.0/
@@ -7167,6 +7181,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.159.233.1|8333|/Satoshi:0.21.0/
 85.159.237.71|8333|/Satoshi:0.16.0/
 85.163.23.103|8333|/Satoshi:22.0.0/
+85.164.101.164|8333|/Satoshi:22.0.0/
 85.164.19.215|8333|/Satoshi:22.0.0/
 85.165.8.197|8333|/Satoshi:22.0.0/
 85.17.124.48|8333|/Satoshi:0.21.1/
@@ -7280,6 +7295,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.49.74.107|8333|/Satoshi:22.0.0/
 86.5.50.11|8333|/Satoshi:22.0.0/
 86.57.164.166|8333|/Satoshi:22.0.0/
+86.6.13.103|8333|/Satoshi:22.0.0/
 86.61.74.203|8333|/Satoshi:0.21.1/
 86.7.164.188|8333|/Satoshi:22.0.0/
 86.74.236.129|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -7311,11 +7327,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.133.109.159|8333|/Satoshi:0.21.1/
 87.133.238.250|8333|/Satoshi:22.0.0/
 87.135.70.7|8333|/Satoshi:0.21.1/
-87.143.120.204|8333|/Satoshi:0.20.1/
 87.143.158.144|8333|/Satoshi:22.0.0/
 87.147.66.95|8333|/Satoshi:22.0.0/
 87.151.151.248|8333|/Satoshi:22.0.0/
 87.16.39.182|8333|/Satoshi:0.16.3/
+87.167.214.16|8333|/Satoshi:22.0.0/
 87.169.215.93|8333|/Satoshi:22.0.0/
 87.169.248.190|8333|/Satoshi:22.0.0/
 87.180.203.47|8333|/Satoshi:0.21.0/
@@ -7374,25 +7390,26 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.212.44.33|8333|/Satoshi:22.99.0/
 88.212.45.166|8333|/Satoshi:0.21.0/
 88.212.55.138|8333|/Satoshi:22.0.0/
+88.3.0.109|8333|/Satoshi:22.0.0/
 88.68.169.28|8333|/Satoshi:0.21.1/
 88.68.42.158|8333|/Satoshi:22.0.0/
-88.80.145.132|8333|/Satoshi:0.21.1/|44901|88.80.145.0/24|CY|ripencc|2005-11-29|BELCLOUD, BG
-88.80.145.199|8333|/Satoshi:0.21.1/|44901|88.80.145.0/24|CY|ripencc|2005-11-29|BELCLOUD, BG
-88.80.148.72|8333|/Satoshi:22.0.0/|44901|88.80.148.0/24|CY|ripencc|2005-11-29|BELCLOUD, BG
-88.82.181.44|8333|/Satoshi:0.21.0/|39178|88.82.180.0/22|RU|ripencc|2005-12-22|OPTILINK-AS, RU
-88.84.222.252|8333|/Satoshi:22.0.0/|21453|88.84.192.0/19|RU|ripencc|2006-01-23|FLEX-AS, RU
-88.86.125.50|8333|/Satoshi:22.0.0/|39392|88.86.96.0/19|CZ|ripencc|2006-02-14|SUPERNETWORK ^_^, CZ
-88.87.164.26|8333|/Satoshi:22.0.0/|47680|88.87.160.0/19|IE|ripencc|2006-02-24|NHCS, IE
-88.88.238.234|8333|/Satoshi:22.99.0/|2119|88.88.0.0/13|NO|ripencc|2005-11-25|TELENOR-NEXTEL Telenor Norge AS, NO
-88.88.70.10|8333|/Satoshi:22.0.0/|2119|88.88.0.0/13|NO|ripencc|2005-11-25|TELENOR-NEXTEL Telenor Norge AS, NO
-88.9.73.216|8333|/Satoshi:22.0.0/|3352|88.9.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
-88.98.235.134|8333|/Satoshi:22.0.0/|56478|88.98.192.0/18|GB|ripencc|2005-08-03|BCUBE-AS, GB
-88.99.104.135|8333|/Satoshi:0.16.1/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.136.36|8333|/Satoshi:23.99.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.149.100|8335|/Satoshi:0.20.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.167.175|8333|/Satoshi:22.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.187.210|8333|/Satoshi:22.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.206.68|8333|/Satoshi:0.16.3/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.80.145.132|8333|/Satoshi:0.21.1/
+88.80.145.199|8333|/Satoshi:0.21.1/
+88.80.148.72|8333|/Satoshi:22.0.0/
+88.82.181.44|8333|/Satoshi:0.21.0/
+88.84.222.252|8333|/Satoshi:22.0.0/
+88.86.125.50|8333|/Satoshi:22.0.0/
+88.87.164.26|8333|/Satoshi:22.0.0/
+88.88.238.234|8333|/Satoshi:22.99.0/
+88.88.70.10|8333|/Satoshi:22.0.0/
+88.9.73.216|8333|/Satoshi:22.0.0/
+88.98.235.134|8333|/Satoshi:22.0.0/
+88.99.104.135|8333|/Satoshi:0.16.1/
+88.99.136.36|8333|/Satoshi:23.99.0/
+88.99.149.100|8335|/Satoshi:0.20.0/
+88.99.167.175|8333|/Satoshi:22.0.0/
+88.99.187.210|8333|/Satoshi:22.0.0/
+88.99.206.68|8333|/Satoshi:0.16.3/
 88.99.209.7|8333|/Satoshi:22.0.0/
 88.99.209.94|8333|/Satoshi:22.99.0/
 88.99.240.195|8333|/Satoshi:22.0.0/
@@ -7420,7 +7437,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.165.232.242|8333|/Satoshi:0.21.0/
 89.176.190.45|8333|/Satoshi:0.21.0/
 89.176.196.80|8333|/Satoshi:22.0.0/
-89.176.225.211|8333|/Satoshi:22.0.0/
 89.176.33.120|8333|/Satoshi:0.21.0/
 89.176.69.34|8333|/Satoshi:22.0.0/
 89.180.124.242|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
@@ -7510,7 +7526,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.147.232.98|8333|/Satoshi:0.20.1/
 91.148.141.210|8333|/Satoshi:0.19.1/
 91.148.141.211|8333|/Satoshi:0.19.1/
-91.15.21.202|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 91.15.234.58|8333|/Satoshi:22.0.0/
 91.152.123.18|8333|/Satoshi:23.99.0/
 91.153.177.244|8333|/Satoshi:22.0.0/
@@ -7559,6 +7574,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.65.190.110|8333|/Satoshi:22.0.0/
 91.66.104.83|8333|/Satoshi:0.17.0/
 91.67.0.128|8333|/Satoshi:0.21.0/
+91.77.168.231|8333|/Satoshi:22.0.0/
 91.8.166.141|8333|/Satoshi:0.21.1/
 91.92.144.159|8333|/Satoshi:0.18.1/
 91.92.144.226|8333|/Satoshi:0.21.1/
@@ -7606,114 +7622,113 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.53.90.84|8333|/Satoshi:0.21.1/
 92.58.171.140|8333|/Satoshi:22.0.0/
 92.60.40.196|57658|/Satoshi:22.0.0/
-92.62.97.83|8333|/Satoshi:22.0.0/
 92.75.245.240|8333|/Satoshi:22.0.0/
 92.86.218.107|8333|/Satoshi:0.18.1/
 93.103.13.1|8333|/Satoshi:0.21.1/
-93.104.25.32|8333|/Satoshi:0.21.1/
-93.104.89.63|8333|/Satoshi:22.0.0/
-93.107.153.162|8333|/Satoshi:22.0.0/
-93.107.234.89|8333|/Satoshi:22.0.0/
-93.114.235.16|8333|/Satoshi:22.0.0/
-93.115.152.79|8333|/Satoshi:0.21.1/
-93.115.20.130|8333|/Satoshi:0.19.0.1/
-93.115.28.70|8333|/Satoshi:0.20.1/
-93.115.28.92|8333|/Satoshi:0.21.0/
-93.123.180.164|8333|/Satoshi:0.21.1/
-93.138.110.227|8333|/Satoshi:0.20.1/
-93.157.251.200|8333|/Satoshi:0.21.1/
-93.16.43.241|8333|/Satoshi:0.21.0/
-93.176.173.230|8333|/Satoshi:22.0.0/
-93.176.181.123|8333|/Satoshi:22.0.0/
-93.177.82.226|8333|/Satoshi:22.0.0/
-93.180.118.217|8333|/Satoshi:0.19.1/
-93.189.145.169|8333|/Satoshi:22.0.0/
-93.189.28.82|8333|/Satoshi:22.0.0/
-93.190.117.26|8333|/Satoshi:0.21.1/
-93.190.138.3|8333|/Satoshi:0.20.0/
-93.190.140.14|8333|/Satoshi:0.19.0.1/
-93.190.140.97|8333|/Satoshi:0.21.1/
-93.190.142.127|8333|/Satoshi:22.0.0/
-93.202.138.177|8333|/Satoshi:0.21.1/
-93.209.185.99|8333|/Satoshi:0.21.0/
-93.216.75.205|8333|/Satoshi:22.0.0/
-93.220.40.2|8333|/Satoshi:0.20.0/
-93.221.209.49|8333|/Satoshi:0.20.0/
-93.226.61.132|8333|/Satoshi:0.21.2/
-93.229.245.28|8333|/Satoshi:0.21.1/
-93.230.211.230|8333|/Satoshi:22.0.0/
-93.233.150.156|8333|/Satoshi:0.21.0/
-93.236.78.235|8333|/Satoshi:22.0.0/
-93.24.176.32|8333|/Satoshi:0.12.1/
-93.241.84.47|8333|/Satoshi:0.21.1/
-93.243.47.192|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-93.254.34.194|8333|/Satoshi:22.0.0/
-93.33.192.204|8333|/Satoshi:22.0.0/
-93.4.7.184|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
-93.43.197.247|8333|/Satoshi:22.0.0/
-93.43.231.1|8333|/Satoshi:22.0.0/
-93.46.80.157|8333|/Satoshi:0.21.1/
-93.50.193.4|8333|/Satoshi:23.99.0/
-93.57.81.162|8333|/Satoshi:0.19.0.1/
-93.70.43.29|8333|/Satoshi:22.0.0/
-93.72.245.221|8333|/Satoshi:0.12.1/
-93.73.39.196|8333|/Satoshi:22.0.0/
-93.78.44.11|8333|/Satoshi:22.0.0/
-93.9.94.18|8333|/Satoshi:22.0.0/
-93.90.207.46|8333|/Satoshi:0.16.2/
-93.95.102.81|8333|/Satoshi:22.0.0/
-93.95.227.109|8333|/Satoshi:22.0.0/
-93.95.88.13|8333|/Satoshi:22.0.0/
-93.95.95.19|8333|/Satoshi:0.21.1/
-94.105.115.37|8333|/Satoshi:22.0.0/
-94.105.125.240|8333|/Satoshi:0.21.1/
-94.105.54.3|8333|/Satoshi:22.0.0/
-94.110.127.18|8333|/Satoshi:0.21.0/
-94.110.206.94|8333|/Satoshi:23.99.0/
-94.110.23.215|8333|/Satoshi:22.0.0/
-94.112.121.49|8333|/Satoshi:22.0.0/Knots:20211108/
-94.112.129.240|8333|/Satoshi:22.0.0/
-94.112.200.57|8333|/Satoshi:22.0.0/
-94.114.152.44|8333|/Satoshi:22.0.0/
-94.114.196.74|8333|/Satoshi:22.0.0/
-94.130.108.26|8333|/Satoshi:0.16.3/
-94.130.110.224|8333|/Satoshi:0.18.0/
-94.130.111.22|8333|/Satoshi:0.18.0/
-94.130.128.29|8333|/Satoshi:22.0.0/
-94.130.131.239|8333|/Satoshi:22.0.0/
-94.130.149.49|8333|/Satoshi:0.19.1/
-94.130.153.226|8333|/Satoshi:0.21.0/
-94.130.179.91|8333|/Satoshi:0.18.1/
-94.130.183.94|8333|/Satoshi:22.0.0/
-94.130.20.181|8333|/Satoshi:0.21.1/
-94.130.35.227|8335|/Satoshi:0.16.0/
-94.130.57.196|8333|/Satoshi:0.20.0/
-94.130.64.182|9199|/Satoshi:0.20.1(Omni:0.11.0)/
-94.130.69.46|8333|/Satoshi:22.0.0/
-94.130.71.31|8333|/Satoshi:22.0.0/
-94.130.84.44|8333|/Satoshi:22.0.0/
-94.15.210.142|8333|/Satoshi:0.20.1/
-94.154.159.99|8333|/Satoshi:22.0.0/Knots:20211108/
-94.155.115.161|8333|/Satoshi:22.0.0/
-94.155.50.149|8333|/Satoshi:22.0.0/
-94.16.104.221|8333|/Satoshi:0.21.0/
-94.16.105.121|8333|/Satoshi:22.0.0/
-94.16.252.184|8333|/Satoshi:22.0.0/
-94.176.238.102|8333|/therealbitcoin.org:0.9.99.99/
-94.176.238.212|8333|/Satoshi:0.21.0/
-94.189.161.119|8333|/Satoshi:0.21.1/
-94.19.128.204|8333|/Satoshi:22.0.0/
-94.19.132.255|8335|/Satoshi:0.17.1/
-94.19.161.110|8333|/Satoshi:22.0.0/
-94.19.6.199|8333|/Satoshi:22.0.0/
-94.19.7.55|8333|/Satoshi:22.99.0/
-94.193.197.196|8333|/Satoshi:0.9.2.1/
-94.198.50.110|8333|/Satoshi:0.21.1/
-94.199.178.17|3201|/Satoshi:22.0.0/
-94.199.178.233|3201|/Satoshi:22.0.0/
-94.203.255.70|8333|/Satoshi:22.0.0/
-94.212.58.137|8333|/btcwire:0.5.0/btcd:0.22.0/
-94.213.43.63|8333|/Satoshi:22.0.0/
+93.104.25.32|8333|/Satoshi:0.21.1/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
+93.104.89.63|8333|/Satoshi:22.0.0/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
+93.107.153.162|8333|/Satoshi:22.0.0/|15502|93.107.0.0/16|IE|ripencc|2008-04-09|VODAFONE-IRELAND-ASN, IE
+93.107.234.89|8333|/Satoshi:22.0.0/|15502|93.107.0.0/16|IE|ripencc|2008-04-09|VODAFONE-IRELAND-ASN, IE
+93.114.235.16|8333|/Satoshi:22.0.0/|21396|93.114.234.0/23|GB|ripencc|2007-12-21|NETCONNEX NetConnex Broadband Ltd., GB
+93.115.152.79|8333|/Satoshi:0.21.1/|15704|93.115.152.0/24|ES|ripencc|2007-12-21|AS15704, ES
+93.115.20.130|8333|/Satoshi:0.19.0.1/|202448|93.115.20.0/24|CY|ripencc|2007-12-21|MVPS www.mvps.net, CY
+93.115.28.70|8333|/Satoshi:0.20.1/|16125|93.115.28.0/24|LT|ripencc|2007-12-21|CHERRYSERVERS1-AS, LT
+93.115.28.92|8333|/Satoshi:0.21.0/|16125|93.115.28.0/24|LT|ripencc|2007-12-21|CHERRYSERVERS1-AS, LT
+93.123.180.164|8333|/Satoshi:0.21.1/|35539|93.123.128.0/17|RU|ripencc|2008-03-07|INFOLINK-T-AS Moscow, Russia, RU
+93.138.110.227|8333|/Satoshi:0.20.1/|5391|93.138.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
+93.157.251.200|8333|/Satoshi:0.21.1/|57128|93.157.248.0/22|RU|ripencc|2008-09-19|KGS-NET, RU
+93.16.43.241|8333|/Satoshi:0.21.0/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+93.176.163.57|8333|/Satoshi:22.0.0/|15704|93.176.160.0/20|ES|ripencc|2008-03-19|AS15704, ES
+93.176.173.230|8333|/Satoshi:22.0.0/|15704|93.176.160.0/20|ES|ripencc|2008-03-19|AS15704, ES
+93.176.181.123|8333|/Satoshi:22.0.0/|15704|93.176.176.0/20|ES|ripencc|2008-03-19|AS15704, ES
+93.177.82.226|8333|/Satoshi:22.0.0/|213111|93.177.82.0/24|IT|ripencc|2020-06-09|DONE, IT
+93.180.118.217|8333|/Satoshi:0.19.1/|42560|93.180.96.0/19|BA|ripencc|2011-12-01|BA-TELEMACH-AS Telemach d.o.o. Sarajevo, BA
+93.189.145.169|8333|/Satoshi:22.0.0/|12555|93.189.144.0/21|RU|ripencc|2008-05-02|IMAQLIQ iqdata.center, RU
+93.189.28.82|8333|/Satoshi:22.0.0/|44133|93.189.24.0/21|AT|ripencc|2008-04-23|IPAX-AS, AT
+93.190.117.26|8333|/Satoshi:0.21.1/|196881|93.190.112.0/21|GB|ripencc|2008-05-14|LIBERTY-AS, GB
+93.190.138.3|8333|/Satoshi:0.20.0/|49981|93.190.136.0/21|NL|ripencc|2008-05-16|WORLDSTREAM, NL
+93.190.140.14|8333|/Satoshi:0.19.0.1/|49981|93.190.136.0/21|NL|ripencc|2008-05-16|WORLDSTREAM, NL
+93.190.140.97|8333|/Satoshi:0.21.1/|49981|93.190.136.0/21|NL|ripencc|2008-05-16|WORLDSTREAM, NL
+93.190.142.127|8333|/Satoshi:22.0.0/|49981|93.190.136.0/21|NL|ripencc|2008-05-16|WORLDSTREAM, NL
+93.202.138.177|8333|/Satoshi:0.21.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.209.185.99|8333|/Satoshi:0.21.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.216.75.205|8333|/Satoshi:22.0.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.220.40.2|8333|/Satoshi:0.20.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.221.209.49|8333|/Satoshi:0.20.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.226.61.132|8333|/Satoshi:0.21.2/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.229.245.28|8333|/Satoshi:0.21.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.230.211.230|8333|/Satoshi:22.0.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.233.150.156|8333|/Satoshi:0.21.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.236.78.235|8333|/Satoshi:22.0.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.24.176.32|8333|/Satoshi:0.12.1/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+93.241.84.47|8333|/Satoshi:0.21.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.243.47.192|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.254.34.194|8333|/Satoshi:22.0.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.33.192.204|8333|/Satoshi:22.0.0/|12874|93.33.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
+93.4.7.184|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+93.43.197.247|8333|/Satoshi:22.0.0/|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
+93.43.231.1|8333|/Satoshi:22.0.0/|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
+93.46.80.157|8333|/Satoshi:0.21.1/|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
+93.50.193.4|8333|/Satoshi:23.99.0/|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
+93.57.81.162|8333|/Satoshi:0.19.0.1/|12874|93.56.0.0/14|IT|ripencc|2008-02-25|FASTWEB, IT
+93.70.43.29|8333|/Satoshi:22.0.0/|30722|93.70.0.0/16|IT|ripencc|2008-03-17|VODAFONE-IT-ASN, IT
+93.73.39.196|8333|/Satoshi:22.0.0/|25229|93.73.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
+93.78.44.11|8333|/Satoshi:22.0.0/|25229|93.78.32.0/20|UA|ripencc|2008-04-04|VOLIA-AS, UA
+93.9.94.18|8333|/Satoshi:22.0.0/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+93.90.207.46|8333|/Satoshi:0.16.2/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+93.95.102.81|8333|/Satoshi:22.0.0/|48347|93.95.100.0/22|RU|ripencc|2008-03-28|MTW-AS, RU
+93.95.227.109|8333|/Satoshi:22.0.0/|44925|93.95.224.0/21|IS|ripencc|2008-04-03|THE-1984-AS, IS
+93.95.88.13|8333|/Satoshi:22.0.0/|35434|93.95.88.0/21|PL|ripencc|2009-02-13|PIRXNET-AS, PL
+93.95.95.19|8333|/Satoshi:0.21.1/|35434|93.95.88.0/21|PL|ripencc|2009-02-13|PIRXNET-AS, PL
+94.105.115.37|8333|/Satoshi:22.0.0/|9031|94.105.96.0/19|BE|ripencc|2008-06-20|EDPNET, BE
+94.105.125.240|8333|/Satoshi:0.21.1/|9031|94.105.96.0/19|BE|ripencc|2008-06-20|EDPNET, BE
+94.105.54.3|8333|/Satoshi:22.0.0/|47377|94.105.48.0/20|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
+94.110.127.18|8333|/Satoshi:0.21.0/|47377|94.110.96.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
+94.110.206.94|8333|/Satoshi:23.99.0/|47377|94.110.192.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
+94.110.23.215|8333|/Satoshi:22.0.0/|47377|94.110.0.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
+94.112.121.49|8333|/Satoshi:22.0.0/Knots:20211108/|16019|94.112.0.0/16|CZ|ripencc|2008-07-09|VODAFONE-CZ-AS, CZ
+94.112.129.240|8333|/Satoshi:22.0.0/|16019|94.112.0.0/16|CZ|ripencc|2008-07-09|VODAFONE-CZ-AS, CZ
+94.112.200.57|8333|/Satoshi:22.0.0/|16019|94.112.0.0/16|CZ|ripencc|2008-07-09|VODAFONE-CZ-AS, CZ
+94.114.152.44|8333|/Satoshi:22.0.0/|3209|94.114.0.0/16|DE|ripencc|2008-07-09|VODANET International IP-Backbone of Vodafone, DE
+94.114.196.74|8333|/Satoshi:22.0.0/|3209|94.114.0.0/16|DE|ripencc|2008-07-09|VODANET International IP-Backbone of Vodafone, DE
+94.130.108.26|8333|/Satoshi:0.16.3/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.110.224|8333|/Satoshi:0.18.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.111.22|8333|/Satoshi:0.18.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.128.29|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.131.239|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.149.49|8333|/Satoshi:0.19.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.153.226|8333|/Satoshi:0.21.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.179.91|8333|/Satoshi:0.18.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.183.94|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.20.181|8333|/Satoshi:0.21.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.35.227|8335|/Satoshi:0.16.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.57.196|8333|/Satoshi:0.20.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.64.182|9199|/Satoshi:0.20.1(Omni:0.11.0)/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.69.46|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.71.31|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.84.44|8333|/Satoshi:22.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.15.210.142|8333|/Satoshi:0.20.1/|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
+94.154.159.99|8333|/Satoshi:22.0.0/Knots:20211108/|62240|94.154.159.0/24|GB|ripencc|2018-11-22|CLOUVIDER Clouvider - Global ASN, GB
+94.155.115.161|8333|/Satoshi:22.0.0/|8866|94.155.112.0/21|BG|ripencc|2008-08-21|BTC-AS BULGARIA, BG
+94.155.50.149|8333|/Satoshi:22.0.0/|9070|94.155.0.0/18|BG|ripencc|2008-08-21|COOOLBOX, BG
+94.16.104.221|8333|/Satoshi:0.21.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
+94.16.105.121|8333|/Satoshi:22.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
+94.16.252.184|8333|/Satoshi:22.0.0/|15600|94.16.128.0/17|CH|ripencc|2008-06-05|QUICKLINE Quickline AG, CH
+94.176.238.102|8333|/therealbitcoin.org:0.9.99.99/|212531|94.176.232.0/21|LT|ripencc|2008-08-14|INTERNETO-VIZIJA, LT
+94.176.238.212|8333|/Satoshi:0.21.0/|212531|94.176.232.0/21|LT|ripencc|2008-08-14|INTERNETO-VIZIJA, LT
+94.189.161.119|8333|/Satoshi:0.21.1/|31042|94.189.128.0/18|RS|ripencc|2008-08-20|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
+94.19.128.204|8333|/Satoshi:22.0.0/|35807|94.19.128.0/17|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.19.132.255|8335|/Satoshi:0.17.1/|35807|94.19.128.0/17|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.19.161.110|8333|/Satoshi:22.0.0/|35807|94.19.128.0/17|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.19.6.199|8333|/Satoshi:22.0.0/|35807|94.19.0.0/17|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.19.7.55|8333|/Satoshi:22.99.0/|35807|94.19.0.0/17|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.193.197.196|8333|/Satoshi:0.9.2.1/|5607|94.192.0.0/14|GB|ripencc|2008-08-14|BSKYB-BROADBAND-AS, GB
+94.198.50.110|8333|/Satoshi:0.21.1/|56694|94.198.50.0/24|EE|ripencc|2008-10-21|SMARTAPE, RU
+94.199.178.17|3201|/Satoshi:22.0.0/|47587|94.199.178.0/24|HU|ripencc|2008-11-17|VIPCOMP, HU
+94.199.178.233|3201|/Satoshi:22.0.0/|47587|94.199.178.0/24|HU|ripencc|2008-11-17|VIPCOMP, HU
+94.203.255.70|8333|/Satoshi:22.0.0/|15802|94.203.224.0/19|AE|ripencc|2008-07-17|DU-AS1, AE
+94.212.58.137|8333|/btcwire:0.5.0/btcd:0.22.0/|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
+94.213.43.63|8333|/Satoshi:22.0.0/|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.214.237.213|8333|/Satoshi:22.0.0/
 94.23.12.38|8333|/Satoshi:22.0.0/
 94.23.120.44|8333|/Satoshi:22.0.0/
@@ -7743,6 +7758,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.75.216.167|8333|/Satoshi:0.21.1/
 95.105.186.195|8333|/Satoshi:0.21.1/
 95.110.133.223|8333|/Satoshi:22.0.0/
+95.110.133.61|8333|/Satoshi:22.0.0/
 95.110.234.93|8333|/Satoshi:0.19.1/
 95.111.194.148|8333|/Satoshi:22.0.0/
 95.111.235.189|8333|/Satoshi:0.20.1/
@@ -7764,7 +7780,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.165.8.182|8333|/Satoshi:22.0.0/
 95.168.162.24|8333|/Satoshi:22.0.0/
 95.168.168.108|8333|/Satoshi:22.0.0/
-95.170.88.58|8333|/Satoshi:0.21.1/
 95.174.219.101|8333|/Satoshi:22.0.0/
 95.179.145.232|8333|/Satoshi:23.99.0/
 95.179.216.148|8333|/Satoshi:0.21.0/
@@ -7959,7 +7974,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.118.163.68|8333|/Satoshi:0.21.1/
 98.118.252.5|8333|/Satoshi:22.0.0/
 98.124.71.14|8333|/Satoshi:22.0.0/
-98.127.225.156|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 98.128.152.150|8333|/Satoshi:22.0.0/
 98.128.174.102|8333|/Satoshi:22.0.0/
 98.128.243.142|8333|/Satoshi:22.0.0/
@@ -7996,13 +8010,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.246.90.223|8333|/Satoshi:22.0.0/
 98.254.32.118|8333|/Satoshi:22.0.0/
 98.255.220.113|8333|/Satoshi:0.20.0/
-98.29.243.244|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 98.31.39.59|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 98.32.227.36|8333|/Satoshi:22.0.0/
 98.32.237.137|8333|/Satoshi:0.21.1(FutureBit-Apollo-Node)/
 98.32.83.73|8333|/Satoshi:0.21.1/
 98.36.34.124|8333|/Satoshi:0.21.1/
 98.37.105.87|8333|/Satoshi:0.21.1/
+98.37.117.35|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 98.43.43.158|8333|/Satoshi:22.0.0/
 98.47.142.185|8333|/Satoshi:22.0.0/
 98.47.246.77|8333|/Satoshi:22.0.0/
@@ -8046,7 +8060,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 99.73.32.215|8333|/Satoshi:22.0.0/
 99.76.234.24|8333|/Satoshi:22.0.0(FutureBit-Apollo-Node)/
 99.79.193.221|8333|/Satoshi:0.20.1/
-99.79.196.170|8333|/Satoshi:0.20.1/
 99.79.74.229|8333|/Satoshi:0.16.3/
 99.88.47.34|8333|/Satoshi:22.0.0/
 99.95.54.159|8333|/Satoshi:22.0.0/
