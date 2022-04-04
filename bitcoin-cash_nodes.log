@@ -133,7 +133,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.99.121.170|8333|/Bitcoin ABC:0.24.5(EB32.0)/
 14.161.23.249|8333|/Bitcoin ABC:0.25.1(EB32.0)/
 141.98.255.144|54836|/Bitcoin Cash Node:24.0.0(EB32.0)/
-142.126.118.225|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 142.4.215.155|8444|/Bitcoin Cash Node:24.0.0(EB32.0)/
 142.93.7.56|8337|/Bitcoin ABC:0.19.6(EB32.0)/
 143.110.219.238|8333|/Bitcoin Verde:2.2.0/
@@ -487,6 +486,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.145.63.116|8333|/Bitcoin ABC:0.25.2(EB32.0)/
 209.160.33.233|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 209.209.9.98|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
+209.222.10.182|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 211.34.233.242|8335|/Bitcoin Cash Node:24.0.0(EB32.0)/
 212.32.230.219|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/
 212.99.226.35|9061|/Bitcoin ABC:0.24.8(EB32.0)/
@@ -523,9 +523,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2604:a880:800:a1::dc2:1|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 2604:a880:cad:d0::240a:a001|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/
 2605:9880:201:17::4bc4|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-2607:5300:203:639e::|8333|/Bitcoin ABC:0.24.4(EB32.0)/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
-2607:5300:60:37df::420|8444|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
-2607:5300:60:4cab::|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
+2607:5300:203:639e::|8333|/Bitcoin ABC:0.24.4(EB32.0)/
+2607:5300:60:37df::420|8444|/Bitcoin Cash Node:23.1.0(EB32.0)/
+2607:5300:60:4cab::|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
 2607:5300:60:6f79::|14335|/Bitcoin Cash Node:23.0.0(EB32.0)/
 2607:fb90:e95:7332:7:4fab:4e95:e993|8333|/Bitcoin ABC:0.24.3(EB32.0)/
 2620:a6:2000:1::5:1265|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
@@ -556,7 +556,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:190:4210::2|8333|/Bitcoin ABC:0.20.10(EB32.0)/
 2a01:4f8:191:3067::2|8333|/Bitcoin ABC:0.20.6(EB32.0)/
 2a01:4f8:191:40e8::2|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/
-2a01:4f8:191:5061::2|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/
 2a01:4f8:192:221c::2|8433|/Bitcoin Cash Node:24.0.0(EB32.0)/
 2a01:4f8:1c1c:69ee::1|8333|/Bitcoin ABC:0.24.4(EB32.0)/
 2a01:4f8:1c1c:aad9::1|8333|/Bitcoin ABC:0.20.6(EB32.0)/
@@ -657,23 +656,23 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.25.241.224|8339|/Bitcoin ABC:0.24.5(EB32.0)/
 34.123.145.167|8333|/Bitcoin Cash Node:23.0.0(EB4000.0)/
 34.124.251.165|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-34.135.66.59|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-34.193.35.86|8333|/Bitcoin Cash Node:23.1.0(EB32.0; bitcoin-abc)/
-34.205.48.151|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
-34.239.133.62|8333|/bchd:0.18.0(EB32.0)/
-34.239.172.115|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-34.243.233.242|8336|/Bitcoin Cash Node:23.0.0(EB32.0)/
-34.244.125.210|5001|/Bitcoin Cash Node:24.0.0(EB32.0)/
-34.244.240.211|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/
-34.252.206.108|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/
-34.74.151.98|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/
-34.81.252.120|8331|/Bitcoin Cash Node:23.0.0(EB32.0)/
-34.89.60.11|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-35.168.18.220|8333|/bchd:0.18.0(EB32.0)/
-35.195.234.115|9333|/Bitcoin Cash Node:23.0.0(EB32.0)/
-35.197.119.240|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/
-35.206.86.32|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
-35.208.165.58|8333|/bchd:0.18.1(EB32.0)/
+34.135.66.59|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/|15169|34.135.0.0/16|US|arin|2021-01-08|GOOGLE, US
+34.193.35.86|8333|/Bitcoin Cash Node:23.1.0(EB32.0; bitcoin-abc)/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+34.205.48.151|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+34.239.133.62|8333|/bchd:0.18.0(EB32.0)/|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+34.239.172.115|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+34.243.233.242|8336|/Bitcoin Cash Node:23.0.0(EB32.0)/|16509|34.240.0.0/13|US|arin|2016-09-12|AMAZON-02, US
+34.244.125.210|5001|/Bitcoin Cash Node:24.0.0(EB32.0)/|16509|34.240.0.0/13|US|arin|2016-09-12|AMAZON-02, US
+34.244.240.211|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/|16509|34.240.0.0/13|US|arin|2016-09-12|AMAZON-02, US
+34.252.206.108|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/|16509|34.248.0.0/13|US|arin|2016-09-12|AMAZON-02, US
+34.74.151.98|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|396982|34.74.144.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+34.81.252.120|8331|/Bitcoin Cash Node:23.0.0(EB32.0)/|396982|34.81.240.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+34.89.60.11|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/|396982|34.89.48.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+35.168.18.220|8333|/bchd:0.18.0(EB32.0)/|14618|35.168.0.0/13|US|arin|2016-08-09|AMAZON-AES, US
+35.195.234.115|9333|/Bitcoin Cash Node:23.0.0(EB32.0)/|15169|35.192.0.0/14|US|arin|2017-03-21|GOOGLE, US
+35.197.119.240|8333|/Bitcoin Cash Node:24.0.0(EB32.0)/|15169|35.196.0.0/15|US|arin|2017-03-21|GOOGLE, US
+35.206.86.32|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/|15169|35.206.64.0/18|US|arin|2017-03-21|GOOGLE, US
+35.208.165.58|8333|/bchd:0.18.1(EB32.0)/|15169|35.208.0.0/15|US|arin|2017-09-29|GOOGLE, US
 35.208.171.216|8333|/Bitcoin ABC:0.22.6(EB32.0; bitcore)/
 35.208.213.75|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/
 35.208.254.89|8333|/Bitcoin ABC:0.22.6(EB32.0; bitcore)/
@@ -841,6 +840,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.178.76.73|8800|/Bitcoin Cash Node:24.0.0(EB32.0)/
 51.178.76.85|8800|/Bitcoin Cash Node:24.0.0(EB32.0)/
 51.195.199.241|8433|/Bitcoin Cash Node:24.0.0(EB32.0)/
+51.195.234.88|8335|/Bitcoin Cash Node:24.0.0(EB32.0)/
 51.195.7.112|8333|/bchd:0.18.1(EB32.0)/
 51.210.114.183|8800|/Bitcoin Cash Node:24.0.0(EB32.0)/
 51.210.208.201|8800|/Bitcoin Cash Node:24.0.0(EB32.0)/
