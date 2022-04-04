@@ -22,17 +22,17 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 101.100.139.188||||||||
 101.188.0.27||||||||
 101.51.148.245||||||||
-102.165.78.158||||||||
-102.165.78.158:16197||||||||
+102.165.92.55||||||||
 102.165.92.55:16137||||||||
 102.165.92.55:16157||||||||
+102.165.92.55:16197||||||||
 102.182.113.109||||||||
 102.39.124.207||||||||
 103.13.31.134||||||||
 103.13.31.135||||||||
 103.13.31.139||||||||
 103.13.31.143||||||||
-103.13.31.144|56309|103.13.28.0/22|TH|apnic|2012-05-31|SIAMDATA-TH 408 Fl4 CATTOWER, TH|t1PDPoMHx1Kis7hEaiJFFBDTD2fmj4NdTiw|0480023ddc00269e1a3ca57014d355219a02b18ef0d2d2f4d7b8881a33484512c88db6f22a4c39ea5847c26a7d5460e6d5ca98cdccb4698bc9a9e4e26d6cccb9c2
+103.13.31.144||||||||
 103.13.31.145||||||||
 103.13.31.146||||||||
 103.13.31.149||||||||
@@ -41,7 +41,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 103.13.31.155||||||||
 103.214.4.34||||||||
 103.214.5.80||||||||
-103.214.5.81||||||||
+103.214.5.81|207083|103.214.4.0/22|NL|apnic|2016-04-06|HOSTSLIM-GLOBAL-NETWORK, NL|t1W5ETgdjdSut32FfcpVs6BprCX2FxMC43Q|0450c644bf62af6cec44b48551cac7d01e2c415a194aa0a808d991a9a069b7dbf8cbe6dcd2da0c67cf2a9b63eaef9f946f9480fea610db2d1e7b87427ad515a001
 103.214.5.83||||||||
 103.214.6.26||||||||
 103.22.183.108||||||||
@@ -168,6 +168,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 109.90.207.31:16187||||||||
 109.90.207.31:16197||||||||
 109.92.73.202||||||||
+109.99.71.201||||||||
 110.12.64.96||||||||
 110.141.222.194||||||||
 110.50.85.83||||||||
@@ -225,7 +226,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 116.3.204.168:16177||||||||
 116.3.204.168:16197||||||||
 116.91.239.229||||||||
-118.163.15.61||||||||
 119.3.128.162||||||||
 119.3.128.162:16137||||||||
 119.3.128.162:16147||||||||
@@ -345,7 +345,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 135.181.20.225||||||||
 135.181.201.202||||||||
 135.181.201.223||||||||
-135.181.203.28|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE|t1ep7LfR5ys49qttcwxEcnvujrkLnsvpegp|0467bcf6c076e30b8ed26d056724c79da309212824767da0af29e17e207581f1b6a055d0b6b9ae4f21057ad3cc4c7d661598f8182acea62079d0f524f43468d418
+135.181.203.28||||||||
 135.181.206.6||||||||
 135.181.206.9||||||||
 135.181.207.118||||||||
@@ -368,7 +368,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 135.181.218.183||||||||
 135.181.22.91||||||||
 135.181.22.96||||||||
-135.181.221.125||||||||
+135.181.221.125|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE|t1cCMNgJZrCcsrpRgnPfBBjtHdNr8j2J44v|04ddff13193b02d8a021c154748b6790d126ef0eb68aa9146418571ea11d6613dd97f1ab8c9e711ad35520714e17597fb985e6d4bd52149a7cd32ed99cdd732655
 135.181.223.122||||||||
 135.181.248.115||||||||
 135.181.25.144||||||||
@@ -396,7 +396,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 135.181.47.184||||||||
 135.181.56.179||||||||
 135.181.56.181||||||||
-135.181.56.224||||||||
+135.181.56.224|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE|t1ZMbSB7CYmG4VQgQ4yz51ZkFHZ6Av2iU1d|048909a50f4451f5504e1314a2494b1471f3476d4faf9a705e694e5d1b0d1c79d638df0de7d8db87204bed03c843047e0eb0a9d0c5d2d9bdd38033548eb72569d0
 135.181.56.245||||||||
 135.181.56.253||||||||
 135.181.57.122||||||||
@@ -405,6 +405,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 135.181.62.248||||||||
 135.181.63.124||||||||
 135.181.72.252||||||||
+135.181.79.222||||||||
 135.181.79.234||||||||
 135.181.80.199||||||||
 135.181.81.135||||||||
@@ -495,7 +496,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 141.94.163.68:16177||||||||
 141.94.163.68:16187||||||||
 141.94.163.68:16197||||||||
-141.95.137.124||||||||
+141.95.137.124|16276|141.95.128.0/17|FR|ripencc|1993-02-18|OVH, FR|t1eVv49oEjXw9SUc5CtLHWdviqG14S1Xyy8|040421e26fdac32edd442ab58c258efc4416216eb0b06a8035352d8f5accc48246aa1c62b358ddb46ed9e955c559ba986141b0767e3c5a8bed77b001777d74e4b1
 141.95.137.125||||||||
 141.95.137.126||||||||
 141.95.224.140||||||||
@@ -505,7 +506,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 142.113.239.49||||||||
 142.115.155.26||||||||
 142.116.83.76||||||||
-142.127.166.74||||||||
+142.127.166.74|577|142.127.0.0/16|CA|arin|1993-04-05|BACOM, CA|t1We5HtW8xrjQpe1FxvXYphayfvMUgRXB2W|044c65b7ab1271ef8d50b740f8c254676c98f41d0820a15da6e51cb2e9b4bedcd8ab16bcb501b48d768d24df9634646270b406ab9eee89ba950469c304725cf580
 142.132.151.146||||||||
 142.132.160.24||||||||
 142.132.161.10||||||||
@@ -539,7 +540,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 142.132.231.5||||||||
 142.132.232.78||||||||
 142.132.234.3||||||||
-142.132.249.91||||||||
+142.132.249.91|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE|t1NwdpxLCpX45zPenQqTEpHheiZjoT7rWiw|04089923a0986613a699cd21f7b561f8333f0ed561a793897be9d61d0ef8f608f7b9fed8ba0514075654d010019cad5eba512c63747a5d037fed9e8d09db59e17c
 142.132.249.92||||||||
 142.132.249.93||||||||
 142.132.250.131||||||||
@@ -601,7 +602,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 142.132.251.117||||||||
 142.132.252.47||||||||
 142.132.252.48||||||||
-142.132.254.59||||||||
+142.132.254.59|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE|t1T241Se3bNnJdqjVMcp9pMaweez8ZbdHPP|04f6590486b32eb576c0319f4bf7c2338e4d015ffa04eec0c6c625699a47bb06c5709b3474b050d8f97ec56a305e9452b075491bbeda5da40637375eb7968203f1
 142.169.180.47||||||||
 142.181.69.67||||||||
 142.202.221.131||||||||
@@ -707,7 +708,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 144.91.72.34||||||||
 144.91.78.255||||||||
 144.91.86.88||||||||
-144.91.88.130||||||||
+144.91.88.130|51167|144.91.88.0/23|DE|ripencc|1990-11-20|CONTABO, DE|t1dTx93kWwECkGkg6U1aJga4E91tMaomvp3|042a235d89fdc7220fd165a70be6b2bc20f2ad3502f9c4723887d38e66eb245b82df1aad2a01873e1853b8a424417602f0279bbf9e1b09d99407684e3cb51420c0
 144.91.98.69||||||||
 145.236.152.200:16137||||||||
 145.236.152.200:16147||||||||
@@ -766,7 +767,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 147.135.159.135||||||||
 147.135.159.136||||||||
 147.135.159.137||||||||
-147.135.159.138||||||||
 147.135.159.139||||||||
 147.135.159.140||||||||
 147.135.159.141||||||||
@@ -777,7 +777,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 148.251.51.220||||||||
 148.251.8.9||||||||
 148.63.50.197||||||||
-148.63.50.197:16137||||||||
 148.72.144.148||||||||
 148.74.176.155||||||||
 149.202.70.45||||||||
@@ -847,7 +846,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 154.53.37.191||||||||
 154.53.37.199||||||||
 154.53.37.201||||||||
-154.53.37.214||||||||
 154.53.37.223||||||||
 154.53.37.25||||||||
 154.53.37.251||||||||
@@ -914,7 +912,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 154.53.49.68||||||||
 154.53.50.27||||||||
 154.53.50.28||||||||
-154.53.51.118||||||||
 154.53.51.15||||||||
 154.53.52.82||||||||
 154.53.54.14||||||||
@@ -1059,7 +1056,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 161.97.99.231||||||||
 162.142.36.188||||||||
 162.198.15.163||||||||
-162.210.7.216||||||||
+162.210.7.216|15108|162.210.4.0/22|US|arin|2013-04-11|ALLO-COMM, US|t1NGL8MTtffCiz4HjdHAreRqDe6fR4qAU7A|04a2f9ee973d4f0025caf71a1a88080c863fe9d15f8f60e8b5e4f6143ad079179d12d3379f7aaa954ea33a05b7726c053ec5789f2a963a4c9f06272759168562d9
 162.212.152.151||||||||
 162.212.152.161||||||||
 162.212.152.164||||||||
@@ -1072,6 +1069,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 162.212.156.147||||||||
 162.212.158.51||||||||
 162.212.158.54||||||||
+162.218.222.207||||||||
 162.226.203.146:16157||||||||
 162.226.203.146:16167||||||||
 162.227.122.111||||||||
@@ -1153,7 +1151,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 167.86.79.63||||||||
 167.86.82.117||||||||
 167.86.84.129||||||||
-167.86.89.63||||||||
+167.86.89.63|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE|t1Kk6Rzyn5iGuZmNXvbALAi8s2iM4SHEeXT|04a9349adfa691012d036067e28a30f20fb302bc247207444e8dbc5926ac4e968e04dbf3c12f7c46e03ef96d73f7ccc41288da189b5917890540ebb8762c2fbc1b
 167.86.95.178||||||||
 167.86.96.157||||||||
 167.86.96.207||||||||
@@ -1184,7 +1182,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 170.39.117.21||||||||
 170.39.117.22||||||||
 170.39.158.11||||||||
-171.7.10.47||||||||
+171.7.10.47|45758|171.7.0.0/16|TH|apnic|2011-03-07|TTBP-AS-AP Triple T Broadband Public Company Limited, TH|t1M1VY8k8d8oW8dKLwFijxYZE8H1MUmfdGb|04fbd79ff4ad709d8cc913d3dee34ccba59a90ac92ca248d8c7d96a7f4a9eee59e39718346b3d4abf539e0dd78fcbc8abeb73bfac0d3d3390f64a1b8297a639395
 172.101.124.174||||||||
 172.193.29.35||||||||
 172.223.219.12||||||||
@@ -1201,7 +1199,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 173.212.192.3||||||||
 173.212.208.27||||||||
 173.212.211.175||||||||
-173.212.211.44|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE|t1ZDKT2f94dtEgRLwJogM4iSPECL1unXj95|04139023d84dc4c072149611e4bc0807a3d4cee0b053f0f8e8ab6d57aaabd119588221177c594be46439c7f0db8b6042de0654a775498e4f69f42dcf2d0bde23e0
+173.212.211.44||||||||
 173.212.220.101||||||||
 173.212.225.34||||||||
 173.212.241.127||||||||
@@ -1273,6 +1271,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 176.136.254.241:16197||||||||
 176.137.251.65||||||||
 176.159.48.8||||||||
+176.159.75.15||||||||
 176.165.32.91||||||||
 176.173.90.9||||||||
 176.174.115.19||||||||
@@ -1376,6 +1375,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 178.33.93.61||||||||
 178.33.93.62||||||||
 178.33.93.63||||||||
+178.38.94.165||||||||
 178.38.94.165:16197||||||||
 178.55.225.207:16137||||||||
 178.55.225.207:16157||||||||
@@ -1427,7 +1427,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 181.214.147.27||||||||
 181.214.147.28||||||||
 181.214.147.29||||||||
-181.214.147.3||||||||
 181.214.147.30||||||||
 181.214.147.32||||||||
 181.214.147.33||||||||
@@ -1443,7 +1442,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 181.214.147.43||||||||
 181.214.147.44||||||||
 181.214.147.45||||||||
-181.214.147.46||||||||
 181.214.147.47||||||||
 181.214.147.48||||||||
 181.214.147.49||||||||
@@ -1471,7 +1469,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 181.214.147.70||||||||
 181.214.147.71||||||||
 181.214.147.72||||||||
-181.214.147.73|15440|181.214.147.0/24|AE|ripencc|2014-05-29|BALTNETA Customers AS, LT|t1Qemr1L4GVBBQACML1YNksdBkkfPSk7M14|0499978cb2291136ea33449f8eea59b3c4c4c1446fceabb98a6d88b84541c3adf3dd00f42ad98dfd75421c06bf7a7148f737e8064a0283203705dfdf99fed56293
+181.214.147.73||||||||
 181.214.147.74||||||||
 181.214.147.75||||||||
 181.214.147.76||||||||
@@ -1552,7 +1550,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 185.150.18.166||||||||
 185.150.18.171||||||||
 185.150.18.172||||||||
-185.150.18.175|9050|185.150.18.0/24|RO|ripencc|2016-04-29|RTD Bucharest, Romania, RO|t1ayDpi2m9uBjz1Ui4LasvtE3ya8BTv4jcn|0424e98ab461e857d62be1fe03abd2023a9ed0d38196584cd77f1c81252d63abda77b1d80b386ae473c0b726e4234859fcd892d38282ef7e88363121c8a9220394
+185.150.18.175||||||||
 185.157.80.92||||||||
 185.16.38.187||||||||
 185.16.38.194||||||||
@@ -1627,7 +1625,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 185.196.21.194||||||||
 185.196.21.208||||||||
 185.196.21.211||||||||
-185.196.21.215|51167|185.196.21.0/24|DE|ripencc|2017-03-23|CONTABO, DE|t1WSxpe9QvpHAhCgjZgUi7pHbqi1UZNgRgG|04864c9012002e33924fed50411f016f99fd451f69efed5bd3e194c07c8e3759fdf301c3ab3fe3ac20cecc1bcbc3ff5f23c25e783af6ffe8ae7469726776db4a57
+185.196.21.215||||||||
 185.196.21.218||||||||
 185.196.21.221||||||||
 185.196.21.223||||||||
@@ -1660,7 +1658,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 185.202.238.80||||||||
 185.202.238.81||||||||
 185.202.238.82||||||||
-185.202.238.83||||||||
+185.202.238.83|51167|185.202.238.0/23|DE|ripencc|2017-05-10|CONTABO, DE|t1RxLDRdx4zighNdbdxXPFKugPiCtEKLQhH|041be31cb5c9709496b0f1677f080bbe806bf244f57679e84228315a53c2c2d610c003011912053603b3c3df93f4a06787f052de29f3c6db8382289d7cdd9646de
 185.202.239.204||||||||
 185.202.239.230||||||||
 185.202.239.233||||||||
@@ -1769,7 +1767,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 185.248.69.107||||||||
 185.248.69.185||||||||
 185.249.225.18||||||||
-185.249.225.20|51167|185.249.225.0/24|DE|ripencc|2018-03-15|CONTABO, DE|t1bBf58NVEHkXGtAAC4CFZBBs62cgvZgpC9|044abea07d4ee7a81bb23ba284722c98a9170f779d9ac128704b9ec541e304c225a624ad3ed1465bc3386fdf48c2401e3f48474888ac9af1e2590e085c57912610
+185.249.225.20||||||||
 185.249.225.68||||||||
 185.249.225.76||||||||
 185.252.233.150||||||||
@@ -1861,8 +1859,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 185.78.165.183||||||||
 185.78.165.185||||||||
 185.78.165.186||||||||
-185.78.165.188|9335|185.78.165.0/24|NL|ripencc|2014-11-25|CAT-CLOUD-AP CAT Telecom Public Company Limited, TH|t1eHNjENYKdNBirrdt49zaFELgvafKaiK8Q|0492530f9982e45c0cd8a14568fd95c22bb2fdbd790d41390deed31491366622b432074aa6443cbb97bb1c2c66b815bbb48e4f9ea9b3bc9152127be4b6c8b90baf
-185.78.165.196|9335|185.78.165.0/24|NL|ripencc|2014-11-25|CAT-CLOUD-AP CAT Telecom Public Company Limited, TH|t1Lq8K2mT84TVtNGaqPp69FfkyVyiDavjtA|04c4a7507870fe28c9e7c2249ff219550f99246368281c72c1cb2f88f10fc6344159efa3d40a9b8075084ec7cef5f3a3ab407f6e356f8b6a0b6211196752f8af32
+185.78.165.188||||||||
+185.78.165.196||||||||
 185.78.165.198||||||||
 185.78.165.200||||||||
 185.78.165.203||||||||
@@ -2049,6 +2047,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 194.163.132.28||||||||
 194.163.134.18||||||||
 194.163.134.24||||||||
+194.163.136.17||||||||
 194.163.139.141||||||||
 194.163.142.219||||||||
 194.163.144.233||||||||
@@ -2060,14 +2059,14 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 194.163.153.46||||||||
 194.163.154.92||||||||
 194.163.156.56||||||||
-194.163.156.63|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE|t1WSxpe9QvpHAhCgjZgUi7pHbqi1UZNgRgG|04864c9012002e33924fed50411f016f99fd451f69efed5bd3e194c07c8e3759fdf301c3ab3fe3ac20cecc1bcbc3ff5f23c25e783af6ffe8ae7469726776db4a57
+194.163.156.63||||||||
 194.163.157.145||||||||
 194.163.158.102||||||||
 194.163.162.29||||||||
 194.163.163.208||||||||
 194.163.163.211||||||||
 194.163.163.213||||||||
-194.163.164.168|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE|t1Txw1unDSWrYE6UhbaxYxcb17RTra2tQUj|044fd3eb3d2fae22796f0803ffaebf0dea0f4beeedebfe871d3f133b15968d18de9629b6285e12b222a89646efa7da7c33d1c2df64288bb709a9e89e697322a54a
+194.163.164.168||||||||
 194.163.164.237||||||||
 194.163.165.143||||||||
 194.163.165.191||||||||
@@ -2172,6 +2171,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 195.201.239.202||||||||
 195.201.239.72||||||||
 195.201.242.233||||||||
+195.201.25.193||||||||
 195.201.31.107||||||||
 195.201.57.122||||||||
 195.201.89.158||||||||
@@ -2237,6 +2237,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 195.3.223.16||||||||
 195.3.223.17||||||||
 195.3.223.18||||||||
+195.3.223.24||||||||
 195.3.223.6||||||||
 195.88.87.164||||||||
 197.94.66.220:16137||||||||
@@ -2488,7 +2489,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 202.61.243.54||||||||
 202.61.243.64||||||||
 202.61.243.94||||||||
-202.61.244.124||||||||
+202.61.244.124|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE|t1M9w9aeHdhVugq42EBCMd9AeDAUH9BkrMK|048c3b38f703edcf914aac9de8fe16ea1004e48d4cdc45ccc59f7147a9eb3f6be707e99c6cffc86be83604ecd4fe1651b4b606d296868f67fbe7186e0528a599eb
 202.61.244.196||||||||
 202.61.244.200||||||||
 202.61.244.22||||||||
@@ -2578,7 +2579,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 207.180.210.133||||||||
 207.180.210.204||||||||
 207.180.223.75||||||||
-207.180.225.189||||||||
 207.180.227.253||||||||
 207.180.228.107||||||||
 207.180.229.44||||||||
@@ -2637,7 +2637,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 209.126.3.59||||||||
 209.126.3.68||||||||
 209.126.4.138||||||||
-209.126.4.41|40021|209.126.0.0/20|US|arin|2020-03-02|CONTABO, US|t1KMRqg1enCxvt8wHEk5nhfGaiaaZjjDtvH|04888d694dcfeb3ae9ccdbe89da93a7b347920c4d1eb4296ff7f537fbb4de34e05f3954a8812593590517f97e6b6a44ff009fa5628ba3f455d8bb5a449d2007b9e
+209.126.4.41||||||||
 209.126.4.43||||||||
 209.126.77.248||||||||
 209.126.77.83||||||||
@@ -2680,7 +2680,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 209.145.57.228||||||||
 209.145.58.107||||||||
 209.145.58.108||||||||
-209.145.58.210||||||||
 209.145.58.55||||||||
 209.145.59.137||||||||
 209.145.59.193||||||||
@@ -2735,7 +2734,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 212.80.213.151||||||||
 212.80.213.152||||||||
 212.80.213.158||||||||
-212.80.213.159|56309|212.80.212.0/22|NL|ripencc|2018-11-01|SIAMDATA-TH 408 Fl4 CATTOWER, TH|t1bxZEmr6BXcvxaD894nGEnfJj6SvSaumgu|04a38affdf4a1cbf3c8c11182b15207597078e021e76b6eb76de6d8421b3de7fb32083bc022631904e5c4bde9efb4b6802df767bbc6f28644e0c37bb3399cf15bd
+212.80.213.159||||||||
 212.80.213.160||||||||
 212.80.213.161||||||||
 212.80.213.162||||||||
@@ -2785,6 +2784,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 213.246.45.180||||||||
 213.246.51.28||||||||
 213.246.51.29||||||||
+213.32.121.16||||||||
 213.32.121.17||||||||
 213.32.121.18||||||||
 213.32.121.19||||||||
@@ -2813,6 +2813,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 217.131.61.221||||||||
 217.164.70.151||||||||
 217.174.49.208:16157||||||||
+217.174.52.191:16147||||||||
 217.182.53.128||||||||
 217.182.53.130||||||||
 217.182.53.131||||||||
@@ -2833,14 +2834,17 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 218.215.241.68||||||||
 219.75.19.0||||||||
 219.79.100.44||||||||
+220.129.74.6||||||||
+220.129.74.6:16137||||||||
 220.129.90.58||||||||
 220.129.94.240||||||||
 220.129.94.240:16137||||||||
-220.129.94.240:16147|3462|220.129.0.0/16|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW|t1egKh8v6JMm9LeFkBYnge7ax4KcU3nkUKC|04259c0f924c1069476a41c13afa2433aaa391541bd9ae672be8180327237dc18bfb24482ad998a0837ee776a5f12e5011b416cfdb0b05c1a376a6f2004c7b7c98
+220.129.94.240:16147||||||||
 220.129.94.240:16157||||||||
 220.129.94.240:16167||||||||
 220.129.94.240:16177||||||||
 220.129.94.240:16187||||||||
+220.129.94.240:16197||||||||
 220.253.109.11||||||||
 220.255.76.246||||||||
 221.148.159.201||||||||
@@ -2867,7 +2871,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 23.175.49.234||||||||
 23.198.17.76||||||||
 23.227.173.135||||||||
-23.227.173.15||||||||
+23.227.173.15|29802|23.227.173.0/24|US|arin|2013-09-23|HVC-AS, US|t1VXMTF9roHHMiVd5gXBX5JcLtB9EKbfRwE|043d191972eda72cc0b028ddfaaf8de5d0487d5e90a092161b69e92ca8adfcc00f35bbfc581d19feba6da8dc9c503fd6313962c33ae788027cef8f395dda8b141a
 23.227.173.171||||||||
 23.227.173.21||||||||
 23.227.173.238||||||||
@@ -2938,6 +2942,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 27.32.222.120||||||||
 27.58.60.252:16157||||||||
 3.17.144.27||||||||
+3.85.112.212||||||||
 31.13.184.57||||||||
 31.145.161.44||||||||
 31.145.29.243||||||||
@@ -3177,7 +3182,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 35.208.241.219||||||||
 35.208.245.119||||||||
 35.208.249.110||||||||
-35.208.26.127|15169|35.208.0.0/15|US|arin|2017-09-29|GOOGLE, US|t1HvtcBNJp9pFsTWVU9iM7ZMAFZEDMrtyPe|0430a83b5136ab796548a6c6f9a5b0929090bebab303734578ba13892dc17662b25f48f092173c2e095b59b8be99ccade754c4513e2a525b19d243f863fd4f91ef
+35.208.26.127||||||||
 35.208.27.79||||||||
 35.208.33.187||||||||
 35.208.41.196||||||||
@@ -3229,7 +3234,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 35.212.180.168||||||||
 35.212.188.160||||||||
 35.212.198.219||||||||
-35.212.204.175|15169|35.212.128.0/17|US|arin|2017-09-29|GOOGLE, US|t1HvtcBNJp9pFsTWVU9iM7ZMAFZEDMrtyPe|0430a83b5136ab796548a6c6f9a5b0929090bebab303734578ba13892dc17662b25f48f092173c2e095b59b8be99ccade754c4513e2a525b19d243f863fd4f91ef
+35.212.204.175||||||||
 35.212.215.166||||||||
 35.212.239.151||||||||
 35.212.250.11||||||||
@@ -3473,9 +3478,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.120.178.176||||||||
 37.120.178.188||||||||
 37.120.178.194||||||||
-37.120.178.195|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE|t1KAEXQwpUANaabFLfbeVtSxG5y4icA5gjt|0484dcc51abe9427dd09043ab218355df91273dc14e2f8fc53188c8720088b1dee44b739d2f24cb17de274e3475f0678882dd892b4c5099d5394915470d25072d8
+37.120.178.195||||||||
 37.120.178.209||||||||
-37.120.178.22|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE|t1XcsGqdoXgR2rynqTC7b8epdSNQQNLYGRh|0404f3cd68491cc938b29dafca2320576c8154a671f9ddf71f5aff756ac1f5f654424d17ae249906b2d1936fdf83e5c5a342d4581b3d6dffae8a085f89b2f30528
+37.120.178.22||||||||
 37.120.178.222||||||||
 37.120.178.36||||||||
 37.120.178.50||||||||
@@ -3522,7 +3527,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.120.189.13||||||||
 37.120.189.160||||||||
 37.120.189.215||||||||
-37.120.189.221||||||||
+37.120.189.221|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE|t1gSGpq7GpmpRnK4vPCpHun4HJ42HnwxGni|04adc878ca363594c5f82704e7a877d96a64549c0642eadc399ed4061574adfccc75869c5b33287e8abfb854ea1a4f7b8f27af3ba0480006a3d14aaf0e94fafb2d
 37.120.189.231||||||||
 37.120.189.232||||||||
 37.120.189.3||||||||
@@ -3565,6 +3570,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.148.198.113||||||||
 37.148.198.114||||||||
 37.148.198.115||||||||
+37.148.198.116||||||||
 37.148.198.97||||||||
 37.148.198.98||||||||
 37.148.198.99||||||||
@@ -3590,7 +3596,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.187.95.131||||||||
 37.187.95.134||||||||
 37.187.95.142||||||||
-37.187.95.151|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR|t1dVuM5X3nSD1L4ErAsQkFuupL6uiZJ42tg|046ff5b75fdce85ce9e05d6070c518e76b198ed4e2925278f150dd7a0ad7496eee1efbed28b6765db08974e1feb23e6a00d2e29919c94e75b789e50e2b4f52c50a
+37.187.95.151||||||||
 37.187.95.157||||||||
 37.187.95.161||||||||
 37.187.95.166||||||||
@@ -3607,6 +3613,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.187.95.86||||||||
 37.201.150.20||||||||
 37.201.150.20:16137||||||||
+37.201.150.20:16147||||||||
 37.221.192.109||||||||
 37.221.192.155||||||||
 37.221.192.17||||||||
@@ -3672,6 +3679,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 37.221.197.118||||||||
 37.221.197.152||||||||
 37.221.197.17||||||||
+37.221.197.177||||||||
 37.221.197.179||||||||
 37.221.197.18||||||||
 37.221.197.199||||||||
@@ -3731,7 +3739,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 38.242.197.172||||||||
 38.242.197.194||||||||
 38.242.197.204||||||||
-38.242.198.172||||||||
 38.242.199.182||||||||
 38.242.199.22||||||||
 38.242.200.12||||||||
@@ -3850,6 +3857,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 38.242.231.235||||||||
 38.242.231.58||||||||
 38.242.232.12||||||||
+38.242.232.215||||||||
 38.242.232.233||||||||
 38.242.232.235||||||||
 38.242.232.236||||||||
@@ -4005,7 +4013,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 38.88.125.38||||||||
 38.88.125.39||||||||
 38.88.125.40||||||||
-38.88.125.42||||||||
+38.88.125.42|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA|t1Nadzj8RYqJzNC3EmXWPuG7abijX9DhZ5f|047424baaacd862655c68836ad29d58ae3c7c7f064990677bf41681f64722a4cdc117267ff348064917c3e486fcc72bbda63f9e2664cda0649df066b8627735300
 38.88.125.50||||||||
 38.88.125.51||||||||
 38.88.125.52||||||||
@@ -4274,17 +4282,14 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 46.102.156.7||||||||
 46.105.149.212||||||||
 46.105.46.11||||||||
-46.105.52.106|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR|t1aMapSn3aKGUm6Xv1pGhRheGooYgpf5vcQ|04f0511aeb4b54eba1db2025568af2e435134701c5a0585508bbabaff1bd38edd6301d5eb241456bb379186c9aa98995575a39b6bf3550cd064e524059e38c34c7
+46.105.52.106||||||||
 46.105.53.161||||||||
 46.105.99.186||||||||
-46.173.134.100||||||||
-46.173.134.109||||||||
 46.173.134.119||||||||
 46.173.134.135||||||||
 46.173.134.156||||||||
 46.173.134.162||||||||
 46.173.134.191||||||||
-46.173.134.223||||||||
 46.173.134.235||||||||
 46.173.134.248||||||||
 46.38.232.102||||||||
@@ -4400,7 +4405,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 46.38.240.98||||||||
 46.38.241.110||||||||
 46.38.241.115||||||||
-46.38.241.12|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE|t1RDV7LA1rvFuY5R1Etvkpk4UkVv2aQzEWr|04211f04e669caf4fae9075353f221a68897a0b38a53b1a9a8a315150719739f6115774ee0785db95550ba499e72b84b02ae483088e63202bd0782a5add14f6eb1
+46.38.241.12||||||||
 46.38.241.148||||||||
 46.38.241.209||||||||
 46.38.241.217||||||||
@@ -4735,7 +4740,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.161.80.98||||||||
 5.161.81.149||||||||
 5.161.81.166||||||||
-5.161.81.240|213230|5.161.0.0/16|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE|t1R3p2TiRnDYeWaftCmTHf2rpvP9ehqMmRk|04293c7a647d6edff71ef658de096ee431d536660a01e1d26200053b1dd916b81042ab52945cfbc97219a8aeaed5b23be85b505d923a4e4af302502ec0806d662a
+5.161.81.240||||||||
 5.161.81.26||||||||
 5.161.81.38||||||||
 5.161.81.49||||||||
@@ -4773,6 +4778,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.161.85.173||||||||
 5.161.85.192||||||||
 5.161.85.239||||||||
+5.161.85.244||||||||
 5.161.85.36||||||||
 5.161.85.40||||||||
 5.161.85.48||||||||
@@ -4867,6 +4873,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.161.92.2||||||||
 5.161.92.202||||||||
 5.161.92.21||||||||
+5.161.92.215||||||||
 5.161.92.228||||||||
 5.161.92.237||||||||
 5.161.92.34||||||||
@@ -4889,7 +4896,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.161.93.6||||||||
 5.161.93.66||||||||
 5.161.94.0||||||||
+5.161.94.120||||||||
 5.161.94.188||||||||
+5.161.94.196||||||||
 5.161.94.2||||||||
 5.161.94.33||||||||
 5.161.94.48||||||||
@@ -4901,7 +4910,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.182.17.242||||||||
 5.189.136.54||||||||
 5.189.147.198||||||||
-5.189.160.150||||||||
 5.189.186.172||||||||
 5.189.188.239||||||||
 5.189.19.249||||||||
@@ -4919,7 +4927,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.196.148.228||||||||
 5.196.148.229||||||||
 5.196.148.230||||||||
-5.196.38.0||||||||
 5.196.38.1||||||||
 5.196.38.2||||||||
 5.196.38.4||||||||
@@ -4955,7 +4962,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.45.108.179||||||||
 5.45.108.205||||||||
 5.45.108.236||||||||
-5.45.108.248||||||||
 5.45.108.252||||||||
 5.45.109.11||||||||
 5.45.109.125||||||||
@@ -4964,7 +4970,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 5.45.109.188||||||||
 5.45.109.221||||||||
 5.45.109.32||||||||
-5.45.109.60|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE|t1TKAxd1uGeXBm8yvepoh9976ix1Wa7zwPC|048866fe7f2e135b70cc52fc4452bd97b112191a5eadb30a2ed506f7c56b8ddba7bfc5a51df2269b0d72226b22e55fa7b263bef69471f979d9fe6f073de9c740de
+5.45.109.60||||||||
 5.45.109.67||||||||
 5.45.109.86||||||||
 5.45.110.122||||||||
@@ -5087,11 +5093,14 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 51.68.119.203||||||||
 51.77.116.79||||||||
 51.83.130.231||||||||
+51.89.191.232||||||||
+51.89.208.101||||||||
+51.89.208.102||||||||
+51.89.208.103||||||||
 51.89.208.96||||||||
 51.89.208.97||||||||
 51.89.208.98||||||||
 51.89.208.99||||||||
-52.1.179.163||||||||
 54.36.150.188||||||||
 54.36.150.189||||||||
 54.36.150.190||||||||
@@ -5113,7 +5122,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 54.37.170.67||||||||
 54.37.171.140||||||||
 54.37.171.142||||||||
-54.37.171.143||||||||
+54.37.171.143|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR|t1VPWc3pGCuor6inME38m9mf7RYkSJfdZp2|042ee2a16e9a5c591a2e672b534bc64edfd90362c883eb9971014fad4d84ff68c7343d248ea914fec729d441216834b5d69cb14a83ffc17bb7677544e783761f15
 54.37.209.224||||||||
 54.37.209.225||||||||
 54.37.209.226||||||||
@@ -5133,13 +5142,14 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 54.38.117.178||||||||
 54.38.117.179||||||||
 54.38.117.180||||||||
+54.38.117.181||||||||
 58.136.73.150||||||||
 58.136.73.150:16137||||||||
 58.136.73.150:16147||||||||
-58.136.73.150:16157|133481|58.136.64.0/20|TH|apnic|2005-05-23|AIS-FIBRE-AS-AP AIS Fibre, TH|t1ahMDyouQ6itmMxZfRm6cZdRMs2N6UstS1|0440c061b782155f08e86d92cbf370e3aa415d956e8a8ad9630fdb7d2bfec3344cb891ec071f6a29bd363c3a10623cf2a8094887b3dad698aad429fe37a73aa660
+58.136.73.150:16157||||||||
 58.84.186.190||||||||
 59.26.38.155||||||||
-60.119.167.91||||||||
+60.119.167.91:16167||||||||
 60.54.45.139||||||||
 61.247.237.56||||||||
 61.247.237.56:16137||||||||
@@ -5356,7 +5366,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.141.78||||||||
 65.108.141.79||||||||
 65.108.142.18||||||||
-65.108.142.194||||||||
+65.108.142.194|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE|t1KucJBaKTRSvxL6DK6M4w7BLzabB4sSCEb|044331b52def3489a097df00b7502fda1362fa74c9525c3f01232a74c0c1af3d051446343cb9be92ec2c412f54a6e11413c806af557e60cdcef4b8c8ce9d63ee71
 65.108.142.194:16137||||||||
 65.108.142.198||||||||
 65.108.142.220||||||||
@@ -5393,6 +5403,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.145.96||||||||
 65.108.146.154||||||||
 65.108.146.45||||||||
+65.108.147.82||||||||
 65.108.148.23||||||||
 65.108.149.117||||||||
 65.108.149.139||||||||
@@ -5401,7 +5412,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.151.240||||||||
 65.108.152.165||||||||
 65.108.152.246||||||||
-65.108.152.36||||||||
+65.108.152.36|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE|t1cnS2jS1ewmGtFzem6hqHEu1fw4eKUh2tb|040fb3a13b55489778c640c789a76dcae7db0aee569f8b5a5dec74dc5e82bff05d7bb248004d20602e89467a5c2881efce382d31ae51b0157bf8ae5d39eea8ed96
 65.108.152.39||||||||
 65.108.153.194||||||||
 65.108.153.43||||||||
@@ -5433,7 +5444,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.193.133||||||||
 65.108.193.133:16137||||||||
 65.108.193.133:16147||||||||
-65.108.193.133:16157||||||||
+65.108.193.133:16157|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE|t1RdkProJtdDW3qRzdkj3Spp6HQd6AnmBuY|0483f936802c8fa599087585c014cd0150200ab82bf76037fabdc844969aae59312492e5b801d8b582a8fbcbe98d456f6eab7f28adf60fa795fa111ddcb230135c
 65.108.193.133:16167||||||||
 65.108.193.133:16177||||||||
 65.108.193.135||||||||
@@ -5444,11 +5455,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.193.135:16177||||||||
 65.108.193.135:16187||||||||
 65.108.193.135:16197||||||||
-65.108.193.136:16147||||||||
-65.108.193.136:16157||||||||
-65.108.193.136:16167||||||||
-65.108.193.136:16177||||||||
-65.108.193.136:16187||||||||
 65.108.193.140||||||||
 65.108.193.140:16137||||||||
 65.108.193.140:16147||||||||
@@ -5469,7 +5475,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.193.205:16137||||||||
 65.108.193.89||||||||
 65.108.193.90||||||||
-65.108.194.54||||||||
+65.108.194.54|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE|t1NwdpxLCpX45zPenQqTEpHheiZjoT7rWiw|041706732ef1b0d32ced7256b65fcefa47557365fb91ca7e81a2d605d22ad47f6f27f35ef4150a6bc18553ecf3a4ad66731f560e127fb5762c4056cfe388a02561
 65.108.194.55||||||||
 65.108.194.78||||||||
 65.108.194.81||||||||
@@ -5646,7 +5652,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.108.83.194||||||||
 65.108.83.253||||||||
 65.108.85.112||||||||
-65.108.86.121||||||||
+65.108.86.121|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE|t1WYshC8HuQpMaD1V7ivUkszc29FSearWEp|04861b2d0e4979b81f07767566cdfd245614cf5c86de4c899006494068bea59beef61b3b11dba48eea0904e0647945b008fa89f5ef8fd136fa8cf0e5faf66433da
 65.108.89.101||||||||
 65.108.9.188||||||||
 65.108.90.0||||||||
@@ -5696,7 +5702,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.21.110.46||||||||
 65.21.111.110||||||||
 65.21.111.121||||||||
-65.21.111.80||||||||
 65.21.125.225||||||||
 65.21.126.107||||||||
 65.21.126.107:16137||||||||
@@ -5772,7 +5777,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.21.190.40||||||||
 65.21.191.78||||||||
 65.21.195.101||||||||
-65.21.196.231||||||||
+65.21.196.231|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE|t1NwdpxLCpX45zPenQqTEpHheiZjoT7rWiw|047803b4200dccf13188f0e6e5d3c6d763518adeb808ae8881f1cc794eced3cab85667d80b288c4ecd69e0211cc0569b4bfa0e88966c4bc31029e050bebdac7568
 65.21.196.235||||||||
 65.21.198.107||||||||
 65.21.198.107:16137||||||||
@@ -5789,7 +5794,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 65.21.222.103||||||||
 65.21.222.104||||||||
 65.21.222.105||||||||
-65.21.222.106||||||||
+65.21.222.106|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE|t1cAt7BR6Hj2b1QEUjQriU9ptYsPXGfG4D5|043f183025ff12140fff51c48be7c0eb0ace9fb9822510204d084a027f85e9deab1bbd9ee60313757e54120f9ae161ea2ab0946488d8ea853009ebdbf36e7ade6b
 65.21.222.107||||||||
 65.21.222.98||||||||
 65.21.222.99||||||||
@@ -5899,8 +5904,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 66.119.15.13||||||||
 66.119.15.14||||||||
 66.119.15.15||||||||
-66.119.15.16||||||||
-66.119.15.18||||||||
+66.119.15.16|21737|66.119.0.0/19|US|arin|2001-06-01|SPRINGNET2-NET, US|t1cKLHYGrDdy7pfCBoWqXd2A6LH5eZcMuPS|04ceef8a20c62be6450f1c2edfb691f11725fcf3aaf0e983376b19fea8890a9d877449fb66a6283f5ba3ba6d7b6e0ce807b1146cd4d2ce1858d71c342beda57cd4
+66.119.15.18|21737|66.119.0.0/19|US|arin|2001-06-01|SPRINGNET2-NET, US|t1UL5i2ke2H2CCmaCimWM5xNf97SpcUZy89|04ceef8a20c62be6450f1c2edfb691f11725fcf3aaf0e983376b19fea8890a9d877449fb66a6283f5ba3ba6d7b6e0ce807b1146cd4d2ce1858d71c342beda57cd4
 66.119.15.19||||||||
 66.119.15.20||||||||
 66.119.15.21||||||||
@@ -5908,7 +5913,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 66.119.15.216||||||||
 66.119.15.217||||||||
 66.119.15.218||||||||
-66.119.15.219||||||||
+66.119.15.219|21737|66.119.0.0/19|US|arin|2001-06-01|SPRINGNET2-NET, US|t1J8kGnSGRu6jW1o9mLFz8QJNj4Y58DvSMu|04b53323066d8e19f6cffb7cf26b0be557d6b2b1327ee9a29b7715826976bc78e585766708dc310b537749d8501e78849801801de749d2de47b3826f79c7e3394f
 66.119.15.22||||||||
 66.119.15.220||||||||
 66.119.15.222||||||||
@@ -5918,7 +5923,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 66.119.15.26||||||||
 66.119.15.27||||||||
 66.119.15.28||||||||
-66.119.15.29||||||||
+66.119.15.29|21737|66.119.0.0/19|US|arin|2001-06-01|SPRINGNET2-NET, US|t1LMmcJZZ7LaKz9K4gxXLSUkekMiUNQLmKV|04f5d09cc7bd5679b684ed5dd48112ec9199d38b6b7db4a141c4570d1be71bead9cf4187c01ac6e517ece56f139d508a286d0f8c8fee20f0f66e07fe91a4529671
 66.119.15.30||||||||
 66.119.15.32||||||||
 66.119.15.33||||||||
@@ -6016,8 +6021,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 66.94.121.17||||||||
 66.94.121.19||||||||
 66.94.121.24||||||||
-66.94.121.49||||||||
-66.94.121.5||||||||
 66.94.121.6||||||||
 66.94.121.74||||||||
 66.94.121.82||||||||
@@ -6244,7 +6247,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 71.75.207.244||||||||
 71.75.228.107||||||||
 71.86.134.190||||||||
-71.87.208.221:16187|20115|71.87.208.0/20|US|arin|2005-05-19|CHARTER-20115, US|t1fFuv3DUPxwDGczdfaKhUBsL4dM7hA1Ki6|04a11ed9972e09937aeace9faa5c3e687e5aeec93b5571dd5decc8f29a671969e6cdf17c59275a5c4c0bb127e24b2a204b28d32afeb4be872503e12c188720be10
+71.87.208.221:16187||||||||
 71.87.208.221:16197||||||||
 71.92.216.133:16137||||||||
 71.92.216.133:16167||||||||
@@ -6287,7 +6290,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 73.158.238.182||||||||
 73.164.107.164||||||||
 73.174.215.104||||||||
-73.188.2.181||||||||
+73.188.2.181|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US|t1hBSkmSQkGtT6BbQ6uhHzkGa7Do5rTPtge|044795158a0f75d1bd4786f5d8bc54577dc4d12e589596f087f667586523f5793f8f7e323595673d067efbc5cd057e7b1279fdda353c0f659454393e3ccbdb54f0
 73.198.123.143||||||||
 73.211.140.113||||||||
 73.214.153.121||||||||
@@ -6296,7 +6299,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 73.226.136.21||||||||
 73.226.136.21:16137||||||||
 73.226.136.21:16147||||||||
-73.229.86.154||||||||
+73.229.86.154|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US|t1f39Ch4t7HFTJMGZahddNcbybdhu5KPZy5|04d52eca636b0960eba823566b94604f1b506d9dff5437eb81ca035c99a69b8b732112fe48bf94f5c7c3a6a41a66f2e1883f3c4d5b91982faefef17e2fc8b4ff44
 73.232.146.33||||||||
 73.233.119.93||||||||
 73.236.233.53||||||||
@@ -6336,7 +6339,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 74.142.7.122||||||||
 74.142.7.123||||||||
 74.142.7.124||||||||
-74.142.7.124:16137||||||||
+74.142.7.125||||||||
 74.142.7.126||||||||
 74.208.121.167||||||||
 74.57.16.20:16137||||||||
@@ -6345,9 +6348,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 74.57.36.185:16197||||||||
 74.57.74.166||||||||
 74.80.195.10||||||||
-74.80.195.11||||||||
 74.88.23.164||||||||
-75.10.171.16||||||||
+75.10.171.16|7018|75.8.0.0/13|US|arin|2006-02-28|ATT-INTERNET4, US|t1HsoeVcbgwnocYVftpnWXW1m9f33bJaX6F|04ff9fbdefc88a99a6fcb0be3856a621e890eff044a113edfdd2fd42e837cf322c5342d0aa8b3b49258a32760f8e0431b8758ed730ab1ca31dbe54b9e213c02521
 75.115.53.129||||||||
 75.118.155.124||||||||
 75.119.128.212||||||||
@@ -6511,7 +6513,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 77.201.74.4||||||||
 77.201.74.4:16137||||||||
 77.23.130.40||||||||
-77.249.219.48||||||||
+77.249.219.48|33915|77.248.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL|t1SAygyC6ELf9aMx51QgXh6nTy8dHZnoozb|044d3820276226bfc3a7dc6ebfc4623426e3c34eb23d9c8295d04087e03e2eebf9f7a3fc20b28346c6827837a763669c0afe133157aaf0c8f755138fb797974780
 77.33.132.196||||||||
 77.34.74.115||||||||
 77.34.74.115:16137||||||||
@@ -6543,6 +6545,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 78.193.156.88:16177||||||||
 78.193.156.88:16187||||||||
 78.210.48.116||||||||
+78.218.71.47||||||||
 78.239.81.65||||||||
 78.239.81.65:16147||||||||
 78.26.16.131||||||||
@@ -6562,8 +6565,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 78.47.198.227||||||||
 78.47.246.38||||||||
 78.47.37.15||||||||
-78.47.79.172|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE|t1fbjpyCvEqjWocLAXy6e8oPpheeqVX3GqR|043f00fd53a85099c7c600aa4565329c49613a2ea07fab02ec4c60f3acc7f5ed73e5264a25a3feae0bb7156cc1803f359415d0adc705da80e4a97304a7f4412c9f
+78.47.79.172||||||||
 78.47.81.211||||||||
+78.47.85.193||||||||
 78.47.89.31||||||||
 78.47.90.190||||||||
 78.47.99.80||||||||
@@ -6614,7 +6618,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 81.169.177.63||||||||
 81.169.223.165||||||||
 81.169.237.23||||||||
-81.169.239.155||||||||
+81.169.239.155|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE|t1PScjNTAcT27CqSG2yzNtABQhkFoc4MkAW|04a2b59c24baa993d0eac9e30fa0cd808f46e7816c854c43426c743d1878d6ce51e5a3feeead48d7709ec12a3bbb8d6c544bd7b6dbce7c0e10d23218e5081c9690
 81.226.90.172||||||||
 81.249.0.106||||||||
 81.249.0.106:16147||||||||
@@ -6635,7 +6639,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 82.135.241.163||||||||
 82.146.65.124||||||||
 82.158.248.80||||||||
-82.165.32.238||||||||
 82.166.87.153||||||||
 82.202.163.33||||||||
 82.208.150.237||||||||
@@ -6741,6 +6744,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 84.77.69.203||||||||
 84.83.67.101||||||||
 84.85.48.154||||||||
+84.97.92.176||||||||
 85.1.60.164||||||||
 85.116.124.138||||||||
 85.144.9.113||||||||
@@ -6767,7 +6771,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 85.240.254.144:16137||||||||
 85.240.254.144:16147||||||||
 85.240.254.144:16157||||||||
-85.240.254.144:16167||||||||
+85.240.254.144:16167|3243|85.240.0.0/13|PT|ripencc|2004-01-03|MEO-RESIDENCIAL, PT|t1a7jWp5uy6SZwApWt9XB4gKjQmwzxGqwdq|045964031bb8818521b99f16d2614f1bc8a9968184c9c38dc09cf95b744dae0f603ff3bbecc7845d952901ebabeb343cdcde3c4325274901768dfb102b9a34f5d6
 85.240.254.144:16177||||||||
 85.240.254.144:16187||||||||
 85.240.254.144:16197||||||||
@@ -6775,7 +6779,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 85.247.154.33||||||||
 85.247.154.33:16137||||||||
 85.247.253.140||||||||
-85.25.141.38||||||||
 85.3.15.87||||||||
 85.49.210.36||||||||
 85.75.251.101||||||||
@@ -7052,7 +7055,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 89.58.28.116||||||||
 89.58.28.156||||||||
 89.58.28.160||||||||
-89.58.28.201||||||||
+89.58.28.201|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE|t1RER1cRrtJpHPiM3dwFJutw2wTFaA67A6r|045718efac44fd82777e6e7fd172d9618d6ffd1111290e47b3a847a78242f6d84d68d01e2d2b05189cdb9d700bbb5d8dc85d49ae3687a34e80e7f91f4fe9ed3f65
 89.58.28.209||||||||
 89.58.28.228||||||||
 89.58.28.249||||||||
@@ -7443,6 +7446,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 89.58.40.68||||||||
 89.58.40.69||||||||
 89.58.40.77||||||||
+89.58.40.89||||||||
 89.58.40.91||||||||
 89.58.41.1||||||||
 89.58.41.105||||||||
@@ -7545,7 +7549,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 89.58.42.214||||||||
 89.58.42.216||||||||
 89.58.42.222||||||||
-89.58.42.223|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE|t1QfKwkbYQwCQjczuzgXPWvpXVdnVXi7np1|04cf3a91f9cca1f0b3464389073f45b41f6778351850e4eba797ffd16fa0e51729f1362d6adc0d992a221a8a11688a421de2fbf184a453cd75ef12e62b8aa06d6a
+89.58.42.223||||||||
 89.58.42.224||||||||
 89.58.42.225||||||||
 89.58.42.228||||||||
@@ -7584,7 +7588,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 89.58.43.124||||||||
 89.58.43.128||||||||
 89.58.43.13||||||||
-89.58.43.133|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE|t1Z1d2Dfy8DT3PaiXvHAa11gYAqNmmM9TJH|0469c3e9304f7f3c593473e366cd90a39121087478c857a4b315b44da3e5633307694fed65bc50f5fad8517be726c838aed5babfa898a108b1dc1a94852d282a0d
+89.58.43.133||||||||
 89.58.43.136||||||||
 89.58.43.137||||||||
 89.58.43.14||||||||
@@ -7695,7 +7699,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 89.58.6.135||||||||
 89.58.6.144||||||||
 89.58.6.146||||||||
-89.58.6.147|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE|t1RxLDRdx4zighNdbdxXPFKugPiCtEKLQhH|041be31cb5c9709496b0f1677f080bbe806bf244f57679e84228315a53c2c2d610c003011912053603b3c3df93f4a06787f052de29f3c6db8382289d7cdd9646de
+89.58.6.147||||||||
 89.58.6.154||||||||
 89.58.6.170||||||||
 89.58.6.174||||||||
@@ -7814,7 +7818,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 90.95.49.226||||||||
 91.11.85.129||||||||
 91.11.85.129:16147||||||||
-91.134.150.184||||||||
 91.134.150.185||||||||
 91.134.150.186||||||||
 91.134.150.187||||||||
@@ -7859,11 +7862,13 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 92.169.139.213||||||||
 92.169.139.213:16137||||||||
 92.169.189.229||||||||
+92.170.230.134||||||||
 92.188.154.109||||||||
 92.220.12.59||||||||
 92.220.12.59:16157||||||||
 92.220.12.59:16167||||||||
 92.222.144.176||||||||
+92.222.144.177||||||||
 92.222.144.178||||||||
 92.222.144.179||||||||
 92.222.144.180||||||||
@@ -7912,7 +7917,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 92.240.66.183||||||||
 92.240.66.184||||||||
 92.240.66.185||||||||
-92.240.66.186||||||||
+92.240.66.186|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV|t1ez8QT99x2jsiiQwhbN5refEWf8uMBxY8S|04217f0c4d69bcee0a4eff4ee35d1d14a4ec00f1ae2252c5af025606c2ec7b978a680398fa0904a45b7b6f647e48a06126825564edc3d1853dfbeeb909e1c61ed3
 92.240.66.187||||||||
 92.240.66.188||||||||
 92.240.66.189||||||||
@@ -8001,7 +8006,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 94.16.111.227||||||||
 94.16.111.37||||||||
 94.16.111.99||||||||
-94.190.13.224:16157||||||||
+94.190.13.224:16157|48524|94.190.0.0/18|RU|ripencc|2008-08-21|INTERRA-AS at Pervouralsk Bilimbay, Severka, Sredneuralsk, Revda Degtyarsk, Kachkanar, Lesnoy N.Tura, Polevskoy, Krasnoufimsk, Asbest cities of Sverdlovsk reg, RU|t1UejVzWhWPsBjWYWoVQk2cWaPfqPGCojKd|04d0b70f08130ccdbc1d9b19e0ddeb8ad479734d33af9717f6c7f9b4e2b86a1cf8ff012ee8e14ddaffb56f585ad36f4e8b4af7ca7393f8f8080bd1b459bf0dae9f
 94.190.13.224:16177||||||||
 94.21.173.100||||||||
 94.211.41.69||||||||
@@ -8038,7 +8043,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 95.111.255.69||||||||
 95.154.66.18||||||||
 95.165.7.226||||||||
-95.165.7.226:16137||||||||
+95.165.7.226:16137|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU|t1gpM4ewPLsiJ2Gu19ww7fYXZrVdxdK8dta|04b8b66d0751836f91f7402496f8e0bfcad2b24b0bdeace75f69813183c505f22ef796b0da800ea56b933c77faec73381c288ce34210fb5cfbaa6bfba842c7ed93
 95.165.7.226:16147||||||||
 95.165.7.226:16157||||||||
 95.165.7.226:16167||||||||
@@ -8084,6 +8089,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 95.214.55.252||||||||
 95.214.55.93||||||||
 95.216.10.239||||||||
+95.216.100.226||||||||
 95.216.110.49||||||||
 95.216.110.50||||||||
 95.216.112.226||||||||
@@ -8144,6 +8150,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 95.216.188.239||||||||
 95.216.190.178||||||||
 95.216.196.41||||||||
+95.216.2.48||||||||
 95.216.210.32||||||||
 95.216.214.19||||||||
 95.216.216.216||||||||
@@ -8197,7 +8204,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Payment Address|Publice 
 95.216.80.123||||||||
 95.216.80.124||||||||
 95.216.80.125||||||||
-95.216.80.98||||||||
+95.216.80.98|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE|t1K3Ru9RA9BbN9xBdzfbcUU9ktYeafvnadb|04122637a3aba88abef5321c2a031ed66521894a9f1f488a59afd19cac681fb76200b15891c85c2341eaf72f6b54bc1c077c6a1ce88504414af933fbec6e303755
 95.216.80.99||||||||
 95.216.9.121||||||||
 95.216.91.20||||||||
