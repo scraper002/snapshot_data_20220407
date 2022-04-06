@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.13.171.254|/Feathercoin:0.19.1/|70016|45090|1.13.128.0/18|CN|apnic|2010-05-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 104.238.221.41|Feathercoin:0.19.1|70016|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 122.59.11.201|/Feathercoin:0.19.1/|70016|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
-13.209.60.161|/Feathercoin:0.19.1/|70016||||||
+13.209.60.161|/Feathercoin:0.19.1/|70016|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
 131.100.91.233|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006|61481|131.100.91.0/24|AR|lacnic|2014-08-12|COOPERATIVA DE O. S. P. S. V. EL BOLSON, AR
 139.162.216.67|/Feathercoin:0.19.1/|70016|63949|139.162.192.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.59.154.236|/Feathercoin:0.19.1/|70016|14061|139.59.128.0/19|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -14,12 +14,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 147.135.97.55|/Feathercoin:0.18.3/|70016|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 148.59.149.52|/Feathercoin:0.18.2/|70016|396477|148.59.149.0/24|CA|arin|2017-08-01|DNSNETWORKS, CA
 149.202.78.163|/Feathercoin:0.19.1/|70016|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
-149.56.155.28|/Feathercoin:0.19.1/|70016||||||
+149.56.155.28|/Feathercoin:0.19.1/|70016|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 159.69.64.208|/Feathercoin:0.19.1/|70016|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 161.97.172.98|/Feathercoin:0.19.1/|70016|51167|161.97.160.0/20|DE|ripencc|1992-06-23|CONTABO, DE
 172.81.182.145|/Feathercoin:0.16.3/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
 173.35.20.243|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006|812|173.32.0.0/14|CA|arin|2008-08-06|ROGERS-COMMUNICATIONS, CA
-173.56.235.225|/Feathercoin:0.18.2/|70016||||||
+173.56.235.225|/Feathercoin:0.18.2/|70016|701|173.56.0.0/16|US|arin|2008-10-09|UUNET, US
 175.27.231.253|/Feathercoin:0.19.1/|70016|45090|175.27.192.0/18|CN|apnic|2009-12-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 176.9.50.227|/Feathercoin:0.17.0/|70016|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 178.18.247.153|/Feathercoin:0.19.1/|70016|51167|178.18.240.0/20|DE|ripencc|2010-04-27|CONTABO, DE
@@ -33,7 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.227.187|/Feathercoin:0.19.1/|70016|14061|188.166.224.0/20|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.72.211|/Feathercoin:0.18.3/|70016|14061|188.166.64.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 190.96.1.19|/Feathercoin:0.18.2/|70016|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
-192.119.13.171|/Feathercoin:0.18.2/|70016||||||
+192.119.13.171|/Feathercoin:0.18.2/|70016|55081|192.119.8.0/21|US|arin|2013-02-01|24SHELLS, US
 193.40.103.252|/Feathercoin:0.19.1/|70016|3221|193.40.0.0/16|EE|ripencc|1995-03-15|EENET-AS, EE
 194.124.156.44|/Feathercoin:0.19.1/|70016|51934|194.124.156.0/23|CH|ripencc|1993-09-01|SIAG-AS, CH
 195.201.160.242|/Feathercoin:0.19.1/|70016|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
@@ -88,7 +88,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.19.25.38|/Feathercoin:0.19.1/|70016|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 85.218.65.172|/Feathercoin:0.19.1/|70016|34781|85.218.0.0/17|CH|ripencc|2005-01-25|SIL-CITYCABLE-AS, CH
 85.249.44.115|/Feathercoin:0.19.1/|70016|8402|85.249.32.0/19|RU|ripencc|2005-01-24|CORBINA-AS OJSC Vimpelcom, RU
-86.167.107.126|/Feathercoin:0.19.1/|70016||||||
+86.167.107.126|/Feathercoin:0.19.1/|70016|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.139.255.26|/Feathercoin:0.19.1/|70016|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 91.43.157.254|/Feathercoin:0.13.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 94.130.35.94|/Feathercoin:0.19.1/|70016|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
