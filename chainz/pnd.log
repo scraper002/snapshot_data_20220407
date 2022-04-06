@@ -2,7 +2,6 @@
 # PandaCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.10.130.22|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|23969|1.10.130.0/24|TH|apnic|2011-04-08|TOT-NET TOT Public Company Limited, TH
-1.46.138.2|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|24378|1.46.136.0/21|TH|apnic|2010-05-26|ENGTAC-AS-TH-AP Total Access Communication PLC., TH
 110.170.117.110|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7470|110.170.96.0/19|TH|apnic|2009-04-23|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 113.234.217.71|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|4837|113.224.0.0/12|CN|apnic|2008-12-08|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 122.245.57.18|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|4134|122.240.0.0/13|CN|apnic|2006-11-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -20,8 +19,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.58.123.119|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 178.176.218.111|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|31163|178.176.218.0/24|RU|ripencc|2010-01-22|MF-KAVKAZ-AS, RU
 184.22.119.46|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|133481|184.22.116.0/22|TH|apnic|2001-11-01|AIS-FIBRE-AS-AP AIS Fibre, TH
-185.129.62.62|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|57860|185.129.62.0/23|DK|ripencc|2015-11-30|ZENCURITY-NET, DK
+185.100.87.174|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|200651|185.100.87.0/24|SC|ripencc|2015-05-15|FLOKINET, SC
 185.220.100.241|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
+185.220.100.242|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.246|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.248|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.252|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
@@ -37,7 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.79.102.49|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|12479|188.79.100.0/22|ES|ripencc|2011-01-04|UNI2-AS, ES
 189.216.49.39|/Satoshi:0.16.3/Pandacoin:4.9.2/|70015|28548|189.216.48.0/22|MX|lacnic|2007-12-05|Cablevision, S.A. de C.V., MX
 193.218.118.95|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|207656|193.218.118.0/24|FR|ripencc|2019-10-16|EPINATURA, UA
-2.205.40.102|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015||||||
+2.205.40.102|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 213.161.21.113|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|3212|213.161.0.0/19|SI|ripencc|1999-12-23|TELEMACH Broadband Access & Carrier Services, SI
 23.129.64.130|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|396507|23.129.64.0/24|US|arin|2017-07-19|EMERALD-ONION, US
 23.129.64.135|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|396507|23.129.64.0/24|US|arin|2017-07-19|EMERALD-ONION, US
@@ -46,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.79.190.254|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|63949|45.79.176.0/20|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
 47.241.103.99|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|45102|47.241.0.0/17|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 49.237.16.163|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.16.0/22|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
+49.237.22.14|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.22.0/24|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
 49.237.5.211|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.5.0/24|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
 49.237.6.29|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.6.0/24|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
 65.21.152.187|/Satoshi:0.16.3/Pandacoin:4.9.2/|70015|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
@@ -57,6 +58,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.178.61.248|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.100.216.147|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|16086|87.100.128.0/17|FI|ripencc|2005-09-13|DNA, FI
 94.30.19.185|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
-96.86.146.238|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015||||||
+96.86.146.238|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
 98.22.155.153|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7029|98.16.0.0/13|US|arin|2007-02-05|WINDSTREAM, US
 98.51.95.212|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
